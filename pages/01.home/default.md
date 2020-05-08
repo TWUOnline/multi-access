@@ -8,10 +8,7 @@ body_classes: title-center title-h1h2
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="What is Multi-Access Learning"]
-
-[ui-browser address="http://getgrav.org"]
-![](header.png)
-[/ui-browser]
+ # Content
 
 [/ui-tab]
 [ui-tab title="Teaching ONline Efectively"]
