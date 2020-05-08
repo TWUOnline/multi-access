@@ -27,9 +27,10 @@ If we designed for multi-access courses at the beginning, our institutions would
 
 We won’t know when we will be able to reopen for learning on campus again, but that return may not be a uniform pathway for everyone – for both instructors and learners - due to risk assessment for those immunosuppressed, those living with a vulnerable family member, or those international arrivals having to quarantine.
 
+[Learn more about Multi-Access Learning](https://multi-access.twu.ca/info)
 
 [/ui-tab]
-[ui-tab title="Teaching ONline Efectively"]
+[ui-tab title="Teaching ONline Effectively (TOnE)"]
 
 We have developed a mini-course called Teaching ONline Effectively (TOnE) to help you think about and design the scenarios that we will be attending to in the Fall semester.
 
