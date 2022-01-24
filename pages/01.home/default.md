@@ -3,12 +3,20 @@ title: Home
 body_classes: title-center title-h1h2
 ---
 
-# Trinity Western University
-## Multi-Access Learning Hub
+# Online Teaching and Learning
+## Trinity Western University
 
 [ui-tabs position="top-left" active="0" theme="lite"]
-[ui-tab title="What is Multi-Access Learning"]
+[ui-tab title=Online Learning at TWU"]
 
+At Trinity Western University, we strive to "prepare students to deal with complexity, diversity, and change by providing them with a broad knowledge of the wider world and help them to develop transferable intellectual and practical skills" (from [Student Learning Outcomes](https://www.twu.ca/academics/student-learning-outcomes)). In an Online learning environment, how do we do this?
+
+To ensure you have all the tools to guide your students in their learning, the TWU Online Learning Team is here to support you!  On this website, we share resources for designing accessible, engaging, high quality online courses.  We hold professional development workshops, "Teaching Online Effectively (TOne)" throughout the year, as well as individual consultations and support services.
+
+Whether you have a in person class, a flipped model, multi-access course, etc., feel free to browse this site and reach out to our team if you have any questions. (Email: elearning@twu.ca)
+
+
+## What is Multi-Access Learning?
 Traditionally, learning modalities have been presented as a binary of face-to-face or online learning. Blended learning emerged as a term that focused on the consecutive mixing of face-to-face and online modalities. For example ½ of the instructional hours being held face-to-face and the other half being designed for online learning experiences, which were mostly asynchronous, meaning interactions were not happening at the same time.
 
 As communication technologies became more advanced, online interactions started to become more synchronous, which means interactions were happening live, or at the same time. This blurred the boundaries of face-to-face and online modalities. Blended became a term that could not capture all of the interaction designs, so new terms emerged to communicate to remote learners that they, in fact, had a chance to participate fully online, even though the course had a physical presence on campus.
@@ -39,6 +47,12 @@ We have developed a mini-course called Teaching ONline Effectively (TOnE) to hel
 The course is designed intentionally to develop and nurture a Community of Reflection and Practice (CORP) and connect you with colleagues (inside and outside your department) who are working on many of the same issues as you will be. This structure of learning pods is a high impact teaching practice that we hope you will implement in your own courses.
 
 [You are encouraged to view the course materials online](http://multi-access.twu.ca/tone/), as they provide helpful links on course design, assessments, and digital tools, as well as providing an example of a developed online course.
+
+
+[/ui-tab]
+[ui-tab title="Course Design"]
+
+sample text
 
 [/ui-tab]
 [ui-tab title="Other Resources"]
