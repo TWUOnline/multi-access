@@ -13,7 +13,7 @@ At Trinity Western University, we strive to "prepare students to deal with compl
 
 To ensure you have all the tools to guide your students in their learning, the TWU Online Learning Team is here to support you!  On this website, we share resources for designing accessible, engaging, high quality online courses.  We hold professional development workshops, "Teaching Online Effectively (TOne)" throughout the year, as well as individual consultations and support services.
 
-Whether you have a in person class, a flipped model, multi-access course, etc., feel free to browse this site and reach out to our team if you have any questions. (Email: elearning@twu.ca)
+Whether you have a in person class, a flipped model, multi-access course, etc., feel free to browse this site and reach out to our team if you have any questions. (Email: online@twu.ca)
 
 
 ## What is Multi-Access Learning?
