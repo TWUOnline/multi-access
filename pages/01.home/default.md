@@ -3,8 +3,8 @@ title: Home
 body_classes: title-center title-h1h2
 ---
 
-# Trinity Western University
-## Multi-Access Learning Hub
+# Online Teaching and Learning
+## Trinity Western University
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="What is Multi-Access Learning"]
@@ -39,6 +39,12 @@ We have developed a mini-course called Teaching ONline Effectively (TOnE) to hel
 The course is designed intentionally to develop and nurture a Community of Reflection and Practice (CORP) and connect you with colleagues (inside and outside your department) who are working on many of the same issues as you will be. This structure of learning pods is a high impact teaching practice that we hope you will implement in your own courses.
 
 [You are encouraged to view the course materials online](http://multi-access.twu.ca/tone/), as they provide helpful links on course design, assessments, and digital tools, as well as providing an example of a developed online course.
+
+
+[/ui-tab]
+[ui-tab title="Course Design"]
+
+sample text
 
 [/ui-tab]
 [ui-tab title="Other Resources"]
