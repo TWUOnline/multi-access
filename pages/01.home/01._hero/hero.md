@@ -2,7 +2,7 @@
 title: 'Homepage Hero'
 menu: Top
 hero_classes: 'parallax text-light'
-hero_image: mockup-863469_1920.jpg
+hero_image: austin-johnson-MgAHd76_-Eo-unsplash.jpg
 ---
 
 # Online Teaching & Learning
