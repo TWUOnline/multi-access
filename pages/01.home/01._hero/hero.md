@@ -1,5 +1,5 @@
 ---
-title: 'Homepage Hero'
+title: Home
 menu: Top
 hero_classes: 'parallax text-light'
 hero_image: mockup-863469_1920.jpg
