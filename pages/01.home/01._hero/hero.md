@@ -2,8 +2,7 @@
 title: 'Homepage Hero'
 menu: Top
 hero_classes: 'parallax text-light'
-hero_image: header.jpg
-media_order: mockup-863469_1920.jpg
+hero_image: mockup-863469_1920.jpg
 ---
 
 # Online Teaching & Learning
