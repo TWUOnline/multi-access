@@ -1,6 +1,6 @@
 ---
-title: TWU Richmond
-menu: TWU Richmond
+title: 'TWU Richmond'
+menu: 'TWU Richmond'
 class: small
 image_align: right
 ---
