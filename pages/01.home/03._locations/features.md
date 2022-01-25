@@ -5,4 +5,4 @@ class: small
 image_align: left
 ---
 
-# Locations for Fall 2020
+# Teaching Online Effectively (TOnE)
