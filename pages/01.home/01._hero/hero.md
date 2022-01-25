@@ -5,13 +5,11 @@ hero_classes: 'parallax text-light'
 hero_image: header.jpg
 ---
 
-# Trinity Western University
-## GLOBAL
+# Online Teaching and Learning
+## Trinity Western University
 
-### Facilitated Academic Resource (FAR) Centres
+At Trinity Western University, we strive to "prepare students to deal with complexity, diversity, and change by providing them with a broad knowledge of the wider world and help them to develop transferable intellectual and practical skills" (from [Student Learning Outcomes](https://www.twu.ca/academics/student-learning-outcomes)). In an Online learning environment, how do we do this?
 
-TWU GLOBAL is looking for people to live and work in our newest expansion, FAR Centres.
+To ensure you have all the tools to guide your students in their learning, the TWU Online Learning Team is here to support you!  On this website, we share resources for designing accessible, engaging, high quality online courses.  We hold professional development workshops, "Teaching Online Effectively (TOne)" throughout the year, as well as individual consultations and support services.
 
-FAR Centres are TWU micro-campuses located around the globe where GLOBAL Education Facilitators (maybe you!) will coach and facilitate learning experiences for learners taking TWU courses towards TWU degrees!
-
-## [Apply Here](https://workforcenow.adp.com/jobs/apply/posting.html?client=twu&ccId=2462445576_9443&type=MP&lang=en_CA&classes=btn,btn-primary,btn-lg&target=_blank)
+Please feel free to browse this site and reach out to our team if you have any questions. (Email: online@twu.ca)
