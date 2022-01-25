@@ -1,5 +1,5 @@
 ---
-title: 'Stella Maris'
+title: 'TONE Resources'
 menu: Chennai
 image_align: left
 media_order: '20220113_ToneLogo Revamp_logo.png'

@@ -1,9 +1,7 @@
 ---
-
 title: 'Bishop Stuart'
 menu: Mbarara
 image_align: left
-
 ---
 
 ## [Bishop Stuart University](https://bsu.ac.ug)
