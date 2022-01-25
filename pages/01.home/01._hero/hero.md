@@ -3,9 +3,10 @@ title: 'Homepage Hero'
 menu: Top
 hero_classes: 'parallax text-light'
 hero_image: header.jpg
+media_order: mockup-863469_1920.jpg
 ---
 
-# Online Teaching and Learning
+# Online Teaching & Learning
 ## Trinity Western University
 
 At Trinity Western University, we strive to "prepare students to deal with complexity, diversity, and change by providing them with a broad knowledge of the wider world and help them to develop transferable intellectual and practical skills" (from [Student Learning Outcomes](https://www.twu.ca/academics/student-learning-outcomes)). In an Online learning environment, how do we do this?
