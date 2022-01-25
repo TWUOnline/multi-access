@@ -2,11 +2,11 @@
 title: 'Stella Maris'
 menu: Chennai
 image_align: left
+media_order: '20220113_ToneLogo Revamp_logo.png'
 ---
 
-## [Stella Maris College](http://stellamariscollege.edu.in/)
-### Chennai, India
+## TONE Resources
 
-Stella Maris College is an Arts and Sciences College for women in Chennai, southern India. TWU will be offering a one-semester program at Stella Maris in order to prepare graduates to complete their Master of Arts in Leadership in Canada.
+Throughout the year, our Online team offers TOnE workshops to share high impact practices in online teaching.  
 
-[Contact us about this opportunity...](mailto:hr@twu.ca?classes=btn,btn-primary,btn-lg)
+On our TOnE pages, you can view resources and recordings from these sessions to help you think about your course design, assessments, and digital tools.
