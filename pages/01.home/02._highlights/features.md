@@ -19,7 +19,7 @@ features:
         text: 'Discover strategies to measure understanding of course outcomes.'
         url: null
     -
-        icon: 'fa fa-zooms'
+        icon: 'fa fa-zoom'
         header: 'Learning Activities'
         text: 'Find ways to check learners' understanding and provide self-checks.'
         url: null
