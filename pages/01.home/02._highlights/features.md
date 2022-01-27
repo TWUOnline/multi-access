@@ -4,35 +4,46 @@ menu: Highlights
 class: small
 features:
     -
-        icon: 'fa fa-maps'
         header: Course Planning
+        icon: 'far fa-map'
         text: 'Map out your course with our Course Blueprint and find out more about our course design process.'
         url: null
     -
-        icon: 'fa fa-goals'
         header: 'Learning Outcomes'
+        icon: 'fas fa-bullseye'
         text: 'See key tips on writing learning outcomes.'
         url: null
     -
-        icon: 'fa fa-assignment'
         header: 'Assessment'
+        icon: 'fas fa-pencil-alt'
         text: 'Discover strategies to measure understanding of course outcomes.'
         url: null
     -
-        icon: 'fa fa-book'
-        header: 'Resources'
-        text: 'Explore resources for your course, including OER.'
+        header: 'Learning Activities'
+        icon: 'fas fa-user-check'
+        text: 'Find ways to check learners' understanding and provide self-checks'
         url: null
     -
-        icon: 'fa fa-technology'
         header: 'Technology Tools'
+        icon: 'fas fa-laptop-code'
         text: 'See some tips about how to use tech in your course.'
         url: null
     -
-        icon: 'fa fa-clapperboard'
         header: 'Media'
+        icon: 'fas fa-video'
         text: 'Take a look at what our media team can create to support your learners'
         url: null
+    -
+        header: 'Resources'
+        icon: 'fa fa-book'
+        text: 'Explore resources for your course, including OER.'
+        url: null
+    -
+       header: 'Resources'
+       icon: 'fa fa-book'
+       text: 'Explore resources for your course, including OER.'
+       url: null
+   -
 ---
 
 # Course Design Resources
