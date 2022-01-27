@@ -39,11 +39,6 @@ features:
         text: 'Explore resources for your course, including OER.'
         url: null
     -
-       header: 'Resources'
-       icon: 'fa fa-book'
-       text: 'Explore resources for your course, including OER.'
-       url: null
-   -
 ---
 
 # Course Design Resources
