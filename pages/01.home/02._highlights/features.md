@@ -19,11 +19,6 @@ features:
         text: 'Discover strategies to measure understanding of course outcomes.'
         url: null
     -
-        header: 'Learning Activities'
-        icon: 'fas fa-user-check'
-        text: 'Find ways to check learners' understanding and provide self-checks'
-        url: null
-    -
         header: 'Technology Tools'
         icon: 'fas fa-laptop-code'
         text: 'See some tips about how to use tech in your course.'
