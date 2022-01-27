@@ -21,7 +21,7 @@ features:
     -
         icon: 'fa fa-zooms'
         header: 'Learning Activities'
-        text: 'Find ways to check learners' understanding and provide self-checks'
+        text: 'Find ways to check learners' understanding and provide self-checks.'
         url: null
     -
         icon: 'fa fa-book'
