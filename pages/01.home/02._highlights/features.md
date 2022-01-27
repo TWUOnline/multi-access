@@ -20,11 +20,6 @@ features:
         url: null
     -
         icon: 'fa fa-book'
-        header: 'Learning Activities'
-        text: 'Find ways to check learners' understanding and provide self-checks.'
-        url: null
-    -
-        icon: 'fa fa-book'
         header: 'Resources'
         text: 'Explore resources for your course, including OER.'
         url: null
