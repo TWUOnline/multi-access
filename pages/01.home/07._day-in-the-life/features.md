@@ -32,7 +32,7 @@ features:
         header: 'Troubleshooting Technology'
     -
         icon: 'fa fa-book'
-        header: Finding Resources
+        header: Finding Open Educational Resources (OERs)
     -
         icon: 'fa fa-language'
         header: 'Learning New Languages'
