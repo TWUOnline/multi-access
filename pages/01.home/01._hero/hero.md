@@ -8,7 +8,7 @@ hero_image: deskhome_v2.jpg
 # Online Teaching & Learning
 ## Trinity Western University
 
-> At Trinity Western University, we strive to "prepare students to deal with **complexity**, **diversity**, and **change** by providing them with a broad **knowledge** of the wider world and help them to develop transferable intellectual and practical **skills**" (from [Student Learning Outcomes](https://www.twu.ca/academics/student-learning-outcomes)). In an Online learning environment, how do we do this?
+At Trinity Western University, we strive to "prepare students to deal with **complexity**, **diversity**, and **change** by providing them with a broad **knowledge** of the wider world and help them to develop transferable intellectual and practical **skills**" (from [Student Learning Outcomes](https://www.twu.ca/academics/student-learning-outcomes)). In an Online learning environment, how do we do this?
 
 To ensure you have all the tools to guide your students in their learning, the TWU Online Learning Team is here to support you!  On this website, we share resources for designing accessible, engaging, high quality online courses. We hold professional development workshops, "Teaching Online Effectively (TOne)" throughout the year, as well as individual consultations and support services.
 
