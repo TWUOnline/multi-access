@@ -4,8 +4,8 @@ menu: Activities
 class: small
 features:
     -
-        icon: 'fa fa-university'
-        header: 'Supporting TWU''s Mission'
+        icon: 'fas fa-bullseye'
+        header: 'Writing Effective Learning Outcomes'
     -
         icon: 'fa fa-check'
         header: 'Coaching Students'
@@ -25,14 +25,14 @@ features:
         icon: 'fa fa-flag'
         header: 'Representing Canada'
     -
-        icon: 'fa fa-handshake-o'
-        header: 'Building Bridges'
+        icon: 'fas fa-photo-video'
+        header: 'Media'
     -
         icon: 'fa fa-magic'
         header: 'Troubleshooting Technology'
     -
         icon: 'fa fa-book'
-        header: Learning
+        header: Finding Resources
     -
         icon: 'fa fa-language'
         header: 'Learning New Languages'
@@ -53,7 +53,4 @@ features:
         header: Awesomazing
 ---
 
-# A Day in YOUR Life...
-
-
-What will you be doing if you join us in this adventure?
+# You might be interested in...
