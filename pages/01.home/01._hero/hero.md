@@ -2,7 +2,7 @@
 title: Home
 menu: Top
 hero_classes: 'parallax text-light'
-hero_image: laptop-2559958_1920.jpg
+hero_image: deskhome.jpg
 ---
 
 # Online Teaching & Learning
