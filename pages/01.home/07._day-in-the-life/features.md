@@ -2,53 +2,14 @@
 title: 'A Day'
 menu: Activities
 class: small
-show: false
 features:
     -
-        icon: 'fas fa-bullseye'
-        header: 'Writing Effective Learning Outcomes'
+        icon: 'fas fa-face-explode'
+        header: 'Design Wows & Wonders!'
+        text: 'See some course highlights, cool assignment ideas, and other nifty design ideas'
     -
-        icon: 'fa fa-check'
+        icon: 'fa face-explode'
         header: 'Coaching Students'
-    -
-        icon: 'fa fa-users'
-        header: 'Facilitating Interaction'
-    -
-        icon: 'fa fa-sliders'
-        header: 'Personalizing Learning Experiences'
-    -
-        icon: 'fa fa-graduation-cap'
-        header: 'Collaborating with TWU Faculty'
-    -
-        icon: 'fa fa-comments'
-        header: 'Providing Feedback'
-    -
-        icon: 'fa fa-flag'
-        header: 'Representing Canada'
-    -
-        icon: 'fas fa-photo-video'
-        header: 'Media'
-    -
-        icon: 'fa fa-magic'
-        header: 'Troubleshooting Technology'
-    -
-        icon: 'fa fa-book'
-        header: Finding Open Educational Resources (OERs)
-    -
-        icon: 'fa fa-language'
-        header: 'Learning New Languages'
-    -
-        icon: 'fa fa-cubes'
-        header: 'Connecting Ideas'
-    -
-        icon: 'fa fa-image'
-        header: 'Creating Memories'
-    -
-        icon: 'fa fa-bookmark'
-        header: 'Documentating Learning'
-    -
-        icon: 'fa fa-github'
-        header: 'Learning Technology'
     -
         icon: 'fa fa-heart-o'
         header: Awesomazing
