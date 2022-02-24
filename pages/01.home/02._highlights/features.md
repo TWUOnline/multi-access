@@ -5,12 +5,12 @@ class: small
 features:
     -
         icon: 'far fa-map'
-        header: Course Planning
+        header: 'Course Planning'
         url: null
     -
         icon: 'fa fa-pencil'
         header: 'Activities & Assessment'
-        url: null
+        url: 'https://create.twu.ca/coursedesign'
     -
         icon: 'fas fa-laptop-code'
         header: 'Resources & Technology'
@@ -45,7 +45,7 @@ features:
         url: null
     -
         icon: 'fas fa-photo-video'
-        header: 'Media'
+        header: Media
         url: null
     -
         icon: 'fa fa-magic'
@@ -53,7 +53,7 @@ features:
         url: null
     -
         icon: 'fa fa-book'
-        header: Finding Open Educational Resources (OERs)
+        header: 'Finding Open Educational Resources (OERs)'
         url: null
     -
         icon: 'fa fa-language'
@@ -77,9 +77,8 @@ features:
         url: null
     -
         icon: 'fa fa-heart-o'
-        header: Transformative Learning
+        header: 'Transformative Learning'
         url: null
-
 ---
 
 # Course Design Resources
