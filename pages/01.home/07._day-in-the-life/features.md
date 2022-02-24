@@ -2,6 +2,7 @@
 title: 'A Day'
 menu: Activities
 class: small
+show: false
 features:
     -
         icon: 'fas fa-bullseye'

@@ -8,10 +8,10 @@ hero_image: deskhome_v2.jpg
 # Online Teaching & Learning
 ## Trinity Western University
 
-> “When it comes to eLearning, content means everything. If eLearning content is not masterfully designed, all the rest will just go down the drain.” - Christopher Pappas
+> *“When it comes to eLearning, content means everything. If eLearning content is not masterfully designed, all the rest will just go down the drain.” - Christopher Pappas*
 
 
-The TWU Online Learning Team is here to support you and provide all the tools you need to guide your students in their learning,
+The TWU Online Learning Team is here to support you as you guide your students in their learning.
 
 On our website we have resources for designing accessible, engaging, high quality online courses.  We also hold professional development workshops, "Teaching Online Effectively (TOne)" throughout the year, as well as individual consultations and support services.
 
