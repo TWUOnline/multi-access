@@ -8,16 +8,12 @@ features:
         header: Course Planning
         url: null
     -
-        icon: 'fas fa-pencil-alt'
+        icon: 'fa fa-pencil'
         header: 'Activities & Assessment'
         url: null
     -
         icon: 'fas fa-laptop-code'
         header: 'Resources & Technology'
-        url: null
-    -
-        icon: '...'
-        header: '...'
         url: null
     -
         icon: 'fas fa-bullseye'
