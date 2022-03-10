@@ -82,6 +82,31 @@ One strategy we use before getting into the details of a course is identifying t
 
 ![alt-text](big_ideas_los.png "Big ideas template")
 
+or use...
+
+Big Ideas
+---------
+
+The first part of the blueprint asks you to identify 1-2 ideas and a few essential questions
+that will serve as the narrative frame or the “hook” for your course. You might
+think of a big idea as a subtitle or unifying theme for your course.
+
+| **Big Idea \#1** |   |
+|------------------|---|
+| **Big Idea \#2** |   |
+
+Essential Questions
+-------------------
+
+What are the big problems in your field? How does your field intersect with
+culture? What are some common misconceptions?
+
+| **Essential Question \#1** |   |
+|----------------------------|---|
+| **Essential Question \#2** |   |
+| **Essential Question \#3** |   |
+
+
 ##### STEP 2: Course Description
 Next, we have a look at the course description.  Note that if there are any changes, these need to be approved by Senate.  
 
@@ -90,7 +115,18 @@ Third, we identify the learning outcomes we want students to understand. Learnin
 
 It is crucial to have measurable learning outcomes listed on the course outline, as they communicate expectations to the learner and help guide the instructor.  
 
-Note that for each course learning outcome, we need to identify the [TWU Student Learning Outcome](https://www.twu.ca/academics/student-learning-outcomes) it addresses as well.
+Note that for each course learning outcome, we need to identify the [TWU Student Learning Outcome](https://www.twu.ca/academics/student-learning-outcomes) it addresses as well.  In this part of the blueprint we ask you to categorize your learning outcomes, and begin to think of possible learning artifacts, or evidence of learning.
+
+| **TWU Student Learning Outcomes Categories** | **Course Learning Outcomes**  **(from syllabus)** | **Possible Evidence/Artifacts of Learning**  *(How will students SHOW their understanding of course learning outcomes?)* |
+|----------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Knowledge and its Application                |                                                   |                                                                                                                          |
+| Cognitive Complexity                         |                                                   |                                                                                                                          |
+| Aesthetic Expression and Interpretation      |                                                   |                                                                                                                          |
+| Inter- and Intra-Personal Wellness           |                                                   |                                                                                                                          |
+| Spiritual Formation                          |                                                   |                                                                                                                          |
+| Social Responsibility and Global Engagement  |                                                   |                                                                                                                          |
+| Leadership                                   |                                                   |                                                                                                                          |
+
 
 [ui-accordion independent=true open=none]
 [ui-accordion-item title=Want to know more about writing effective Learning Outcomes? Click to Open!"]
@@ -136,15 +172,59 @@ Other great resources:
 [/ui-accordion]
 
 ##### STEP 4: Course Assessment
-   - Note to connect assessment to the course learning outcomes that are demonstrated
+Once we know where students are going (learning outcomes), we need to know how students will show that they've met the learning outcomes. There should be a clear link between what we ask students to do in the assignment, and what is stated in the related learning outcome.
+
+**Alternative forms of assessment**
+A summative assessment does not have to be an exam, but can instead be a
+portfolio, website, video, conversation, research paper, presentation,
+case study, plan, or project.  These often allow students to demonstrate prior learning and allow for more authentic assessment - that is personalized tasks that relate to their profession.
+
+This section in the blueprint asks instructors to connect assessment to the course learning outcomes that are demonstrated.
+
+Student Evaluation
+------------------
+
+| **Assessment**   | **Description**                                          | **Weight** | **Due**          | **Connection to Course Learning Outcomes** |
+|------------------|----------------------------------------------------------|------------|------------------|--------------------------------------------|
+| e.g. Discussions | e.g. Unit discussions addressing unit learning outcomes. | 10%        | End of each Unit | e.g. 1, 2                                  |
+|                  |                                                          |            |                  |                                            |
+|                  |                                                          |            |                  |                                            |
+|                  |                                                          |            |                  |                                            |
+|                  |                                                          |            |                  |                                            |
+
+
 
 ##### STEP 5: Unit Planning
+Perhaps the most significant part of the blueprint is the unit plan.  In this section, we determine the sequence of the course by aligning each outcome and its
+associated formative and/or summative activities with a particular unit in your
+course. Many instructors divide their course into weekly units, but it's important to have more of a topical structure. This allows for more flexibility for condensed courses, and helps to focus specific topics to their related unit learning outcomes.
 
+*A note about Learning Activities*
+Once you know what learners will do and how well they will do it, consider the
+formative learning activities which will scaffold the learners' progress towards
+the proficiency targets for each outcome. Upon completion of a formative
+learning activity, learners should know how they performed relative to the
+priority course outcome and specifically how they can close the gap between
+their actual performance and the expected performance. Faculty, likewise, should
+know what each learner needs to do to close the gap and they should also know
+how to differentiate future learning activities in order to address
+misconceptions.
+
+Here is what this section of the blueprint looks like:
+
+| **Units & Topics**                     | **Unit Learning Outcomes**                            | **Formative Learning Activities**        | **Summative Assessments** | **Resources** |
+|----------------------------------------|-------------------------------------------------------|------------------------------------------|---------------------------|---------------|
+| **Unit 1:** Topic 1: Topic 2: Topic 3: | After completing this unit, students will be able to: | e.g. Questions after readings, H5P, etc. |                           |               |
+| **Unit 2:** Topic 1: Topic 2: Topic 3: |                                                       |                                          |                           |               |
+| **Unit 3:** Topic 1: Topic 2: Topic 3: |                                                       |                                          |                           |               |
+| **Unit 4:** Topic 1: Topic 2: Topic 3: |                                                       |                                          |                           |               |
+| **Unit 5:** Topic 1: Topic 2: Topic 3: |                                                       |                                          |                           |               |
+| **Unit 6:** Topic 1: Topic 2: Topic 3: |                                                       |                                          |                           |               |
+|                                        |                                                       |                                          |                           |               |
 
 
 ##### STEP 6: Resources
-
-
+A final section of the blueprint is dedicated to a resource list.  As a blueprint...
 
 
 
