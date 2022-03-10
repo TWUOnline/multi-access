@@ -90,7 +90,7 @@ Third, we identify the learning outcomes we want students to understand. Learnin
 
 It is crucial to have measurable learning outcomes listed on the course outline, as they communicate expectations to the learner and help guide the instructor.  
 
-Note that for each course learning outcome, we need to identify the TWU Student Learning Outcome it addresses as well
+Note that for each course learning outcome, we need to identify the [TWU Student Learning Outcome](https://www.twu.ca/academics/student-learning-outcomes) it addresses as well.
 
 [ui-accordion independent=true open=none]
 [ui-accordion-item title=Want to know more about writing effective Learning Outcomes? Click to Open!"]
@@ -99,12 +99,8 @@ Note that for each course learning outcome, we need to identify the TWU Student 
 
 The diagram above illustrates the five key principles in designing learning outcomes.  They must be specific and clear, instructors must be able to measure successful completion of an outcome, and learners must be able to achieve them.  Learning outcomes should also be relevant to the course and achievable  within the time period allotted.
 
-For more examples of learning outcomes, see our course text *[Teaching in a Digital Age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-2-the-nature-of-knowledge-and-the-implications-for-teaching/)* by Tony Bates.
-
-
 **Bloom’s Taxonomy**
-
-Instructional designers often use Bloom’s Taxonomy to help write learning outcomes. The graphics below lists possible verbs to use in a learning outcome, as well as examples of activities and/or assessments.  Just to give one example, if you are assessing the domain of analysis by asking student to compare, you may ask them to create and administer a survey.  As you write your outcomes, what **[Higher Order Thinking Skills](https://en.wikipedia.org/wiki/Higher-order_thinking) (HOTS)** are you promoting?
+We often use Bloom’s Taxonomy to help write learning outcomes. The graphics below lists possible verbs to use in a learning outcome, as well as examples of activities and/or assessments.  Just to give one example, if you are assessing the domain of analysis by asking student to compare, you may ask them to create and administer a survey.  As you write your outcomes, what **[Higher Order Thinking Skills](https://en.wikipedia.org/wiki/Higher-order_thinking) (HOTS)** are you promoting?
 
 ![](Blooms-taxonomy.png)
 *"Bloom's Taxonomy" [flickr photo by Vandy CFT](https://flickr.com/photos/vandycft/29428436431) shared under a Creative Commons (BY) license*
@@ -115,7 +111,6 @@ For more, see [Revised Bloom’s Taxonomy](https://www.celt.iastate.edu/teaching
 
 
 **Significant Learning**
-
 Fink (2003) described learning as change in the learner.  How can we tell what has changed in our students, or how the course has impacted them?
 In his book, *Creating Significant Learning Experiences: An Integrated Approach to Designing Colleges Courses*, he asks instructors to consider what students will take away from the course.  What are the long-term goals?  What will they remember?
 
@@ -124,14 +119,12 @@ The image here shows Fink’s Taxonomy of Significant Learning.  Consider the va
 
 
 **SOLO Taxonomy**
-
 Another great resource that can help you write effective learning outcomes is the *Structure of Observed Learning Outcomes (SOLO)* created by John Biggs and K. Colis. The images below show the 5 levels of understanding.  As you write your outcomes, consider the increasing complexity of understanding students can demonstrate through assessments.  How will they know what level they are at?  Try to incorporate descriptions in a grading rubric that explain the connections you want students to make (e.g. analyze, compare, hypothesize, predict, etc.)  
 
 ![](512px-Structure_of_Observed_Learning_Outcomes_SOLO_Taxonomy.png)
 
 Source: Diagram giving an overview of the SOLO Taxonomy approach. [Wikipedia](https://commons.wikimedia.org/wiki/File:Structure_of_Observed_Learning_Outcomes_SOLO_Taxonomy.png)
 ![](solo-taxonomy.jpg)
-
 
 For more information, see [SOLO Taxonomy - John Biggs](https://www.johnbiggs.com.au/academic/solo-taxonomy/).
 
