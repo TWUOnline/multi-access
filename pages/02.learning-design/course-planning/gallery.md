@@ -224,8 +224,8 @@ Here is what this section of the blueprint looks like:
 
 
 ##### STEP 6: Resources
-A final section of the blueprint is dedicated to a resource list.  As a blueprint...
-
+A final section of the blueprint is dedicated to a resource list.  As a blueprint is simply a planning document - one that can and will change as you develop the course - feel free to add resources you are thinking of using.
+As Instructional Designers (not the Subject Matter Experts) we often direct instructors to Open Educational Resources (OERs), or case study repositories. If you're interested in exploring OERs and other course resources, please see the Resources section.
 
 
 
