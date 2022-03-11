@@ -14,51 +14,62 @@ In this section we discuss the course design process and share techniques you ca
 
 ![alt-text](rm22-268-business-sasi-22.jpg "Woman holding a poster on a white wall")
 
-Designing a course is like planning, building, and moving into a house.  You start with asking some key questions:
+Designing a course is like planning to build a house. There are a lot of details to think through, and you start with asking some key questions, such as who is the house for, what features are required, what support is needed, what will make it feel like a home?, etc.
 
- 💡 What is the course?  What are the **Big Ideas**, or the main take-aways?
+Similarly, for course design, we ask:
 
- ❓ In an inquiry-based approach to learning, what are some **Essential Questions** learners may ask throughout the course?
+   💡 What is the course?  What are the **Big Ideas**, or the main take-aways?
 
- 🎯 Where are we heading? What are key course **Learning Outcomes** that students will be able to demonstrate
+   ❓ In an inquiry-based approach to learning, what are some **Essential Questions** learners may ask throughout the course?
 
- 🧩 At a program level, how does this course fit in with the program? What skills do they need to be a successful graduate of the program?
+   🎯 Where are we heading? What are key course **Learning Outcomes** that students will be able to demonstrate
 
- 🤔 If a previous course exists, has there been any feedback from students and instructors?
+   🧩 At a program level, how does this course fit in with the program? What skills do they need to be a successful graduate of the program?
+
+   🤔 If a previous course exists, has there been any feedback from students and instructors?
 
 …and the most important questions:
- 🧑‍🎓 Who are the students?  What is the typical age, work experience, culture, etc.? What are their interests, learning styles, and needs?​
+
+   🧑‍🎓 Who are the students?  What is the typical age, work experience, culture, etc.? What are their interests, learning styles, and needs?​
 
 All of these questions impact the planning phase of creating a course.  
 
 Notice, we didn't start with...
-📕 What textbook should I use for the course?
-📘 What topics are covered in the textbook chapters?
-📗 What publisher resources are available (e.g. testbank, PowerPoint presentations)
-📙 What topics will fit into my 16 weeks course?
+
+  📕 What textbook should I use for the course?
+
+  📘 What topics are covered in the textbook chapters?
+
+  📗 What publisher resources are available (e.g. testbank, PowerPoint presentations)
+
+  📙 What topics will fit into my 16 weeks course?
+
 
 Instead, we use what's called **Backward Design** to develop the course.
+
+---
 
 ### Backward Design
 **Backwards Design** (Fink, 2003; Wiggins & McTighe, 2005) is where we first focus on the *target*: what knowledge, skills or attitudes do we want students to have at the end of the course?  Second, how will they *demonstrate* this?  Finally, what learning *experiences* will help students achieve this?
 
 Backward design is a contrast to the traditional method of designing curriculum with the topics as the focus.  With the backwards approach, the end results help map out the course and leads to more productive activities and assessments.
-![](Backward-Design_KM.png)
+
 
 📺 Watch the following 5 minute video on Backwards Design.  
+
 [plugin:youtube](https://www.youtube.com/watch?v=XwlUhS_hxBY)
 
 
 Note in the video how they emphasize the connections between the three key components of the course: **Outcomes**, **Assessment**, **Activities**.  Learning outcomes inform assessment and activity choice; activities are designed to prepare students for assessments to demonstrate understanding of the outcomes.
 
-![](Outcomes-Activities-Assessment.png)
+![](Backward-Design_KM.png)
 
  As you design your course outcomes, assessments, and learning activities, keep in mind what will motivate and inspire your students.
 
 
 🔎 For more on Backward Design, view the website and video [Understanding by Design](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/).
 
-
+---
 
 ### Course Design Process at TWU
 Every course is different, and every course design experience is different.  In this section we'd like to briefly share a typical process we follow in creating and revising our online courses at TWU.
@@ -70,6 +81,10 @@ In a typical full course design, here are some things you might expect:
 ![](What-to-expect-Infographic.jpg)
 
 
+Let's begin with the first stage of planning - Creating a Blueprint.
+
+---
+
 #### Creating a Course Blueprint
 A first crucial step in course planning is to develop a course blueprint which maps out key components of the course.
 
@@ -80,26 +95,13 @@ Here are key steps in filling out a blueprint:
 ##### STEP 1: Big Ideas and Essential Questions
 One strategy we use before getting into the details of a course is identifying the **Big Ideas** (Wiggins & McTighe, 2005). Below is an image from Stanford University (adapted) that takes us through the process of deciding the big ideas, essential questions, key knowledge and skills, and learning activities.
 
-![alt-text](big_ideas_los.png "Big ideas template")
+![alt-text](big-ideas-los.png "Big ideas template")
 
 The first part of the blueprint asks you to identify 1-2 ideas and a few essential questions
 that will serve as the narrative frame or the “hook” for your course. You might
 think of a big idea as a subtitle or unifying theme for your course.
 
-| **Big Idea \#1** |   |
-|------------------|---|
-| **Big Idea \#2** |   |
-
-Essential Questions
--------------------
-
-What are the big problems in your field? How does your field intersect with
-culture? What are some common misconceptions?
-
-| **Essential Question \#1** |   |
-|----------------------------|---|
-| **Essential Question \#2** |   |
-| **Essential Question \#3** |   |
+![alt-text](twu-bp-ideas.png "Big Ideas section in Blueprint")
 
 
 ##### STEP 2: Course Description
@@ -112,16 +114,7 @@ It is crucial to have measurable learning outcomes listed on the course outline,
 
 Note that for each course learning outcome, we need to identify the [TWU Student Learning Outcome](https://www.twu.ca/academics/student-learning-outcomes) it addresses as well.  In this part of the blueprint we ask you to categorize your learning outcomes, and begin to think of possible learning artifacts, or evidence of learning.
 
-| **TWU Student Learning Outcomes Categories** | **Course Learning Outcomes**  **(from syllabus)** | **Possible Evidence/Artifacts of Learning**  *(How will students SHOW their understanding of course learning outcomes?)* |
-|----------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Knowledge and its Application                |                                                   |                                                                                                                          |
-| Cognitive Complexity                         |                                                   |                                                                                                                          |
-| Aesthetic Expression and Interpretation      |                                                   |                                                                                                                          |
-| Inter- and Intra-Personal Wellness           |                                                   |                                                                                                                          |
-| Spiritual Formation                          |                                                   |                                                                                                                          |
-| Social Responsibility and Global Engagement  |                                                   |                                                                                                                          |
-| Leadership                                   |                                                   |                                                                                                                          |
-
+![alt-text](twu-bp-assessment.png "Assessment section in Blueprint")
 
 [ui-accordion independent=true open=none]
 [ui-accordion-item title=Want to know more about writing effective Learning Outcomes? Click to Open!"]
@@ -179,18 +172,7 @@ case study, plan, or project.  These often allow students to demonstrate prior l
 
 This section in the blueprint asks instructors to connect assessment to the course learning outcomes that are demonstrated.
 
-Student Evaluation
-------------------
-
-| **Assessment**   | **Description**                                          | **Weight** | **Due**          | **Connection to Course Learning Outcomes** |
-|------------------|----------------------------------------------------------|------------|------------------|--------------------------------------------|
-| e.g. Discussions | e.g. Unit discussions addressing unit learning outcomes. | 10%        | End of each Unit | e.g. 1, 2                                  |
-|                  |                                                          |            |                  |                                            |
-|                  |                                                          |            |                  |                                            |
-|                  |                                                          |            |                  |                                            |
-|                  |                                                          |            |                  |                                            |
-
-
+![alt-text](twu-bp-assessment.png "Assessment section in Blueprint")
 
 ##### STEP 5: Unit Planning
 Perhaps the most significant part of the blueprint is the unit plan.  In this section, we determine the sequence of the course by aligning each outcome and its
@@ -208,31 +190,25 @@ know what each learner needs to do to close the gap and they should also know
 how to differentiate future learning activities in order to address
 misconceptions.
 
-Here is what this section of the blueprint looks like:
+![alt-text](twu-bp-units.png "Unit Plan section in Blueprint")
 
-| **Units & Topics**                     | **Unit Learning Outcomes**                            | **Formative Learning Activities**        | **Summative Assessments** | **Resources** |
-|----------------------------------------|-------------------------------------------------------|------------------------------------------|---------------------------|---------------|
-| **Unit 1:** Topic 1: Topic 2: Topic 3: | After completing this unit, students will be able to: | e.g. Questions after readings, H5P, etc. |                           |               |
-| **Unit 2:** Topic 1: Topic 2: Topic 3: |                                                       |                                          |                           |               |
-| **Unit 3:** Topic 1: Topic 2: Topic 3: |                                                       |                                          |                           |               |
-| **Unit 4:** Topic 1: Topic 2: Topic 3: |                                                       |                                          |                           |               |
-| **Unit 5:** Topic 1: Topic 2: Topic 3: |                                                       |                                          |                           |               |
-| **Unit 6:** Topic 1: Topic 2: Topic 3: |                                                       |                                          |                           |               |
-|                                        |                                                       |                                          |                           |               |
+**Blueprint Examples**
+Below is one example of part of a blueprint document.  For a current blueprint template for TWU courses, click on the following links: [TWU Course Blueprint Template - Google doc](https://docs.google.com/document/d/1XJ27S2OeEW01JFpICjWtvsYLj1a0SpD9dy7yoX8ttAQ/edit?usp=sharing); [TWU Course Blueprint Template - Word version](TWU-Course-Blueprint-Template.docx)
+
+![alt-text](ldrs-627-blueprint.png "LDRS 627 Blueprint")
 
 
 ##### STEP 6: Resources
 A final section of the blueprint is dedicated to a resource list.  As a blueprint is simply a planning document - one that can and will change as you develop the course - feel free to add resources you are thinking of using.
+
 As Instructional Designers (not the Subject Matter Experts) we often direct instructors to Open Educational Resources (OERs), or case study repositories. If you're interested in exploring OERs and other course resources, please see the Resources section.
 
 
 
+### Final Thoughts
 
-#### Blueprint Examples
-Below are some examples of part of a blueprint document.  For a current blueprint template for TWU courses, click on the following links: [TWU Course Blueprint Template - Google doc](https://docs.google.com/document/d/1XJ27S2OeEW01JFpICjWtvsYLj1a0SpD9dy7yoX8ttAQ/edit?usp=sharing); [TWU Course Blueprint Template - Word version](TWU-Course-Blueprint-Template.docx)
+In many ways, "building" a course is no different than building a house - one does not simply put a bunch of pieces of wood together and call it a house. Designing an effective course that focuses on student learning is no different - one cannot simply "dump" content onto a page and expect students to learn.
 
-![alt-text](ldrs-627-blueprint.png "LDRS 627 Blueprint")
+Much like building a house, course design requires intentional thought and sequential, logical planning. First, one must consider ***who*** we are "building" the course for; next, we can begin planning ***how*** we will go about delivering a positive, intuitive learning experience (the Blueprint). As our planning evolves, we can begin to add details that will engage learners and promote learning - the Blueprint will provide a contextual overview of how each component fits together. Once we have a sense of how all the pieces work together, we can add our assessments with a sense of confidence that they align with the rest of the content in our course.
 
-![alt-text](phil-210-blueprint.png "PHIL 210 Blueprint")
-
-!!! Note in the blueprint that there is a table for 10 units.  This does not apply to all courses!!  If you happen to work with an Instructional Designer in planning out your course, a key question will be how to organize the learning/content.  This may work out to be 10 key units for a 12 week course, but each course is different.
+While the course design process is intended to be flexible and fluid, it is also intended to be intentional and purposeful. Laying the groundwork (Blueprint) is a critical component to ensure we have a strong foundation that cultivates an environment of learning.
