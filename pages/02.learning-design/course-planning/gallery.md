@@ -43,7 +43,7 @@ Instead, we use what's called **Backward Design** to develop the course.
 **Backwards Design** (Fink, 2003; Wiggins & McTighe, 2005) is where we first focus on the *target*: what knowledge, skills or attitudes do we want students to have at the end of the course?  Second, how will they *demonstrate* this?  Finally, what learning *experiences* will help students achieve this?
 
 Backward design is a contrast to the traditional method of designing curriculum with the topics as the focus.  With the backwards approach, the end results help map out the course and leads to more productive activities and assessments.
-![]Backward Design Model
+![](Backward-Design_KM.png)
 
 📺 Watch the following 5 minute video on Backwards Design.  
 [plugin:youtube](https://www.youtube.com/watch?v=XwlUhS_hxBY)
@@ -51,7 +51,7 @@ Backward design is a contrast to the traditional method of designing curriculum 
 
 Note in the video how they emphasize the connections between the three key components of the course: **Outcomes**, **Assessment**, **Activities**.  Learning outcomes inform assessment and activity choice; activities are designed to prepare students for assessments to demonstrate understanding of the outcomes.
 
-![](Venn-activities)
+![](Outcomes-Activities-Assessment.png)
 
  As you design your course outcomes, assessments, and learning activities, keep in mind what will motivate and inspire your students.
 
@@ -81,11 +81,6 @@ Here are key steps in filling out a blueprint:
 One strategy we use before getting into the details of a course is identifying the **Big Ideas** (Wiggins & McTighe, 2005). Below is an image from Stanford University (adapted) that takes us through the process of deciding the big ideas, essential questions, key knowledge and skills, and learning activities.
 
 ![alt-text](big_ideas_los.png "Big ideas template")
-
-or use...
-
-Big Ideas
----------
 
 The first part of the blueprint asks you to identify 1-2 ideas and a few essential questions
 that will serve as the narrative frame or the “hook” for your course. You might
@@ -138,10 +133,13 @@ The diagram above illustrates the five key principles in designing learning outc
 **Bloom’s Taxonomy**
 We often use Bloom’s Taxonomy to help write learning outcomes. The graphics below lists possible verbs to use in a learning outcome, as well as examples of activities and/or assessments.  Just to give one example, if you are assessing the domain of analysis by asking student to compare, you may ask them to create and administer a survey.  As you write your outcomes, what **[Higher Order Thinking Skills](https://en.wikipedia.org/wiki/Higher-order_thinking) (HOTS)** are you promoting?
 
-![](Blooms-taxonomy.png)
+See the following images that suggest key verbs related to learning activities.
+
+#### add gallery of images - or h5p
+![](Bloom’s_Taxonomy_Verbs.png)
 *"Bloom's Taxonomy" [flickr photo by Vandy CFT](https://flickr.com/photos/vandycft/29428436431) shared under a Creative Commons (BY) license*
 
-![](bloomwheel.png)
+![](Bloom's_Revised_Taxonomy.png)
 
 For more, see [Revised Bloom’s Taxonomy](https://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/) from Iowa State University.
 
