@@ -18,31 +18,31 @@ Designing a course is like planning to build a house. There are a lot of details
 
 Similarly, for course design, we ask:
 
-   💡 What is the course?  What are the **Big Ideas**, or the main take-aways?
+!   💡 What is the course?  What are the **Big Ideas**, or the main take-aways?
 
-   ❓ In an inquiry-based approach to learning, what are some **Essential Questions** learners may ask throughout the course?
+!   ❓ In an inquiry-based approach to learning, what are some **Essential Questions** learners may ask throughout the course?
 
-   🎯 Where are we heading? What are key course **Learning Outcomes** that students will be able to demonstrate
+!   🎯 Where are we heading? What are key course **Learning Outcomes** that students will be able to demonstrate
 
-   🧩 At a program level, how does this course fit in with the program? What skills do they need to be a successful graduate of the program?
+!   🧩 At a program level, how does this course fit in with the program? What skills do they need to be a successful graduate of the program?
 
-   🤔 If a previous course exists, has there been any feedback from students and instructors?
+!   🤔 If a previous course exists, has there been any feedback from students and instructors?
 
 …and the most important questions:
 
-   🧑‍🎓 Who are the students?  What is the typical age, work experience, culture, etc.? What are their interests, learning styles, and needs?​
+!   🧑‍🎓 Who are the students?  What is the typical age, work experience, culture, etc.? What are their interests, learning styles, and needs?​
 
 All of these questions impact the planning phase of creating a course.  
 
 Notice, we didn't start with...
 
-  📕 What textbook should I use for the course?
+!!!  📕 What textbook should I use for the course?
 
-  📘 What topics are covered in the textbook chapters?
+!!!  📘 What topics are covered in the textbook chapters?
 
-  📗 What publisher resources are available (e.g. testbank, PowerPoint presentations)
+!!!  📗 What publisher resources are available (e.g. testbank, PowerPoint presentations)
 
-  📙 What topics will fit into my 16 weeks course?
+!!!  📙 What topics will fit into my 16 weeks course?
 
 
 Instead, we use what's called **Backward Design** to develop the course.
@@ -57,7 +57,7 @@ Backward design is a contrast to the traditional method of designing curriculum 
 
 📺 Watch the following 5 minute video on Backwards Design.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XwlUhS_hxBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/XwlUhS_hxBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Note in the video how they emphasize the connections between the three key components of the course: **Outcomes**, **Assessment**, **Activities**.  Learning outcomes inform assessment and activity choice; activities are designed to prepare students for assessments to demonstrate understanding of the outcomes.
