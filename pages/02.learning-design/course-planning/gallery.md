@@ -57,7 +57,7 @@ Backward design is a contrast to the traditional method of designing curriculum 
 
 📺 Watch the following 5 minute video on Backwards Design.  
 
-[plugin:youtube](https://www.youtube.com/watch?v=XwlUhS_hxBY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XwlUhS_hxBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Note in the video how they emphasize the connections between the three key components of the course: **Outcomes**, **Assessment**, **Activities**.  Learning outcomes inform assessment and activity choice; activities are designed to prepare students for assessments to demonstrate understanding of the outcomes.
@@ -92,6 +92,9 @@ In developing this document we focus on the development of learning outcomes tha
 
 Here are key steps in filling out a blueprint:
 
+
+---
+
 ##### STEP 1: Big Ideas and Essential Questions
 One strategy we use before getting into the details of a course is identifying the **Big Ideas** (Wiggins & McTighe, 2005). Below is an image from Stanford University (adapted) that takes us through the process of deciding the big ideas, essential questions, key knowledge and skills, and learning activities.
 
@@ -104,8 +107,12 @@ think of a big idea as a subtitle or unifying theme for your course.
 ![alt-text](twu-bp-ideas.png "Big Ideas section in Blueprint")
 
 
+---
+
 ##### STEP 2: Course Description
 Next, we have a look at the course description.  Note that if there are any changes, these need to be approved by Senate.  
+
+---
 
 ##### STEP 3: Course Learning Outcomes
 Third, we identify the learning outcomes we want students to understand. Learning outcomes describe what learners will be able to *know, do and value* after a learning experience. They clearly explain the knowledge, skills, and attitudes students will gain through a course.
@@ -162,6 +169,8 @@ Other great resources:
 [/ui-accordion-item]
 [/ui-accordion]
 
+---
+
 ##### STEP 4: Course Assessment
 Once we know where students are going (learning outcomes), we need to know how students will show that they've met the learning outcomes. There should be a clear link between what we ask students to do in the assignment, and what is stated in the related learning outcome.
 
@@ -174,12 +183,15 @@ This section in the blueprint asks instructors to connect assessment to the cour
 
 ![alt-text](twu-bp-assessment.png "Assessment section in Blueprint")
 
+---
+
 ##### STEP 5: Unit Planning
 Perhaps the most significant part of the blueprint is the unit plan.  In this section, we determine the sequence of the course by aligning each outcome and its
 associated formative and/or summative activities with a particular unit in your
 course. Many instructors divide their course into weekly units, but it's important to have more of a topical structure. This allows for more flexibility for condensed courses, and helps to focus specific topics to their related unit learning outcomes.
 
 *A note about Learning Activities*
+
 Once you know what learners will do and how well they will do it, consider the
 formative learning activities which will scaffold the learners' progress towards
 the proficiency targets for each outcome. Upon completion of a formative
@@ -197,6 +209,8 @@ Below is one example of part of a blueprint document.  For a current blueprint t
 
 ![alt-text](ldrs-627-blueprint.png "LDRS 627 Blueprint")
 
+---
+
 
 ##### STEP 6: Resources
 A final section of the blueprint is dedicated to a resource list.  As a blueprint is simply a planning document - one that can and will change as you develop the course - feel free to add resources you are thinking of using.
@@ -204,6 +218,8 @@ A final section of the blueprint is dedicated to a resource list.  As a blueprin
 As Instructional Designers (not the Subject Matter Experts) we often direct instructors to Open Educational Resources (OERs), or case study repositories. If you're interested in exploring OERs and other course resources, please see the Resources section.
 
 
+
+---
 
 ### Final Thoughts
 
