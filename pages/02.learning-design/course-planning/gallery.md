@@ -198,7 +198,7 @@ misconceptions.
 ![alt-text](twu-bp-units.png "Unit Plan section in Blueprint")
 
 **Blueprint Examples**
-Below is one example of part of a blueprint document.  For a current blueprint template for TWU courses, click on the following links: [TWU Course Blueprint Template - Google doc](https://docs.google.com/document/d/1XJ27S2OeEW01JFpICjWtvsYLj1a0SpD9dy7yoX8ttAQ/edit?usp=sharing); [TWU Course Blueprint Template - Word version](TWU-Course-Blueprint-Template.docx)
+Below is one example of part of a blueprint document.  For a current blueprint template for TWU courses, click on the following links: [TWU Course Blueprint Template - Google doc](https://docs.google.com/document/d/1EaxSXVEe8fwqXXRJITg-RCAdtD69Uaza7wSjwkXsQro/edit?usp=sharing); [TWU Course Blueprint Template - Word version](TWU Course Blueprint Template-2022.docx)
 
 ![alt-text](ldrs-627-blueprint.png "LDRS 627 Blueprint")
 
