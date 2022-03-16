@@ -18,11 +18,11 @@ Designing a course is like planning to build a house. There are a lot of details
 
 Similarly, for course design, we ask:
 
-!   💡 What is the course?  What are the **Big Ideas**, or the main take-aways?  
-!   ❓ In an inquiry-based approach to learning, what are some **Essential Questions** learners may ask throughout the course?  
-!   🎯 Where are we heading? What are key course **Learning Outcomes** that students will be able to demonstrate?  
-!   🧩 At a program level, how does this course fit in with the program? What skills do they need to be a successful graduate of the program?  
-!   🤔 If a previous course exists, has there been any feedback from students and instructors?  
+!!!!   💡 What is the course?  What are the **Big Ideas**, or the main take-aways?  
+!!!!   ❓ In an inquiry-based approach to learning, what are some **Essential Questions** learners may ask throughout the course?  
+!!!!   🎯 Where are we heading? What are key course **Learning Outcomes** that students will be able to demonstrate?  
+!!!!  🧩 At a program level, how does this course fit in with the program? What skills do they need to be a successful graduate of the program?  
+!!!!  🤔 If a previous course exists, has there been any feedback from students and instructors?  
 
 ! …and the most important questions:  
 !   🧑‍🎓 Who are the students?  What is the typical age, work experience, culture, etc.? What are their interests, learning styles, and needs?​  
