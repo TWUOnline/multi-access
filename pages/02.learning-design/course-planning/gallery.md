@@ -97,6 +97,8 @@ think of a big idea as a subtitle or unifying theme for your course.
 
 ![alt-text](twu-bp-ideas.png "Big Ideas section in Blueprint")
 
+!!! As you consider your big ideas and essential questions, it might help to talk to your colleagues! Some departments suggest a literature review before you start the design process, so you can address these ideas and questions based on current research.
+
 
 ---
 
