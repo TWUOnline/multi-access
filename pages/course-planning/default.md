@@ -3,8 +3,6 @@ title: 'Course Planning'
 body_classes: modular
 ---
 
-
-
 ## Planning Your Course
 
 In this section we discuss the course design process and share techniques you can use in planning your online, face-to-face, or blended courses at TWU.
