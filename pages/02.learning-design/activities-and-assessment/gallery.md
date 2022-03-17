@@ -13,9 +13,19 @@ Once you know where you want your students to go (course learning outcomes), how
 
 In this section, we'll present a number of ways to assess students, including providing formative learning activities to scaffold their learning and help them succeed in the summative (graded) assessments.
 
+!! Add blocks for these sections:
+1. Purpose of Assessment
+1. Activity & Assessment Ideas
+1. Grading Rubrics
+1. Self & Peer Assessment
+
+---
+
+## Purpose of Assessment
+
 It all starts with the course learning outcomes. For example, in designing this section of our Course Design site, we have the following learning outcomes in mind for you, our reader:
 
-## Learning Outcomes
+#### Learning Outcomes
 After completing this readings and activities in this section, you will be able to:
 1. explain the difference between formative and summative assessment;
 1. connect assessments to learning outcomes and learning activities;
