@@ -9,6 +9,8 @@ body_classes: modular
 
 Once you know where you want your students to go (course learning outcomes), how will they get there?  How will they demonstrate their learning and show you their level of understanding?  What will help them be successful in meeting or exceeding your expectations for their learning? How will students reflect on and improve upon their own achievements?
 
+![](archery-2721785_1920.jpg)
+
 In this section, we'll present a number of ways to assess students, including providing formative learning activities to scaffold their learning and help them succeed in the summative (graded) assessments.
 
 It all starts with the course learning outcomes. For example, in designing this section of our Course Design site, we have the following learning outcomes in mind for you, our reader:
@@ -24,9 +26,10 @@ After completing this readings and activities in this section, you will be able 
 1. use self and peer feedback to foster reflection and critical thinking
 
 With these outcomes in mind, how might you demonstrate your understanding of them? Consider these learning artifacts:
-- A quiz on key terms, such as formative and summative assessment
-- A Venn Diagram that explains the connection between assessment, outcomes and  activities
-- A critical thinking project to assess your creative thinking and communication skills.
-- A reflective paper sharing how you implemented a new activity or assessment strategy and evaluated its effectiveness?
-- A grading rubric
-- A group presentation on feedback, including using self and peer feedback
+- a quiz on key terms, such as formative and summative assessment
+- a Venn Diagram that explains the connection between assessment, outcomes and  activities
+- a critical thinking project to assess your creative thinking and communication skills.
+- a reflective paper sharing how you implemented a new activity or assessment strategy and evaluated its effectiveness
+- a literature review on assessment strategies and their effectiveness
+- a grading rubric
+- a group presentation on feedback, including using self and peer feedback
