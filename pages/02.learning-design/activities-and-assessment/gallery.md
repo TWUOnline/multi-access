@@ -25,6 +25,7 @@ In this section, we'll present a number of ways to assess students, including pr
 
 It all starts with the course learning outcomes. For example, in designing this section of our Course Design site, we have the following learning outcomes in mind for you, our reader:
 
+- changing content - to add these 2 sections to H5P to make interactive.  e.g. how would you assess the following options.
 #### Learning Outcomes
 After completing this readings and activities in this section, you will be able to:
 1. explain the difference between formative and summative assessment;
