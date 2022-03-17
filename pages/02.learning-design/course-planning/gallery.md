@@ -117,7 +117,7 @@ Note that for each course learning outcome, we need to identify the [TWU Student
 ![alt-text](twu-bp-assessment.png "Assessment section in Blueprint")
 
 [ui-accordion independent=true open=none]
-[ui-accordion-item title=Want to know more about writing effective Learning Outcomes? Click to Open!"]
+[ui-accordion-item title="Want to know more about writing effective Learning Outcomes? Click to Open!"]
 
 ![](SMART-goals.png)
 
