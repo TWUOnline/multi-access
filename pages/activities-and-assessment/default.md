@@ -3,8 +3,6 @@ title: 'Activities and Assessment'
 body_classes: modular
 ---
 
-
-
 ## Activities and Assessment
 
 Once you know where you want your students to go (course learning outcomes), how will they get there?  How will they demonstrate their learning and show you their level of understanding?  What will help them be successful in meeting or exceeding your expectations for their learning? How will students reflect on and improve upon their own achievements?
