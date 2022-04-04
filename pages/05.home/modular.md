@@ -28,6 +28,6 @@ hero:
             classes: 'bg-primary text-white'
         - null
     subtitle: 'phd candidate | assessment | edtech'
-media_order: colin.jpeg
+media_order: mockup-863469_1920.jpg
 ---
 
