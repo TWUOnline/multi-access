@@ -5,7 +5,7 @@ hero:
     overlay: dark
     overlay_gradient:
         - '0.6'
-    image: colin-copy.jpeg
+    image: mockup-863469_1920.jpg
     alignment: right
     text: auto
     title:
