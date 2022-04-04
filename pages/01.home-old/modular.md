@@ -7,5 +7,6 @@ header_bar:
     text: light
 content:
     items: self@.modular
+published: false
 ---
 
