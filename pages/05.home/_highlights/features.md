@@ -1,7 +1,7 @@
 ---
 title: Highlights
 body_classes: modular
-variation: horizontal
+variation: vertical
 features:
     -
         title: 'Learning Design'
