@@ -22,6 +22,6 @@ features:
         title: 'Assessment Theory'
         text: 'Validity | Reliability | Bias'
         icon: tabler/math-function.svg
-        link: 'Validity | Reliability | Bias'
+        link: 'https://multi-access.twu.ca/assessment-theory'
 ---
 
