@@ -5,9 +5,9 @@ body_classes: modular
 
 
 
-## Activities and Assessment
+## Learning Activities and Assessment
 
-Once you know where you want your students to go (course learning outcomes), how will they get there?  How will they demonstrate their learning and show you their level of understanding?  What will help them be successful in meeting or exceeding your expectations for their learning? How will students reflect on and improve upon their own achievements?
+As we design a course, we first identify the course learning outcomes, then we plan how students show their learning (assessment) and provide ways to practice and reflect on their learning (activities). As in the picture below, learners must know what to aim for, how to hit the target, and be given ample practice to be successful.
 
 ![](archery-g83e9ec0ca_1280.jpg)
 
@@ -77,20 +77,22 @@ Assessment can also be *for, of,* and *as* learning.
 
 ! **Assessment for Learning**, a type of formative assessment, is utilized by teachers in order to gain an understanding of their students' knowledge and skills in order to guide instruction.
 
+!!! **Assessment as learning** is also a formative assessment which focuses on teaching students the metacognitive processes to evaluate their own learning and make adjustments.
+
 !!!! **Assessment of Learning** is a summative assessment used primarily to compare students and report progress.
 
-!!! **Assessment as learning** is also a formative assessment which focuses on teaching students the metacognitive processes to evaluate their own learning and make adjustments.
+
 
 *Source: UBC's [Assessment as Learning](http://etec.ctlt.ubc.ca/510wiki/Assessment_as_Learning)*
 
 ---
 
 ### Alignment in Course Design
-So how do we choose formative and summative assessemnts for our course?  An important part of course design is checking that there is alignment between assessments and learning outcomes.  If your learning outcome asks students to compare two theories, for example, how do they show you they can do that?  Often instructors will have their assessments in mind before they write their learning outcomes.  Whatever process you have, make sure that your course learning outcomes are assessed in your assignments.  Try to include these connections in your syllabus, as in the example below:
+So how do we choose formative and summative assessments for our course?  An important part of course design is checking that there is alignment between assessments and learning outcomes.  If your learning outcome asks students to compare two theories, for example, how do they show you they can do that?  Often instructors will have their assessments in mind before they write their learning outcomes.  Whatever process you have, make sure that your course learning outcomes are assessed in your assignments.  Try to include these connections in your syllabus, as in the example below:
 ![](course-assessment.png)
 
 
-#### Learning Activities: Preparing for Assessments
+### Learning Activities: Preparing for Assessments
 One other alignment check that needs to be made in your course design is the connection between the assessments and the learning activities.  Learning activities are designed to help students engage with the course topics.  They are often ungraded and optional, so in order to motivate students to complete them, we need to emphasize the connections to the assignments and how the activities will help students succeed in their assessments.
 
 Another reason to include learning activities in your online course is so that learners can practice the key concepts/questions and get *messy* with their learning.  Learning is a process, and activities allow for students to work through questions, organize their learning, explore solutions, and prepare for assessments.   
