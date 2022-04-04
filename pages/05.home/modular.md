@@ -9,4 +9,3 @@ content:
     items: self@.modular
 ---
 
-test
