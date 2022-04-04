@@ -27,7 +27,29 @@ hero:
             text: Resources
             link: 'https://madland.ca/writing'
             classes: 'bg-primary text-white'
+
+            text: 'Learning Design'
+            link: 'https://multi-access.twu.ca/course-planning'
+            classes: 'bg-primary hover:bg-gray-800 text-white'
         -
+            text: TOnE
+            link: 'https://multi-access.twu.ca/tone'
+            classes: 'bg-primary text-white'
+        -
+            text: Resources
+            link: 'https://madland.ca/writing'
+            classes: 'bg-primary text-white'
+                        text: 'Learning Design'
+            link: 'https://multi-access.twu.ca/course-planning'
+            classes: 'bg-primary hover:bg-gray-800 text-white'
+        -
+            text: TOnE
+            link: 'https://multi-access.twu.ca/tone'
+            classes: 'bg-primary text-white'
+        -
+            text: Resources
+            link: 'https://madland.ca/writing'
+            classes: 'bg-primary text-white'
     custom: '#3C4043'
 media_order: mockup-863469_1920.jpg
 ---
