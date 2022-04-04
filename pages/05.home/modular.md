@@ -26,8 +26,6 @@ hero:
             text: Resources
             link: 'https://madland.ca/writing'
             classes: 'bg-primary text-white'
-        - null
-    subtitle: 'phd candidate | assessment | edtech'
 media_order: mockup-863469_1920.jpg
 ---
 
