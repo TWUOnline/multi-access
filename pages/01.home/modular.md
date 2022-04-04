@@ -1,9 +1,11 @@
 ---
 title: 'Online at TWU'
-content:
-    items: '@self.modular'
-body_classes: 'title-h1h2 header-dark header-transparent'
 menu: Home
 onpage_menu: false
+header_bar:
+    background: transparent
+    text: light
+content:
+    items: self@.modular
 ---
 
