@@ -39,28 +39,32 @@ Instead, we use what's called **Backward Design** to develop the course.
 ---
 
 ### Backward Design
-**Backwards Design** (Fink, 2003; Wiggins & McTighe, 2005) is where we first focus on the *target*: what knowledge, skills or attitudes do we want students to have at the end of the course?  Second, how will they *demonstrate* this?  Finally, what learning *experiences* will help students achieve this?
+**Backward Design** (Fink, 2003; Wiggins & McTighe, 2005) is a contrast to the traditional method of designing curriculum, which often starts with identifying the topics (or chapters in a textbook), and then maps out the weekly lessons according to those resources. With the backward approach, we focus first on the end results, which helps map out the course and leads to more productive activities and assessments.
 
-Backward design is a contrast to the traditional method of designing curriculum with the topics as the focus.  With the backwards approach, the end results help map out the course and leads to more productive activities and assessments.
+![](Backward-Design.jpg)
+
+In planning a course, here are three key questions we start with:
+1. We first focus on the *target*: what knowledge, skills or attitudes do we want students to have at the end of the course? Essentially, what are the course learning outcomes?
+2. Second, how will learners *demonstrate* that they have the knowledge, skills or attitudes identified?  What assessment strategy will show students level of understanding of the course learning outcomes?
+3. Finally, what learning *experiences* will help students achieve this?  What activities will scaffold students' learning, engage them in the topics, and allow them to practice or develop their understanding of the course learning outcomes?
 
 
-📺 Watch the following 5 minute video on Backwards Design.  
+
+📺 Watch the following 5 minute video on Backward Design.  
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/XwlUhS_hxBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Note in the video how they emphasize the connections between the three key components of the course: **Outcomes**, **Assessment**, **Activities**.  Learning outcomes inform assessment and activity choice; activities are designed to prepare students for assessments to demonstrate understanding of the outcomes.
 
-![](Backward-Design_KM.png)
-
- As you design your course outcomes, assessments, and learning activities, keep in mind what will motivate and inspire your students.
+As you design your course outcomes, assessments, and learning activities, keep in mind what will motivate and inspire your students.
 
 
 🔎 For more on Backward Design, view the website and video [Understanding by Design](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/).
 
 ---
 
-### Course Design Process at TWU
+## Course Design Process at TWU
 Every course is different, and every course design experience is different.  In this section we'd like to briefly share a typical process we follow in creating and revising our online courses at TWU.
 
 *Please note: This process may not apply to your course! Often with time constraints, we speed things up to make sure the course is ready for students. During/after the course runs, we make further adjustments based on instructor and student feedback.*
@@ -74,7 +78,7 @@ Let's begin with the first stage of planning - Creating a Blueprint.
 
 ---
 
-#### Creating a Course Blueprint
+### Creating a Course Blueprint
 A first crucial step in course planning is to develop a course blueprint which maps out key components of the course.
 
 In developing this document we focus on the development of learning outcomes that are measurable, and then ensure that the supporting activities and assessments are mapped directly to these outcomes.
@@ -84,7 +88,7 @@ Here are key steps in filling out a blueprint:
 
 ---
 
-##### STEP 1: Big Ideas and Essential Questions
+#### STEP 1: Big Ideas and Essential Questions
 One strategy we use before getting into the details of a course is identifying the **Big Ideas** (Wiggins & McTighe, 2005). Below is an image from Stanford University (adapted) that takes us through the process of deciding the big ideas, essential questions, key knowledge and skills, and learning activities.
 
 ![alt-text](big-ideas-los.png "Big ideas template")
@@ -100,12 +104,12 @@ think of a big idea as a subtitle or unifying theme for your course.
 
 ---
 
-##### STEP 2: Course Description
+#### STEP 2: Course Description
 Next, we have a look at the course description.  Note that if there are any changes, these need to be approved by Senate.  
 
 ---
 
-##### STEP 3: Course Learning Outcomes
+#### STEP 3: Course Learning Outcomes
 Third, we identify the learning outcomes we want students to understand. Learning outcomes describe what learners will be able to *know, do and value* after a learning experience. They clearly explain the knowledge, skills, and attitudes students will gain through a course.
 
 It is crucial to have measurable learning outcomes listed on the course outline, as they communicate expectations to the learner and help guide the instructor.  
@@ -126,7 +130,7 @@ We often use Bloom’s Taxonomy to help write learning outcomes. The graphics be
 
 See the following images that suggest key verbs related to learning activities.
 
-#### add gallery of images - or h5p
+### add gallery of images - or h5p
 ![](Bloom’s_Taxonomy_Verbs.png)
 *"Bloom's Taxonomy" [flickr photo by Vandy CFT](https://flickr.com/photos/vandycft/29428436431) shared under a Creative Commons (BY) license*
 
@@ -162,7 +166,7 @@ Other great resources:
 
 ---
 
-##### STEP 4: Course Assessment
+#### STEP 4: Course Assessment
 Once we know where students are going (learning outcomes), we need to know how students will show that they've met the learning outcomes. There should be a clear link between what we ask students to do in the assignment, and what is stated in the related learning outcome.
 
 **Alternative forms of assessment**
@@ -176,7 +180,7 @@ This section in the blueprint asks instructors to connect assessment to the cour
 
 ---
 
-##### STEP 5: Unit Planning
+#### STEP 5: Unit Planning
 Perhaps the most significant part of the blueprint is the unit plan.  In this section, we determine the sequence of the course by aligning each outcome and its
 associated formative and/or summative activities with a particular unit in your
 course. Many instructors divide their course into weekly units, but it's important to have more of a topical structure. This allows for more flexibility for condensed courses, and helps to focus specific topics to their related unit learning outcomes.
@@ -203,7 +207,7 @@ Below is one example of part of a blueprint document.  For a current blueprint t
 ---
 
 
-##### STEP 6: Resources
+#### STEP 6: Resources
 A final section of the blueprint is dedicated to a resource list.  As a blueprint is simply a planning document - one that can and will change as you develop the course - feel free to add resources you are thinking of using.
 
 As Instructional Designers (not the Subject Matter Experts) we often direct instructors to Open Educational Resources (OERs), or case study repositories. If you're interested in exploring OERs and other course resources, please see the Resources section.
