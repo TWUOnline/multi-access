@@ -54,7 +54,7 @@ Assessment demonstrates whether, and to what degree, the learner has met the lea
 First, let’s focus on what assessment is.
 
 ### Understanding Assessment: Formative & Summative
-![](formative-vs-summative.jpg)
+![](formative-vs-summative.png)
 
 In our courses, we often think first of the **summative assessments** – the final test, unit quiz, essay, etc. that sums of students' knowledge.  These assessments allow students to demonstrate their learning of the course and we give them a final grade.
 
@@ -71,6 +71,8 @@ In our courses, we often think first of the **summative assessments** – the fi
 *Table from [Wikipedia](https://en.wikipedia.org/wiki/Formative_assessment#cite_note-11) citing Charting your course: How to prepare to teach more effectively, Atwood, 2000.*
 
 
+---
+### FOR / OF / AS Learning
 Assessment can also be *for, of,* and *as* learning.
 
 ! **Assessment for Learning**, a type of formative assessment, is utilized by teachers in order to gain an understanding of their students' knowledge and skills in order to guide instruction.
@@ -80,6 +82,7 @@ Assessment can also be *for, of,* and *as* learning.
 !!! **Assessment as learning** is also a formative assessment which focuses on teaching students the metacognitive processes to evaluate their own learning and make adjustments.
 
 *Source: UBC's [Assessment as Learning](http://etec.ctlt.ubc.ca/510wiki/Assessment_as_Learning)*
+
 ---
 
 ### Alignment in Course Design
@@ -123,7 +126,7 @@ To learn more about Trinity's Inquiry-Based Learning approach, watch the followi
 
 ### Resources on Assessment of Learning
 
-- Section 6.8 [Assessment of learning](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/5-8-assessment-of-learning/) from Bates, T. (2019). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project. 
+- Section 6.8 [Assessment of learning](https://pressbooks.bccampus.ca/teachinginadigitalagev2/chapter/5-8-assessment-of-learning/) from Bates, T. (2019). [Teaching in a digital age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/). 2nd Edition. Victoria : BCcampus, BC Open Textbook Project.
 - [Learner Assessment in Online Courses: Best Practices & More](https://www.learnworlds.com/learner-assessment-best-practices-course-design/)
 - [The Messy and Unpredictable Classroom](https://www.facultyfocus.com/articles/teaching-and-learning/the-messy-and-unpredictable-classroom/)
 - [Assessing Student Learning Online](https://ep.jhu.edu/faculty/learning-roadmap-for-new-online-instructors/assessing-student-learning-online)
