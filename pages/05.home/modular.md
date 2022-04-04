@@ -1,6 +1,6 @@
 ---
 title: Home
-menu: Top
+menu: Home
 hero:
     overlay: dark
     overlay_gradient:
