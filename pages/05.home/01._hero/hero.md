@@ -7,7 +7,7 @@ hero:
     overlay_gradient:
         - '0.6'
     image: mockup-863469_1920.jpg
-    alignment: right
+    alignment: center
     text: auto
     title:
         text: 'Online Teaching and Learning at TWU'
