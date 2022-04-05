@@ -7,3 +7,5 @@ image_align: right
 ---
 
 Assessment serves many purposes in higher education and thinking about those purposes is a useful beginning point in planning your classroom assessment strategies. Earl (2013) writes of three broad purposes of assessment: assessment ***of*** learning, assessment ***for*** learning, and assessment ***as*** learning. Follow the link below to explore more.
+
+[Find out more...](https://cmadland@github.io/assessment?classes=btn,mt-4,w-content,block)
