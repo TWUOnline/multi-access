@@ -17,6 +17,7 @@ features:
         text: 'Teaching Online Effectively'
         icon: tabler/music.svg
         link: 'https://multi-access.twu.ca/tone'
-subtitle: 'Choose a topic below...'
+subtitle: 'Get started'
+title: Topics
 ---
 
