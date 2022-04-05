@@ -1,5 +1,5 @@
 ---
-title: 'Assessment Purpose'
+title: 'Assessment Theory'
 body_classes: modular
 image: laptop-2559958_1920.jpg
 media_order: laptop-2559958_1920.jpg
