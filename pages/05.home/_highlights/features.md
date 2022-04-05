@@ -1,5 +1,4 @@
 ---
-title: Highlights
 body_classes: modular
 variation: vertical
 features:
