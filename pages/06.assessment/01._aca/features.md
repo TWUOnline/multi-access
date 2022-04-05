@@ -7,7 +7,7 @@ features:
         title: 'Assessment Purpose'
         text: 'Assessment of Learning | Assessment for Learning | Assessment as Learning'
         icon: tabler/chart-bubble.svg
-        link: 'https://multi-access.twu.ca/assessment-purpose'
+        link: 'https://multi-access.twu.ca/assessment#assessment-purpose-2'
     -
         title: 'Assessment Process'
         text: 'Assessment Design | Use and Scoring | Communication'
