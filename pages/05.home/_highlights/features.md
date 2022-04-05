@@ -13,6 +13,11 @@ features:
         text: null
         icon: tabler/pencil.svg
         link: 'https://multi-access.twu.ca/assessment'
+    -
+        title: TOnE
+        text: 'Teaching Online Effectively'
+        icon: tabler/music.svg
+        link: 'https://multi-access.twu.ca/tone'
 subtitle: 'Choose a topic below...'
 ---
 
