@@ -23,10 +23,5 @@ features:
         text: 'Validity | Reliability | Bias'
         icon: tabler/math-function.svg
         link: 'https://multi-access.twu.ca/assessment#assessment-theory-2'
-    -
-        title: 'Activity Bank'
-        text: 
-        icon: tabler/building-bank.svg
-        link: 'https://multi-access.twu.ca/activities'
 ---
 
