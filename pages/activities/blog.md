@@ -6,7 +6,7 @@ content:
         - '@self.children'
     limit: 10
     order:
-        by: date
+        by: folder
         dir: desc
 ---
 
