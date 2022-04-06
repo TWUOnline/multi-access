@@ -10,4 +10,4 @@ Pellegrino et al. (2001) describe this process of assessment in terms of a trian
 ![alt-text](assessment-triangle.png "Figure 1. Assessment Triangle")
 > Figure 1. Assessment Triangle (Pellegrino et al., 2001)
 
-[1]
+[1]: Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). Knowing What Students Know: The Science and Design of Educational Assessment. National Academies Press. https://doi.org/10.17226/10019
