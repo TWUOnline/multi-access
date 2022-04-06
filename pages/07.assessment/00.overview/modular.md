@@ -1,6 +1,5 @@
 ---
-title: Assessment
-menu: Assessment
+title: Overview
 onpage_menu: false
 header_bar:
     background: transparent
