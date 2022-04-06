@@ -26,7 +26,7 @@ features:
     -
         title: 'Activity Bank'
         text: 
-        icon: tabler/bank.svg
+        icon: tabler/building-bank.svg
         link: 'https://multi-access.twu.ca/activities'
 ---
 
