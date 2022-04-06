@@ -8,5 +8,8 @@ content:
     order:
         by: folder
         dir: desc
+show_breadcrumbs: true
+show_sidebar: true
+show_pagination: true
 ---
 
