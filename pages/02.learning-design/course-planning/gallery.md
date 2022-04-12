@@ -9,19 +9,15 @@ In this section we discuss the course design process and share techniques you ca
 - add intro video
 
 Here are the topics we'll cover (feel free to jump ahead!)
-<a id="Key Planning Questions">
-</a>
-<a id="Backward Design">
-</a>
-<a id="Course Design Process at TWU">
-</a>
-<a id="Creating a Course Blueprint">
-</a>
+
+<a href="#Key_Planning_Questions">Key Planning Questions.</a>
+<a href="#Backward_Design">Backward Design.</a>
+<a href="#Course_Design_Process_at_TWU">Course Design Process at TWU.</a>
+<a href="#Creating_a_Course_Blueprint">Creating a Course Blueprint.</a>
 
 
-<a href="#Key Planning Questions">Click here to see the content below.</a>
-
-
+<a id="Key_Planning_Questions">
+</a>
 ### Key Planning Questions
 
 ![alt-text](rm22-268-business-sasi-22.jpg "Woman holding a poster on a white wall")
@@ -45,6 +41,9 @@ Notice, we didn't start with...
 Instead, we use what's called **Backward Design** to develop the course.
 
 ---
+
+<a id="Backward_Design">
+</a>
 
 ### Backward Design
 **Backward Design** (Fink, 2003; Wiggins & McTighe, 2005) is a contrast to the traditional method of designing curriculum, which often starts with identifying the topics (or chapters in a textbook), and then maps out the weekly lessons according to those resources. With the backward approach, we focus first on the end results, which helps map out the course and leads to more productive activities and assessments.
@@ -71,6 +70,8 @@ As you design your course outcomes, assessments, and learning activities, keep i
 🔎 For more on Backward Design, view the website and video [Understanding by Design](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/).
 
 ---
+<a id="Course_Design_Process_at_TWU">
+</a>
 
 ## Course Design Process at TWU
 Every course is different, and every course design experience is different.  In this section we'd like to briefly share a typical process we follow in creating and revising our online courses at TWU.
@@ -85,7 +86,8 @@ In a typical full course design, here are some things you might expect:
 
 
 ---
-
+<a id="Creating_a_Course_Blueprint">
+</a>
 ### Creating a Course Blueprint
 To help you plan your course, we develop a course blueprint that maps out key components of the course.
 
