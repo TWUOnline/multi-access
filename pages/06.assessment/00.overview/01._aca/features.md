@@ -10,18 +10,17 @@ features:
         link: 'https://multi-access.twu.ca/assessment/overview#assessment-purpose-2'
     -
         title: 'Assessment Process'
-        text: 'Assessment Design | Use and Scoring | Communication'
-        icon: tabler/arrows-split.svg
+        text: 'Assessment Design | Grading Rubrics | Feedback'
+        icon: tabler/scale.svg
         link: 'https://multi-access.twu.ca/assessment/overview#assessment-process-2'
     -
-        title: 'Assessment Fairness'
-        text: 'Equal | Equitable | Differentiated'
-        icon: tabler/scale.svg
-        link: 'https://multi-access.twu.ca/assessment/overview#assessment-fairness-2'
+        title: 'Assessment Ideas'
+        text: 'Inspire | Challenge | Communicate | Create '
+        icon: tabler/bulb.svg
+        link: 'https://multi-access.twu.ca/assessment/assessment-ideas'
     -
-        title: 'Assessment Theory'
-        text: 'Validity | Reliability | Bias'
-        icon: tabler/math-function.svg
-        link: 'https://multi-access.twu.ca/assessment/overview#assessment-theory-2'
+        title: 'Learning Activities'
+        text: 'Active Learning | Engage | Practice'
+        icon: tabler/activity.svg
+        link: 'https://multi-access.twu.ca/assessment/activities'
 ---
-
