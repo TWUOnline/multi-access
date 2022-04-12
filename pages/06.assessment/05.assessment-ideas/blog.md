@@ -1,5 +1,5 @@
 ---
-title: Activities
+title: Assessment Ideas
 root_of_blog: true
 content:
     items:
@@ -12,4 +12,3 @@ show_breadcrumbs: true
 show_sidebar: true
 show_pagination: true
 ---
-
