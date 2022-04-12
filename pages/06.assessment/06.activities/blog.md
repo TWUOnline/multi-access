@@ -4,7 +4,7 @@ root_of_blog: true
 content:
     items:
         - '@self.children'
-    limit: 10
+    limit: 30
     order:
         by: folder
         dir: desc
