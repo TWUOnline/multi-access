@@ -1,5 +1,5 @@
 ---
-title: 'Activities and Assessment'
+title: Media
 body_classes: modular
 ---
 
