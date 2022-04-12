@@ -36,6 +36,7 @@ Similarly, for course design, we ask:
 All of these questions impact the planning phase of creating a course.  
 
 Notice, we didn't start with...
+
 📕 What textbook should I use for the course?  
 📘 What topics are covered in the textbook chapters?  
 📗 What publisher resources are available (e.g. testbank, PowerPoint presentations)?  
@@ -97,8 +98,12 @@ To help you plan your course, we develop a course blueprint that maps out key co
 
 Here are key steps in filling out a blueprint: (Click the title on the steps below)
 
+!! fix accordion!
+
 ---
+
 [ui-accordion independent=true open=none]
+
 [ui-accordion-item title=STEP 1: Big Ideas and Essential Questions"]
 
 One strategy we use before getting into the details of a course is identifying the **Big Ideas** (Wiggins & McTighe, 2005). Below is an image from Stanford University (adapted) that takes us through the process of deciding the big ideas, essential questions, key knowledge and skills, and learning activities.
@@ -122,6 +127,7 @@ Next, we have a look at the course description.  Note that if there are any chan
 [/ui-accordion-item]
 
 [ui-accordion-item title=STEP 3: Course Learning Outcomes"]
+
 Third, we identify the learning outcomes we want students to understand. Learning outcomes describe what learners will be able to *know, do and value* after a learning experience. They clearly explain the knowledge, skills, and attitudes students will gain through a course.
 
 It is crucial to have measurable learning outcomes listed on the course outline, as they communicate expectations to the learner and help guide the instructor.  
@@ -147,6 +153,7 @@ This section in the blueprint asks instructors to connect assessment to the cour
 [/ui-accordion-item]
 
 [ui-accordion-item title=STEP 5: Unit Planning"]
+
 Perhaps the most significant part of the blueprint is the unit plan.  In this section, we determine the sequence of the course by aligning each outcome and its
 associated formative and/or summative activities with a particular unit in your
 course. Many instructors divide their course into weekly units, but it's important to have more of a topical structure. This allows for more flexibility for condensed courses, and helps to focus specific topics to their related unit learning outcomes.
@@ -172,13 +179,14 @@ Below is one example of part of a blueprint document.  For a current blueprint t
 
 [/ui-accordion-item]
 
-
 [ui-accordion-item title=STEP 6: Resources"]
+
 A final section of the blueprint is dedicated to a resource list.  As a blueprint is simply a planning document - one that can and will change as you develop the course - feel free to add resources you are thinking of using.
 
 As Instructional Designers (not the Subject Matter Experts) we often direct instructors to Open Educational Resources (OERs), or case study repositories. If you're interested in exploring OERs and other course resources, please see the Resources section.
 
 [/ui-accordion-item]
+
 [/ui-accordion]
 
 ---
