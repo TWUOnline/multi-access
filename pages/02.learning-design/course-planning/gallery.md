@@ -10,10 +10,14 @@ In this section we discuss the course design process and share techniques you ca
 
 Here are the topics we'll cover (feel free to jump ahead!)
 
-<a href="#Key_Planning_Questions">Key Planning Questions.</a>
-<a href="#Backward_Design">Backward Design.</a>
-<a href="#Course_Design_Process_at_TWU">Course Design Process at TWU.</a>
-<a href="#Creating_a_Course_Blueprint">Creating a Course Blueprint.</a>
+<a href="#Key_Planning_Questions">- Key Planning Questions</a>
+
+<a href="#Backward_Design">- Backward Design</a>
+
+<a href="#Course_Design_Process_at_TWU">- Course Design Process at TWU</a>
+
+<a href="#Creating_a_Course_Blueprint">- Creating a Course Blueprint</a>
+
 
 
 <a id="Key_Planning_Questions">
