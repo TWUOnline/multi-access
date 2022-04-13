@@ -23,14 +23,4 @@ features:
         text: 'Validity | Reliability | Bias'
         icon: tabler/math-function.svg
         link: 'https://multi-access.twu.ca/assessment/overview#assessment-theory-2'
-    -
-        title: 'Assessment Ideas'
-        text: 'Inspire | Challenge | Communicate | Create '
-        icon: tabler/bulb.svg
-        link: 'https://multi-access.twu.ca/assessment/assessment-ideas'
-    -
-        title: 'Learning Activities'
-        text: 'Active Learning | Engage | Practice'
-        icon: tabler/activity.svg
-        link: 'https://multi-access.twu.ca/assessment/activities'
 ---
