@@ -20,7 +20,7 @@ The second pillar of the assessment triangle is an observation of some sort. Thi
 
 SOLO stands for *Structure of the Observed Learning Outcome* and is a gauge to help you (and me) ensure that you are writing at an appropriate level.
 
-![alt-text)](SOLO-taxonomy.png "Figure 2. SOLO Taxonomy adapted from Biggs & Collis, 1982)
+![alt-text](SOLO-taxonomy.png "Figure 2. SOLO Taxonomy adapted from Biggs & Collis, 1982)
 
 #### Pre-Structural  
 A pre-structural response completely ***misses the point*** of the assessment.
