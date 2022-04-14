@@ -36,6 +36,28 @@ A relational response displays knowledge or ability in ***multiple dimensions of
 
 #### Extended Abstract  
 An extended abstract response displays knowledge or ability in ***multiple dimensions of the construct, how thy are related to each other, and how that construct can be applied to help us understand different constructs***.
+
+## Inference
+
+The final pillar of the assessment triangle is an inference or interpretation based on the data gathered in the observation phase of the assessment process. It is critical to understand that a particular judgement about the quality of a learner's performance is ***not*** a direct *measurement* of their ability or knowledge. It is an inference based on the data. An analogy for the process might be thinking about how you would narrow down a person's physical location by asking them a series of questions.
+
+If someone was riding their bicycle from the Devries Building, you could approximate their location by asking them which landmarks they have passed:
+
+- Q: Have you passed the Devries Building?
+- A: Yes
+- Q: Have you passed the Kuhn Building?
+- A: Yes
+- Q: Have you passed the Reimer Students' Centre?
+- No
+
+In this case you can identify that the person is somewhere between two known points (Kuhn and Reimer), but not specifically where in relation to each.
+
+![alt-text](measurement.png "Illustration of a person riding a bike between two known points.")
+
+In a parallel scenario, you might as a learner a series of questions. If they can successfully answer Items 1-2, but not 3-4, you know that their ability is somewhere between the difficulty levels of items 2 and 3. The  key is that you need to know the difficulty levels of the items, which is determined in the identification of the proficiency levels in the observation pillar.
+
+![alt-text](measurement2.png "Illustration of a person's cognitive ability in relation to two known difficulty levels".)
+
 ## References
 
 Biggs, J., & Collis, K. (1982). Evaluating the quality of learning: The SOLO taxonomy. Academic Press.
