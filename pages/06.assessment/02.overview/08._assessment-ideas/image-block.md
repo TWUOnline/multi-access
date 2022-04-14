@@ -12,4 +12,4 @@ In this section, we highlight a variety assessment techniques you may want to co
 - Is there an opportunity for learners to share their work with their peers, or beyond TWU?
 - Will there be formative feedback, and opportunities to improve their work?
 
-[Go to the Assessment Bank...](https://multi-access.twu.ca/assessment/assessment-ideas)
+[Go to the Assessment Bank...](https://multi-access.twu.ca/assessment/assessment-ideas?classes=btn,mt-4,w-content,block)

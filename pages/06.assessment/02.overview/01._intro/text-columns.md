@@ -37,7 +37,7 @@ A relational response displays knowledge or ability in ***multiple dimensions of
 #### Extended Abstract  
 An extended abstract response displays knowledge or ability in ***multiple dimensions of the construct, how thy are related to each other, and how that construct can be applied to help us understand different constructs***.
 
-## Inference
+## Interpretation
 
 The final pillar of the assessment triangle is an inference or interpretation based on the data gathered in the observation phase of the assessment process. It is critical to understand that a particular judgement about the quality of a learner's performance is ***not*** a direct *measurement* of their ability or knowledge. It is an inference based on the data. An analogy for the process might be thinking about how you would narrow down a person's physical location by asking them a series of questions.
 

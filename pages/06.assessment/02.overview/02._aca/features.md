@@ -5,12 +5,12 @@ variation: vertical
 features:
     -
         title: 'Assessment Purpose'
-        text: 'Assessment of Learning | Assessment for Learning | Assessment as Learning'
+        text: 'Assessment as Learning | Assessment for Learning | Assessment of Learning'
         icon: tabler/chart-bubble.svg
         link: 'https://multi-access.twu.ca/assessment/overview#assessment-purpose-2'
     -
         title: 'Assessment Process'
-        text: 'Assessment Design | Grading Rubrics | Feedback'
+        text: 'Assessment Design | Scoring and Use | Communication'
         icon: tabler/scale.svg
         link: 'https://multi-access.twu.ca/assessment/overview#assessment-process-2'
     -

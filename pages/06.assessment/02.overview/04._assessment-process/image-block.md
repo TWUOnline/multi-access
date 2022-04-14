@@ -6,7 +6,7 @@ media_order: andrej-lisakov-3A4XZUopCJA-unsplash.jpg
 image_align: left
 ---
 
-Assessment serves many purposes in higher education and thinking about those purposes is a useful beginning point in planning your classroom assessment strategies. Earl (2013) writes of three broad purposes of assessment: assessment ***of*** learning, assessment ***for*** learning, and assessment ***as*** learning. Follow the link below to explore more.
+Designing assessments well is key to ensuring that you are choosing the most appropriate method for assessing learning in your classes. Biggs and Tang write of the idea of *constructive alignment* wherein the assessment is aligned with the outcome it is intended to address. For example, if your outcome is related to learners demonstrating synthesis of ideas, yet your assessment instrument is built around selected-response items (true/false, multiple choice, matching, etc), then there is a misalignment as it is very difficult to demonstrate the ability to synthesize ideas on a selected-response instrument.
 
 [Find out more...](https://multi-access.twu.ca/assessment/process?classes=btn,mt-4,w-content,block)
 
