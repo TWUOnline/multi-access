@@ -56,7 +56,7 @@ In this case you can identify that the person is somewhere between two known poi
 
 In a parallel scenario, you might as a learner a series of questions. If they can successfully answer Items 1-2, but not 3-4, you know that their ability is somewhere between the difficulty levels of items 2 and 3. The  key is that you need to know the difficulty levels of the items, which is determined in the identification of the proficiency levels in the observation pillar.
 
-![alt-text](measurement2.png "Illustration of a person's cognitive ability in relation to two known difficulty levels".)
+![alt-text](measurement2.png "Illustration of a person's cognitive ability in relation to two known difficulty levels.")
 
 ## References
 
