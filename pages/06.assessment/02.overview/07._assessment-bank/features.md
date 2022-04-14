@@ -13,5 +13,6 @@ features:
         text: 'Active Learning | Engage | Practice'
         icon: tabler/activity.svg
         link: 'https://multi-access.twu.ca/assessment/activities'
+vertical_classes: 'grid-cols-2 '
 ---
 
