@@ -11,7 +11,7 @@ features:
     -
         title: 'Assessment Process'
         text: 'Assessment Design | Scoring and Use | Communication'
-        icon: tabler/scale.svg
+        icon: tabler/arrows-split.svg
         link: 'https://multi-access.twu.ca/assessment/overview#assessment-process-2'
     -
         title: 'Assessment Fairness'
