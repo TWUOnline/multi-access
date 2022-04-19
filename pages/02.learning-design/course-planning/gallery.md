@@ -10,13 +10,13 @@ In this section we discuss the course design process and share techniques you ca
 
 Here are the topics we'll cover (feel free to jump ahead!)
 
-<a href="#Key_Planning_Questions">- Key Planning Questions</a>
+<a href="#1. Key_Planning_Questions">- Key Planning Questions</a>
 
-<a href="#Backward_Design">- Backward Design</a>
+<a href="#2. Backward_Design">- Backward Design</a>
 
-<a href="#Course_Design_Process_at_TWU">- Course Design Process at TWU</a>
+<a href="#3. Course_Design_Process_at_TWU">- Course Design Process at TWU</a>
 
-<a href="#Creating_a_Course_Blueprint">- Creating a Course Blueprint</a>
+<a href="#4. Creating_a_Course_Blueprint">- Creating a Course Blueprint</a>
 
 
 
@@ -31,6 +31,15 @@ Designing a course is like planning to build a house. There are a lot of details
 Similarly, for course design, we ask:
 
 [add graphic from Mara - Questions to Ask When Planning Your Course:]
+- Who is the **learner**?  What is the average age, work experience, culture, etc.? What are their interests, learning styles, and needs? Why are they taking the course?
+
+- Why is this course important?  What are the **big ideas**, or the main take-aways? In an inquiry-based approach to learning, what are some **essential questions** learners may ask throughout the course?
+
+- What are the course **learning outcomes?** How will students demonstrate their understanding of these outcomes?
+
+- How will the course be **delivered**?  How will students connect with their peers, with the instructor, and with the content?
+
+- If a previous course exists, has there been any feedback from students and instructors?
 
 ...
 All of these questions impact the planning phase of creating a course.  
