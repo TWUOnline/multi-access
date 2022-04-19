@@ -105,29 +105,21 @@ See the following checklist from [Accessibility Toolkit](https://opentextbc.ca/a
 
 Open educational resources (OER) are freely accessible, openly licensed documents and media that are useful for teaching, learning, and assessing as well as for research purposes.
 
-The Public Domain Review: Contains many images, books, films, audio that are open
-Creative Commons: search for free resources
-Directory of Open Access Books
-About Creative Commons: http://creativecommons.org/videos/a-shared-culture​
-Open Textbooks
+**Open Textbooks**
+[OER Commons](https://www.oercommons.org/
+[MERLOT](https://www.merlot.org/merlot/index.htm)
+[OpenStax​](https://openstax.org/)
+[BC Campus Open Textbooks](https://collection.bccampus.ca/)
+[WikiBooks​](https://en.wikibooks.org/wiki/Main_Page)
 
-OER Commons
-MERLOT
-OpenStax​
-BC Campus Open Textbooks
-WikiBooks​
-CHEM Texts
-Open Courses
-Search for full courses, lessons, activities, assessments, resources…and reuse with the creative commons license!
+**Open Courses**
+Search for full courses, lessons, activities, assessments, resources...and reuse with the creative commons license!
 
-OERu Courses
-Open Courseware Consortium
-MIT Open Courseware
-Open Yale Courses​
-BC Campus SOL*R Repository
-Open University
-
-
+OERu Courses](https://oeru.org/courses/)
+[MIT Open Courseware](https://ocw.mit.edu/)
+[Open Yale Courses​](https://oyc.yale.edu/courses)
+[BC Campus SOL*R Repository](https://solr.bccampus.ca/wp/)
+[Open University](https://www.open.edu/openlearn/)
 
 [/ui-tab]
 [ui-tab title="Other Resources"]
