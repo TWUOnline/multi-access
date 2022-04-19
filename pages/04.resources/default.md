@@ -38,20 +38,20 @@ See the following checklist from [Accessibility Toolkit](https://opentextbc.ca/a
 
 **Organizing content**
 
-<i class="fa-solid fa-square-check"></i> Content is organized under headings and subheadings.
+☑️ Content is organized under headings and subheadings.
 
-<i class="fa-solid fa-square-check"></i> Headings and subheadings are used sequentially (e.g., Heading 1, Heading 2).
+☑️ Headings and subheadings are used sequentially (e.g., Heading 1, Heading 2).
 
 
 **Images**
 
-"fa-solid fa-square-check" Images that convey information include alternative text (alt text) descriptions of the image’s content or function.
+☑️ Images that convey information include alternative text (alt text) descriptions of the image’s content or function.
 
-☐ Graphs, charts, and maps also include contextual or supporting details in the text surrounding the image.
+☑️ Graphs, charts, and maps also include contextual or supporting details in the text surrounding the image.
 
-☐ Images do not rely on colour to convey information.
+☑️ Images do not rely on colour to convey information.
 
-☐ Images that are purely decorative do not have alt text descriptions. (Descriptive text is unnecessary if the image doesn’t convey contextual content information).
+☑️ Images that are purely decorative do not have alt text descriptions. (Descriptive text is unnecessary if the image doesn’t convey contextual content information).
 
 **Links**
 
@@ -65,39 +65,39 @@ See the following checklist from [Accessibility Toolkit](https://opentextbc.ca/a
 
 **Tables**
 
-☐ Tables include row and column headers.
+☑️ Tables include row and column headers.
 
-☐ Row and column headers have the correct scope assigned.
+☑️ Row and column headers have the correct scope assigned.
 
-☐ Tables include a caption.
+☑️ Tables include a caption.
 
-☐ Tables avoid merged or split cells.
+☑️ Tables avoid merged or split cells.
 
-☐ Tables have adequate cell padding.
+☑️ Tables have adequate cell padding.
 
 **Multimedia**
 
-☐ A transcript is available for each audio resource including relevant non-speech content. Transcript includes: speaker’s name, all speech content, relevant descriptions of speech, descriptions of relevant non-speech audio, and headings and subheadings.
+☑️ A transcript is available for each audio resource including relevant non-speech content. Transcript includes: speaker’s name, all speech content, relevant descriptions of speech, descriptions of relevant non-speech audio, and headings and subheadings.
 
-☐ Videos have captions of all speech content and relevant non-speech content.
+☑️ Videos have captions of all speech content and relevant non-speech content.
 
-☐ Videos include audio descriptions of contextual visuals (e.g., graphs, charts).
+☑️ Videos include audio descriptions of contextual visuals (e.g., graphs, charts).
 
 **Formulas**
 
-☐ Simple equations use symbols that will be correctly interpreted by screen readers (for example, minus signs and not hyphens).
+☑️ Simple equations use symbols that will be correctly interpreted by screen readers (for example, minus signs and not hyphens).
 
-☐ Complex equations are written in MathML or written in such a way they can be translated into MathML (for example, written in LaTeX and rendered with MathJax).
+☑️ Complex equations are written in MathML or written in such a way they can be translated into MathML (for example, written in LaTeX and rendered with MathJax).
 
-☐ Equations are images with alternative text descriptions if MathML is not an option.
+☑️ Equations are images with alternative text descriptions if MathML is not an option.
 
 **Font size**
 
-☐ Font size is 12 point or higher for body text.
+☑️ Font size is 12 point or higher for body text.
 
-☐ Font size is 9 point for footnotes or endnotes.
+☑️ Font size is 9 point for footnotes or endnotes.
 
-☐ Font size can be zoomed to 200%.
+☑️ Font size can be zoomed to 200%.
 
 
 [/ui-tab]
