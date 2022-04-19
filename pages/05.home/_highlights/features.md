@@ -29,9 +29,9 @@ features:
         link: 'https://multi-access.twu.ca/media'
     -
         title: 'Resources'
-        text: Open Educational Resources
+        text: Selecting Accessible Texts & Finding OERs
         icon: tabler/book.svg
-        link: 'https://multi-access.twu.ca/media'
+        link: 'https://multi-access.twu.ca/resources'
     -
         title: 'Teaching Online'
         text: Tips for online teaching
