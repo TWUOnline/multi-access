@@ -8,7 +8,6 @@ body_classes: 'title-center title-h1h2'
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title=Selecting Course Resources"]
 
-Finding resources for your course can take a lot of time and effort.  A textbook may not explain each course topic, so the search for supplemental resources is crucial.  Below are some tips for choosing a textbook, selecting an Open Resource (OER), and finding supplemental resources (videos, podcasts, images, etc.)
 
 
 
@@ -16,6 +15,8 @@ Finding resources for your course can take a lot of time and effort.  A textbook
 [ui-tab title="Selecting Course Resources"]
 
 ## Selecting Course Resources
+
+Once you've confirmed your course learning outcomes and assessment plan (see [Backwards Design](https://multi-access.twu.ca/learning-design/course-planning#Backward_Design)), you're ready to select the resources for your course, including textbooks, articles, videos, graphics, etc.
 
 Here are some questions to consider when choosing a resource:
 
@@ -122,9 +123,9 @@ OERu Courses](https://oeru.org/courses/)
 [Open University](https://www.open.edu/openlearn/)
 
 [/ui-tab]
-[ui-tab title="Other Resources"]
+[ui-tab title="Supplemental Resources"]
 
-...
+Finding resources can be difficult.  A textbook may not explain each course topic, so the search for supplemental resources is crucial.  Below are some tips for finding supplemental resources, such as videos, podcasts, images, etc.
 
 [/ui-tab]
 [/ui-tabs]

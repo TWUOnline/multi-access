@@ -11,13 +11,13 @@ In this section we discuss the course design process and share techniques you ca
 - add intro video
 
 Here are the topics we'll cover (feel free to jump ahead!)
-<a id="Key Planning Questions">
+<a id="1. Key Planning Questions">
 </a>
-<a id="Backward Design">
+<a id="2. Backward Design">
 </a>
-<a id="Course Design Process at TWU">
+<a id="3. Course Design Process at TWU">
 </a>
-<a id="Creating a Course Blueprint">
+<a id="4. Creating a Course Blueprint">
 </a>
 
 
@@ -33,6 +33,15 @@ Designing a course is like planning to build a house. There are a lot of details
 Similarly, for course design, we ask:
 
 [add graphic from Mara - Questions to Ask When Planning Your Course:]
+- Who is the **learner**?  What is the average age, work experience, culture, etc.? What are their interests, learning styles, and needs? Why are they taking the course?
+
+- Why is this course important?  What are the **big ideas**, or the main take-aways? In an inquiry-based approach to learning, what are some **essential questions** learners may ask throughout the course?
+
+- What are the course **learning outcomes?** How will students demonstrate their understanding of these outcomes?
+
+- How will the course be **delivered**?  How will students connect with their peers, with the instructor, and with the content?
+
+- If a previous course exists, has there been any feedback from students and instructors?
 
 ...
 All of these questions impact the planning phase of creating a course.  
@@ -71,19 +80,6 @@ As you design your course outcomes, assessments, and learning activities, keep i
 
 
 🔎 For more on Backward Design, view the website and video [Understanding by Design](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/).
-
----
-
-## Course Design Process at TWU
-Every course is different, and every course design experience is different.  In this section we'd like to briefly share a typical process we follow in creating and revising our online courses at TWU.
-
-*Please note: This process may not apply to your course! Often with time constraints, we speed things up to make sure the course is ready for students. During/after the course runs, we make further adjustments based on instructor and student feedback.*
-
-In a typical full course design, here are some things you might expect:
-
-![](What-to-expect-Infographic.jpg)
-
-
 
 
 ---
