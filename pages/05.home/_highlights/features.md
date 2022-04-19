@@ -42,6 +42,6 @@ features:
         text: 'FAQ for Online Teaching'
         icon: tabler/zoom-question.svg
         link: 'https://multi-access.twu.ca/media'
-subtitle: 'The Online Learning Team is here to support you and your students in their learning. See below for resources for designing accessible, engaging, high quality online courses.'
-title: 'Online Teaching & Learning Resources'
+subtitle: 'Supporting faculty in designing accessible, engaging, high quality online courses.'
+title: 'Resources'
 ---
