@@ -32,47 +32,71 @@ Here are some questions to consider when choosing a resource:
 
 One final important question...is it accessible?  
 
-Many online resources come in accessible versions with key features, such as:
-- available in a variety of formats (html, epub, pdf, etc.)
-- can be read aloud by text-to-speech software for those with visual difficulties
-- has alternative text available for all charts, graphs & images
-- integrating tools such as BeeLine Reader to help with screen fatigue.
-
-
 See the following checklist from [Accessibility Toolkit](https://opentextbc.ca/accessibilitytoolkit/back-matter/appendix-checklist-for-accessibility-toolkit/) - 2nd Edition by BCcampus
 
 ### Appendix A: Checklist for Accessibility
+
 **Organizing content**
-☐ Content is organized under headings and subheadings.
-☐ Headings and subheadings are used sequentially (e.g., Heading 1, Heading 2).
+
+<i class="fa-solid fa-square-check"></i> Content is organized under headings and subheadings.
+
+<i class="fa-solid fa-square-check"></i> Headings and subheadings are used sequentially (e.g., Heading 1, Heading 2).
+
 
 **Images**
-☐ Images that convey information include alternative text (alt text) descriptions of the image’s content or function.
+
+"fa-solid fa-square-check" Images that convey information include alternative text (alt text) descriptions of the image’s content or function.
+
 ☐ Graphs, charts, and maps also include contextual or supporting details in the text surrounding the image.
+
 ☐ Images do not rely on colour to convey information.
+
 ☐ Images that are purely decorative do not have alt text descriptions. (Descriptive text is unnecessary if the image doesn’t convey contextual content information).
+
 **Links**
-☐ The link text describes the destination of the link and does not use generic text such as “click here” or “read more.”
-☐ If a link will open or download a file (like a PDF or Excel file), a textual reference is included in the link information (e.g., [PDF]).
-☐ Links do not open in new windows or tabs.
-☐ If a link must open in a new window or tab, a textual reference is included in the link information (e.g., [NewTab]).
+
+☑️ The link text describes the destination of the link and does not use generic text such as “click here” or “read more.”
+
+☑️ If a link will open or download a file (like a PDF or Excel file), a textual reference is included in the link information (e.g., [PDF]).
+
+☑️ Links do not open in new windows or tabs.
+
+☑️ If a link must open in a new window or tab, a textual reference is included in the link information (e.g., [NewTab]).
+
 **Tables**
+
 ☐ Tables include row and column headers.
+
 ☐ Row and column headers have the correct scope assigned.
+
 ☐ Tables include a caption.
+
 ☐ Tables avoid merged or split cells.
+
 ☐ Tables have adequate cell padding.
+
 **Multimedia**
+
 ☐ A transcript is available for each audio resource including relevant non-speech content. Transcript includes: speaker’s name, all speech content, relevant descriptions of speech, descriptions of relevant non-speech audio, and headings and subheadings.
+
 ☐ Videos have captions of all speech content and relevant non-speech content.
+
 ☐ Videos include audio descriptions of contextual visuals (e.g., graphs, charts).
+
 **Formulas**
+
 ☐ Simple equations use symbols that will be correctly interpreted by screen readers (for example, minus signs and not hyphens).
+
 ☐ Complex equations are written in MathML or written in such a way they can be translated into MathML (for example, written in LaTeX and rendered with MathJax).
+
 ☐ Equations are images with alternative text descriptions if MathML is not an option.
+
 **Font size**
+
 ☐ Font size is 12 point or higher for body text.
+
 ☐ Font size is 9 point for footnotes or endnotes.
+
 ☐ Font size can be zoomed to 200%.
 
 
