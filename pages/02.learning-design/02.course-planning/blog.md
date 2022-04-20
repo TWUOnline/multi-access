@@ -6,18 +6,11 @@ body_classes: modular
 ## Planning Your Course
 
 In this section we discuss the course design process and share techniques you can use in planning your online, face-to-face, or blended courses at TWU.
-- add intro video
 
-Here are the topics we'll cover (feel free to jump ahead!)
-
-<a href="#1. Key_Planning_Questions">- Key Planning Questions</a>
-
-<a href="#2. Backward_Design">- Backward Design</a>
-
-<a href="#3. Course_Design_Process_at_TWU">- Course Design Process at TWU</a>
-
-<a href="#4. Creating_a_Course_Blueprint">- Creating a Course Blueprint</a>
-
+<a href="#Key_Planning_Questions">1. Key Planning Questions</a>
+<a href="#Backward_Design">2. Backward Design</a>
+<a href="#Course_Design_Process_at_TWU">3. Course Design Process at TWU</a>
+<a href="#Creating_a_Course_Blueprint">4. Creating a Course Blueprint</a>
 
 
 <a id="Key_Planning_Questions">
