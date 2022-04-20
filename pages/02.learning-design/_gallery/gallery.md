@@ -9,7 +9,17 @@ gallery:
     items:
         -
             title: Solo
-            image: null
+            image: 512px-Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png
+            desc: null
+            video: null
+        -
+            title: 'backward design'
+            image: Backward-Design_KM.png
+            desc: null
+            video: null
+        -
+            title: 'Big Ideas'
+            image: big-ideas-los.png
             desc: null
             video: null
 media_order: '512px-Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png,Backward_Design_Model.gif,Backward-Design_KM.png,big-ideas-los.png'
