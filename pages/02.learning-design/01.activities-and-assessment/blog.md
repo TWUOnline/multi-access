@@ -3,8 +3,6 @@ title: 'Activities and Assessment'
 body_classes: modular
 ---
 
-
-
 ## Learning Activities and Assessment
 
 As we design a course, we first identify the course learning outcomes, then we plan how students show their learning (assessment) and provide ways to practice and reflect on their learning (activities). As in the picture below, learners must know what to aim for, how to hit the target, and be given ample practice to be successful.
