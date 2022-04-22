@@ -109,20 +109,20 @@ Open educational resources (OER) are freely accessible, openly licensed document
 kelly test
 
 **Open Textbooks**
-[OER Commons](https://www.oercommons.org/
-[MERLOT](https://www.merlot.org/merlot/index.htm)
-[OpenStax​](https://openstax.org/)
-[BC Campus Open Textbooks](https://collection.bccampus.ca/)
-[WikiBooks​](https://en.wikibooks.org/wiki/Main_Page)
+[OER Commons](https://www.oercommons.org/  
+[MERLOT](https://www.merlot.org/merlot/index.htm)  
+[OpenStax​](https://openstax.org/)  
+[BC Campus Open Textbooks](https://collection.bccampus.ca/)  
+[WikiBooks​](https://en.wikibooks.org/wiki/Main_Page)  
 
 **Open Courses**
 Search for full courses, lessons, activities, assessments, resources...and reuse with the creative commons license!
 
-OERu Courses](https://oeru.org/courses/)
-[MIT Open Courseware](https://ocw.mit.edu/)
-[Open Yale Courses​](https://oyc.yale.edu/courses)
-[BC Campus SOL*R Repository](https://solr.bccampus.ca/wp/)
-[Open University](https://www.open.edu/openlearn/)
+OERu Courses](https://oeru.org/courses/)  
+[MIT Open Courseware](https://ocw.mit.edu/)  
+[Open Yale Courses​](https://oyc.yale.edu/courses)  
+[BC Campus SOL*R Repository](https://solr.bccampus.ca/wp/)  
+[Open University](https://www.open.edu/openlearn/)  
 
 [/ui-tab]
 [ui-tab title="Supplemental Resources"]
