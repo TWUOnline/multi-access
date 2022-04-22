@@ -24,21 +24,13 @@ Designing a course is like planning to build a house. There are a lot of details
 
 Similarly, for course design, we ask:
 
-[add graphic from Mara - Questions to Ask When Planning Your Course:]
-- Who is the **learner**?  What is the average age, work experience, culture, etc.? What are their interests, learning styles, and needs? Why are they taking the course?
+❔ Who is the **learner**?  What is the average age, work experience, culture, etc.? What are their interests, learning styles, and needs? Why are they taking the course?  
+❔ Why is this course important?  What are the **big ideas**, or the main take-aways? In an inquiry-based approach to learning, what are some **essential questions** learners may ask throughout the course?  
+❔ What are the course **learning outcomes?** How will students demonstrate their understanding of these outcomes?  
+❔ How will the course be **delivered**?  How will students connect with their peers, with the instructor, and with the content?  
+❔ If a previous course exists, has there been any **feedback** from students and instructors?
 
-- Why is this course important?  What are the **big ideas**, or the main take-aways? In an inquiry-based approach to learning, what are some **essential questions** learners may ask throughout the course?
-
-- What are the course **learning outcomes?** How will students demonstrate their understanding of these outcomes?
-
-- How will the course be **delivered**?  How will students connect with their peers, with the instructor, and with the content?
-
-- If a previous course exists, has there been any feedback from students and instructors?
-
-...
-All of these questions impact the planning phase of creating a course.  
-
-Notice, we didn't start with...
+Notice, we didn't start with these questions...
 
 📕 What textbook should I use for the course?  
 📘 What topics are covered in the textbook chapters?  
