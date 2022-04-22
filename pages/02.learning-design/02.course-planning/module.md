@@ -71,7 +71,7 @@ As you design your course outcomes, assessments, and learning activities, keep i
 ---
 <a id="Creating_a_Course_Blueprint">
 </a>
-### Creating a Course Blueprint
+## Creating a Course Blueprint
 To help you plan your course, we develop a course blueprint that maps out key components of the course.
 Feel free to use/copy the [TWU Course Blueprint Template](https://docs.google.com/document/d/1EaxSXVEe8fwqXXRJITg-RCAdtD69Uaza7wSjwkXsQro/edit?usp=sharing) on Google docs.
 
@@ -165,7 +165,7 @@ Other great resources:
 [ui-accordion-item title="STEP 4: Course Assessment"]
 Once we know where students are going (learning outcomes), we need to know how students will show that they've met the learning outcomes. There should be a clear link between what we ask students to do in the assignment, and what is stated in the related learning outcome.
 
-**Alternative forms of assessment**
+### Alternative Forms of Assessment  
 A summative assessment does not have to be an exam, but can instead be a
 portfolio, website, video, conversation, research paper, presentation,
 case study, plan, or project.  These often allow students to demonstrate prior learning and allow for more authentic assessment - that is personalized tasks that relate to their profession.
@@ -178,26 +178,17 @@ This section in the blueprint asks instructors to connect assessment to the cour
 
 [ui-accordion-item title="STEP 5: Unit Planning"]
 
-Perhaps the most significant part of the blueprint is the unit plan.  In this section, we determine the sequence of the course by aligning each outcome and its
+Perhaps the most time-consuming part of the blueprint is the unit plan.  In this section, we determine the sequence of the course by aligning each outcome and its
 associated formative and/or summative activities with a particular unit in your
 course. Many instructors divide their course into weekly units, but it's important to have more of a topical structure. This allows for more flexibility for condensed courses, and helps to focus specific topics to their related unit learning outcomes.
 
-*A note about Learning Activities*
-
-Once you know what learners will do and how well they will do it, consider the
-formative learning activities which will scaffold the learners' progress towards
-the proficiency targets for each outcome. Upon completion of a formative
-learning activity, learners should know how they performed relative to the
-priority course outcome and specifically how they can close the gap between
-their actual performance and the expected performance. Faculty, likewise, should
-know what each learner needs to do to close the gap and they should also know
-how to differentiate future learning activities in order to address
-misconceptions.
+!!!! *A note about Learning Activities*: Once you know what learners will do and how well they will do it, consider the formative learning activities which will **scaffold** the learners' progress towards the proficiency targets for each outcome. Upon completion of a formative learning activity, learners should know how they performed relative to the priority course outcome and specifically how they can close the gap between their actual performance and the expected performance. Faculty, likewise, should
+know what each learner needs to do to close the gap and they should also know how to differentiate future learning activities in order to address misconceptions.
 
 ![alt-text](twu-bp-units.png "Unit Plan section in Blueprint")
 
 **Blueprint Examples**
-Below is one example of part of a blueprint document.  For a current blueprint template for TWU courses, click on the following links: [TWU Course Blueprint Template - Google doc](https://docs.google.com/document/d/1EaxSXVEe8fwqXXRJITg-RCAdtD69Uaza7wSjwkXsQro/edit?usp=sharing); [TWU Course Blueprint Template - Word version](TWU Course Blueprint Template-2022.docx)
+Below is one example of part of a blueprint document. Again, feel free to use/copy the [TWU Course Blueprint Template](https://docs.google.com/document/d/1EaxSXVEe8fwqXXRJITg-RCAdtD69Uaza7wSjwkXsQro/edit?usp=sharing) on Google docs.
 
 ![alt-text](ldrs-627-blueprint.png "LDRS 627 Blueprint")
 
@@ -207,7 +198,7 @@ Below is one example of part of a blueprint document.  For a current blueprint t
 
 A final section of the blueprint is dedicated to a resource list.  As a blueprint is simply a planning document - one that can and will change as you develop the course - feel free to add resources you are thinking of using.
 
-As Instructional Designers (not the Subject Matter Experts) we often direct instructors to Open Educational Resources (OERs), or case study repositories. If you're interested in exploring OERs and other course resources, please see the Resources section.
+As Instructional Designers we often encourage instructors to consider Open Educational Resources (OERs). If you're interested in exploring OERs and other course resources, please see the [Resources](https://multi-access.twu.ca/resources) section.
 
 [/ui-accordion-item]
 
