@@ -97,7 +97,11 @@ think of a big idea as a subtitle or unifying theme for your course. In an inqui
 
 [ui-accordion-item title="STEP 2: Course Description"]
 
-Next, we have a look at the course description.  Note that if there are any changes, these need to be approved by Senate.  
+Next, we have a look at the course description.  Does the description cover the big ideas or themes of your course?  Does it address or align with the course learning outcomes (we'll address these in the next section)?  Does it have unnecessary information that may change with various versions of the course (e.g. class activities that may not apply to online cohorts, assignments or resources that may change, etc.)?
+
+Consider your course description as a hook to get students interested in your course. It should summarize what they will learn, and should imply why it matters, or how they will apply this learning experience.
+
+!! Note that if there are any changes to a course description, these need to be approved by Senate.  
 
 [/ui-accordion-item]
 
