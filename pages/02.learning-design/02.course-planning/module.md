@@ -73,9 +73,10 @@ As you design your course outcomes, assessments, and learning activities, keep i
 </a>
 ### Creating a Course Blueprint
 To help you plan your course, we develop a course blueprint that maps out key components of the course.
+Feel free to use/copy the [TWU Course Blueprint Template](https://docs.google.com/document/d/1EaxSXVEe8fwqXXRJITg-RCAdtD69Uaza7wSjwkXsQro/edit?usp=sharing) on Google docs.
 
 Here are key steps in filling out a blueprint: (Click the title on the steps below)
----
+
 
 [ui-accordion independent=true open=none]
 
