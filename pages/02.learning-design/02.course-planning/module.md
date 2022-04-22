@@ -102,9 +102,6 @@ In a typical full course design, here are some things you might expect:
 To help you plan your course, we develop a course blueprint that maps out key components of the course.
 
 Here are key steps in filling out a blueprint: (Click the title on the steps below)
-
-!! fix accordion!
-
 ---
 
 [ui-accordion independent=true open=none]
