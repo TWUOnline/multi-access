@@ -1,10 +1,11 @@
 ---
-title: 'Blogs'
+title: Blogs
 taxonomy:
     tag:
         - 'assessment as learning'
         - formative
         - peer
+        - ⭐⭐⭐
 ---
 
 ### Blogs
