@@ -7,11 +7,9 @@ body_classes: modular
 
 In this section we discuss the course design process and share techniques you can use in planning your online, face-to-face, or blended courses at TWU.
 
-<a href="#Key_Planning_Questions">1. Key Planning Questions</a>
-
-<a href="#Backward_Design">2. Backward Design</a>
-
-<a href="#Creating_a_Course_Blueprint">4. Creating a Course Blueprint</a>
+<a href="#Key_Planning_Questions">1. Key Planning Questions</a>  
+<a href="#Backward_Design">2. Backward Design</a>  
+<a href="#Creating_a_Course_Blueprint">3. Creating a Course Blueprint</a>  
 
 
 <a id="Key_Planning_Questions">
@@ -25,7 +23,7 @@ Designing a course is like planning to build a house. There are a lot of details
 Similarly, for course design, we ask:
 
 ❔ Who is the **learner**?  What is the average age, work experience, culture, etc.? What are their interests, learning styles, and needs? Why are they taking the course?  
-❔ Why is this course important?  What are the **big ideas**, or the main take-aways? In an inquiry-based approach to learning, what are some **essential questions** learners may ask throughout the course?  
+❔ Why is this course important?  What are the **big ideas**, or the main take-aways for learners?   
 ❔ What are the course **learning outcomes?** How will students demonstrate their understanding of these outcomes?  
 ❔ How will the course be **delivered**?  How will students connect with their peers, with the instructor, and with the content?  
 ❔ If a previous course exists, has there been any **feedback** from students and instructors?
@@ -50,16 +48,16 @@ Instead, we use what's called **Backward Design** to develop the course.
 
 ![](Backward-Design.jpg)
 
-In planning a course, here are three key questions we start with:
-1. We first focus on the *target*: what knowledge, skills or attitudes do we want students to have at the end of the course? Essentially, what are the course learning outcomes?
-2. Second, how will learners *demonstrate* that they have the knowledge, skills or attitudes identified?  What assessment strategy will show students level of understanding of the course learning outcomes?
-3. Finally, what learning *experiences* will help students achieve this?  What activities will scaffold students' learning, engage them in the topics, and allow them to practice or develop their understanding of the course learning outcomes?
+To plan your course, here are the 3 stages using Backward Design:
+1. We first focus on the *target*: what knowledge, skills or attitudes do we want students to have at the end of the course? Essentially, what are the course **learning outcomes**?
+2. Second, how will learners *demonstrate* that they have the knowledge, skills or attitudes identified?  What **assessment** strategy will show students level of understanding of the course learning outcomes?
+3. Finally, what learning *experiences* will help students achieve this?  What **activities** will scaffold students' learning, engage them in the topics, and allow them to practice or develop their understanding of the course learning outcomes?
 
 
 
 📺 Watch the following 5 minute video on Backward Design.  
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/XwlUhS_hxBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1120" height="630" <center> src="https://www.youtube.com/embed/XwlUhS_hxBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Note in the video how they emphasize the connections between the three key components of the course: **Outcomes**, **Assessment**, **Activities**.  Learning outcomes inform assessment and activity choice; activities are designed to prepare students for assessments to demonstrate understanding of the outcomes.
@@ -89,7 +87,7 @@ One strategy we use before getting into the details of a course is identifying t
 
 The first part of the blueprint asks you to identify 1-2 ideas and a few essential questions
 that will serve as the narrative frame or the “hook” for your course. You might
-think of a big idea as a subtitle or unifying theme for your course.
+think of a big idea as a subtitle or unifying theme for your course. In an inquiry-based approach to learning, what are some **essential questions** learners may ask throughout the course?
 
 ![alt-text](twu-bp-ideas.png "Big Ideas section in Blueprint")
 
