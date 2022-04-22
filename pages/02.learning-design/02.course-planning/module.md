@@ -107,11 +107,11 @@ Consider your course description as a hook to get students interested in your co
 
 [ui-accordion-item title="STEP 3: Course Learning Outcomes"]
 
-Third, we identify the learning outcomes we want students to understand. Learning outcomes describe what learners will be able to *know, do and value* after a learning experience. They clearly explain the knowledge, skills, and attitudes students will gain through a course.
+Third, we identify the learning outcomes we want students to achieve. Learning outcomes describe what learners will be able to *know, do and value* after a learning experience. They clearly explain the knowledge, skills, and attitudes students will gain through a course.
 
 It is crucial to have measurable learning outcomes listed on the course outline, as they communicate expectations to the learner and help guide the instructor.  
 
-Note that for each course learning outcome, we need to identify the [TWU Student Learning Outcome](https://www.twu.ca/academics/student-learning-outcomes) it addresses as well.  In this part of the blueprint we ask you to categorize your learning outcomes, and begin to think of possible learning artifacts, or evidence of learning.
+Note that for each course learning outcome, we need to identify the [TWU Student Learning Outcome](https://www.twu.ca/academics/student-learning-outcomes) it aligns with.  In this part of the blueprint we ask you to categorize your learning outcomes, and begin to think of possible learning artifacts, or evidence of learning.
 
 ![alt-text](twu-bp-assessment.png "Assessment section in Blueprint")
 
