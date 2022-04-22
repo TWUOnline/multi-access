@@ -11,8 +11,6 @@ In this section we discuss the course design process and share techniques you ca
 
 <a href="#Backward_Design">2. Backward Design</a>
 
-<a href="#Course_Design_Process_at_TWU">3. Course Design Process at TWU</a>
-
 <a href="#Creating_a_Course_Blueprint">4. Creating a Course Blueprint</a>
 
 
@@ -78,21 +76,6 @@ As you design your course outcomes, assessments, and learning activities, keep i
 
 
 🔎 For more on Backward Design, view the website and video [Understanding by Design](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/).
-
----
-<a id="Course_Design_Process_at_TWU">
-</a>
-
-## Course Design Process at TWU
-Every course is different, and every course design experience is different.  In this section we'd like to briefly share a typical process we follow in creating and revising our online courses at TWU.
-
-*Please note: This process may not apply to your course! Often with time constraints, we speed things up to make sure the course is ready for students. During/after the course runs, we make further adjustments based on instructor and student feedback.*
-
-In a typical full course design, here are some things you might expect:
-
-![](What-to-expect-Infographic.jpg)
-
-
 
 
 ---
@@ -190,6 +173,8 @@ As Instructional Designers (not the Subject Matter Experts) we often direct inst
 [/ui-accordion-item]
 
 [/ui-accordion]
+
+!!! If you are a Course Developer working with an Instructional Designer, please see our Course Developer's page for more information on the course design process at TWU.
 
 ---
 
