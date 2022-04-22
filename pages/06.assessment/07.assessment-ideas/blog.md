@@ -11,5 +11,6 @@ content:
 show_breadcrumbs: true
 show_sidebar: true
 show_pagination: true
+show_children_in_secondary_menu: true
 ---
 
