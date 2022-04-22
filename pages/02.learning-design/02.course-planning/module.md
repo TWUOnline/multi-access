@@ -109,7 +109,7 @@ Here are key steps in filling out a blueprint: (Click the title on the steps bel
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title=STEP 1: Big Ideas and Essential Questions"]
+[ui-accordion-item title="STEP 1: Big Ideas and Essential Questions"]
 
 One strategy we use before getting into the details of a course is identifying the **Big Ideas** (Wiggins & McTighe, 2005). Below is an image from Stanford University (adapted) that takes us through the process of deciding the big ideas, essential questions, key knowledge and skills, and learning activities.
 
@@ -125,13 +125,13 @@ think of a big idea as a subtitle or unifying theme for your course.
 
 [/ui-accordion-item]
 
-[ui-accordion-item title=STEP 2: Course Description"]
+[ui-accordion-item title="STEP 2: Course Description"]
 
 Next, we have a look at the course description.  Note that if there are any changes, these need to be approved by Senate.  
 
 [/ui-accordion-item]
 
-[ui-accordion-item title=STEP 3: Course Learning Outcomes"]
+[ui-accordion-item title="STEP 3: Course Learning Outcomes"]
 
 Third, we identify the learning outcomes we want students to understand. Learning outcomes describe what learners will be able to *know, do and value* after a learning experience. They clearly explain the knowledge, skills, and attitudes students will gain through a course.
 
@@ -143,7 +143,7 @@ Note that for each course learning outcome, we need to identify the [TWU Student
 
 [/ui-accordion-item]
 
-[ui-accordion-item title=STEP 4: Course Assessment"]
+[ui-accordion-item title="STEP 4: Course Assessment"]
 Once we know where students are going (learning outcomes), we need to know how students will show that they've met the learning outcomes. There should be a clear link between what we ask students to do in the assignment, and what is stated in the related learning outcome.
 
 **Alternative forms of assessment**
@@ -157,7 +157,7 @@ This section in the blueprint asks instructors to connect assessment to the cour
 
 [/ui-accordion-item]
 
-[ui-accordion-item title=STEP 5: Unit Planning"]
+[ui-accordion-item title="STEP 5: Unit Planning"]
 
 Perhaps the most significant part of the blueprint is the unit plan.  In this section, we determine the sequence of the course by aligning each outcome and its
 associated formative and/or summative activities with a particular unit in your
@@ -184,7 +184,7 @@ Below is one example of part of a blueprint document.  For a current blueprint t
 
 [/ui-accordion-item]
 
-[ui-accordion-item title=STEP 6: Resources"]
+[ui-accordion-item title="STEP 6: Resources"]
 
 A final section of the blueprint is dedicated to a resource list.  As a blueprint is simply a planning document - one that can and will change as you develop the course - feel free to add resources you are thinking of using.
 
