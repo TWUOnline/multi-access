@@ -83,7 +83,7 @@ class di orange
 
 [mermaid]
 flowchart TD
-    A[Start] --> B{Is it?}
+    A[Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?] -YES-> B{Is the work complete and well-communicated?}
     B -->|Yes| C[OK]
     C --> D[Rethink]
     D --> B
