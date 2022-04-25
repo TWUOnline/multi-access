@@ -83,11 +83,11 @@ class di orange
 
 [mermaid]
 flowchart TD
-    [Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?]
-         ---|YES|--> {Is the work complete and well-communicated?}
+    A[Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?]---|YES|--> [Is the work complete and well-communicated?]
+
+[/mermaid]
             ---|YES|---> {E _ Exemplary}
             ---|NO|---> {M - Meets Expectations}
         ---|NO|---> {Is there evidence of partial understanding}
             ---|YES|---> {R - Revision Needed}
             ---|NO|---> {N - Not Assessable}
-[/mermaid]
