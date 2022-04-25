@@ -63,3 +63,20 @@ In a parallel scenario, you might as a learner a series of questions. If they ca
 Biggs, J., & Collis, K. (1982). Evaluating the quality of learning: The SOLO taxonomy. Academic Press.
 
 Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). Knowing What Students Know: The Science and Design of Educational Assessment. National Academies Press. https://doi.org/10.17226/10019
+
+
+[mermaid]
+graph TB
+sq[Square shape] --&gt; ci((Circle shape))
+
+subgraph A subgraph
+    od&gt;Odd shape]-- Two line&lt;br&gt;edge comment --&gt; ro
+    di{Diamond &lt;br/&gt; line break} -.-&gt; ro(Rounded&lt;br&gt;square&lt;br&gt;shape)
+    di==&gt;ro2(Rounded square shape)
+end
+
+classDef green fill:#9f6,stroke:#333,stroke-width:2px;
+classDef orange fill:#f96,stroke:#333,stroke-width:4px;
+class sq,e green
+class di orange
+[/mermaid]

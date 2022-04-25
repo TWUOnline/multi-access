@@ -6,7 +6,7 @@ media_order: lukas-blazek-GnvurwJsKaY-unsplash.jpg
 image_align: left
 ---
 
-Assessment serves many purposes in higher education and thinking about those purposes is a useful beginning point in planning your classroom assessment strategies. Earl (2013) writes of three broad purposes of assessment: assessment ***of*** learning, assessment ***for*** learning, and assessment ***as*** learning. Follow the link below to explore more.
+Understanding the nature of assessment inferences helps both instructors and learners to interpret the meaning of 'grades' whether those be numbers assigned to indicate the quality of a particular artifact, or a final determination at the end of a course. It is important to recognize that there are limitations to what can be communicated in a single number or letter, especially given the wide variety of heuristics used to arrive at that number or letter.
 
 [Find out more...](https://multi-access.twu.ca/assessment/theory?classes=btn,mt-4,w-content,block)
 
