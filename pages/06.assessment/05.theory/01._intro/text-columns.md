@@ -83,7 +83,7 @@ class di orange
 
 [mermaid]
 flowchart TD
-    A[Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?]---|YES|--> [Is the work complete and well-communicated?]
+    A[Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?] ---|YES|--> [Is the work complete and well-communicated?]
 
 [/mermaid]
             ---|YES|---> {E _ Exemplary}
