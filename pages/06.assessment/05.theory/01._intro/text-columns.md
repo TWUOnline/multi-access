@@ -64,7 +64,7 @@ Biggs, J., & Collis, K. (1982). Evaluating the quality of learning: The SOLO tax
 
 Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). Knowing What Students Know: The Science and Design of Educational Assessment. National Academies Press. https://doi.org/10.17226/10019
 
-<!-->
+<!--
 [mermaid]
 graph TB
 sq[Square shape] --&gt; ci((Circle shape))
