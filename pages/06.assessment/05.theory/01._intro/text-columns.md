@@ -84,6 +84,7 @@ class di orange
 [mermaid]
 flowchart TD
     Start --> Stop
+    Start --> go
 
 [/mermaid]
     A[Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?] ---|YES|--> [Is the work complete and well-communicated?]
