@@ -28,8 +28,10 @@ What to Expect
 [ui-tab title="FAQ"]
 
 # FAQ for Course Developers
-details...
 
+* **What are the advantages of having the content for a course go through the Design Process?
+**
+In your daily practice as a teacher of the subject, there are many ways to instruct your students. Creating content fidelity ensures that students from different cohorts receive the same quality of content, learning, and experiences. Designing a course allows you to be the expert on the subject and create the learning environment and plan the application from the beginning. This adds flexibility, quality, and coherence to the course.
 
 [/ui-tab]
 [ui-tab title="SME Testimonials"]
