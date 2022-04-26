@@ -1,7 +1,7 @@
 ---
 title: 'Approaching Assessment'
 body_classes: modular
-variation: vertical
+variation: horizontal
 features:
     -
         title: 'Assessment Purpose'
@@ -34,5 +34,6 @@ features:
         icon: tabler/activity.svg
         link: 'https://multi-access.twu.ca/assessment/activities'
 vertical_classes: 'grid-cols-3 '
+horizontal_classes: 'md:grid-cols-2 xl:grid-cols-3'
 ---
 
