@@ -46,9 +46,9 @@ See https://ideas.trubox.ca/home/word-with-us/
 
 **Instructional Designer (ID)** - works with instructors to design online courses.
 
-**Facilitator** - In some modalities, courses will have a facilitator to guide students in their learning at designated Learning Labs.  Note Facilitators are not subject matter experts, but are training in online learning facilitation (see [Graduate Certificate in Adult Learning: Coaching and Facilitation](https://www.twu.ca/leadership-ma/graduate-certificate-adult-learning-coaching-and-facilitation))
+**Facilitator** - In some modalities, courses will have a facilitator to guide students in their learning at designated Learning Labs.  Note Facilitators are not subject matter experts, but are training in online learning facilitation (see [Graduate Certificate in Adult Learning: Coaching and Facilitation](https://www.twu.ca/leadership-ma/graduate-certificate-adult-learning-coaching-and-facilitation)).
 
-**Synchronous** - 
+**Synchronous** - It means that the instructor and the students are engaged in the same course content and each other at the same time, but may do so from different places. In order to hold live classes or meetings, instructors interact in real time through streaming audio, video, and presentations.
 
 **Asynchronous** - Asynchronous learning in an online environment allows students to access information at their own pace and does not include a live lecture component, however, there could be a prerecorded component as part of the online learning experience.
 
