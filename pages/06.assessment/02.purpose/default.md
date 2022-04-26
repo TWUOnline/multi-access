@@ -1,5 +1,6 @@
 ---
 title: 'Assessment Purpose'
+media_order: 'course-assessment.png,formative-vs-summative.png,laptop-2559958_1920.jpg'
 ---
 
 ## Why Assess?
