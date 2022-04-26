@@ -38,7 +38,7 @@ Here are some things to consider when creating educational graphics.
 - **Need guidance on how to edit an image:** Refer to this notion page to learn how to download and edit your images [Instructions for Resizing Images](https://www.notion.so/Instructions-for-Resizing-Images-3077fae9f3374d49bfe39a1d7b79ceed).
 
 
-## A picture isn't clear enough, what about an infographic?
+## A picture isn't clear enough, what about using an infographic?
 When using visual data, charts, and statistics, infographics provide an easy way for people to digest information. Information can be transformed into graphics that are memorable, attention-grabbing, and even persuasive by using the right combination of color, proportion, and negative space.
 
 ![infographic](infographic.png "infographic")
