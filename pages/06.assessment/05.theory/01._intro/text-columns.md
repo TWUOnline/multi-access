@@ -85,6 +85,7 @@ class di orange
 flowchart TD
     Start --YES---> A((Stop))
     Start --> go
+    A((Stop)) --NO--> B[[test]]
 
 [/mermaid]
     A[Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?] ---|YES|--> [Is the work complete and well-communicated?]
