@@ -6,6 +6,6 @@ header_bar:
     text: light
 content:
     items: self@.modular
-visible: false
+visibility: false
 ---
 
