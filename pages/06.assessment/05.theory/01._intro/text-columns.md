@@ -89,7 +89,7 @@ flowchart TD
     A([Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?]) --NO--> E[Is there evidence of partial understanding?]
         E([Is there evidence of partial understanding?]) --YES--> F([R - Revision Needed])
         E([Is there evidence of partial understanding?]) --NO--> G([N - Not Assessable])
-    C[[E - Excellent/Exemplary]] -- H[The work meets or exceeds expectations of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are no trivial errors. This work could be used as a classroom example.]
+    C[[E - Excellent/Exemplary]] --- H[The work meets or exceeds expectations of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are no trivial errors. This work could be used as a classroom example.]
 [/mermaid]
 
 
