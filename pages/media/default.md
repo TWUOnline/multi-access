@@ -17,7 +17,11 @@ intro?
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/702950788?h=801b22cb5e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Communication Technologies"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+<br>
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/702949944?h=d46428e2c1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Persistent Spiritual Questions"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<br>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/702949118?h=c242a28cb5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Nursing Training - Sabina Lift"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -26,7 +30,7 @@ intro?
 [ui-tab title="Graphics"]
 
 
-# Considerations for Educational Graphics
+## Considerations for Educational Graphics
 
 Rather than utilizing text to illustrate their educational materials, many instructors choose to use graphics. It can be difficult for students to understand key concepts if a poor choice of graphics is used. Illustrations and or images that are effective can add more context and information.
 
@@ -61,7 +65,7 @@ When using visual data, charts, and statistics, infographics provide an easy way
 ![infographic](infographic.png "infographic")
 
 - **Is it helpful?** If your students have difficulty grasping key concepts in class, graphics can help by helping them understand them. Think about this before you begin creating them for your course. Infographics are useful for explaining complex ideas. An icon or image can be used to better represent processes that require a lot of text to describe. You should ensure the graphic addresses a specific problem before including it in the course materials, as meaningless graphics can distract from the content.
--
+
 - **Do you want to create your own infographic?** There are many websites that provide a few free templates and even have editors that allow you to create an infographic. Here are some of these:
 
 [https://www.canva.com/](https://www.canva.com/)
