@@ -34,6 +34,5 @@ features:
         icon: tabler/activity.svg
         link: 'https://multi-access.twu.ca/assessment/activities'
 vertical_classes: 'md:grid-cols-3 '
-horizontal_classes: 'md:grid-cols-2 xl:grid-cols-3'
 ---
 
