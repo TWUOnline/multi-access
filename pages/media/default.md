@@ -48,7 +48,7 @@ When using visual data, charts, and statistics, infographics provide an easy way
 
 ![infographic](infographic.png "infographic")
 
-- **Is it helpful?** If your students have difficulty grasping key concepts in class, graphics can help by helping them understand them. Think about this before you begin creating them for your course. Infographics are useful for explaining complex ideas. An icon or image can be used to better represent processes that require a lot of text to describe. You should ensure the graphic addresses a specific problem before including it in the course materials, as meaningless graphics can distract from the content.
+- **Is it helpful?** When your students are having difficulty understanding key concepts in class, graphics can be used to assist in their understanding. This is something you should consider before beginning to design them. Using infographics to explain complex concepts is highly beneficial. For processes requiring a great deal of text to be described, the use of an icon or image can be beneficial. Ensure that the graphic addresses a specific issue before including it in the course materials, as meaningless graphics can distract from the content.
 
 - **Do you want to create your own infographic?** There are many websites that provide a few free templates and even have editors that allow you to create an infographic. Here are some of these:
 
