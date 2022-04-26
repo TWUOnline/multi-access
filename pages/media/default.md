@@ -34,10 +34,10 @@ Here are some things to consider when creating educational graphics.
 - **Is the image of high quality?** To be useful, a graphic needs to show clearly, there are considerations of dimensions but also resolution and image quality.
 - **Is the image use legal?**  When using an image in your course  Please be sure to credit the author of the image or look for images that are openly licensed and free to use.  The following are links that may prove useful in finding images.
 
-1.  **ISO Republic photos** are free for personal and commercial use and come with a **Creative Commons License** [Best Royalty Free High Resolution Stock Photos & Videos | ISO Republic](http://isorepublic.com/)
-3. [https://www.pexels.com/](https://www.pexels.com/)
-4. [https://unsplash.com/](https://unsplash.com/)
-5. [https://freerangestock.com/](https://freerangestock.com/)
+	* **ISO Republic photos** are free for personal and commercial use and come with a **Creative Commons License** [Best Royalty Free High Resolution Stock Photos & Videos | ISO Republic](http://isorepublic.com/)
+	* [https://www.pexels.com/](https://www.pexels.com/)
+	* [https://unsplash.com/](https://unsplash.com/)
+	* [https://freerangestock.com/](https://freerangestock.com/)
 
 
 Refer to this notion page to learn how to download and edit your images [https://www.notion.so/twuid/Instructions-for-Resizing-Images-3077fae9f3374d49bfe39a1d7b79ceed](https://www.notion.so/Instructions-for-Resizing-Images-3077fae9f3374d49bfe39a1d7b79ceed)
