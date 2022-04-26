@@ -27,12 +27,6 @@ intro?
 [ui-tab title="Graphics"]
 
 
-## Graphics
-
-
-[/ui-tab]
-[ui-tab title="Other Resources"]
-
 # Considerations for Educational Graphics
 
 Rather than utilizing text to illustrate their educational materials, many instructors choose to use graphics. It can be difficult for students to understand key concepts if a poor choice of graphics is used. Illustrations and or images that are effective can add more context and information.
@@ -79,6 +73,12 @@ When using visual data, charts, and statistics, infographics provide an easy way
  
 
 ## Do you need help! That’s what we are here for 😊.
+
+
+[/ui-tab]
+[ui-tab title="Other Resources"]
+
+Details
 
 [/ui-tab]
 [/ui-tabs]
