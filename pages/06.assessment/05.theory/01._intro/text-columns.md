@@ -83,7 +83,7 @@ class di orange
 
 [mermaid]
 flowchart TD
-    Start --> A((Stop))
+    Start --YES---> A((Stop))
     Start --> go
 
 [/mermaid]
