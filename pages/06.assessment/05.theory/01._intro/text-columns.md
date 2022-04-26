@@ -83,7 +83,8 @@ class di orange
 
 [mermaid]
 flowchart TD
-    Start --> Stop & Stop --> [keep stopping]
+    Start --> Stop & 
+    Stop --> [keep stopping]
     Start --> go
 
 
