@@ -37,6 +37,11 @@ In your daily practice as a teacher of the subject, there are many ways to instr
 **
 The key steps in developing an online course at TWU are: 1. Pre-planning, 2. Planning (completion of a Blueprint), 3. Writing, 4. Production and 5. Review.
 
+* **Who owns the content I will write?
+**
+
+* **How long does the Design Process usually takes?
+**
 
 [/ui-tab]
 [ui-tab title="SME Testimonials"]
