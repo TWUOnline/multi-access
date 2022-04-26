@@ -33,6 +33,11 @@ What to Expect
 **
 In your daily practice as a teacher of the subject, there are many ways to instruct your students. Creating content fidelity ensures that students from different cohorts receive the same quality of content, learning, and experiences. Designing a course allows you to be the expert on the subject and create the learning environment and plan the application from the beginning. This adds flexibility, quality, and coherence to the course.
 
+* **What are the steps of the Design Process?
+**
+The key steps in developing an online course at TWU are: 1. Pre-planning, 2. Planning (completion of a Blueprint), 3. Writing, 4. Production and 5. Review.
+
+
 [/ui-tab]
 [ui-tab title="SME Testimonials"]
 
