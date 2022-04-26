@@ -11,7 +11,7 @@ title: 'Assessment Process'
 ## Grading Rubrics
 
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/702949118?h=c242a28cb5" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/702949118?h=c242a28cb5" width="1280" height="720" frameborder="0" allowfullscreen></iframe>
 
 ## Dealing with Cheating and Plagiarism
 
