@@ -35,10 +35,10 @@ Here are some things to consider when creating educational graphics.
 - **Is the image use legal?**  When using an image in your course  Please be sure to credit the author of the image or look for images that are openly licensed and free to use.  The following are links that may prove useful in finding images:
 	[ISO Republic photos](http://isorepublic.com/) (Creative Commons License) | [https://www.pexels.com/](https://www.pexels.com/) | [https://unsplash.com/](https://unsplash.com/) | [https://freerangestock.com/](https://freerangestock.com/).
 
+- **Need guidance on how to edit an image:** Refer to this notion page to learn how to download and edit your images [Instructions for Resizing Images](https://www.notion.so/Instructions-for-Resizing-Images-3077fae9f3374d49bfe39a1d7b79ceed).
 
-Refer to this notion page to learn how to download and edit your images [https://www.notion.so/twuid/Instructions-for-Resizing-Images-3077fae9f3374d49bfe39a1d7b79ceed](https://www.notion.so/Instructions-for-Resizing-Images-3077fae9f3374d49bfe39a1d7b79ceed)
 
-**A picture isn't clear enough, what about an infographic?**
+## A picture isn't clear enough, what about an infographic?
 When using visual data, charts, and statistics, infographics provide an easy way for people to digest information. Information can be transformed into graphics that are memorable, attention-grabbing, and even persuasive by using the right combination of color, proportion, and negative space.
 
 ![infographic](infographic.png "infographic")
