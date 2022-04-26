@@ -1,5 +1,5 @@
 ---
-title: Course Developers
+title: 'Course Developers'
 body_classes: 'title-center title-h1h2'
 ---
 
@@ -48,11 +48,11 @@ See https://ideas.trubox.ca/home/word-with-us/
 
 **Facilitator** - In some modalities, courses will have a facilitator to guide students in their learning at designated Learning Labs.  Note Facilitators are not subject matter experts, but are training in online learning facilitation (see [Graduate Certificate in Adult Learning: Coaching and Facilitation](https://www.twu.ca/leadership-ma/graduate-certificate-adult-learning-coaching-and-facilitation))
 
-**Synchronous** -
+**Synchronous** - 
 
-**Asynchronous** -
+**Asynchronous** - Asynchronous learning in an online environment allows students to access information at their own pace and does not include a live lecture component, however, there could be a prerecorded component as part of the online learning experience.
 
-**FAR Centre** -
+**FAR Centre** -  The letters FAR stand for Facilitated Academic Resources.  FAR Centres are TWU micro-campuses located around the world where Global Education Specialists coach and facilitate learning for learners taking TWU courses toward TWU degrees. A FAR Centre is a collaboration between TWU and an institutional university or college partner.
 
 **TWU Student Learning Outcomes** - All TWU courses have course learning outcomes that must align with the TWU [Student Learning Outcomes](https://www.twu.ca/academics/student-learning-outcomes).  Note some programs have additional outcomes, such as the [MA Leadership Competency Model](https://www.twu.ca/leadership-ma/competency-model).
 
