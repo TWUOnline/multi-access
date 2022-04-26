@@ -83,7 +83,7 @@ class di orange
 
 [mermaid]
 flowchart TD
-    A[Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?] --YES---> B((Stop))
+    A[Does the work demonstrate thorough understanding of the concepts? <br> Does the work meet the expectations outlined in the assignment?] --YES---> B((Is the work complete and well communicated?))
         B((Stop)) --NO--> C[[test]]
         B((Stop)) --YES--> D([testing])
     A[Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?] --NO--> E[go]
