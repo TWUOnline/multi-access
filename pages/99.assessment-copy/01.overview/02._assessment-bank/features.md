@@ -1,5 +1,5 @@
 ---
-title: 'Assessment Bank'
+title: 
 body_classes: modular
 variation: vertical
 features:
