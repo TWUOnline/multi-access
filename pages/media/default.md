@@ -62,15 +62,15 @@ When using visual data, charts, and statistics, infographics provide an easy way
 ![infographic](infographic.png "infographic")
 
 - **Is it helpful?** If your students have difficulty grasping key concepts in class, graphics can help by helping them understand them. Think about this before you begin creating them for your course. Infographics are useful for explaining complex ideas. An icon or image can be used to better represent processes that require a lot of text to describe. You should ensure the graphic addresses a specific problem before including it in the course materials, as meaningless graphics can distract from the content.
-- 
+-
 - **Do you want to create your own infographic?** There are many websites that provide a few free templates and even have editors that allow you to create an infographic. Here are some of these:
 
 [https://www.canva.com/](https://www.canva.com/)
- 
+
 [https://piktochart.com/](https://piktochart.com/)
- 
+
 [https://venngage.com/](https://venngage.com/)
- 
+
 
 ## Do you need help! That’s what we are here for 😊.
 
@@ -79,6 +79,12 @@ When using visual data, charts, and statistics, infographics provide an easy way
 [ui-tab title="Other Resources"]
 
 Details
+
+### testing titles
+
+testing links
+[https://www.canva.com/](https://www.canva.com/)
+
 
 [/ui-tab]
 [/ui-tabs]
