@@ -90,5 +90,15 @@ testing links
 
 
 [/ui-tab]
+[ui-tab title="Other Resources"]
 
+Details
+
+### testing titles
+
+testing links
+[https://www.canva.com/](https://www.canva.com/)
+
+
+[/ui-tab]
 [/ui-tabs]
