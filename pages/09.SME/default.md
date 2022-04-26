@@ -42,7 +42,7 @@ The key steps in developing an online course at TWU are: 1. Pre-planning, 2. Pla
 
 * **How long does the Design Process usually takes?
 **
-There are many factors that affect the timeline of a course development, however we consider that in average completing the Design Process can take between 6 to 10 months. 
+There are many factors that affect the timeline of a course development, however we consider that in average, completing the Design Process can take between 6 to 10 months. 
 
 * **What type of support will I get from the Online Learning Team?
 **
