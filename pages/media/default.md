@@ -1,7 +1,6 @@
 ---
 title: Media
 body_classes: 'title-center title-h1h2'
-media_order: infographic.png
 ---
 
 # Media at TWU Online
