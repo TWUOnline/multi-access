@@ -84,9 +84,9 @@ class di orange
 [mermaid]
 flowchart TD
     Start --YES---> A((Stop))
-    Start --NO--> D[go]
     A((Stop)) --NO--> B[[test]]
     A((Stop)) --YES--> C([testing])
+    Start --NO--> D[go]
     D[go] --YES--> ([indeed])
 [/mermaid]
 
