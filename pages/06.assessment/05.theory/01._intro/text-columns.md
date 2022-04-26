@@ -64,7 +64,7 @@ Biggs, J., & Collis, K. (1982). Evaluating the quality of learning: The SOLO tax
 
 Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). Knowing What Students Know: The Science and Design of Educational Assessment. National Academies Press. https://doi.org/10.17226/10019
 
-
+<!-->
 [mermaid]
 graph TB
 sq[Square shape] --&gt; ci((Circle shape))
@@ -80,6 +80,7 @@ classDef orange fill:#f96,stroke:#333,stroke-width:4px;
 class sq,e green
 class di orange
 [/mermaid]
+-->
 
 [mermaid]
 flowchart TD
@@ -91,13 +92,3 @@ flowchart TD
         E([Is there evidence of partial understanding?]) --NO--> G([N - Not Assessable])
 [/mermaid]
 
-
-
-
-
-     ---|YES|--> [Is the work complete and well-communicated?]
-            ---|YES|---> {E _ Exemplary}
-            ---|NO|---> {M - Meets Expectations}
-        ---|NO|---> {Is there evidence of partial understanding}
-            ---|YES|---> {R - Revision Needed}
-            ---|NO|---> {N - Not Assessable}
