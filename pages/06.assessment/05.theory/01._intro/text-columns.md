@@ -86,7 +86,7 @@ flowchart TD
     Start --> Stop
     Start --> go
         Stop --> [keep stopping]
-        Stop --> [stop keeping]
+
 
 [/mermaid]
     A[Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?] ---|YES|--> [Is the work complete and well-communicated?]
