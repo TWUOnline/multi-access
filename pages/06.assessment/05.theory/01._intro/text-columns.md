@@ -87,7 +87,7 @@ flowchart TD
         A((Stop)) --NO--> B[[test]]
         A((Stop)) --YES--> C([testing])
     Start --NO--> D[go]
-        D[go] --YES--> ([indeed])
+        D[go] --YES--> E([indeed])
 
 
 [/mermaid]
