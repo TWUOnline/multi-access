@@ -59,7 +59,6 @@ TWU Extension Faculty_
 
 ===
 
-Quotes from SME...perhaps some video clips?
 See https://ideas.trubox.ca/home/word-with-us/
 
 [/ui-tab]
