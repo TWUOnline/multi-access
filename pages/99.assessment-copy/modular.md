@@ -1,5 +1,11 @@
 ---
-title: 'Assessment copy'
+title: Assessment copy
+onpage_menu: false
+header_bar:
+    background: transparent
+    text: light
+content:
+    items: self@.modular
 show_children_in_secondary_menu: true
 ---
 
