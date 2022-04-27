@@ -78,7 +78,7 @@ Feel free to use/copy the [TWU Course Blueprint Template](https://docs.google.co
 Here are key steps in filling out a blueprint: (Click the title on the steps below)
 
 
-[ui-accordion independent=true open=none]
+[ui-accordion independent=false open=none]
 
 [ui-accordion-item title="STEP 1: Big Ideas and Essential Questions"]
 
