@@ -1,3 +1,12 @@
+# v2.3.3
+## 04/25/2022
+
+2. [](#improved)
+   * Updated to latest Tailwind `v3.0.24`
+   * Provide a fallback for `|shortcodes` filter if `shortcode-core` is not installed
+3. [](#bugfix)
+   * The `onpage_menu` option should be `No` by default
+
 # v2.3.2
 ## 03/28/2022
 

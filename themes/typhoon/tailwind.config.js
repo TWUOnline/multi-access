@@ -15,6 +15,7 @@ module.exports = {
     './typhoon.yaml',
     './typhoon.php',
     './available-classes.md',
+    '../../plugins/sandbox-support/templates/**/*.twig',
   ]),
   theme: {
     extend: {

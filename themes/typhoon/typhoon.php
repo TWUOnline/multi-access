@@ -35,7 +35,10 @@ class Typhoon extends Theme
                 ['onThemeInitialized', 0]
             ],
             'onTwigLoader'                  => ['onTwigLoader', 0],
-            'onTwigInitialized'             => ['onTwigInitialized', 0],
+            'onTwigInitialized'             => [
+                ['onTwigInitialized', 0],
+                ['fallbacks', 100]
+            ],
             'onPageInitialized'             => ['onPageInitialized', 0],
             'registerNextGenEditorPlugin'   => ['registerNextGenEditorPluginShortcodes', 0],
             'onSiteThemeMenu'               => ['onSiteThemeMenu', 0],
@@ -191,6 +194,15 @@ class Typhoon extends Theme
         foreach($theme_images as $images_path) {
             $this->grav['twig']->addPath($images_path, 'images');
         }
+    }
+
+    // Various fallbacks
+    public function fallbacks()
+    {
+        // Simply return the value if the shortcode-core plugin is not installed
+        $this->grav['twig']->twig()->addFilter(
+            new TwigFilter('shortcodes', function($value) {return $value;})
+        );
     }
 
     // Access plugin events in this class
