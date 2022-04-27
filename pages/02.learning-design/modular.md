@@ -1,6 +1,6 @@
 ---
-title: 'Course Design'
-menu: Course Design
+title: 'Learning Design'
+menu: Learning Design
 content:
     items: '@self.modular'
 body_classes: 'title-h1h2 header-dark header-transparent'
