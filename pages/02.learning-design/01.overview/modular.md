@@ -1,5 +1,6 @@
 ---
 title: Overview
+menu: 'Learning Design'
 onpage_menu: false
 header_bar:
     background: transparent

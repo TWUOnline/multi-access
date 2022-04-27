@@ -1,5 +1,5 @@
 ---
-title: 'Approaching Assessment'
+title: 'Learning Design'
 body_classes: modular
 variation: vertical
 features:
