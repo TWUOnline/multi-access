@@ -1,9 +1,7 @@
 ---
 title: 'Summary'
 body_classes: modular
-image: remy_loz-3S0INpfREQc-unsplash.jpg
-media_order: remy_loz-3S0INpfREQc-unsplash.jpg
-image_align: right
+columns: 2
 ---
 
 ### Final Thoughts
