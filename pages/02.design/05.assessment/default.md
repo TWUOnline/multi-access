@@ -1,5 +1,5 @@
 ---
-title: 'Course Planning'
+title: 'Assessment'
 body_classes: modular
 ---
 

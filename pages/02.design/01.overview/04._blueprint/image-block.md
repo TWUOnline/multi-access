@@ -1,5 +1,5 @@
 ---
-title: 'Assessment Process'
+title: 'Course Blueprint'
 body_classes: modular
 image: andrej-lisakov-3A4XZUopCJA-unsplash.jpg
 media_order: andrej-lisakov-3A4XZUopCJA-unsplash.jpg
