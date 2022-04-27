@@ -51,7 +51,7 @@ There are many factors that affect the timeline of a course development, however
 [/ui-tab]
 [ui-tab title="SME Testimonials"]
 
-## Being a Subject Matter Expert 
+## Thoughts by a Subject Matter Expert 
 
 > The design process was very efficient and streamlined with relevant feedback from the design team at every stage. My experience working in the content using the blueprint and unit development guidance by the Instructional Designer was extremely positive with both Karen Roeck and Mara Chequer. Both provided excellent support and ideas in a format that allowed organization of content prior to the process with the blueprint, and walking alongside reviewing the content once completed. The benefits I believe will result from working in the content is that it will provide students with current course resources and materials that are continually updated by a Subject Matter Expert. By having courses go through this process, students will have a uniform Moodle experience regardless of the individual instructor or the course itself.  Navigating the course shell will follow the same pattern as their other courses and the consistency will positively impact the student learning experience.
 
