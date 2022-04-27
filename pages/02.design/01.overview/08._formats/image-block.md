@@ -1,15 +1,11 @@
 ---
-title: 'Assessment Ideas'
+title: 'Course Formats'
 body_classes: modular
 image: remy_loz-3S0INpfREQc-unsplash.jpg
 media_order: remy_loz-3S0INpfREQc-unsplash.jpg
 image_align: right
 ---
 
-In this section, we highlight a variety assessment techniques you may want to consider for your course. As you browse the assessment bank, consider the following:
-- Does the assessment allow students to demonstrate their understanding of the learning outcomes?
-- Are there any barriers to learning?  Technical requirements?
-- Is there an opportunity for learners to share their work with their peers, or beyond TWU?
-- Will there be formative feedback, and opportunities to improve their work?
+We have several options available for you to consider regarding how to format your course in a way that makes sense for you. At times, faculties and departments will have a set course format to promote a consistent experience of learners across all courses in the department, other times, instructors will have freedom to choose. In all cases, there are multiple factors to consider in this decision.
 
-[Go to the Assessment Bank...](https://multi-access.twu.ca/assessment/assessment-ideas?classes=btn,mt-4,w-content,block)
+[Go to the Assessment Bank...](https://multi-access.twu.ca/learning-design/formats?classes=btn,mt-4,w-content,block)
