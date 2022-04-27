@@ -1,76 +1,9 @@
 ---
-title: 'Course Planning'
+title: 'Course Blueprint'
 body_classes: modular
 ---
 
-## Planning Your Course
 
-In this section we discuss the course design process and share techniques you can use in planning your online, face-to-face, or blended courses at TWU.
-
-<a href="#Key_Planning_Questions">1. Key Planning Questions</a>  
-<a href="#Backward_Design">2. Backward Design</a>  
-<a href="#Creating_a_Course_Blueprint">3. Creating a Course Blueprint</a>  
-
-
-<a id="Key_Planning_Questions">
-</a>
-### Key Planning Questions
-
-![alt-text](rm22-268-business-sasi-22.jpg "Woman holding a poster on a white wall")
-
-Designing a course is like planning to build a house. There are a lot of details to think through, and you start with asking some key questions, such as who is the house for, what features are required, what support is needed, what will make it feel like a home?, etc.
-
-Similarly, for course design, we ask:
-
-❔ Who is the **learner**?  What is the average age, work experience, culture, etc.? What are their interests, learning styles, and needs? Why are they taking the course?  
-❔ Why is this course important?  What are the **big ideas**, or the main take-aways for learners?   
-❔ What are the course **learning outcomes?** How will students demonstrate their understanding of these outcomes?  
-❔ How will the course be **delivered**?  How will students connect with their peers, with the instructor, and with the content?  
-❔ If a previous course exists, has there been any **feedback** from students and instructors?
-
-Notice, we didn't start with these questions...
-
-📕 What textbook should I use for the course?  
-📘 What topics are covered in the textbook chapters?  
-📗 What publisher resources are available (e.g. testbank, PowerPoint presentations)?  
-📙 What topics will fit into my 16 weeks course?  
-
-
-Instead, we use what's called **Backward Design** to develop the course.
-
----
-
-<a id="Backward_Design">
-</a>
-
-### Backward Design
-**Backward Design** (Fink, 2003; Wiggins & McTighe, 2005) is a contrast to the traditional method of designing curriculum, which often starts with identifying the topics (or chapters in a textbook), and then maps out the weekly lessons according to those resources. With the backward approach, we focus first on the end results, which helps map out the course and leads to more productive activities and assessments.
-
-![](Backward-Design.jpg)
-
-To plan your course, here are the 3 stages using Backward Design:
-1. We first focus on the *target*: what knowledge, skills or attitudes do we want students to have at the end of the course? Essentially, what are the course **learning outcomes**?
-2. Second, how will learners *demonstrate* that they have the knowledge, skills or attitudes identified?  What **assessment** strategy will show students level of understanding of the course learning outcomes?
-3. Finally, what learning *experiences* will help students achieve this?  What **activities** will scaffold students' learning, engage them in the topics, and allow them to practice or develop their understanding of the course learning outcomes?
-
-
-
-📺 Watch the following 5 minute video on Backward Design.  
-
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/XwlUhS_hxBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-Note in the video how they emphasize the connections between the three key components of the course: **Outcomes**, **Assessment**, **Activities**.  Learning outcomes inform assessment and activity choice; activities are designed to prepare students for assessments to demonstrate understanding of the outcomes.
-
-As you design your course outcomes, assessments, and learning activities, keep in mind what will motivate and inspire your students.
-
-
-🔎 For more on Backward Design, view the website and video [Understanding by Design](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/).
-
-
----
-<a id="Creating_a_Course_Blueprint">
-</a>
 ## Creating a Course Blueprint
 To help you plan your course, we develop a course blueprint that maps out key components of the course.
 Feel free to use/copy the [TWU Course Blueprint Template](https://docs.google.com/document/d/1EaxSXVEe8fwqXXRJITg-RCAdtD69Uaza7wSjwkXsQro/edit?usp=sharing) on Google docs.

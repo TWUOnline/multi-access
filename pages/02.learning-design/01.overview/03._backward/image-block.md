@@ -5,6 +5,7 @@ image: laptop-2559958_1920.jpg
 media_order: laptop-2559958_1920.jpg
 ---
 
-Assessment serves many purposes in higher education and thinking about those purposes is a useful beginning point in planning your classroom assessment strategies. Earl (2013) writes of three broad purposes of assessment: assessment ***of*** learning, assessment ***for*** learning, and assessment ***as*** learning. Follow the link below to explore more.
+### Backward Design
+**Backward Design** is a contrast to the traditional method of designing curriculum, which often starts with identifying the topics (or chapters in a textbook), and then maps out the weekly lessons according to those resources. With the backward approach, we focus first on the end results, which helps map out the course and leads to more productive activities and assessments.
 
-[Find out more...](https://multi-access.twu.ca/assessment/purpose?classes=btn,mt-4,w-content,block)
+[Find out more...](https://multi-access.twu.ca/learning-design/backwards?classes=btn,mt-4,w-content,block)
