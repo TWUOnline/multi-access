@@ -16,33 +16,50 @@ intro shows?
 ## Course Design Process at TWU
 Every course is different, and every course design experience is different.  In this section we'd like to briefly share a typical process we follow in creating and revising our online courses at TWU.
 
-*Please note: This process may not apply to your course! Often with time constraints, we speed things up to make sure the course is ready for students. During/after the course runs, we make further adjustments based on instructor and student feedback.*
+***Please note:** This process may not apply to your course! Often with time constraints, we speed things up to make sure the course is ready for students. During/after the course runs, we make further adjustments based on instructor and student feedback.*
 
 In a typical full course design, here are some things you might expect:
 
 ![](What-to-expect-Infographic.jpg)
 
-What to Expect
 
 [/ui-tab]
 [ui-tab title="FAQ"]
 
-# FAQ for Course Developers
-details...
+## FAQ for Course Developers
+
+* **What are the advantages of having the content for a course go through the Design Process?
+**
+In your daily practice as a teacher of the subject, there are many ways to instruct your students. Creating content fidelity ensures that students from different cohorts receive the same quality of content, learning, and experiences. Designing a course allows you to be the expert on the subject and create the learning environment and plan the application from the beginning. This adds flexibility, quality, and coherence to the course.
+
+* **What are the steps of the Design Process?
+**
+The key steps in developing an online course at TWU are: 1. Pre-planning, 2. Planning (completion of a Blueprint), 3. Writing, 4. Production and 5. Review.
+
+* **Who owns the content I write?
+**
+
+* **How long does the Design Process usually takes?
+**
+There are many factors that affect the timeline of a course development, however we consider that in average, completing the Design Process can take between 6 to 10 months. 
+
+* **What type of support will I get from the Online Learning Team?
+**
 
 
 [/ui-tab]
 [ui-tab title="SME Testimonials"]
 
+## Thoughts by a Subject Matter Expert 
+
 > The design process was very efficient and streamlined with relevant feedback from the design team at every stage. My experience working in the content using the blueprint and unit development guidance by the Instructional Designer was extremely positive with both Karen Roeck and Mara Chequer. Both provided excellent support and ideas in a format that allowed organization of content prior to the process with the blueprint, and walking alongside reviewing the content once completed. The benefits I believe will result from working in the content is that it will provide students with current course resources and materials that are continually updated by a Subject Matter Expert. By having courses go through this process, students will have a uniform Moodle experience regardless of the individual instructor or the course itself.  Navigating the course shell will follow the same pattern as their other courses and the consistency will positively impact the student learning experience.
 
 **_Testimonial by:_**
-_Hyne-Ju Huizenga | MA Leadership Teaching Assistant | 
+_[Hyne-Ju Huizenga](https://www.twu.ca/profile/hyne-ju-huizenga) | MA Leadership Teaching Assistant | 
 TWU Extension Faculty_
 
 ===
 
-Quotes from SME...perhaps some video clips?
 See https://ideas.trubox.ca/home/word-with-us/
 
 [/ui-tab]
