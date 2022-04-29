@@ -7,7 +7,7 @@ media_order: 'online_team_photo.png'
 
 ---
 
-## TWU GLOBAL | Online Learning and Instructional Technology Team
+## TWU GLOBAL | Online Learning and Instructional Technology
 #### Who We Are & What We Do
 
 
