@@ -13,7 +13,7 @@ hero:
         text: 'Online Teaching and Learning at Trinity Western University'
         color: auto
     title2: {  }
-    content: 'design | teach | learn'
+    content: 'Design | Teaching | Learning'
     custom: '#3C4043'
 media_order: mockup-863469_1920.jpg
 ---
