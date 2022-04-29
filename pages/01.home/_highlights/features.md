@@ -44,5 +44,5 @@ features:
         link: 'https://multi-access.twu.ca/media'
 
 subtitle: 'Supporting faculty in designing accessible, engaging, high quality online courses.'
-title: 'Welcome to explore'
+title: 'Welcome to Explore'
 ---
