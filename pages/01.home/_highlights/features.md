@@ -42,6 +42,7 @@ features:
         text: 'FAQ for Online Teaching'
         icon: tabler/zoom-question.svg
         link: 'https://multi-access.twu.ca/media'
+
 subtitle: 'Supporting faculty in designing accessible, engaging, high quality online courses.'
-title: 'Resources'
+title: 'Welcome'
 ---
