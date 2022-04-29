@@ -1,4 +1,0 @@
----
-title: 'Resources and Technology'
----
-
