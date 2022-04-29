@@ -1,5 +1,5 @@
 ---
-title: 'Team'
+title: 'The Team'
 menu: 'Online Team'
 class: small
 image_align: right
