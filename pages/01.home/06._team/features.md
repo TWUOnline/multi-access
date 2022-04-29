@@ -14,7 +14,7 @@ media_order: 'online_team_photo.png'
   <img src="/user/pages/01.home/06._team/Team.jpg" alt="Team" />
 </p>
 
-#### Who We Are & What We Do
+### Who We Are & What We Do
 
 We're here to support you on your teaching and learning journey. It's our goal to help you impact and promote high standards of online teaching. We're a team of people passionate about education and technology.
 
