@@ -3,6 +3,8 @@
   <img src="03._quote/ScottMacklin.jpg" alt="Scott Macklin" />
 </p>
 
+![](ScottMacklin.jpg)
+
 ***“Never before have we had the need to reach so many different   learners, in so many different locations, with such diverse educational offerings. Never before have information technology and new educational strategies offered such promise for catalyzing the attainment of diverse educational needs. And never before has there been such a need for rigorous evaluation of the many tools and strategies that are rapidly and continually becoming available.
 
 Collectively, we now have the special opportunity to build on our particular strengths as a local, regional, national, and global participants and set the tone for developing learning that matters for all.   
