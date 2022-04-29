@@ -43,6 +43,6 @@ features:
         icon: tabler/zoom-question.svg
         link: 'https://multi-access.twu.ca/media'
 
-subtitle: 'Supporting faculty in designing accessible, engaging, high quality online courses.'
+subtitle: 'Supporting faculty in designing accessible, engaging, high quality online courses'
 title: 'Welcome to Explore'
 ---
