@@ -14,6 +14,7 @@ media_order: 'online_team_photo.png'
   <img src="/user/pages/01.home/06._team/Team.jpg" alt="Team" />
 </p>
 
+
 ### Who We Are & What We Do
 
 Our team consists of Learning Technology Specialists, Instructional Designers, Video and Graphics Specialists, and Academic Technology Ambassadors who support online teaching and learning.
