@@ -38,29 +38,30 @@ The key steps in developing an online course at TWU are: 1. Pre-planning, 2. Pla
 
 * **Who owns the content I write?
 **
+It is essential to create Open Educational Resources that are available to all faculty. Because we are promoting course fidelity for each cohort, the university can use the course for its own purposes at any time - including giving the material to another instructor, modifying the course, etc. This includes Moodle material. Please inquire about your specific course because we know that there will be special and unique cases.
+
 
 * **How long does the Design Process usually takes?
 **
-There are many factors that affect the timeline of a course development, however we consider that in average, completing the Design Process can take between 6 to 10 months. 
+There are many factors that affect the timeline of a course development, however we consider that in average, completing the Design Process can take between 6 to 10 months.
 
 * **What type of support will I get from the Online Learning Team?
 **
-
+No matter the service we provide, our team is always there to guide you and make available to you resources that can be used in your online teaching, the creation of learning activities, consultations about technology, and if you're part of a course development, we can help you at all steps.
 
 [/ui-tab]
 [ui-tab title="SME Testimonials"]
 
-## Thoughts by a Subject Matter Expert 
+## Thoughts by a Subject Matter Expert
 
 > The design process was very efficient and streamlined with relevant feedback from the design team at every stage. My experience working in the content using the blueprint and unit development guidance by the Instructional Designer was extremely positive with both Karen Roeck and Mara Chequer. Both provided excellent support and ideas in a format that allowed organization of content prior to the process with the blueprint, and walking alongside reviewing the content once completed. The benefits I believe will result from working in the content is that it will provide students with current course resources and materials that are continually updated by a Subject Matter Expert. By having courses go through this process, students will have a uniform Moodle experience regardless of the individual instructor or the course itself.  Navigating the course shell will follow the same pattern as their other courses and the consistency will positively impact the student learning experience.
 
 **_Testimonial by:_**
-_[Hyne-Ju Huizenga](https://www.twu.ca/profile/hyne-ju-huizenga) | MA Leadership Teaching Assistant | 
+_[Hyne-Ju Huizenga](https://www.twu.ca/profile/hyne-ju-huizenga) | MA Leadership Teaching Assistant |
 TWU Extension Faculty_
 
 ===
 
-See https://ideas.trubox.ca/home/word-with-us/
 
 [/ui-tab]
 [ui-tab title="Glossary"]

@@ -6,7 +6,7 @@ body_classes: modular
 ## Planning Your Course
 ### Key Planning Questions
 
-![alt-text](rm22-268-business-sasi-22.jpg "Woman holding a poster on a white wall")
+![alt-text](courseplanning.jpg "Hand Writing")
 
 Designing a course is like planning to build a house. There are a lot of details to think through, and you start with asking some key questions, such as who is the house for, what features are required, what support is needed, what will make it feel like a home?, etc.
 
@@ -27,4 +27,3 @@ Notice, we didn't start with these questions...
 
 
 Instead, we use what's called **Backward Design** to develop the course.
-

@@ -9,12 +9,12 @@ body_classes: modular
 
 ![](Backward-Design.jpg)
 
-To plan your course, here are the 3 stages using Backward Design:
+**To plan your course, here are the 3 stages using Backward Design:**
 1. We first focus on the *target*: what knowledge, skills or attitudes do we want students to have at the end of the course? Essentially, what are the course **learning outcomes**?
 2. Second, how will learners *demonstrate* that they have the knowledge, skills or attitudes identified?  What **assessment** strategy will show students level of understanding of the course learning outcomes?
 3. Finally, what learning *experiences* will help students achieve this?  What **activities** will scaffold students' learning, engage them in the topics, and allow them to practice or develop their understanding of the course learning outcomes?
 
-
+&nbsp;
 
 📺 Watch the following 5 minute video on Backward Design.  
 
