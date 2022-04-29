@@ -1,5 +1,5 @@
 ---
-title: 'TWU GLOBAL'
+title: 'Team'
 menu: 'Online Team'
 class: small
 image_align: right
@@ -7,8 +7,7 @@ media_order: 'online_team_photo.png'
 
 ---
 
-## Online Learning
-## and Instructional Technology Team
+## TWU GLOBAL | Online Learning and Instructional Technology Team
 #### Who We Are & What We Do
 
 
