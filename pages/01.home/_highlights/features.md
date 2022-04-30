@@ -6,12 +6,12 @@ features:
         title: 'Learning Design'
         text: Plan & design your course
         icon: tabler/school.svg
-        link: 'https://multi-access.twu.ca/learning-design'
+        link: 'https://multi-access.twu.ca/design/overview'
     -
         title: 'Assessment'
         text: Ideas for learning activities & assessment
         icon: tabler/pencil.svg
-        link: 'https://multi-access.twu.ca/assessment'
+        link: 'https://multi-access.twu.ca/assessment/overview'
     -
         title: 'Media'
         text: Videos, Graphics & More!
@@ -21,17 +21,17 @@ features:
         title: 'Teaching Online Effectively'
         text: TOnE sessions for faculty training
         icon: tabler/music.svg
-        link: 'https://multi-access.twu.ca/tone'
+        link: 'https://multi-access.twu.ca/tone/'
     -
         title: 'Technology'
         text: H5P, Moodle, Zoom & other cool gadgets!
         icon: tabler/tool.svg
-        link: 'https://multi-access.twu.ca/media'
+        link: 'https://multi-access.twu.ca/media/technology'
     -
         title: 'Resources'
         text: Selecting Accessible Texts & Finding OERs
         icon: tabler/book.svg
-        link: 'https://multi-access.twu.ca/resources'
+        link: 'https://multi-access.twu.ca/design/resources'
     -
         title: 'Teaching Online'
         text: Tips for online teaching
@@ -41,7 +41,7 @@ features:
         title: Help Guides
         text: 'FAQ for Online Teaching'
         icon: tabler/zoom-question.svg
-        link: 'https://multi-access.twu.ca/media'
+        link: 'https://far.twu.ca/guides/about-twu/far-centres'
 
 subtitle: 'Supporting faculty in designing accessible, engaging, high quality online courses'
 title: 'Welcome to Explore'
