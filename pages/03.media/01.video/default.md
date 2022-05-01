@@ -13,9 +13,8 @@ intro?
 [/ui-tab]
 [ui-tab title="Video Guides"]
 ### Video Guides
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/702950788?h=801b22cb5e" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-<br>
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/705161812?h=09ce754d57" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/702950788?h=801b22cb5e" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 <br>
 
 [/ui-tab]
