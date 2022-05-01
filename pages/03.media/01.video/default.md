@@ -18,7 +18,7 @@ intro?
 
 ### Video Guides
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/705161812?h=09ce754d57" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/705161812?h=09ce754d57&" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
 [/ui-tab]
