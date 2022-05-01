@@ -11,11 +11,7 @@ body_classes: 'title-center title-h1h2'
 intro?
 
 [/ui-tab]
-
-
 [ui-tab title="Video Guides"]
-
-
 ### Video Guides
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/702950788?h=801b22cb5e" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 <br>
@@ -24,9 +20,7 @@ intro?
 
 [/ui-tab]
 [ui-tab title="Gallery"]
-
 ## Gallery
-
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/702950788?h=801b22cb5e" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 <br>
