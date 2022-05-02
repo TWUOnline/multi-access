@@ -8,10 +8,10 @@ gallery:
         height: 450
     items:
         -
-            title: 'Infographic'
+            title: 'Communication Technologies'
             image: MALead_course_Infographic.png
-            desc: null
-            video: 'https://www.youtube.com/watch?v=4czjS9h4Fpg'
+            desc: This intro video was produced as an overview for MCOM 411.
+            video: 'https://vimeo.com/702950788'
         -
             title: 'Infographic'
             image: PSYC_330_Infographic.jpg
