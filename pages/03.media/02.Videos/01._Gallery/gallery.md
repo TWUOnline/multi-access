@@ -9,7 +9,7 @@ gallery:
     items:
         -
             title: 'Communication Technologies'
-            image: MALead_course_Infographic.png
+            image: Communications_Tech.gif
             desc: This intro video was produced as an overview for MCOM 411.
             video: 'https://vimeo.com/702950788'
         -
