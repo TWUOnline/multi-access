@@ -14,7 +14,7 @@ features:
         icon: tabler/arrows-split.svg
         link: 'https://multi-access.twu.ca/media/overview#graphics'
     -
-        title: 'Course Blueprint'
+        title: 'Educational Technology'
         text: 'H5P'
         icon: tabler/scale.svg
         link: 'https://multi-access.twu.ca/media/overview#educational-technology'
