@@ -11,7 +11,7 @@ gallery:
             title: 'Infographic'
             image: MALead_course_Infographic.png
             desc: null
-            video: null
+            video: 'https://www.youtube.com/watch?v=4czjS9h4Fpg'
         -
             title: 'Infographic'
             image: PSYC_330_Infographic.jpg
