@@ -1,6 +1,6 @@
 ---
 title: Overview
-menu: 'Learning Design'
+menu: 'Media'
 onpage_menu: false
 header_bar:
     background: transparent
@@ -12,4 +12,3 @@ hero:
     image: ux-store-jJT2r2n7lYA-unsplash.jpg
     overlay: dark
 ---
-

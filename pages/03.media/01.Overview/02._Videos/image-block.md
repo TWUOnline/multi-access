@@ -1,14 +1,12 @@
 ---
-title: 'Course Planning'
+title: 'Videos'
 body_classes: modular
 image: laptop-2559958_1920.jpg
 media_order: laptop-2559958_1920.jpg
 image_align: left
 ---
 
-## Planning Your Course
-
-### Key Planning Questions
+## Something about videos
 
 ![alt-text](rm22-268-business-sasi-22.jpg "Woman holding a poster on a white wall")
 
