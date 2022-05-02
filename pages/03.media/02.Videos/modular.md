@@ -1,6 +1,6 @@
 ---
 title: Videos
-menu: 'Videoss'
+menu: 'Videos'
 onpage_menu: false
 header_bar:
     background: transparent
