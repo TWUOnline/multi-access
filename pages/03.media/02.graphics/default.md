@@ -61,11 +61,11 @@ When using visual data, charts, and statistics, infographics provide an easy way
 [ui-tab title="Gallery"]
 ### Gallery
 
-[MA Lead infographic](MALead course Infographic.png "Ma Lead infographic")
+![MA Lead infographic](MALead_course_Infographic.png "Ma Lead infographic")
 
-![PSYC 330 Infographic](PSYC 330 Infographic.jpg "PSYC 330 Infographic")
+![PSYC 330 Infographic](PSYC_330_Infographic.jpg "PSYC 330 Infographic")
 
-![Chart](PSYC 340 Chart.png "chart")
+![Chart](PSYC_340_Chart.png "chart")
 
 [/ui-tab]
 [/ui-tabs]
