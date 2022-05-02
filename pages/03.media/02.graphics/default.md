@@ -1,6 +1,6 @@
 ---
 title: Graphics
-body_classes: 'title-center title-h1h2'
+body_classes: 'title-center title-h1h2', modular
 ---
 
 # Graphics at TWU Online
