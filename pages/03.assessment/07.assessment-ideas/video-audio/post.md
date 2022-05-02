@@ -1,8 +1,8 @@
 ---
-title: 'Blogs'
+title: 'Videos & Podcasts'
 taxonomy:
     tag:
-        - 'assessment as learning'
+        - 'video'
         - formative
         - peer
 ---
