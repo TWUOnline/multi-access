@@ -1,5 +1,5 @@
 ---
-title: 'Course Planning'
+title: 'Video Guides'
 body_classes: modular
 ---
 
