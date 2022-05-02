@@ -7,4 +7,27 @@ taxonomy:
         - peer
 ---
 
-H5P
+H5P is a great tool to engage learners.  
+Want your students to do more than just read the textbook?  
+Want an important idea to “pop” or stick?
+Integrating H5P with your current teaching repertoire can help students solidify their learning because of its active nature.   
+See what we’ve been up to and how we’ve helped our faculty expand their digital capabilities.
+
+## H5P Samples
+
+### Column
+[h5p id="195"]
+
+### Dialog Cards
+[h5p id="107"]
+
+### Drag and Drop
+[h5p id="125"]
+
+[h5p id="139"]
+
+### Course Presentation
+[h5p id="162"]
+
+### Drag the Text
+[h5p id="13"]
