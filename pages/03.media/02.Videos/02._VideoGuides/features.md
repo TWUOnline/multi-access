@@ -3,10 +3,7 @@ title: 'Course Planning'
 body_classes: modular
 ---
 
-## Planning Your Course
-### Key Planning Questions
-
-![alt-text](courseplanning.jpg "Hand Writing")
+## Video Guides
 
 Designing a course is like planning to build a house. There are a lot of details to think through, and you start with asking some key questions, such as who is the house for, what features are required, what support is needed, what will make it feel like a home?, etc.
 
