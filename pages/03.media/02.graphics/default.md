@@ -61,7 +61,7 @@ When using visual data, charts, and statistics, infographics provide an easy way
 [ui-tab title="Gallery"]
 ### Gallery
 
-![MA Lead infographic](MALead course Infographic.png "Ma Lead infographic")
+[MA Lead infographic](MALead course Infographic.png "Ma Lead infographic")
 
 ![PSYC 330 Infographic](PSYC 330 Infographic.jpg "PSYC 330 Infographic")
 
