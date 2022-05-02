@@ -1,6 +1,6 @@
 ---
 title: Overview
-menu: 'Media'
+menu: 'Overview'
 onpage_menu: false
 header_bar:
     background: transparent
