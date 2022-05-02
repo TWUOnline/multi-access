@@ -41,15 +41,9 @@ Skim the resources in the activity below and consider whether portfolios will he
 :fa-question: What are some questions or concerns you have about ePortfolios?
 
 
-## Sample Info page for students on portfolios
----
-title: 'Assignment 2'
-date: '20:41 23-11-2018'
-hide_page_title: false
-show_sidebar: true
-hide_git_sync_repo_link: false
----
-## ePortfolio Development
+## Sample E-Portfolio Directions 
+
+#### ePortfolio Development for LDRS 697
 
 As you work through the material in this course, you will also be asked to develop your ePortfolio site as a part of the weekly assessment. The objective of this assignment is to provide you with the opportunity to organize, consolidate, and create your learning, that is, to review and make sense of your experiences over the MA Lead program.
 
