@@ -8,20 +8,19 @@ gallery:
         height: 450
     items:
         -
-            title: Solo
-            image: 512px-Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png
+            title: 'Infographic'
+            image: MALead_course_Infographic.png
             desc: null
             video: null
         -
-            title: 'backward design'
-            image: Backward-Design_KM.png
+            title: 'Infographic'
+            image: PSYC_330_Infographic.jpg
             desc: null
             video: null
         -
-            title: 'Big Ideas'
-            image: big-ideas-los.png
+            title: 'Chart'
+            image: PSYC_340_Chart.png
             desc: null
             video: null
-media_order: '512px-Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png,Backward_Design_Model.gif,Backward-Design_KM.png,big-ideas-los.png'
+media_order: 'MALead_course_Infographic.png,PSYC_330_Infographic.jpg,PSYC_340_Chart.png'
 ---
-
