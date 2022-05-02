@@ -3,17 +3,6 @@ title: 'Graphic Guides'
 body_classes: modular
 ---
 
-# Graphics at TWU Online
-
-[ui-tabs position="top-left" active="0" theme="lite"]
-[ui-tab title=Online Learning at TWU"]
-
-intro?
-
-[/ui-tab]
-[ui-tab title="Graphics"]
-
-
 ## Considerations for Educational Graphics
 
 Rather than utilizing text to illustrate their educational materials, many instructors choose to use graphics. It can be difficult for students to understand key concepts if a poor choice of graphics is used. Illustrations and or images that are effective can add more context and information.
