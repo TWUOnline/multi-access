@@ -45,5 +45,4 @@ features:
 
 subtitle: 'Supporting faculty in designing accessible, engaging, high quality online courses'
 title: 'What We Do'
-    alignment: center
 ---
