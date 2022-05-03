@@ -2,13 +2,13 @@
 title: 'Graphics'
 body_classes: modular
 image: Finish.png
-media_order: Finish.png
+media_order: lightbulb.png
 image_align: right
 ---
 
 ### Graphics
-**Backward Design** is a contrast to the traditional method of designing curriculum, which often starts with identifying the topics (or chapters in a textbook), and then maps out the weekly lessons according to those resources. With the backward approach, we focus first on the end results, which helps map out the course and leads to more productive activities and assessments.
+This is a blurb about graphics.
 
 [Learn more...](https://multi-access.twu.ca/media/graphics?classes=btn,mt-4,w-content,block)
 
-> Photo by <a href="https://unsplash.com/@mrthetrain">Joshua Hoehne</a> on <a href="https://unsplash.com/photos/Nsaqv7v2V7Q">Unsplash</a>
+> Photo by <a href="https://unsplash.com/@jdiegoph">Diego PH</a> on <a href="https://unsplash.com/photos/fIq0tET6llw">Unsplash</a>
