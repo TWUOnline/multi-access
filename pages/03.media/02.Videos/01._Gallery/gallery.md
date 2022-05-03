@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: null
 body_classes: modular
 gallery:
     grid_classes: 'grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-y-2 gap-x-2'
