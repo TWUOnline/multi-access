@@ -10,9 +10,9 @@ hero:
     alignment: center
     text: auto
     title:
-        alignment: center
         text: 'Online Teaching and Learning at Trinity Western University'
         color: auto
+        alignment: center
     title2: {  }
     alignment: center
     content: 'Design | Teaching | Learning'
