@@ -12,9 +12,12 @@ Case studies, simulations, and role plays are a great methods to strengthen stud
 
 Consider having your students write and analyze case studies for an assignment.  Or better yet, contribute to [OPEN CASE STUDIES AT UBC](https://cases.open.ubc.ca/), an interdisciplinary, open educational resource with case studies that can be used by anyone.
 
-#### Resources for Case Studies, Simulations & Role Plays
+## Sample Case Study Activities
 
-:fa-book: Select from the following resources:
+![](psyc354-case-study.png)
+![](PHIL210-case-study.png)
+
+#### Resources for Case Studies, Simulations & Role Plays
 
 **Case Studies:**
 - [Free cases from the Case Centre](https://www.thecasecentre.org/educators/casemethod/resources/freecasesoverview)
