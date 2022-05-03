@@ -15,7 +15,7 @@ TWU Extension Faculty_
 
 *Faculty Testimonial for Course Design Process*
 
-Like most professors, except for professors in the Education Department, I have
+> Like most professors, except for professors in the Education Department, I have
 never taken any formal education courses, so my experience of the course design
 process with the TWU instructional designers, most of whom are also certified
 teachers, has been educational, constructive, and collaborative. I worked
@@ -35,6 +35,4 @@ challenges may come my way in a world of uncertainty where the classroom could
 be anywhere.
 
 **_Testimonial by:_**
-Lydia Forssander-Song
-First-Year English Coordinator
-Department of English and Creative Writing
+_Lydia Forssander-Song | First-Year English Coordinator | Department of English and Creative Writing_
