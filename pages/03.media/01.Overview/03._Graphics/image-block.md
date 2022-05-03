@@ -7,7 +7,8 @@ image_align: right
 ---
 
 ### Graphics
-This is a blurb about graphics.
+Engage your students with visuals.
+By adding graphics to your course material you can increase understanding and create a more engaging experience for your students.
 
 [Learn more...](https://multi-access.twu.ca/media/graphics?classes=btn,mt-4,w-content,block)
 
