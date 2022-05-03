@@ -12,3 +12,4 @@ hero:
     overlay: dark
 ---
 
+Can there be text here
