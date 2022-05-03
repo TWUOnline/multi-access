@@ -47,7 +47,8 @@ A number of web sites also feature information on and examples of CATs, includin
 - [More Examples of CATs](https://www.celt.iastate.edu/teaching/assessment-and-evaluation/classroom-assessment-techniques-quick-strategies-to-check-student-learning-in-class/) from Iowa State University.
 CATs for Science, Technology, Engineering, and Math from the Field-Tested Learning Assessment Guide
 
-You may also want to check out [LATS](https://www.celt.iastate.edu/teaching/assessment-and-evaluation/learning-assessment-techniques-lats/) which has a number of Learning Assessment Techniques.
+!!! This teaching guide is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. It was developed by Vanderbilt University. See https://cft.vanderbilt.edu/guides-sub-pages/cats/.
 
-!!! This teaching guide is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
-It was developed by Vanderbilt University. See https://cft.vanderbilt.edu/guides-sub-pages/cats/.
+![](cat-g421c1018a_1280.jpg)
+
+You may also want to check out [LATS](https://www.celt.iastate.edu/teaching/assessment-and-evaluation/learning-assessment-techniques-lats/) which has a number of Learning Assessment Techniques.
