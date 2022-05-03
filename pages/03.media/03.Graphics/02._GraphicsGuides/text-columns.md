@@ -1,5 +1,5 @@
 ---
-title: null
+title: Graphics
 body_classes: modular
 columns: '1'
 ---

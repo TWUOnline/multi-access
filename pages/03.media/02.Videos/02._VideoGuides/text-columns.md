@@ -1,5 +1,5 @@
 ---
-title: 'Video Guides'
+title: 'Videos'
 body_classes: modular
 columns: '2'  
 ---
