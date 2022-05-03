@@ -50,5 +50,6 @@ CATs for Science, Technology, Engineering, and Math from the Field-Tested Learni
 !!! This teaching guide is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. It was developed by Vanderbilt University. See https://cft.vanderbilt.edu/guides-sub-pages/cats/.
 
 ![](cat-g421c1018a_1280.jpg)
+Image by <a href="https://pixabay.com/users/darkmoon_art-1664300/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5493350">Darkmoon_Art</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5493350">Pixabay</a>
 
 You may also want to check out [LATS](https://www.celt.iastate.edu/teaching/assessment-and-evaluation/learning-assessment-techniques-lats/) which has a number of Learning Assessment Techniques.
