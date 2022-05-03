@@ -4,35 +4,25 @@ body_classes: modular
 variation: vertical
 features:
     -
-        title: 'Planning'
+        title: 'Infographic'
         text: 'Assessment as Learning | Assessment for Learning | Assessment of Learning'
         icon: tabler/chart-bubble.svg
         link: 'https://multi-access.twu.ca/design/overview#course-planning'
     -
-        title: 'Backward Design'
+        title: 'FAQ'
         text: 'Assessment Design | Scoring and Use | Communication'
-        icon: tabler/arrows-split.svg
+        icon: tabler/question.svg
         link: 'https://multi-access.twu.ca/design/overview#backward-design-1'
     -
-        title: 'Course Blueprint'
+        title: 'Testimonials'
         text: 'Equal | Equitable | Differentiated'
         icon: tabler/scale.svg
         link: 'https://multi-access.twu.ca/design/overview#course-blueprint-1'
     -
-        title: 'Assessment'
+        title: 'Glossary'
         text: 'Validity | Reliability | Bias'
         icon: tabler/math-function.svg
         link: 'https://multi-access.twu.ca/design/overview#assessment-2'
-    -
-        title: 'Course Resources'
-        text: 'Inspire | Challenge | Communicate | Create '
-        icon: tabler/bulb.svg
-        link: 'https://multi-access.twu.ca/design/overview#course-resources-1'
-    -
-        title: 'Course Formats'
-        text: 'Active Learning | Engage | Practice'
-        icon: tabler/activity.svg
-        link: 'https://multi-access.twu.ca/design/overview#course-formats-1'
-vertical_classes: 'md:grid-cols-3 '
+vertical_classes: 'md:grid-cols-4 '
 ---
 
