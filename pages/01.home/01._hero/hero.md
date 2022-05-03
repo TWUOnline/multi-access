@@ -15,7 +15,7 @@ hero:
         alignment: center
     title2: {  }
     content: 'Design | Teaching | Learning'
-        alignment: center
+    alignment: center
     custom: '#3C4043'
 media_order: mockup-863469_1920.jpg
 ---
