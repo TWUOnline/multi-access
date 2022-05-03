@@ -24,9 +24,7 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 ### Drag and Drop
 [h5p id="125"]
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=139" width="600" height="" frameborder="0" allowfullscreen="allowfullscreen" title="Episodic vs Semantic Memory"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=139" width="600" height="" frameborder="0" allowfullscreen="allowfullscreen" title="Episodic vs Semantic Memory"></iframe>
 
 ### Course Presentation
 [h5p id="162"]
