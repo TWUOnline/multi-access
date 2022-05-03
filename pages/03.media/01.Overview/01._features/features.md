@@ -13,5 +13,5 @@ features:
         text: 'Graphic Guides | Gallery'
         icon: tabler/photo.svg
         link: 'https://multi-access.twu.ca/media/overview#graphics'
-vertical_classes: 'md:grid-cols-3 '
+vertical_classes: 'md:grid-cols-2 '
 ---
