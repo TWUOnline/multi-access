@@ -19,5 +19,4 @@ features:
         icon: tabler/device-desktop-analytics.svg
         link: 'https://multi-access.twu.ca/media/overview#educational-technology'
 vertical_classes: 'md:grid-cols-3 '
-
 ---
