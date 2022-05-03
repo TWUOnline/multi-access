@@ -1,6 +1,6 @@
 ---
 title: Theoretical Framework
-onpage_menu: false
+onpage_menu: true
 header_bar:
     background: transparent
     text: light
@@ -12,4 +12,3 @@ hero:
     overlay: dark
 ---
 
-Can there be text here
