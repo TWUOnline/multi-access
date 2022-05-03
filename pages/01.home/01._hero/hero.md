@@ -7,7 +7,7 @@ hero:
     overlay_gradient:
         - '0.6'
     image: mockup-863469_1920.jpg
-    alignment: left
+    alignment: center
     text: auto
     title:
         text: 'Online Teaching and Learning at Trinity Western University'
