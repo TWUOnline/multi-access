@@ -1,5 +1,5 @@
 ---
-title: expect
+title: What to Expect
 ---
 
 ## What to expect during a course design project
