@@ -44,5 +44,6 @@ features:
         link: 'https://far.twu.ca/guides/about-twu/far-centres'
 
 subtitle: 'Supporting faculty in designing accessible, engaging, high quality online courses'
-title: 'Welcome to Explore'
+title: 'What We Do'
+    alignment: center
 ---
