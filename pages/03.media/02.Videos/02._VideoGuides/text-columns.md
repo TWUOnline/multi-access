@@ -1,7 +1,6 @@
 ---
 title: 'Video Guides'
 body_classes: modular
-image_align: left
 colums: 1
 ---
 ## Video Guides
