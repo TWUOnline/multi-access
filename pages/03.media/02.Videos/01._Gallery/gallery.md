@@ -9,18 +9,18 @@ gallery:
     items:
         -
             title: 'Communication Technologies'
-            image: Communications_Tech.gif
+            image: Commtech.png
             desc: This intro video was produced as an overview for MCOM 411.
             video: 'https://vimeo.com/702950788'
         -
-            title: 'Infographic'
-            image: PSYC_330_Infographic.jpg
-            desc: null
-            video: null
+            title: 'Nursing Training - Sabina Lift'
+            image: lift.png
+            desc: This demonstration video was produced for the School of Nursing.
+            video: 'https://vimeo.com/702949118'
         -
-            title: 'Chart'
-            image: PSYC_340_Chart.png
-            desc: null
-            video: null
+            title: 'Persistent Spiritual Questions'
+            image: questions.png
+            desc: This story video was produced for FNDN 101.
+            video: 'https://vimeo.com/702949944'
 media_order: 'MALead_course_Infographic.png,PSYC_330_Infographic.jpg,PSYC_340_Chart.png'
 ---
