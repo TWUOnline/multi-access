@@ -1,5 +1,5 @@
 ---
-title: 'Graphic Guides'
+title: null
 body_classes: modular
 ---
 

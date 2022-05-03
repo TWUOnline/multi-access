@@ -1,8 +1,7 @@
 ---
 title: 'Graphics'
 body_classes: modular
-image: Finish.png
-media_order: lightbulb.png
+image: lightbulb.png
 image_align: right
 ---
 
