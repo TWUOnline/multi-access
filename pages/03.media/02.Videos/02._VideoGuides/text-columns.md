@@ -1,7 +1,7 @@
 ---
 title: 'Videos'
 body_classes: modular
-columns: '2'  
+columns: '1'  
 ---
 ## Video Guides
 
