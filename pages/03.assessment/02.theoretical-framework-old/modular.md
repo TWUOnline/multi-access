@@ -1,5 +1,5 @@
 ---
-title: Theoretical Framework
+title: 'Theoretical Framework'
 onpage_menu: true
 header_bar:
     background: transparent
