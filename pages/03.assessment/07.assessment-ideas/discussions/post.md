@@ -1,5 +1,5 @@
 ---
-title: 'Discussions'
+title: 'Discussions Forums'
 taxonomy:
     tag:
         - 'assessment as learning'
@@ -8,7 +8,6 @@ taxonomy:
 ---
 
 
-#### Discussions Forums
 Discussion forums are a popular form of assessment for online courses.  Which means, if students are taking several online courses at once...there is a certain amount of *forum fatigue* they may experience!  Be sure to craft your discussion questions in a way that meets the unit learning outcomes, but also inspires collaboration, inquiry, and critical thinking.
 
 In the activity below there are several resources and guides for facilitating discussions. In particular, pay attention to the various activity types you can have in discussion forums.  For example:

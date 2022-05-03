@@ -1,5 +1,5 @@
 ---
-title: 'Essays & Projects'
+title: 'Essays, Projects, & Interviews'
 taxonomy:
     tag:
         - 'assessment as learning'
@@ -7,7 +7,6 @@ taxonomy:
         - peer
 ---
 
-### Essays, Projects, & Interviews
 
 If you use essays, projects, and interviews in your courses, what are some techniques you use to aid students, or some common problems? What adjustments do you foresee for an online course?  
 Here are some questions to consider:

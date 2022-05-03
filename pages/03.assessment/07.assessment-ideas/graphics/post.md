@@ -7,7 +7,6 @@ taxonomy:
         - peer
 ---
 
-#### *Online is...*
 
 ![](online-adjectives.png)
 *Wordcloud of TONE participants answers "What do you think of when we say online?" - made with [WordItOut](https://worditout.com/)*
