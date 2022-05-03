@@ -10,9 +10,11 @@ hero:
     alignment: center
     text: auto
     title:
+        alignment: center
         text: 'Online Teaching and Learning at Trinity Western University'
         color: auto
     title2: {  }
+    alignment: center
     content: 'Design | Teaching | Learning'
     custom: '#3C4043'
 media_order: mockup-863469_1920.jpg
