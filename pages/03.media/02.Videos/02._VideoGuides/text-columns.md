@@ -1,7 +1,7 @@
 ---
 title: 'Video Guides'
 body_classes: modular
-column_classes: 'col-count-2 md:col-count-2 lg:col-count-2 gap-x-10'  
+column_classes: 'col-count-2 md:col-count-2 lg:col-count-2 xl:col-count-2 gap-x-10'  
 ---
 ## Video Guides
 
