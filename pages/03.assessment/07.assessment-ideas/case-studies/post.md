@@ -1,5 +1,5 @@
 ---
-title: 'Case Studies'
+title: 'Case Studies, Simulations & Role Plays'
 taxonomy:
     tag:
         - 'assessment as learning'
@@ -7,7 +7,6 @@ taxonomy:
         - peer
 ---
 
-### Case Studies, Simulations & Role Plays
 
 Case studies, simulations, and role plays are a great methods to strengthen students' critical thinking skills, as they often need to analyze issues, solve problems, and make decisions. They can be especially effective as group assignments, perhaps allowing for some "disorienting dilemmas" that cause transformational learning.
 

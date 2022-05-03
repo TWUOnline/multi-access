@@ -7,7 +7,6 @@ taxonomy:
         - peer
 ---
 
-### Quizzes
 
 Test, exams, quizzes…these are essential to many courses, however, there is definitely an art to designing an effective and fair test. An what about online tests?  How do we prevent students from cheating...or confirm the identity of the test-taker?  Several questions arise when designing tests for online courses.  First, let's pause and consider the use and effectiveness of formative, ungraded tests.
 

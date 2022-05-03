@@ -7,7 +7,6 @@ taxonomy:
         - peer
 ---
 
-### Portfolios
 
 Portfolios, whether electronic or otherwise, are another common type of assessment in online courses.    
 
