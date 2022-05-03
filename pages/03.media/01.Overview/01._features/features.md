@@ -14,7 +14,7 @@ features:
         icon: tabler/photo.svg
         link: 'https://multi-access.twu.ca/media/overview#graphics'
     -
-   title: 'Educational Technology'
+        title: 'Educational Technology'
         text: 'H5P'
         icon: tabler/device-desktop-analytics.svg
         link: 'https://multi-access.twu.ca/media/overview#educational-technology'
