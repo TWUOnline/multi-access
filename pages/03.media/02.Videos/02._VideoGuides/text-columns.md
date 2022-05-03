@@ -29,8 +29,8 @@ You might consider making a welcome video to introduce yourself to your class. W
 
 [Getting Started with Teams](https://create.twu.ca/help/video/teams/teams)
 
-[Advanced Screen Sharing (OBS)] (https://vimeo.com/665721887)
+[Advanced Screen Sharing with OBS] (https://vimeo.com/665721887)
 
 [OBS Intro Series](https://vimeo.com/showcase/8313279)
 
-[Video Editing (Avidemux(https://vimeo.com/705941955/08aefe9073)
+[Video Editing with Avidemux](https://vimeo.com/705941955/08aefe9073)
