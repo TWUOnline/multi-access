@@ -7,13 +7,14 @@ hero:
     overlay_gradient:
         - '0.6'
     image: mockup-863469_1920.jpg
-    alignment: center
+    alignment: left
     text: auto
     title:
         text: 'Online Teaching and Learning at Trinity Western University'
         color: auto
-    title2:
+    title2: null
     content: 'Design | Teaching | Learning'
     custom: '#3C4043'
 media_order: mockup-863469_1920.jpg
 ---
+
