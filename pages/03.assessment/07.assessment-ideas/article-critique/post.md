@@ -47,3 +47,8 @@ implications of these findings for people in general?
 !! See the due date on the dropbox below.
 
 !!!! Don't forget to use the writing resources available to you, such as the [TWU Writing Centre](https://www.twu.ca/learning-commons/writing-centre), the Writing Tips located in the Assessment section of this course, and other APA resources (e.g. [Purdue Online Writing Lab](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html))
+
+
+testing using screenshot:
+
+![](PSYC-354-article-analysis.png)
