@@ -1,6 +1,7 @@
 ---
 title: null
 body_classes: modular
+columns: '1'
 ---
 
 ## Considerations for Educational Graphics
