@@ -7,7 +7,7 @@ taxonomy:
         - peer
 ---
 
-Read Chapter 1. Watch this video. Read this article...
+!!!! Read Chapter 1. Watch this video. Read this article...
 
 When we ask learners to engage with course resources, how do we set them up for success?  There are several [High Impact Practices (HIPS)](https://uwaterloo.ca/centre-for-teaching-excellence/support/integrative-learning/high-impact-practices-hips-or-engaged-learning-practices) that we suggest when introducing a student to a textbook chapter, article, or video.  
 
