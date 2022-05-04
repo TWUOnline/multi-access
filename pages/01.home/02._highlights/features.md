@@ -3,7 +3,7 @@ body_classes: modular
 variation: vertical
 features:
     -
-        title: 'Learning Design' classes=after:hidden
+        title: 'Learning Design'
         text: Plan & design your course
         icon: tabler/school.svg
         link: 'https://multi-access.twu.ca/design/overview'
