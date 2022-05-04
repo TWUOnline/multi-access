@@ -1,6 +1,5 @@
 ---
 title: 'Theoretical Framework'
-onpage_menu: false
 content:
     items: self@.modular
 header_bar:
