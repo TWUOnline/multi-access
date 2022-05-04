@@ -6,5 +6,6 @@ content:
 header_bar:
     text: auto
     background: auto
+show_children_in_secondary_menu: true
 ---
 
