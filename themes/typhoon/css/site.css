@@ -12,7 +12,7 @@
 @tailwind utilities;
 
 /* Start of Jeff's CSS Overwrites */
-.anchorjs-link{
+.anchorjs-link {
 display: none;
 }
 /* End of Jeff's CSS Overwrites */
