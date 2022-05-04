@@ -1,5 +1,6 @@
 ---
 title: 'Assessment Process'
+columns: 2
 ---
 
 ## Selecting Assessments

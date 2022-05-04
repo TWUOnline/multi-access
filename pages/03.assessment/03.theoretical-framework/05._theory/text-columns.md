@@ -2,7 +2,8 @@
 title: 'Assessment Theory'
 onpage_menu: false
 header_bar:
-    background: transparent
-    text: light
+    background: auto
+    text: auto
+columns: 2
 ---
 

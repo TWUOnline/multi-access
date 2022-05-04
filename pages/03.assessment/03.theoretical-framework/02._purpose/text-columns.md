@@ -6,6 +6,7 @@ hero:
 header_bar:
     background: auto
     text: auto
+columns: 2
 ---
 
 ## Why Assess?

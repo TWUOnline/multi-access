@@ -2,6 +2,7 @@
 title: 'Assessment Overview'
 body_classes: modular
 published: true
+columns: 2
 ---
 
 Assessment is fundamentally a process of reasoning from evidence (Pellegrino et al., 2001). The evidence is produced by learners as they create artifacts that demonstrate some degree or another of alignment with an intended learning outcome. This can come in the form of an answer to a quiz question, administering a medication, creating a website, recording an interview, conducting an experiment, writing or performing a play, singing a song, painting a landscape, teaching a class, executing a physical skill, programming an app, or any number of other tasks that might be imagined. The end result of this process is an inference related to what the learner knows, believes, or can do.
