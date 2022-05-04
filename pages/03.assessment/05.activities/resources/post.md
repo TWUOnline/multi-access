@@ -29,33 +29,18 @@ After students have viewed the resource, what should they do?!  If we consider a
 This includes will support students as they interact with these resources.
 high-impact practices help students engage in "deep approaches" to learning which are important because "students who use these approaches tend to earn higher grades and retain, integrate, and transfer information at higher rates” (Kuh, 2008).
 
-But what makes a practice “high impact”?
+The next time you are tempted to simple add a pdf resource to Moodle...consider adding some context and some action items for students so they can truly engage with the content.
 
-Characteristics of a High Quality, High Impact Practice
-Below are eight characteristics (Kuh, 2013) which when incorporated into different academic practices, can engage students and have a high impact on their learning. Beside each characteristic we’ve linked to a teaching story that illustrates the use of a particular characteristic, as well as “friendly contacts” from across campus who are willing to share their experiences with particular high impact characteristics and practices.
+Remember these characteristics (Kuh, 2013) which when incorporated into different academic practices, can engage students and have a high impact on their learning.
 
-- Encourage students to invest significant and meaningful  time and effort on authentic, complex tasks over an extended period of time
+- Encourage students to invest significant and meaningful  time and effort on authentic, complex tasks over an extended period of time.  
+- Add meaningful interactions amongst students and between faculty and students about substantive matters.
+- Challenge students’ ways of thinking, increase interactions with individuals with experiences and life experiences different from their own.
+- Provide frequent, timely and constructive feedback.
+- Increase periodic, structured opportunities to reflect and integrate learning.
+- Provide opportunities to discover relevance of learning through real-world applications, or add a real-world/authentic experience.
+- Add a public demonstration of competence
 
-See Christine Moresoli’s Teaching Story
-Friendly contacts: Gord Stubley and Shannon Dea
-Add meaningful interactions amongst students and between  faculty and students about  substantive matters
 
-See Katie Misener’s Teaching Story
-Friendly contacts: Regina Vera-Quinn and Shannon Dea
-Challenge students’ ways of thinking, increase interactions with individuals with experiences and life experiences different from their own,  Experiences with diversity
-
-See Joseph Sanderson’s Teaching Story
-Friendly contacts: Maud Gorbet, Regina Vera-Quinn, John Fedy and Alannah Robinson
-Provide frequent, timely and constructive feedback
-
-See Fiona Dunbar’s Teaching Story
-Friendly contacts: Anne Fannon, John Fedy and Alannah Robinson
-Increase periodic, structured opportunities to reflect and integrate learning
-
-See Geoff Malleck’s Teaching Story
-Friendly contacts: Katherine Lithgow, Anne Fannon, Geoff Malleck, and Alannah Robinson
-Provide opportunities to discover relevance of learning through real-world applications, or add a real-world/authentic experience
-
-See Laura Johnson’s Teaching Story
-Friendly contacts: Gord Stubley, Mary Power and Anne Fannon
-Add a public demonstration of competence
+### Additional Resources
+[Characteristics of a High Quality, High Impact Practice](https://uwaterloo.ca/centre-for-teaching-excellence/support/integrative-learning/high-impact-practices-hips-or-engaged-learning-practices) from University of Waterloo
