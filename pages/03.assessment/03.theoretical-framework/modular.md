@@ -5,5 +5,6 @@ content:
     items: self@.modular
 header_bar:
     text: auto
+    background: auto
 ---
 
