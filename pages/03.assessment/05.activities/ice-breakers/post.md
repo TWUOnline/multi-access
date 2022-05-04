@@ -15,18 +15,20 @@ Social presence can be achieved by promoting emotional and cognitive engagement 
 
 To learn more about engaging students online, read [Fostering Engagement: Facilitating Online Courses in Higher Education](https://contensis.uwaterloo.ca/sites/open/courses/FEFOCHE/toc/home/home.aspx).
 
+---
+
 ## Facilitating Icebreakers
-**1. Set the stage for engagement**  
+### 1. Set the stage for engagement
 As the instructor, you have an important role in modelling engagement for your online course. Start by introducing yourself and inviting students to do the same. Post an announcement so that all students can see it or start a discussion board topic for students to respond. Be creative – share a photo, record an audio message, or film a quick video introduction! Include information that you would also like to know about your students to give them an example of what their own introductions should look like.
 
-**1. Think about your goals for the icebreaker**  
+### 2. Think about your goals for the icebreaker  
 Knowing what you’re trying to achieve will inform what types of activities you will do. Common goals of icebreakers include:
 
 - Helping students feel like they’re part of a community
 - Finding out students’ existing knowledge and attitudes about course content
 - Facilitating groupwork and uncovering each group member’s strengths
 
-**1. Relate the activity to your course**  
+### 3. Relate the activity to your course
 Use icebreakers as an opportunity to get students thinking about course content and to gauge their expectations for the course.
 
 **Ask questions related to the course content.**  
@@ -40,12 +42,14 @@ Use icebreakers as an opportunity to get students thinking about course content 
 - What can I do to make learning in this course more engaging for you?
 - What is your favourite method of studying?
 
-**1. Provide structure and clear expectations for engagement**  
+### 4. Provide structure and clear expectations for engagement**  
 Give clear instructions so students understand what to do and let them know ahead of time so that they can prepare.  For large classes, consider dividing students into groups of 8 to 10 for the activity. You can ask students to lead activities within smaller groups to actively engage them.
 Set expectations on how often or how much students should engage with one another (e.g. how many peers should they respond to?). Consider requiring students to engage or many students may not participate.
 
-**1. Have fun!**  
+### 5. Have fun!**  
 Keep your icebreakers simple and light-hearted, especially for online courses where students may be hesitant to share personal stories. Short and simple activities are easy to facilitate and engage students.
+
+---
 
 ## Icebreaker Ideas
 ### Asynchronous
@@ -76,11 +80,14 @@ Synchronous icebreaker activities are limited by time constraints. Activities th
 
 ![](philipp-berg-R56JrFjhBcI-unsplash-edit.jpg)
 
+---
+
 ## Additional Resources
 - [Fostering Engagement: Facilitating Online Courses in Higher Education](https://contensis.uwaterloo.ca/sites/open/courses/FEFOCHE/toc/home/home.aspx)  
 - [65 Icebreaker Questions for Online Meetings](https://www.canr.msu.edu/news/65-icebreaker-questions-for-online-meetings)  
 - [200 Icebreaker Questions](https://conversationstartersworld.com/icebreaker-questions/)  
 
+---
 
 ## References
 - Jaggars, S. S., & Xu, D. (2016). How do online course design features influence student performance?. Computers & Education, 95, 270-284.  
