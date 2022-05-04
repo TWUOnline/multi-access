@@ -19,7 +19,7 @@ This project is designed to give you experience with interview research and a ch
 
 Choose one of the following two interview options: Friendship in Adolescence or Life Story of an Elder.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=163" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=163" width="1196" height="575" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
 
 !! Be sure to submit the Interview Consent form!
 
