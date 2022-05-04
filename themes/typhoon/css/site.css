@@ -6,7 +6,6 @@
 @import "./custom/social.css";
 @import "./custom/typography.css";
 @import "./custom/bugs.css";
-@import "./custom/overwrites.css";
 
 @tailwind base;
 @tailwind components;
