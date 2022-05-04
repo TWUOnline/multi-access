@@ -26,8 +26,8 @@ After students have viewed the resource, what should they do?!  If we consider a
   - create a graphic organizer comparing ideas
   - create a mind map connecting ideas
   - create a 3D model of what was presented ()
-This includes will support students as they interact with these resources.
-high-impact practices help students engage in "deep approaches" to learning which are important because "students who use these approaches tend to earn higher grades and retain, integrate, and transfer information at higher rates” (Kuh, 2008).
+
+These additional tasks support students as they interact with these resources and help them engage in "deep approaches" to learning.
 
 The next time you are tempted to simple add a pdf resource to Moodle...consider adding some context and some action items for students so they can truly engage with the content.
 
@@ -40,6 +40,13 @@ Remember these characteristics (Kuh, 2013) which when incorporated into differen
 - Increase periodic, structured opportunities to reflect and integrate learning.
 - Provide opportunities to discover relevance of learning through real-world applications, or add a real-world/authentic experience.
 - Add a public demonstration of competence
+
+### Sample activities
+
+![](PSYC-340-video-questions.png)
+![](TED-talkDD.png)
+![](poverty-activity.png)
+![](brain.jpg)
 
 
 ### Additional Resources
