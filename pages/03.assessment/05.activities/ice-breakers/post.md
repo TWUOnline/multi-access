@@ -42,11 +42,11 @@ Use icebreakers as an opportunity to get students thinking about course content 
 - What can I do to make learning in this course more engaging for you?
 - What is your favourite method of studying?
 
-### 4. Provide structure and clear expectations for engagement**  
+### 4. Provide structure and clear expectations for engagement
 Give clear instructions so students understand what to do and let them know ahead of time so that they can prepare.  For large classes, consider dividing students into groups of 8 to 10 for the activity. You can ask students to lead activities within smaller groups to actively engage them.
 Set expectations on how often or how much students should engage with one another (e.g. how many peers should they respond to?). Consider requiring students to engage or many students may not participate.
 
-### 5. Have fun!**  
+### 5. Have fun!
 Keep your icebreakers simple and light-hearted, especially for online courses where students may be hesitant to share personal stories. Short and simple activities are easy to facilitate and engage students.
 
 ---
@@ -78,8 +78,6 @@ Synchronous icebreaker activities are limited by time constraints. Activities th
 - For large groups, you can pose a question using polls and share the results with the class. Experiment with the poll feature in your software or try web alternatives like Poll Everywhere.
 - Keep in mind that synchronous activities may not be inclusive to all students across time zones.
 
-![](philipp-berg-R56JrFjhBcI-unsplash-edit.jpg)
-
 ---
 
 ## Additional Resources
@@ -92,6 +90,9 @@ Synchronous icebreaker activities are limited by time constraints. Activities th
 ## References
 - Jaggars, S. S., & Xu, D. (2016). How do online course design features influence student performance?. Computers & Education, 95, 270-284.  
   - Results of this study show that students are more likely to achieve higher grades when their learning environment involves social interactions. Students are motivated to perform well in the course if they interact with others in their online course community.  
+
+![](philipp-berg-R56JrFjhBcI-unsplash-edit.jpg)
+
 
 ! This content is from the University of Waterloo's [Icebreakers for Online Classes](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/inclusive-instructional-practices/icebreakers-online-classes) under a CC by-NC licence
 
