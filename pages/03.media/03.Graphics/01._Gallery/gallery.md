@@ -22,5 +22,13 @@ gallery:
             image: PSYC_340_Chart.png
             desc: null
             video: null
-media_order: 'MALead_course_Infographic.png,PSYC_330_Infographic.jpg,PSYC_340_Chart.png'
+
+        -
+            title: 'Chart'
+            image: TheEightPrinciplesofAppreciativeInquiry-v1.jpg
+            desc: null
+            video: null
+
+
+media_order: 'MALead_course_Infographic.png,PSYC_330_Infographic.jpg,PSYC_340_Chart.png,TheEightPrinciplesofAppreciativeInquiry-v1.jpg'
 ---
