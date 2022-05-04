@@ -74,6 +74,8 @@ Synchronous icebreaker activities are limited by time constraints. Activities th
 - For large groups, you can pose a question using polls and share the results with the class. Experiment with the poll feature in your software or try web alternatives like Poll Everywhere.
 - Keep in mind that synchronous activities may not be inclusive to all students across time zones.
 
+![](philipp-berg-R56JrFjhBcI-unsplash-edit.jpg)
+
 ## Additional Resources
 [Fostering Engagement: Facilitating Online Courses in Higher Education](https://contensis.uwaterloo.ca/sites/open/courses/FEFOCHE/toc/home/home.aspx)
 [65 Icebreaker Questions for Online Meetings](https://www.canr.msu.edu/news/65-icebreaker-questions-for-online-meetings)
@@ -88,6 +90,6 @@ Results of this study show that students are more likely to achieve higher grade
 
 ![](320px-Cc-by-nc_icon.png)
 
-![](philipp-berg-R56JrFjhBcI-unsplash.jpg)
+
 
 Photo by Philipp Berg on [Unsplash](https://unsplash.com/photos/R56JrFjhBcI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
