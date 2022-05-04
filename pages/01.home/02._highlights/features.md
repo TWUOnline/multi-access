@@ -46,3 +46,6 @@ features:
 subtitle: 'Supporting faculty in designing accessible, engaging, high quality online courses'
 title: 'What We Do'
 ---
+<script>
+document.getElementByClass('.anchorjs-link').style.display = 'none';
+</script>
