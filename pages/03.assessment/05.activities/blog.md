@@ -11,5 +11,8 @@ content:
 show_breadcrumbs: true
 show_sidebar: true
 show_pagination: true
+header_bar:
+    background: auto
+    text: auto
 ---
 
