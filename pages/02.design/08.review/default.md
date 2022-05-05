@@ -5,14 +5,6 @@ body_classes: 'title-center title-h1h2'
 
 # Ensuring Quality in TWU Online Courses
 
-[ui-tabs position="top-left" active="0" theme="lite"]
-[ui-tab title=Selecting Course Resources"]
-
-
-
-
-[/ui-tab]
-[ui-tab title="Quality Checklist"]
 
 ## Quality Checklist
 At TWU, we have a [Checklist for Quality Online Courses at Trinity Western University](https://docs.google.com/document/d/13TD6ZdTnCX3AQjxlHLoPZGCAGTZMRBzvGkKww1IcbpY/edit) with standards adapted from [Quality Matters](https://www.qualitymatters.org/qa-resources/rubric-standards/higher-ed-rubric).
@@ -101,12 +93,3 @@ As we develop and review online courses, here are the items we discuss.
 
 - Learner interaction (student-instructor, student-student, student-content) promotes a sense of community aligned with Trinity Western University core values.
 - Course design and instructional materials meet academic standards for Higher Education (online) learning.
-
-
-[/ui-tab]
-[ui-tab title="Process for Course Revisions"]
-
-to be confirmed
-
-[/ui-tab]
-[/ui-tabs]
