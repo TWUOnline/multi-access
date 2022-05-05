@@ -1,9 +1,9 @@
 ---
-title: Resources
+title: Course Review
 body_classes: 'title-center title-h1h2'
 ---
 
-# Resources for Online Courses
+# Ensuring Quality in TWU Online Courses
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title=Selecting Course Resources"]
@@ -12,97 +12,101 @@ body_classes: 'title-center title-h1h2'
 
 
 [/ui-tab]
-[ui-tab title="Selecting Course Resources"]
+[ui-tab title="Quality Checklist"]
 
-## Selecting Course Resources
+## Quality Checklist
+At TWU, we have a [Checklist for Quality Online Courses at Trinity Western University](https://docs.google.com/document/d/13TD6ZdTnCX3AQjxlHLoPZGCAGTZMRBzvGkKww1IcbpY/edit) with standards adapted from [Quality Matters](https://www.qualitymatters.org/qa-resources/rubric-standards/higher-ed-rubric).
 
-Once you've confirmed your course learning outcomes and assessment plan (see [Backwards Design](https://multi-access.twu.ca/learning-design/course-planning#Backward_Design)), you're ready to select the resources for your course, including textbooks, articles, videos, graphics, etc.
+As we develop and review online courses, here are the items we discuss.  
+!! Note that often these are a work in progress!!  For example, we are currently implementing Blackboard Ally in all TWU courses to ensure accessibility requirements are met.  
 
-Here are some questions to consider when choosing a resource:
+---
 
-- Do the topics in the resource address your course learning outcomes and topics?
-- Is the resource written at an appropriate level?
-- Does it explain concepts clearly?
-- Is it up-to-date?
-- Does it fit with the student workload? Is there too much to read, or too little? Consider making some sections optional reading.
-- Is the resource visually appealing? This may not be high on the priority list, but images, graphic organizers, and the way the chapters are structured are key features to help students learn.
-- What features does the resource have to guide students in their learning? (e.g. chapter questions, summary, glossary, case studies, diagrams, etc.). Are there any online features to help students? (e.g. web links, flashcards, study notes, online quizzes, etc.)
-- Are there additional resources to support the instructor? (e.g. Instructor’s manual, PowerPoint templates, test banks, chapter notes, etc.)
-- How expensive is it? This may seem like a minor point, but many students choose not buy their course texts because they are too pricey.
-- And finally, what do others think of this textbook? You may want to read reviews or ask your colleagues who have use it previously.
+### Course Overview and Introduction
 
-One final important question...is it accessible?  
+- There is a self-introduction by the instructor, welcoming students to the course and explaining key aspects of what to expect in the course.
+- The Course Overview provides a course description, learning outcomes, and list of assessments.
+- Instructions are clear on how to navigate the course and how to get started.
+- Learners are asked to introduce themselves to the class.
 
-See the following checklist from [Accessibility Toolkit](https://opentextbc.ca/accessibilitytoolkit/back-matter/appendix-checklist-for-accessibility-toolkit/) - 2nd Edition by BCcampus
+---
 
-### Appendix A: Checklist for Accessibility
+### Learning Outcomes
 
-**Organizing content**  
-☑️ Content is organized under headings and subheadings.  
-☑️ Headings and subheadings are used sequentially (e.g., Heading 1, Heading 2).
+- Course learning outcomes reflect the course description and level of the course and  achievement can be inferred from learner performance on assessments
+- The module/unit learning outcomes are consistent with the course-level outcomes and can be inferred from learner performance on assessment tasks.
+- The learning outcomes are stated clearly and written from the learner’s perspective.
+- There is a clear relationship between the course/unit learning outcomes, learning activities, and assessments.
 
+---
 
-**Images**  
-☑️ Images that convey information include alternative text (alt text) descriptions of the image’s content or function.  
-☑️ Graphs, charts, and maps also include contextual or supporting details in the text surrounding the image.  
-☑️ Images do not rely on colour to convey information.  
-☑️ Images that are purely decorative do not have alt text descriptions. (Descriptive text is unnecessary if the image doesn’t convey contextual content information).
+### Assessment
 
-**Links**  
-☑️ The link text describes the destination of the link and does not use generic text such as “click here” or “read more.”  
-☑️ If a link will open or download a file (like a PDF or Excel file), a textual reference is included in the link information (e.g., [PDF]).  
-☑️ Links do not open in new windows or tabs.  
-☑️ If a link must open in a new window or tab, a textual reference is included in the link information (e.g., [NewTab]).
+- The assessments allow instructors to infer achievement of the course learning outcomes and are consistent with course activities and resources.
+- Specific and descriptive criteria (rubrics, marking schemes) are provided as necessary for the evaluation of students’ work and participation.
+- The assessments are sequenced, varied, flexible, and appropriate to the content being assessed.
+- Learners have opportunities to review their performance and assess their own learning throughout the course (pre-tests, automated self-tests, reflective assignments, etc.).
+- Sufficient and varied opportunities for formative feedback are provided.
+- The learner workload is appropriate and reasonable for the level and number of credits for the course.
+- Summative assessments only consider achievement in relation to learning outcomes, not compliance with course logistics (i.e. late penalties).
 
-**Tables**  
-☑️ Tables include row and column headers.  
-☑️ Row and column headers have the correct scope assigned.  
-☑️ Tables include a caption.  
-☑️ Tables avoid merged or split cells.  
-☑️ Tables have adequate cell padding.
+---
 
-**Multimedia**  
-☑️ A transcript is available for each audio resource including relevant non-speech content. Transcript includes: speaker’s name, all speech content, relevant descriptions of speech, descriptions of relevant non-speech audio, and headings and subheadings.  
-☑️ Videos have captions of all speech content and relevant non-speech content.  
-☑️ Videos include audio descriptions of contextual visuals (e.g., graphs, charts).
+### Instructional Materials
 
-**Formulas**  
-☑️ Simple equations use symbols that will be correctly interpreted by screen readers (for example, minus signs and not hyphens).  
-☑️ Complex equations are written in MathML or written in such a way they can be translated into MathML (for example, written in LaTeX and rendered with MathJax).  
-☑️ Equations are images with alternative text descriptions if MathML is not an option.
+- The instructional materials (written/oral content, videos, graphics, readings, etc.), support learners in achieving the learning outcomes.
+- Course materials and resources are up-to-date, relevant, and appropriate for the level of the course.
+- The instructional materials are free of bias, culturally inclusive, and provide flexibility and choice.
+- A variety of instructional materials are used in the course.
 
-**Font size**  
-☑️ Font size is 12 point or higher for body text.  
-☑️ Font size is 9 point for footnotes or endnotes.  
-☑️ Font size can be zoomed to 200%.
+---
+
+### Learning Activities and Learner Interaction
+
+- Learning activities support learners in achieving the learning outcomes and completing assessments.
+- Learning activities provide scaffolding opportunities for building foundational knowledge and skills within the course.
+- Learning activities foster student-instructor, student-content, and if appropriate to the course, student-student interaction.
+- The requirements for learner interaction are clearly stated.
+
+---
+
+### Course Technology
+
+- The technology used in the course supports the learning outcomes, activities and assessments.
+- Tools promote student engagement and active learning.
+- Students are instructed on how to protect their data and privacy.
+- All third-party materials are identified, cited and permission requested if necessary.
+- A variety of technology is used in the course.
+
+---
+
+### Learner Support
+
+- Instructions for accessing support (instructor, IT, library, student services), are clearly stated in the course overview and when appropriate, throughout the course.
+- Instructors provide support for students throughout the course (e.g. though emails, assessment feedback, welcome videos, weekly debriefing, and other updates).
+- Learners are able to participate in a peer support forum (e.g. Learning Café), for course-related questions or community-building activities.
+
+---
+
+### Accessibility and Usability
+
+- The course navigation facilitates ease of use.
+- The overall course is structured in a logical, consistent, sequenced, and efficient manner.
+- Instructions are clear, include rationale for activities and assessments, and provide seamless connections between the various elements in the course.
+- The course provides accessible text, videos and images for diverse learners.
+
+---
+
+### TWU Values and Standards
+
+- Learner interaction (student-instructor, student-student, student-content) promotes a sense of community aligned with Trinity Western University core values.
+- Course design and instructional materials meet academic standards for Higher Education (online) learning.
 
 
 [/ui-tab]
-[ui-tab title="Open Educational Resources"]
+[ui-tab title="Process for Course Revisions"]
 
-Open educational resources (OER) are freely accessible, openly licensed documents and media that are useful for teaching, learning, and assessing as well as for research purposes.
-
-
-**Open Textbooks**  
-[OER Commons](https://www.oercommons.org/)  
-[MERLOT](https://www.merlot.org/merlot/index.htm)  
-[OpenStax​](https://openstax.org/)  
-[BC Campus Open Textbooks](https://collection.bccampus.ca/)  
-[WikiBooks​](https://en.wikibooks.org/wiki/Main_Page)  
-
-**Open Courses**
-Search for full courses, lessons, activities, assessments, resources...and reuse with the creative commons license!
-
-OERu Courses](https://oeru.org/courses/)  
-[MIT Open Courseware](https://ocw.mit.edu/)  
-[Open Yale Courses​](https://oyc.yale.edu/courses)  
-[BC Campus SOL*R Repository](https://solr.bccampus.ca/wp/)  
-[Open University](https://www.open.edu/openlearn/)  
-
-[/ui-tab]
-[ui-tab title="Supplemental Resources"]
-
-Finding resources can be difficult.  A textbook may not explain each course topic, so the search for supplemental resources is crucial.  Below are some tips for finding supplemental resources, such as videos, podcasts, images, etc.
+to be confirmed
 
 [/ui-tab]
 [/ui-tabs]
