@@ -17,14 +17,14 @@ This is an example of H5P created for one of TWU courses:
 
 [Flashcards](https://h5p.org/flashcards)
 
-<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=36" width="958" height="318" frameborder="0" allowfullscreen="allowfullscreen" title="Mission Statement Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 There are various options that bring many possibilities for your activities and are available to make in H5P:
 
 - [Drag the Words](https://h5p.org/drag-the-words)
 
 - [Multiple Choice](https://h5p.org/multichoice)
-[h5p id="36"]
+
 
 
 
