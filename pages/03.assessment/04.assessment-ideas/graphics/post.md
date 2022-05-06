@@ -1,5 +1,5 @@
 ---
-title: 'Graphics'
+title: 'Images & Graphic Organizers'
 taxonomy:
     tag:
         - 'assessment as learning'
@@ -7,7 +7,6 @@ taxonomy:
         - peer
 ---
 
-### Images & Graphic Organizers
 
 Images and graphic organizers can be powerful tools in many types of assignments. Just as we use visuals in our teaching for various reasons, students can include them in assignments to engage the reader, present complex information quickly and clearly, and communicate effectively.
 
@@ -17,10 +16,13 @@ In the resources below you'll see several digital tools that may be useful for y
 ![](online-adjectives.png)
 *Wordcloud of TONE participants answers "What do you think of when we say online?" - made with [WordItOut](https://worditout.com/)*
 
+---
 
 #### Digital Tools for Images & Graphic Organizers
 
 :fa-book: Browse the following resources:
+
+&nbsp;
 
 **Graphic Organizers / Concept Maps**
 - [Cmap](https://cmap.ihmc.us/): concepts maps to construct, navigate, share and criticize knowledge models
@@ -28,6 +30,8 @@ In the resources below you'll see several digital tools that may be useful for y
 - [Draw Io](https://app.diagrams.net/): create diagrams by dragging and dropping pre-existing icons and shapes from a menu
 - [Cacoo](https://cacoo.com/): Create diagrams online real time collaboration.
 - [ZeeMaps](https://www.zeemaps.com/)
+
+&nbsp;
 
 **Timelines**
 - [H5P Timeline](https://h5p.org/timeline): Plug in for Moodle or WordPress.
@@ -37,10 +41,14 @@ In the resources below you'll see several digital tools that may be useful for y
 - [Office Timeline](https://www.officetimeline.com/): To integrate into PowerPoint.
 - [Neatline](http://neatline.org/)
 
+&nbsp;
+
 **Infographics**
 - [easel.ly](http://www.easel.ly/)
 - [Infogram](https://infogram.com/)
 - [Canva](https://www.canva.com/create/infographics/)
+
+&nbsp;
 
 **Mindmaps/Word Clusters:**
 - [Word It Out](http://worditout.com/)
