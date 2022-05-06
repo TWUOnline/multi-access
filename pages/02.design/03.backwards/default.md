@@ -1,8 +1,10 @@
 ---
 title: 'Backwards Design'
 body_classes: modular
+header_bar:
+    background: auto
+    text: auto
 ---
-
 
 ### Backward Design
 **Backward Design** (Fink, 2003; Wiggins & McTighe, 2005) is a contrast to the traditional method of designing curriculum, which often starts with identifying the topics (or chapters in a textbook), and then maps out the weekly lessons according to those resources. With the backward approach, we focus first on the end results, which helps map out the course and leads to more productive activities and assessments.
