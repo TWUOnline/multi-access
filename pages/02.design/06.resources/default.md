@@ -100,9 +100,4 @@ OERu Courses](https://oeru.org/courses/)
 [Open University](https://www.open.edu/openlearn/)  
 
 [/ui-tab]
-[ui-tab title="Supplemental Resources"]
-
-Finding resources can be difficult.  A textbook may not explain each course topic, so the search for supplemental resources is crucial.  Below are some tips for finding supplemental resources, such as videos, podcasts, images, etc.
-
-[/ui-tab]
 [/ui-tabs]
