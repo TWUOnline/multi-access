@@ -10,7 +10,7 @@ taxonomy:
 
 Discussion forums are a popular form of assessment for online courses.  Which means, if students are taking several online courses at once...there is a certain amount of *forum fatigue* they may experience!  Be sure to craft your discussion questions in a way that meets the unit learning outcomes, but also inspires collaboration, inquiry, and critical thinking.
 
-In the activity below there are several resources and guides for facilitating discussions. In particular, pay attention to the various activity types you can have in discussion forums.  For example:
+Listed below, there are various activity types you can have in discussion forums:
 
 1. **Web Field Trips**: Instructor provides a link or a series of links. Students follow the link(s) and report back through an instructor-defined set of questions.
 1. **Brainstorming**: Students set forth a series of ideas on a given topic without evaluation.
@@ -27,6 +27,7 @@ around assigned readings. Threads may include pre-reading (anticipation) activit
 
 For samples of discussion instructions, see the Journals & Discussions [Google doc](https://docs.google.com/document/d/1M1NUHmYRY3jPIu0BWeVI5T7sFRasUmAkkYRsO_6DHik/edit?usp=sharing).
 
+&nbsp;
 
 #### Resources on Discussion Forums
 - [Generating and Facilitating Engaging and Effective Online Discussions](https://facultyinnovate.utexas.edu/sites/default/files/Effective-Online-Discussions.pdf)
