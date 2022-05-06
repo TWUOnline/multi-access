@@ -17,14 +17,10 @@ Most students have access to a video recording device (their cell phones), so wh
 
 ![alttext](audiovideo.jpg "project audio video")
 
-**Podcasts**
+#### Podcasts
 Podcasts can be another engaging alternative/addition to a typical essay, project, interview or presentation.  See the following sample assignment from a TWU course, as well as the resources in the learning activity below.
 
-*Sample Podcast Activity/Assessment:* (put in alert?)
-
 ---
-
-
 
 #### Learning Activity: Podcast
 
