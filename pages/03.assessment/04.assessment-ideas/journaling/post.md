@@ -50,10 +50,12 @@ Sample 3: **Journal Instructions**
 
 For more samples of journals used on TWU online courses, see the following [Google doc](https://docs.google.com/document/d/1M1NUHmYRY3jPIu0BWeVI5T7sFRasUmAkkYRsO_6DHik/edit?usp=sharing).
 
-TWU Example of Reflective Journals integrating H5P:
+&nbsp;
+
+#### TWU Example of Reflective Journals integrating H5P:
 We've integrated interactive tools to enhance the student's experience when working on their reflective journal. Students can use the Activity Documentation Tool on the course site to fill out their reflections, then save them as a document to keep them handy. As shown in example from LDRS 634, the student will watch a video, then take notes while in class if the instructor directs them to the learning activity or work on it at their own pace. Reflective Journals are a framework that provides a starting point for compiling a final document.
 
-[alttex](journal.jpg)
+[alttext](journal.jpg)
 Source: [LDRS 634](https://learn.twu.ca/mod/page/view.php?id=536926).
 
 ##### Reflective Journals
