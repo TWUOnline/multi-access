@@ -9,11 +9,13 @@ taxonomy:
 
 How do you currently integrate technology/media into your assignments?  Is there an opportunity for personalization or creativity in the way information is presented?  Let's discuss utilizing media in your assignments, such as video and audio applications.
 
-![alttext](audiovideo.jpg "project audio video")
+
 
 **Video Assessments**
 
 Most students have access to a video recording device (their cell phones), so why not take advantage of that! Consider how you might use video assessments in your course. Students can record a video blog, give a presentation, show their field trip, demonstrate a procedure...the list goes on. Storytelling is a key feature of video assignments, so consider how students can connect the course content to their own personal or professional experience. Another way to use videos is for students to analyze videos online related to your course.
+
+![alttext](audiovideo.jpg "project audio video")
 
 **Podcasts**
 Podcasts can be another engaging alternative/addition to a typical essay, project, interview or presentation.  See the following sample assignment from a TWU course, as well as the resources in the learning activity below.
@@ -21,6 +23,8 @@ Podcasts can be another engaging alternative/addition to a typical essay, projec
 *Sample Podcast Activity/Assessment:* (put in alert?)
 
 ---
+
+
 
 #### Learning Activity: Podcast
 
