@@ -14,7 +14,7 @@ Test, exams, quizzes…these are essential to many courses, however, there is de
 In our online courses, we think about the assessments and whether students have enough guidance and practice.  For low-level memorization of key terms for example, you could create flashcards or quizzes (e.g. matching, fill-in-the blank, multiple choice, etc.).  Yes, it may take some time to create, but our online team can help you! Once we receive the terms and definitions from instructors we typically use [h5P](https://h5p.org/content-types-and-applications), an open source application that seamlessly integrates into Moodle (and other websites).
 
 
-There are various options that bring many possibilities for your activities and are available to make in H5P:
+There are various options that bring many possibilities for your activities and are available to make in H5P, the listed below are only a few of these:
 
 - [Drag the Words](https://h5p.org/drag-the-words)
 
