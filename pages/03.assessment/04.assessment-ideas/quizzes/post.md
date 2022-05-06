@@ -32,9 +32,11 @@ Here are some examples from our courses:
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=36" width="958" height="318" frameborder="0" allowfullscreen="allowfullscreen" title="Mission Statement Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+---
 
-!! Note that H5P is an application in Moodle, so you can create your own quizzes and use it for graded assessments.
+**Note that H5P is an application in Moodle, so you can create your own quizzes and use it for graded assessments.**
 
+---
 
 &nbsp;
 
@@ -52,6 +54,8 @@ We've provided some resources below that may help you address some of these ques
 - Craft your questions to include more higher-order thinking skills - requiring more application, rather than retrieving facts from their textbook.
 - Remember, your usual in-class test could now be considered a take home test.  Students will have all of their resources available to check.  Perhaps encourage them to use them! The time limit will help focus students.
 - And lastly...consider what could be assessed in a different assignment format (e.g. video essay, journal response, case study report).
+
+&nbsp;
 
 #### Resources on Quizzes & Tests
 
