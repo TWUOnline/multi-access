@@ -1,5 +1,5 @@
 ---
-title: 'Article Critique'
+title: 'Article Analysis'
 taxonomy:
     tag:
         - 'assessment as learning'
@@ -7,7 +7,11 @@ taxonomy:
         - peer
 ---
 
-Here is a sample of an Article Analysis assignment:
+What is an Article Analysis? They're short papers that provide an analysis of a scholarly article. This is used to check a student's skills, like their reading and writing. Articles can be argumentative, they can be empirical. They mostly focus on the main topic, the research questions, the predictors and the rationale, it can also describe methods, discuss results and provide evidence throughout.
+
+&nbsp;
+
+#### Here is a sample of an Article Analysis assignment:
 
 !!! An objective of this course is for students to engage in reflective thought regarding the integration of biological psychology with their own Christian spiritual understanding (if you are not a Christian, write from your faith, religious, or worldview perspective).  
 !!! The assignment is designed to assess the evolution of your ideas and thought processes throughout the course as you learn more about the brain and behaviour.  
