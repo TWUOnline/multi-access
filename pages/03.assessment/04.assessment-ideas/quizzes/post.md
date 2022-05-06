@@ -27,8 +27,6 @@ There are various options that bring many possibilities for your activities and 
 
 ---
 
-&nbsp;
-
 #### Graded Quizzes, Tests & Exams
 For your graded assessments, there are some key questions to ask:
 - What is the purpose of the assessment?
@@ -44,7 +42,7 @@ We've provided some resources below that may help you address some of these ques
 - Remember, your usual in-class test could now be considered a take home test.  Students will have all of their resources available to check.  Perhaps encourage them to use them! The time limit will help focus students.
 - And lastly...consider what could be assessed in a different assignment format (e.g. video essay, journal response, case study report).
 
-&nbsp;
+---
 
 #### Resources on Quizzes & Tests
 
