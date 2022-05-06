@@ -1,6 +1,9 @@
 ---
 title: Resources
 body_classes: 'title-center title-h1h2'
+header_bar:
+    background: auto
+    text: auto
 ---
 
 # Resources for Online Courses
