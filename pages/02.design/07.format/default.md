@@ -1,6 +1,9 @@
 ---
-title: Course Formats
+title: 'Course Formats'
 body_classes: 'title-center title-h1h2'
+header_bar:
+    background: auto
+    text: auto
 ---
 
 # Course Formats at TWU
