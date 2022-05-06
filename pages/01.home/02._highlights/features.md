@@ -33,15 +33,15 @@ features:
         icon: tabler/book.svg
         link: 'https://multi-access.twu.ca/design/resources'
     -
-        title: 'Teaching Online'
-        text: Tips for online teaching
+        title: 'Learning Online'
+        text: Student Guide for Online Learning
         icon: tabler/bulb.svg
-        link: 'https://multi-access.twu.ca/media'
+        link: 'https://www.twu.ca/online-learning'
     -
         title: Help Guides
         text: 'FAQ for Online Teaching'
         icon: tabler/zoom-question.svg
-        link: 'https://far.twu.ca/guides/about-twu/far-centres'
+        link: 'http://create.twu.ca/help/'
 
 subtitle: 'Supporting faculty in designing accessible, engaging, high quality online courses'
 title: 'What We Do'
