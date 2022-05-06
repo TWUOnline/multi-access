@@ -11,6 +11,11 @@ taxonomy:
 
 Journaling is often used in online courses to promote active and reflective learning.  This type of assignment can be structured with specific questions (related to the learning outcomes), or unstructured, allowing the learner to explore and reflect in their own way.  
 
+What to learn more about what a Reflective Journal is?
+- Take a look at this video about [A Reflective Learning Cycle](https://www.youtube.com/watch?v=APxkx46l6gc).
+- Read about why and how to use it: [Assignment Type: Reflective Journals](https://onlineteaching.kent.edu/library/online_assignments/Journal_Handout.pdf).
+
+
 #### Ungraded Reflective Journals
 Reflective Journals are common graded assignments, but they can also be used as ungraded learning activities to promote note-taking, reflection, critical thinking, etc.  
 
@@ -59,7 +64,3 @@ We love integrating interactive tools to enhance the student's experience when w
 ![alttext](journal2.jpg "printscreen H5P activity")
 
 Source: [LDRS 634](https://learn.twu.ca/mod/page/view.php?id=536926).
-
-##### Reflective Journals
-[plugin:youtube](https://www.youtube.com/watch?v=APxkx46l6gc)
-- [Assignment Type: Reflective Journals](https://onlineteaching.kent.edu/library/online_assignments/Journal_Handout.pdf)
