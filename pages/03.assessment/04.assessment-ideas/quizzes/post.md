@@ -17,7 +17,7 @@ This is an example of H5P created for one of TWU courses:
 
 [Flashcards](https://h5p.org/flashcards)
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=207" width="958" height="995" frameborder="0" allowfullscreen="allowfullscreen" title="320 U8 Flashcards"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 There are various options that bring many possibilities for your activities and are available to make in H5P:
 
