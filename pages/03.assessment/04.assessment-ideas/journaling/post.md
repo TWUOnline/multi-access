@@ -15,6 +15,7 @@ What to learn more about what a Reflective Journal is?
 - Take a look at this video about [A Reflective Learning Cycle](https://www.youtube.com/watch?v=APxkx46l6gc).
 - Read about why and how to use it: [Assignment Type: Reflective Journals](https://onlineteaching.kent.edu/library/online_assignments/Journal_Handout.pdf).
 
+***
 
 #### Ungraded Reflective Journals
 Reflective Journals are common graded assignments, but they can also be used as ungraded learning activities to promote note-taking, reflection, critical thinking, etc.  
@@ -24,6 +25,8 @@ For example, in some of our online courses we often have this note for students 
 !! Note that the learning activities in this course are ungraded, unless specified. You are strongly encouraged to complete them, as they are designed to help you succeed in your course assessments. You are encouraged to write your responses in a **Reflective Learning Journal** and refer back to your notes as you complete your assignments.
 
 Make the connection to assessment explicit as you encourage learners to engage in the activity, write their notes in a journal, and study these notes to prepare for assignments.
+
+***
 
 #### Graded Reflective Journals
 As a graded assignment, consider allowing students some flexibility in how they present their learning process.
@@ -55,7 +58,8 @@ Sample 3: **Journal Instructions**
 
 For more samples of journals used on TWU online courses, see the following [Google doc](https://docs.google.com/document/d/1M1NUHmYRY3jPIu0BWeVI5T7sFRasUmAkkYRsO_6DHik/edit?usp=sharing).
 
-&nbsp;
+
+***
 
 #### TWU Example of Reflective Journals integrating H5P:
 We love integrating interactive tools to enhance the student's experience when working on their reflective journal. Students can use the Activity Documentation Tool on the course site to fill out their reflections, then save them as a document to keep them handy. As shown in example from LDRS 634, the student will watch a video and take notes while watching the video in an Asynchronous course or while in an Online session class if the instructor directs them to the learning activity. This is a great example of flexibility for students. In this case, the reflective Journal is a framework that provides a starting point for compiling a final document.
