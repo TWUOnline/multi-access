@@ -1,6 +1,9 @@
 ---
 title: 'Course Planning'
 body_classes: modular
+header_bar:
+    background: auto
+    text: auto
 ---
 
 ## Planning Your Course
