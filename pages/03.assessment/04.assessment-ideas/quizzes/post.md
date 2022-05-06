@@ -19,13 +19,13 @@ In our online courses, we think about the assessments and whether students have 
 There are various options that bring many possibilities for your activities and are available to make in H5P, the listed below are only a few of these:
 
 - [Drag the Words](https://h5p.org/drag-the-words)
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="958" height="986" frameborder="0" allowfullscreen="allowfullscreen" title="Drag the key terms into the correct boxes to complete the definition.">
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="958" height="986" frameborder="0" allowfullscreen="allowfullscreen" title="Drag the key terms into the correct boxes to complete the definition."> </iframe>
 
 - [Flashcards](https://h5p.org/flashcards)
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=207" width="958" height="995" frameborder="0" allowfullscreen="allowfullscreen" title="320 U8 Flashcards">
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=207" width="958" height="995" frameborder="0" allowfullscreen="allowfullscreen" title="320 U8 Flashcards"></iframe>
 
 - [Multiple Choice](https://h5p.org/multichoice)
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=2" width="958" height="238" frameborder="0" allowfullscreen="allowfullscreen" title="Interaction Quiz">
+
 
 **Note that H5P is an application in Moodle, so you can create your own quizzes and use it for graded assessments.**
 
