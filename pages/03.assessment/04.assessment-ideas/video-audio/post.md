@@ -22,13 +22,13 @@ Podcasts can be another engaging alternative/addition to a typical essay, projec
 
 ---
 
-#### Learning Activity: Podcast
+### Learning Activity: Podcast
 
 In this learning activity, you will create an idea for an action research project based on one of the practical problems you have identified from your professional life. You will present this project idea in a podcast for your colleagues. Audio I and Audio II in the Digital Literacy section of the orientation will explain how to set up your podcast. You can find the link to the orientation [here.](https://create.twu.ca/orientation/#Digital_Literacy)
 
 If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video. This learning activity is intended to be informal, so do not spend too much time planning and researching your topic. Please note that if you are sharing confidential information from your place of employment that you should change the name of your employer or any people involved.
 
-##### Instructions:
+#### Instructions:
 
 *   Using one of the practical problems you identified from learning activity 8.1, create an idea for an action research project following the steps described by Plano-Clark and Creswell (2015) on pp. 440-442.
 *   Record that idea in a podcast so that it can be presented to your colleagues for feedback.
@@ -45,7 +45,7 @@ If you know how to create video you are welcome to do that instead. It is your c
 
 ---
 
-#### Resources on Video & Audio Assignments
+#### Resources on Video & Audio Assignments:
 
 :fa-book: Select from the following resources:
 
