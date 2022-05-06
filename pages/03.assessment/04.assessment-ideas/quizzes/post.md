@@ -15,21 +15,21 @@ In our online courses, we think about the assessments and whether students have 
 
 Here are some examples from our courses:
 
-[Flashcards](https://h5p.org/flashcards)*
+[Flashcards](https://h5p.org/flashcards)
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=207" width="958" height="995" frameborder="0" allowfullscreen="allowfullscreen" title="320 U8 Flashcards"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 &nbsp;
 
-[Drag the Words](https://h5p.org/drag-the-words)*
+[Drag the Words](https://h5p.org/drag-the-words)
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="958" height="986" frameborder="0" allowfullscreen="allowfullscreen" title="Drag the key terms into the correct boxes to complete the definition."></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 &nbsp;
 
-[Multiple Choice](https://h5p.org/multichoice)*
+[Multiple Choice](https://h5p.org/multichoice)
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=36" width="958" height="318" frameborder="0" allowfullscreen="allowfullscreen" title="Mission Statement Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
