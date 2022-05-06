@@ -1,6 +1,9 @@
 ---
-title: Course Review
+title: 'Course Review'
 body_classes: 'title-center title-h1h2'
+header_bar:
+    background: auto
+    text: auto
 ---
 
 # Ensuring Quality in TWU Online Courses
