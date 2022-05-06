@@ -55,8 +55,8 @@ For more samples of journals used on TWU online courses, see the following [Goog
 #### TWU Example of Reflective Journals integrating H5P:
 We love integrating interactive tools to enhance the student's experience when working on their reflective journal. Students can use the Activity Documentation Tool on the course site to fill out their reflections, then save them as a document to keep them handy. As shown in example from LDRS 634, the student will watch a video and take notes while watching the video in an Asynchronous course or while in an Online session class if the instructor directs them to the learning activity. This is a great example of flexibility for students. In this case, the reflective Journal is a framework that provides a starting point for compiling a final document.
 
-![alttext](journal1.jpg "printscreen H5P activity")
-![alttext](journal2.jpg "printscreen H5P activity")
+      ![alttext](journal1.jpg "printscreen H5P activity")
+      ![alttext](journal2.jpg "printscreen H5P activity")
 
 Source: [LDRS 634](https://learn.twu.ca/mod/page/view.php?id=536926).
 
