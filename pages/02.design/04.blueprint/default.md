@@ -1,8 +1,10 @@
 ---
 title: 'Course Blueprint'
 body_classes: modular
+header_bar:
+    background: auto
+    text: auto
 ---
-
 
 ## Creating a Course Blueprint
 To help you plan your course, we develop a course blueprint that maps out key components of the course.
