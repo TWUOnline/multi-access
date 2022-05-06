@@ -13,19 +13,14 @@ Test, exams, quizzes…these are essential to many courses, however, there is de
 #### Formative Quizzes
 In our online courses, we think about the assessments and whether students have enough guidance and practice.  For low-level memorization of key terms for example, you could create flashcards or quizzes (e.g. matching, fill-in-the blank, multiple choice, etc.).  Yes, it may take some time to create, but our online team can help you! Once we receive the terms and definitions from instructors we typically use [h5P](https://h5p.org/content-types-and-applications), an open source application that seamlessly integrates into Moodle (and other websites).
 
-This is an example of H5P created for one of TWU courses:
-
-[Flashcards](https://h5p.org/flashcards)
-
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=36" width="958" height="318" frameborder="0" allowfullscreen="allowfullscreen" title="Mission Statement Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 There are various options that bring many possibilities for your activities and are available to make in H5P:
 
 - [Drag the Words](https://h5p.org/drag-the-words)
 
+- [Flashcards](https://h5p.org/flashcards)
+
 - [Multiple Choice](https://h5p.org/multichoice)
-
-
 
 
 **Note that H5P is an application in Moodle, so you can create your own quizzes and use it for graded assessments.**
