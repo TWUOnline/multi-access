@@ -31,9 +31,11 @@ Choose one of the following two interview options: Friendship in Adolescence or 
 
 !! Be sure to submit the Interview Consent form!
 
+![alttext](grading.jpg)
 
+<!---
 ### Grading Criteria
 
 |Emerging|Developing|Proficient|Extending|
 |:---:|:---:|:---:|:---:|
-|The student demonstrates an initial understanding of the concepts and competencies relevant to the expected learning.|The student demonstrates a partial understanding of the concepts and competencies relevant to the expected learning.|The student demonstrates a complete understanding of the concepts and competencies relevant to the expected learning.|The student demonstrates a sophisticated understanding of the concepts and competencies relevant to the expected learning.|
+|The student demonstrates an initial understanding of the concepts and competencies relevant to the expected learning.|The student demonstrates a partial understanding of the concepts and competencies relevant to the expected learning.|The student demonstrates a complete understanding of the concepts and competencies relevant to the expected learning.|The student demonstrates a sophisticated understanding of the concepts and competencies relevant to the expected learning.| --- !>
