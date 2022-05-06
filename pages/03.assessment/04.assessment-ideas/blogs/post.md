@@ -48,7 +48,7 @@ Note that WordPress is a common blogging website used at Trinity and all first y
 
 ---
 
-**Questions to Consider:**
+#### Questions to Consider
 
 :fa-question: Would you use a blog activity/assessment in your course?  For what purpose?
 :fa-question: What are the key challenges for you as the instructor and for your students?
