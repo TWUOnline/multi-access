@@ -44,20 +44,20 @@ _Lydia Forssander-Song | First-Year English Coordinator | Department of English 
 
 *Faculty Testimonial for Course Design Process*
 
-######1.	What did you think of the course design process?
->Very timely and a much-needed process.  We need to think about how our audience/demographics/marketplace needs have changed and update our courses to the meet the market demands.
+>1.	What did you think of the course design process?
+>>Very timely and a much-needed process.  We need to think about how our audience/demographics/marketplace needs have changed and update our courses to the meet the market demands.
 
-######2.	Please share your experience planning the course using a detailed blueprint, developing units with guidance from the Instructional Designer, receiving technical support, etc.
->Positive all the way.  I have now worked with 3 ID’s directly. They supported my every step and answered questions throughout the process as a SME.
+>2.	Please share your experience planning the course using a detailed blueprint, developing units with guidance from the Instructional Designer, receiving technical support, etc.
+>>Positive all the way.  I have now worked with 3 ID’s directly. They supported my every step and answered questions throughout the process as a SME.
 
-######3.	What was surprising or challenging about the course design process?
->Keeping tight to the timelines, having to juggle all the other aspects of my job description. IT was very understanding and adjusted the timelines as needed.
+>3.	What was surprising or challenging about the course design process?
+>>Keeping tight to the timelines, having to juggle all the other aspects of my job description. IT was very understanding and adjusted the timelines as needed.
 
-######4.	What tips would you have for future course developers?
->Meet in person – it helps when there is a relationship between both parties.  It transforms the partnership from transactional to relational.  However, covid impacted this aspect but the zoom meetings still worked, and the job got done.
+>4.	What tips would you have for future course developers?
+>>Meet in person – it helps when there is a relationship between both parties.  It transforms the partnership from transactional to relational.  However, covid impacted this aspect but the zoom meetings still worked, and the job got done.
 
-######5.	What benefits have you noticed from this course design process?
->Working together with the ID, creating group brilliance, utilizing the skills, and collaborating was truly a success!  The ID being able to listen to my ramblings and make sense of it, and put to paper in an easy to follow manner for the online audience.
+>5.	What benefits have you noticed from this course design process?
+>>Working together with the ID, creating group brilliance, utilizing the skills, and collaborating was truly a success!  The ID being able to listen to my ramblings and make sense of it, and put to paper in an easy to follow manner for the online audience.
 
 
 **_Testimonial by:_**
