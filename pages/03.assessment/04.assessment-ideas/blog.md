@@ -14,6 +14,6 @@ header_bar:
     background: auto
     text: auto
 show_children_in_secondary_menu: true
-show_sidebar: false
+show_sidebar: true
 ---
 
