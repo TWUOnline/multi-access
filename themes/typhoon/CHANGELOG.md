@@ -1,3 +1,12 @@
+# v2.3.4
+## 06/01/2022
+
+2. [](#improved)
+   * Added opacity support for configurable colors (primary, primary-lighter, primary-darker) - Requires `color-tools` v1.1.1
+   * Remove `precess` dependency as we don't use it and it's no longer maintained 
+   * Added support for `langswitcher` "Language Display" configuration option [getgrav/grav-premium-issues#286](https://github.com/getgrav/grav-premium-issues/issues/286)
+   * Minor NPM version updates
+
 # v2.3.3
 ## 04/25/2022
 

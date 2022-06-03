@@ -1,5 +1,5 @@
 name: Typhoon
-version: 2.3.3
+version: 2.3.4
 type: theme
 slug: typhoon
 premium: true
@@ -17,7 +17,7 @@ license: https://getgrav.org/premium/license
 
 dependencies:
   - { name: grav, version: '>=1.7.6' }
-  - { name: color-tools, version: '>=1.0.0' }
+  - { name: color-tools, version: '>=1.1.1' }
   - { name: svg-icons, version: '>=1.0.0'}
   - { name: shortcode-core, version: '>=4.0.0'}
 
