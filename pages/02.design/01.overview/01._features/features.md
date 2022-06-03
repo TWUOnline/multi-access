@@ -25,12 +25,12 @@ features:
         link: 'https://multi-access.twu.ca/design/overview#assessment-2'
     -
         title: 'Course Resources'
-        text: 'Inspire | Challenge | Communicate | Create '
+        text: 
         icon: tabler/bulb.svg
         link: 'https://multi-access.twu.ca/design/overview#course-resources-1'
     -
         title: 'Course Formats'
-        text: 'Active Learning | Engage | Practice'
+        text: 
         icon: tabler/activity.svg
         link: 'https://multi-access.twu.ca/design/overview#course-formats-1'
 vertical_classes: 'md:grid-cols-3 '
