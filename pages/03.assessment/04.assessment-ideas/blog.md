@@ -6,7 +6,7 @@ content:
         - '@self.children'
     limit: 30
     order:
-        by: date
+        by: folder
         dir: desc
 show_breadcrumbs: true
 show_sidebar: false
