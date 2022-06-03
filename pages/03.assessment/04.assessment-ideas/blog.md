@@ -6,8 +6,8 @@ content:
         - '@self.children'
     limit: 30
     order:
-        by: folder
-        dir: desc
+        by: title
+        dir: asc
 show_breadcrumbs: true
 show_pagination: false
 header_bar:
