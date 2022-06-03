@@ -17,3 +17,4 @@ show_children_in_secondary_menu: true
 show_sidebar: false
 ---
 
+{% embed 'partials/tntsearch.html.twig' with { limit: 10, snippet: 150, min: 3, search_type: 'auto', dropdown: true } %}{% endembed %}
