@@ -9,7 +9,7 @@ content:
         by: folder
         dir: desc
 show_breadcrumbs: true
-show_sidebar: true
+show_sidebar: false
 show_pagination: true
 show_children_in_secondary_menu: true
 header_bar:
