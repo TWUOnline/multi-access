@@ -11,7 +11,7 @@ media_order: 'online_team_photo.png'
 
 
 <p align="center">
-  <img src="/user/pages/01.home/06._team/Team.jpg" alt="Team" />
+  <img src="/user/pages/01.home/06._team/DreamTeam.jpg" alt="Team" />
 </p>
 
 
