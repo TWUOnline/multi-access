@@ -25,8 +25,9 @@ If you've ever created a portfolio yourself, you know it takes a lot of reflecti
 
 See the EPortfolio examples and resources below:
 
-- [TWU Template](https://create.twu.ca/twu2021/)
-  [ePortfolios Explained: Theory and Practice](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/educational-technologies/all/eportfolios)
+- [TWU Guide to EPortfolios](https://create.twu.ca/eportfolios/)  
+- [TWU Template](https://create.twu.ca/twu2021/)  
+- [ePortfolios Explained: Theory and Practice](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/educational-technologies/all/eportfolios)
 
 
 

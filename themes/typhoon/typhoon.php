@@ -128,6 +128,7 @@ class Typhoon extends Theme
         if ($langswitcher && $language->enabled() && $this->config->get( 'theme.menu.langswitcher.enabled')) {
             $lang_icon = $this->config->get('theme.menu.langswitcher.icon');
             $untranslated_pages_behavior = $this->config->get('plugins.langswitcher.untranslated_pages_behavior');
+            $long_language = $this->config->get('plugins.langswitcher.language_display') === 'long';
             $page = $this->grav['page'];
             $uri = $this->grav['uri'];
 
@@ -146,7 +147,7 @@ class Typhoon extends Theme
                 $show_language = true;
                 if ($lang === $langswitcher->current) {
                     $entry->mergeData([
-                        'text' => LanguageCodes::getNativeName($lang),
+                        'text' => $long_language ? LanguageCodes::getNativeName($lang) : strtoupper($lang),
                         'href' => $page->url(),
                         'rawroute' => $page->rawroute(),
                     ]);

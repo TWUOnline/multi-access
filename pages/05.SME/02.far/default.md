@@ -10,6 +10,8 @@ A FAR (Facilitated Academic Resources) Centre is a branch campus of Trinity West
 
 TWU faculty have developed the courses with the support of the Online Teaching and Learning Team at TWU.  As the course is delivered, instructors will collaborate with a FAR Centre Facilitator, who will guide students through the courses in a Flipped Classroom model – both online and face-to-face (F2F).
 
+![](FacilitatedModel.jpg)
+
 ### FAR Centre Learning Model
 ONLINE: Students will engage in the online course, reading through the units, watching videos, participating in interactive learning activities (e.g. simulation, quizzes, interviews), and preparing for assessments.
 

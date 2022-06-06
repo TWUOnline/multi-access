@@ -6,14 +6,14 @@ content:
         - '@self.children'
     limit: 30
     order:
-        by: folder
-        dir: desc
+        by: title
+        dir: asc
 show_breadcrumbs: true
-show_sidebar: true
-show_pagination: true
-show_children_in_secondary_menu: true
+show_pagination: false
 header_bar:
     background: auto
     text: auto
+show_children_in_secondary_menu: true
+show_sidebar: true
 ---
 

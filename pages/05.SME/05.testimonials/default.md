@@ -39,3 +39,27 @@ be anywhere.
 
 **_Testimonial by:_**
 _Lydia Forssander-Song | First-Year English Coordinator | Department of English and Creative Writing_
+
+
+
+*Faculty Testimonial for Course Design Process*
+
+>The course design process is very timely and much-needed.  We need to think about how our audience/demographics/marketplace needs have changed and update our courses to the meet the market demands. My experience planning the course has been positive all the way.  I have now worked with 3 IDs directly. They supported my every step and answered questions throughout the process as a SME. At times, it was challenging having to stick to the timelines, while having to juggle all the other aspects of my job description. IT was very understanding and adjusted the timelines as needed.
+For those who are developing courses down the road, I would suggest meeting in person – it helps when there is a relationship between both parties.  It transforms the partnership from transactional to relational.  However, covid impacted this aspect but the zoom meetings still worked, and the job got done. Overall, working together with the ID, creating group brilliance, utilizing the skills, and collaborating was truly a success!  The ID being able to listen to my ramblings and make sense of it, and put to paper in an easy to follow manner for the online audience.
+
+**_Testimonial by:_**
+_Derrick Mohamed | Assistant Professor of Leadership, Assistant Dean | Leadership (Faculty Development)_
+
+*Faculty Testimonial for Course Design Process*
+
+> I would like to express my appreciation to all the wisdom and energy that Kelly and Jessica put into the design process of WRTG 101 and ENGL101. As these two skill-based courses are foundational courses mostly for first-year international students who can be intimidated by new online learning environment, the course design itself needed more visual aids color-coded for learners’ better comprehension and the simplest learning lab activities that do not hinder formative learning process regardless of learners’ low digital literacy. Through the ongoing interaction with the instructional designers and with their collaborative endeavor, I was able to include these important elements of the courses effectively online. Moreover, developing a detailed blueprint (i.e. course scope and sequence) was a helpful process to doublecheck how course learning outcomes can be assessed online and what technological tools can be used appropriately for each learning activity from a holistic point of view.
+
+**_Testimonial by:_**
+_Shine Hong | Assistant Professor, Course Lead | Global Education_
+
+*First Year Student Testimonial*
+
+> I understand that both taking and giving online classes is a challenge, but Professor Hong and Ms. Sha (a facilitator) made this experience very interactive, friendly, and immersive. WRTG 101 and ENGL 101 were not only my first glimpse into TWU’s academic life, but also to the student life itself. Thus, having the support provided by them both and my writing tutors in the Writing center, has certainly been a nice transition into Trinity Western University…. I think all involved are making a great job at creating an accessible, interactive, and insightful online environment. So, thank you, once again. It was tough, but it was a true blessing.
+
+**_Testimonial by:_**
+_Satisfied Student | WRTG 101 | ENGL 101_
