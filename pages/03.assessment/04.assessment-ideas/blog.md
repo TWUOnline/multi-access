@@ -15,4 +15,8 @@ header_bar:
     text: auto
 show_children_in_secondary_menu: true
 show_sidebar: false
+simplesearch:
+    route: /blog
+    filter_combinator: and
 ---
+
