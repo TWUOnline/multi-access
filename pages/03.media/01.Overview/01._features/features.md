@@ -13,5 +13,10 @@ features:
         text: 'Image Use | Image Resources'
         icon: tabler/photo.svg
         link: 'https://multi-access.twu.ca/media/overview#graphics'
-vertical_classes: 'md:grid-cols-2 '
+    -
+        title: 'Educational Technology'
+        text: 'Interactive Activities | Collaborative Docs | Much More!'
+        icon: tabler/photo.svg
+        link: 'https://multi-access.twu.ca/media/overview#edtech'
+  vertical_classes: 'md:grid-cols-3 '
 ---
