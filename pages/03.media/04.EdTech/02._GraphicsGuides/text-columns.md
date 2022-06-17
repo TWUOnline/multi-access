@@ -6,7 +6,6 @@ columns: '1'
 
 ## Considerations for Educational Technology
 
-to add
 ​There is a plethora of tools available to engage students and help meet the learning outcomes of your course.&nbsp; Before deciding which tools to use, ask these questions:
 <ol>
  	<li>What are the learning outcomes of the activity/assignment?</li>
