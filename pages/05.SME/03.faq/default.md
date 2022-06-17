@@ -58,5 +58,4 @@ Our online team is here to guide you through the course development process.  He
 
 ### Media Specialists and Graphic Artists
 - Produce videos.  This could be filming an interview, class activity, lecture, or field trip experience.  Talk to Jeff & your Instructional Designer to brainstorm ideas.  See our [Videos page](https://multi-access.twu.ca/media/videos) for more details.
-- Fine-tune slideshows
 - Create graphics, including graphic organizers, infographics, etc.  See our [Graphics page](https://multi-access.twu.ca/media/graphics) for more examples and guidance.
