@@ -53,7 +53,8 @@ Our online team is here to guide you through the course development process.  He
 ### Learning Technologists / Academic Technology Ambassadors  
 - If you have any questions about Moodle, WordPress, Email, and so much more, please reach out to our ATAs and learning technologists!  The easiest way is to email elearning@twu.ca or [File a Bug Report](https://github.com/TWUOnline/bug-tracking/issues/new?assignees=cmadland%2C+kmarjanovic%2C+MeeksonHundoo&labels=bug&template=bug_report.md&title=).  The bug report is especially useful to help us track edits for your online course.
 - Put your course online.  Whether this is through Moodle, GitHub/Grav, or WordPress, our team can convert your documents to online text.
-- Create
+- Create interactive content, such as H5P applications.
+- Brainstorm solutions!  Our online tech team is here to help!  If you have a tech question (e.g Survey Monkey, Padlet), let us know and we'll find a solution!
 
 ### Media Specialists and Graphic Artists
 - Produce videos.  This could be filming an interview, class activity, lecture, or field trip experience.  Talk to Jeff & your Instructional Designer to brainstorm ideas.  See our [Videos page](https://multi-access.twu.ca/media/videos) for more details.
