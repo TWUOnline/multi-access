@@ -8,13 +8,13 @@ gallery:
         height: 450
     items:
         -
-            title: 'Infographic'
-            image: MALead_course_Infographic.png
+            title: 'Wordle'
+            image: word-it-out.png
             desc: null
             video: null
         -
-            title: 'Infographic'
-            image: PSYC_330_Infographic.jpg
+            title: 'Padlet'
+            image: KWL-padlet.jpg
             desc: null
             video: null
         -
@@ -24,22 +24,22 @@ gallery:
             video: null
 
         -
-            title: 'Chart'
-            image: TheEightPrinciplesofAppreciativeInquiry-v1.jpg
+            title: 'Simulation'
+            image: anes.png
             desc: null
             video: null
 
         -
-            title: 'Chart'
-            image: Critical-Theory.jpg
+            title: 'Moodle'
+            image: 256px-Moodle-logo.svg
             desc: null
             video: null
 
         -
-            title: 'Chart'
-            image: fromtheinsideout.jpg
+            title: 'WordPress'
+            image: Blue-l.png
             desc: null
             video: null
 
-media_order: 'MALead_course_Infographic.png,PSYC_330_Infographic.jpg,PSYC_340_Chart.png,TheEightPrinciplesofAppreciativeInquiry-v1.jpg,Critical-Theory.jpg,fromtheinsideout.jpg'
+media_order: 'word-it-out.png,KWL-padlet.jpg,PSYC_340_Chart.png,anes.png,256px-Moodle-logo.svg,Blue-l.png'
 ---
