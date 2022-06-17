@@ -14,12 +14,12 @@ gallery:
             video: null
         -
             title: 'Padlet'
-            image: KWL-padlet.jpg
+            image: KWL-padlet.png
             desc: null
             video: null
         -
-            title: 'Chart'
-            image: PSYC_340_Chart.png
+            title: 'Google Apps'
+            image: google-app-landscape.jpg
             desc: null
             video: null
 
@@ -37,9 +37,9 @@ gallery:
 
         -
             title: 'WordPress'
-            image: Blue-l.png
+            image: wordpress.jpg
             desc: null
             video: null
 
-media_order: 'word-it-out.png,KWL-padlet.jpg,PSYC_340_Chart.png,anes.png,256px-Moodle-logo.svg,Blue-l.png'
+media_order: 'word-it-out.png,KWL-padlet.png,google-app-landscape.jpg,anes.png,256px-Moodle-logo.svg,wordpress.jpg'
 ---
