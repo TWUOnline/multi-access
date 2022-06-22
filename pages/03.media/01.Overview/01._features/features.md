@@ -18,5 +18,5 @@ features:
         text: 'Interactive Activities | Collaborative Docs | Much More!'
         icon: tabler/photo.svg
         link: 'https://multi-access.twu.ca/media/overview#edtech'
-  vertical_classes: 'md:grid-cols-3'
+vertical_classes: 'md:grid-cols-3 '
 ---
