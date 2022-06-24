@@ -5,6 +5,7 @@ header_bar:
     background: auto
     text: auto
 visibility: false
+published: false
 ---
 
 ### Setting the Stage
