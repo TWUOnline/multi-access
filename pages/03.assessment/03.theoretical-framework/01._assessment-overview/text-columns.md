@@ -50,7 +50,7 @@ Another context-independent rubric is the EMRN rubric  first published by Stutzm
 [mermaid]
 flowchart TD
     A([Does the work demonstrate thorough understanding of the concepts?&lt;br/&gt;Does the work meet the expectations outlined in the assignment?]) --YES--> B([Is the work complete and well communicated?])
-        B([Is the work complete and well communicated?]) --YES--> C([E - Excellent/Exemplary]) --> H([The work meets of exceeds the expectations<br> of the assignment.<br> Communication is clear and complete.<br> Mastery of the concepts is evident.<br> There are no nontrivial errors. <br>This work could be used as a classroom example.])
+        B([Is the work complete and well communicated?]) --YES--> C([E - Excellent/Exemplary])
         B([Is the work complete and well communicated?]) --NO--> D([M - Meets Expectations])
     A([Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?]) --NO--> E[Is there evidence of partial understanding?]
         E([Is there evidence of partial understanding?]) --YES--> F([R - Revision Needed])
@@ -59,14 +59,14 @@ flowchart TD
 
 #### Performance Indicators
 
-- **E - Excellent/Exemplary**
-  - The work meets of exceeds the expectations of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are no nontrivial errors. This work could be used as a classroom example.
-- **M - Meets Expectations**
-  - Understanding of the concepts is evident through correct work and clear, audience-appropriate explantations. Some revision or expansion is needed, but no significant gaps or errors are present. No additional instruction on the concepts is needed.
-- **R - Revision Needed**
-  - Partial understanding of the concepts is evident, but there are significant gaps that remain. Needs further work, more review, and/or improved explanations.
-- **N - Not Assessable**
-  - Not enough information is present in the work to determin whether there is understanding of the concepts. The work is fragmentary or contains significant omissions, or there are too many issues to justify correcting each one.
+**E - Excellent/Exemplary**
+- The work meets of exceeds the expectations of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are no nontrivial errors. This work could be used as a classroom example.
+**M - Meets Expectations**
+- Understanding of the concepts is evident through correct work and clear, audience-appropriate explantations. Some revision or expansion is needed, but no significant gaps or errors are present. No additional instruction on the concepts is needed.
+**R - Revision Needed**
+- Partial understanding of the concepts is evident, but there are significant gaps that remain. Needs further work, more review, and/or improved explanations.
+**N - Not Assessable**
+- Not enough information is present in the work to determin whether there is understanding of the concepts. The work is fragmentary or contains significant omissions, or there are too many issues to justify correcting each one.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">EMRN Rubric</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://rtalbert.org/" property="cc:attributionName" rel="cc:attributionURL">Robert Talbert</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://rtalbert.org/emrn/" rel="dct:source">http://rtalbert.org/emrn/</a>.
 
