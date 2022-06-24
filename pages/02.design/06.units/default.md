@@ -4,7 +4,7 @@ body_classes: modular
 header_bar:
     background: auto
     text: auto
-visibility: false
+visibility: true
 published: true
 ---
 
