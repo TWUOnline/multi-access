@@ -17,7 +17,11 @@ The assessment of learning begins with a clearly defined construct or cognitive 
 
 ## Observation
 
-The second pillar of the assessment triangle is an observation of some sort. This requires a clear connection to the cognitive model of the construct through the identification of proficiency indicators. Instructors must understand what constitutes a competent demonstration of ability in relation to the construct. This is often operationalized as a rubric, which can tak ea number of forms. We recommend that rubrics be task neutral, allowing them to be reused in multiple contexts. A good example of a task neutral rubric is Biggs and Collis' (1982) SOLO Taxonomy, which outlines five levels of competence in relation to a wide variety of cognitive constructs: prestructural, unistructural, multistructural, relational, and extended abstract. 
+The second pillar of the assessment triangle is an observation of some sort. This requires a clear connection to the cognitive model of the construct through the identification of proficiency indicators. Instructors must understand what constitutes a competent demonstration of ability in relation to the construct. This is often operationalized as a rubric, which can take a number of forms. We recommend that rubrics be task neutral, allowing them to be reused in multiple contexts. 
+
+### SOLO Taxonomy
+
+A good example of a task neutral rubric is Biggs and Collis' (1982) SOLO Taxonomy, which outlines five levels of competence in relation to a wide variety of cognitive constructs: prestructural, unistructural, multistructural, relational, and extended abstract. 
 
 SOLO stands for *Structure of the Observed Learning Outcome* and is a gauge to help you (and me) ensure that you are writing at an appropriate level.
 
@@ -37,6 +41,34 @@ A relational response displays knowledge or ability in ***multiple dimensions of
 
 #### Extended Abstract  
 An extended abstract response displays knowledge or ability in ***multiple dimensions of the construct, how thy are related to each other, and how that construct can be applied to help us understand different constructs***.
+
+### EMRN Rubric
+
+Another context-independent rubric is the EMRN rubric  first published by Stutzman and Race (2004) as the EMRF rubric and supbsequently revised by Talbert (2022) and reproduced here under the terms of the original Creative Commons license.
+
+
+[mermaid]
+flowchart TD
+    A([Does the work demonstrate thorough understanding of the concepts?&lt;br/&gt;Does the work meet the expectations outlined in the assignment?]) --YES--> B([Is the work complete and well communicated?])
+        B([Is the work complete and well communicated?]) --YES--> C([E - Excellent/Exemplary])
+        B([Is the work complete and well communicated?]) --NO--> D([M - Meets Expectations])
+    A([Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?]) --NO--> E[Is there evidence of partial understanding?]
+        E([Is there evidence of partial understanding?]) --YES--> F([R - Revision Needed])
+        E([Is there evidence of partial understanding?]) --NO--> G([N - Not Assessable])
+[/mermaid]
+
+#### Performance Indicators
+
+- **E - Excellent/Exemplary**
+  - The work meets of exceeds the expectations of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are no nontrivial errors. This work could be used as a classroom example.
+- **M - Meets Expectations**
+  - Understanding of the concepts is evident through correct work and clear, audience-appropriate explantations. Some revision or expansion is needed, but no significant gaps or errors are present. No additional instruction on the concepts is needed.
+- **R - Revision Needed**
+  - Partial understanding of the concepts is evident, but there are significant gaps that remain. Needs further work, more review, and/or improved explanations.
+- **N - Not Assessable**
+  - Not enough information is present in the work to determin whether there is understanding of the concepts. The work is fragmentary or contains significant omissions, or there are too many issues to justify correcting each one.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">EMRN Rubric</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://rtalbert.org/" property="cc:attributionName" rel="cc:attributionURL">Robert Talbert</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://rtalbert.org/emrn/" rel="dct:source">http://rtalbert.org/emrn/</a>.
 
 ## Interpretation
 
@@ -65,31 +97,7 @@ Biggs, J., & Collis, K. (1982). Evaluating the quality of learning: The SOLO tax
 
 Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). Knowing What Students Know: The Science and Design of Educational Assessment. National Academies Press. https://doi.org/10.17226/10019
 
-<!--
-[mermaid]
-graph TB
-sq[Square shape] --&gt; ci((Circle shape))
 
-subgraph A subgraph
-    od&gt;Odd shape]-- Two line&lt;br&gt;edge comment --&gt; ro
-    di{Diamond &lt;br/&gt; line break} -.-&gt; ro(Rounded&lt;br&gt;square&lt;br&gt;shape)
-    di==&gt;ro2(Rounded square shape)
-end
+Stutzman, R. Y., & Race, K. H. (2004).[EMRF: Everyday Rubric Grading](http://www.jstor.org/stable/20871497). The Mathematics Teacher, 97(1), 34–39.  
 
-classDef green fill:#9f6,stroke:#333,stroke-width:2px;
-classDef orange fill:#f96,stroke:#333,stroke-width:4px;
-class sq,e green
-class di orange
-[/mermaid]
--->
-
-[mermaid]
-flowchart TD
-    A([Does the work demonstrate thorough understanding of the concepts?&lt;br/&gt;Does the work meet the expectations outlined in the assignment?]) --YES--> B([Is the work complete and well communicated?])
-        B([Is the work complete and well communicated?]) --YES--> C([E - Excellent/Exemplary])
-        B([Is the work complete and well communicated?]) --NO--> D([Meets Expectations])
-    A([Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?]) --NO--> E[Is there evidence of partial understanding?]
-        E([Is there evidence of partial understanding?]) --YES--> F([R - Revision Needed])
-        E([Is there evidence of partial understanding?]) --NO--> G([N - Not Assessable])
-[/mermaid]
-
+Talbert, R. (2022, April 14). The EMRN Rubric. Robert Talbert, Ph.D. http://rtalbert.org/emrn/
