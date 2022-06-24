@@ -50,7 +50,7 @@ Another context-independent rubric is the EMRN rubric  first published by Stutzm
 [mermaid]
 flowchart TD
     A([Does the work demonstrate thorough understanding of the concepts?&lt;br/&gt;Does the work meet the expectations outlined in the assignment?]) --YES--> B([Is the work complete and well communicated?])
-        B([Is the work complete and well communicated?]) --YES--> C([E - Excellent/Exemplary: The work meets of exceeds the expectations of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are no nontrivial errors. This work could be used as a classroom example.])
+        B([Is the work complete and well communicated?]) --YES--> C([E - Excellent/Exemplary:<br> The work meets of exceeds the expectations<br> of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are no nontrivial errors. This work could be used as a classroom example.])
         B([Is the work complete and well communicated?]) --NO--> D([M - Meets Expectations])
     A([Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?]) --NO--> E[Is there evidence of partial understanding?]
         E([Is there evidence of partial understanding?]) --YES--> F([R - Revision Needed])
