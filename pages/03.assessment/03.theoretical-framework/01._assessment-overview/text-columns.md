@@ -59,12 +59,15 @@ flowchart TD
 
 #### Performance Indicators
 
-**E - Excellent/Exemplary**
+**E - Excellent/Exemplary**  
 - The work meets of exceeds the expectations of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are no nontrivial errors. This work could be used as a classroom example.  
+
 **M - Meets Expectations**
 - Understanding of the concepts is evident through correct work and clear, audience-appropriate explantations. Some revision or expansion is needed, but no significant gaps or errors are present. No additional instruction on the concepts is needed.  
+
 **R - Revision Needed**
 - Partial understanding of the concepts is evident, but there are significant gaps that remain. Needs further work, more review, and/or improved explanations.  
+
 **N - Not Assessable**
 - Not enough information is present in the work to determin whether there is understanding of the concepts. The work is fragmentary or contains significant omissions, or there are too many issues to justify correcting each one.
 
