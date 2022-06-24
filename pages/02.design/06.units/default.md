@@ -29,7 +29,7 @@ Our units typically follow a structure that allows for students to engage with t
 See the details of the course unit template below, as well as [TWU Unit Template - ONLINE](https://docs.google.com/document/d/1XdNGUPgpYB_IKALdL7cEpwY5NH0z_ywqwxj4G-8rwYY/edit?usp=sharing) Google doc for you to copy.
 
 
-Here are key steps in filling out a blueprint: (Click the title on the steps below)
+Here are key section of a unit: (Click the title on the steps below)
 
 
 [ui-accordion independent=false open=none]
@@ -37,9 +37,8 @@ Here are key steps in filling out a blueprint: (Click the title on the steps bel
 [ui-accordion-item title="Overview"]
 ## Overview
 Welcome to ENGL 101!  In this first unit, we begin the course by …
-[Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture.  
 
-The Overview should focus students on where the unit is heading, engage them in the content, and motivate them to succeed in the unit.]
+!!! ***Design Note:*** Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture.  The Overview should focus students on where the unit is heading, engage them in the content, and motivate them to succeed in the unit.
 
 
 
@@ -53,7 +52,7 @@ This unit is divided into the following topics:
 2.
 3.
 
-! There are typically 3-4 topics per unit.  Note that these will be explained in detail in the lesson below.  Here we simply list the topic titles.
+!!! ***Design Note:*** There are typically 3-4 topics per unit.  Note that these will be explained in detail in the lesson below.  Here we simply list the topic titles.
 
 
 [/ui-accordion-item]
@@ -67,7 +66,7 @@ When you have completed this unit, you should be able to:
 •	Determine…
 •	Create…
 
-!! Be sure to write SMART learning outcomes!  See the Learning Outcomes section on the [Blueprint page](https://multi-access.twu.ca/design/blueprint), as it has helpful verb ideas, as well as learning outcome generators!
+!!! ***Design Note:*** Be sure to write SMART learning outcomes!  See the Learning Outcomes section on the [Blueprint page](https://multi-access.twu.ca/design/blueprint), as it has helpful verb ideas, as well as learning outcome generators!
 
 
 [/ui-accordion-item]
@@ -81,16 +80,15 @@ Here is a checklist of learning activities you will benefit from in completing t
 **Activity 1.3:** Explore…
 **Assessment:** Complete the Unit Quiz.
 
-*Note: Learning Activities can include the following:
-- Readings (text, articles, websites)
-- Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
-- Simulations
-- Ungraded, formative quizzes
-- Case studies
-- Interviews (ex. with friends/family/coworkers)
-- Reflection/study journal/questions to consider
-
-These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.*
+!!! ***Design Note:*** Note: Learning Activities can include the following:
+!!! - Readings (text, articles, websites)
+!!! - Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
+!!! - Simulations
+!!! - Ungraded, formative quizzes
+!!! - Case studies
+!!! - Interviews (ex. with friends/family/coworkers)
+!!! - Reflection/study journal/questions to consider
+!!! These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
 
 
 
@@ -256,7 +254,7 @@ are able to:
 -   Create…
 
 
-!!! Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before students move to the next unit.
+!!! ***Design Note:*** Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before students move to the next unit.
 
 
 [/ui-accordion-item]
