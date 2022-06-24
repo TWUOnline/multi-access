@@ -85,6 +85,7 @@ See the following checklist from [Accessibility Toolkit](https://opentextbc.ca/a
 
 Open educational resources (OER) are freely accessible, openly licensed documents and media that are useful for teaching, learning, and assessing as well as for research purposes.
 
+See the following links for excellent OERs. 
 
 **Open Textbooks**  
 [OER Commons](https://www.oercommons.org/)  
@@ -96,7 +97,7 @@ Open educational resources (OER) are freely accessible, openly licensed document
 **Open Courses**
 Search for full courses, lessons, activities, assessments, resources...and reuse with the creative commons license!
 
-OERu Courses](https://oeru.org/courses/)  
+[OERu Courses](https://oeru.org/courses/)  
 [MIT Open Courseware](https://ocw.mit.edu/)  
 [Open Yale Courses​](https://oyc.yale.edu/courses)  
 [BC Campus SOL*R Repository](https://solr.bccampus.ca/wp/)  

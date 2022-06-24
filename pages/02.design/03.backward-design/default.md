@@ -1,5 +1,5 @@
 ---
-title: 'Backwards Design'
+title: 'Backward Design'
 body_classes: modular
 header_bar:
     background: auto
@@ -29,3 +29,5 @@ As you design your course outcomes, assessments, and learning activities, keep i
 
 
 🔎 For more on Backward Design, view the website and video [Understanding by Design](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/).
+
+To continue with the next steps in course planning, see the [Blueprint Stage](https://multi-access.twu.ca/design/blueprint)

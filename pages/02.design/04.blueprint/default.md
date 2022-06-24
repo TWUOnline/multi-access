@@ -117,8 +117,7 @@ Perhaps the most time-consuming part of the blueprint is the unit plan.  In this
 associated formative and/or summative activities with a particular unit in your
 course. Many instructors divide their course into weekly units, but it's important to have more of a topical structure. This allows for more flexibility for condensed courses, and helps to focus specific topics to their related unit learning outcomes.
 
-!!!! *A note about Learning Activities*: Once you know what learners will do and how well they will do it, consider the formative learning activities which will **scaffold** the learners' progress towards the proficiency targets for each outcome. Upon completion of a formative learning activity, learners should know how they performed relative to the priority course outcome and specifically how they can close the gap between their actual performance and the expected performance. Faculty, likewise, should
-know what each learner needs to do to close the gap and they should also know how to differentiate future learning activities in order to address misconceptions.
+!!!! *A note about Learning Activities*: Once you know what learners will do and how well they will do it, consider the formative learning activities which will **scaffold** the learners' progress towards the proficiency targets for each outcome. Upon completion of a formative learning activity, learners should know how they performed relative to the priority course outcome and specifically how they can close the gap between their actual performance and the expected performance. Faculty, likewise, should know what each learner needs to do to close the gap and they should also know how to differentiate future learning activities in order to address misconceptions.
 
 ![alt-text](twu-bp-units.png "Unit Plan section in Blueprint")
 
@@ -133,7 +132,7 @@ Below is one example of part of a blueprint document. Again, feel free to use/co
 
 A final section of the blueprint is dedicated to a resource list.  As a blueprint is simply a planning document - one that can and will change as you develop the course - feel free to add resources you are thinking of using.
 
-As Instructional Designers we often encourage instructors to consider Open Educational Resources (OERs). If you're interested in exploring OERs and other course resources, please see the [Resources](https://multi-access.twu.ca/resources) section.
+Our online team often encourages instructors to consider Open Educational Resources (OERs). If you're interested in exploring OERs and other course resources, please see the [Resources](https://multi-access.twu.ca/resources) section.
 
 [/ui-accordion-item]
 
@@ -142,5 +141,3 @@ As Instructional Designers we often encourage instructors to consider Open Educa
 !!! If you are a Course Developer working with an Instructional Designer, please see our Course Developer's page for more information on the course design process at TWU.
 
 ---
-
-
