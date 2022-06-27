@@ -8,6 +8,7 @@ visibility: true
 published: true
 ---
 
+![](auditorium-572776_1920.jpg)
 ### Setting the Stage
 
 Imagine you're driving to the TWU Langley campus, reviewing in your head the lecture you're about to give your class.  It's on a topic you are stoked about - and you hope your students will understand the concepts and be inspired by the lesson.
@@ -38,7 +39,7 @@ Here are key section of a unit: (Click the title on the steps below)
 ## Overview
 Welcome to [*Course Title*]!  In this first unit, we begin the course by …
 
-!!! ***Design Note:*** Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture.  The Overview should focus students on where the unit is heading, engage them in the content, and motivate them to succeed in the unit.
+!!!! ***Design Note:*** Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture.  The Overview should focus students on where the unit is heading, engage them in the content, and motivate them to succeed in the unit.
 
 
 
@@ -53,7 +54,7 @@ This unit is divided into the following topics:
 2.
 3.
 
-!!! ***Design Note:*** There are typically 3-4 topics per unit.  Note that these will be explained in detail in the lesson below.  Here we simply list the topic titles.
+!!!! ***Design Note:*** There are typically 3-4 topics per unit.  Note that these will be explained in detail in the lesson below.  Here we simply list the topic titles.
 
 
 [/ui-accordion-item]
@@ -67,30 +68,21 @@ When you have completed this unit, you should be able to:
 - Determine...
 - Create...
 
-!!! ***Design Note:*** Be sure to write SMART learning outcomes!  See the Learning Outcomes section on the [Blueprint page](https://multi-access.twu.ca/design/blueprint), as it has helpful verb ideas, as well as learning outcome generators!
+!!!! ***Design Note:*** Be sure to write SMART learning outcomes!  See the Learning Outcomes section on the [Blueprint page](https://multi-access.twu.ca/design/blueprint), as it has helpful verb ideas, as well as learning outcome generators!
 
 
 [/ui-accordion-item]
 
 [ui-accordion-item title="Activity Checklist"]
 ## Activity  Checklist
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work .
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.  
 
-**Activity 1.1:** Read...
-**Activity 1.2:** Watch...
-**Activity 1.3:** Explore...
-**Assessment:** Complete the Unit Quiz on...
+! **Activity 1.1:** Read...   
+! **Activity 1.2:** Watch...  
+! **Activity 1.3:** Explore...  
+! **Assessment:** Complete the Unit Quiz on...  
 
-!!! ***Design Note:*** Note: Learning Activities can include the following:
-!!! - Readings (text, articles, websites)
-!!! - Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
-!!! - Simulations
-!!! - Ungraded, formative quizzes
-!!! - Case studies
-!!! - Interviews (ex. with friends/family/coworkers)
-!!! - Reflection/study journal/questions to consider
-!!! These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
-
+!!!! ***Design Note:*** This checklist is a quick overview so learners get a preview of activities in the unit and can plan their time.  See options for the learning activities in the next sections.
 
 
 [/ui-accordion-item]
@@ -101,7 +93,7 @@ Here are the resources you will need to complete this unit.
 - [Textbook]  
 - Other online resources will be provided in the unit.  
 
-!!! ***Design Note:*** Since it's an online course, we usually just add the title of the main textbook here that students may need to purchase in order to complete the unit.
+!!!! ***Design Note:*** Since it's an online course, we usually just add the title of the main textbook here that students may need to purchase in order to complete the unit.
 
 
 [/ui-accordion-item]
@@ -111,7 +103,7 @@ Here are the resources you will need to complete this unit.
 ## Topic 1: Title
 We begin Unit 1…
 
-!!! ***Design Note:*** Topic content can be 1-2 paragraphs or several pages, depending of course on the topic!  Consider using graphics, charts, or other images to convey information and appeal to visual learners.
+!!!! ***Design Note:*** Topic content can be 1-2 paragraphs or several pages, depending of course on the topic!  Consider using graphics, charts, or other images to convey information and appeal to visual learners.
 
 
 [/ui-accordion-item]
@@ -127,7 +119,7 @@ We begin Unit 1…
 1. View the following resources about...
 2. Next, watch the following videos that illustrate...
 
-!!! ***Design Note:*** There can be just one activity per topic, or you may want 2-3 activities at the end of the unit. Options for the first activity include an ice-breaker, reading a chapter, viewing a video, or a reflective activity that connects their past experiences to course content.
+
 
 #### Questions to Consider
 
@@ -135,13 +127,23 @@ After completing the activities above, consider the following questions:
 - ...?
 - ...?
 
-!!! ***Design Note:***  The "Questions to Consider" feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking.
 
-*Note that the learning activities in this course are ungraded, unless
-specified. They are designed to help you succeed in your assessments in this
-course, so you are strongly encouraged to complete them.*
+*Note that the learning activities in this course are ungraded, unless specified. They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.*
 
-!!! ***Design Note:*** You may want to include a note like this.  Remind students why activities are important – not just for the grade, but perhaps applicable to their personal or professional lives.
+!!!! ***Design Note:*** There can be just one activity per topic, or you may want 2-3 activities at the end of the unit.
+!!! Learning Activities can include the following:
+!!! - Icebreaker (connect students to other learners/instructors/content)
+!!! - Readings (text, articles, websites)
+!!! - Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
+!!! - Simulations
+!!! - Ungraded, formative quizzes
+!!! - Case studies
+!!! - Interviews (ex. with friends/family/coworkers)
+!!! - Reflection/study journal/questions to consider
+!!! These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
+
+!!!! The "Questions to Consider" feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking.
+!!!! You may want to include notes for learners to remind them why a specific activity is important – not just for the grade, but perhaps applicable to their personal or professional lives.
 
 [/ui-accordion-item]
 
