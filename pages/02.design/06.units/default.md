@@ -31,7 +31,12 @@ Our units typically follow a structure that allows for students to engage with t
 
 See the details of the course unit template below, as well as [TWU Unit Template - ONLINE](https://docs.google.com/document/d/1XdNGUPgpYB_IKALdL7cEpwY5NH0z_ywqwxj4G-8rwYY/edit?usp=sharing) Google doc for you to copy.
 
+### Unit Sample
 
+<p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://far.twu.ca/ba-lead/ldrs301/u3/overview/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
+
+
+### Unit Sections
 Here are key section of a unit: (Click the title on the steps below)
 
 
@@ -252,3 +257,5 @@ are able to:
 [/ui-accordion-item]
 
 [/ui-accordion]
+
+Again, feel free to copy the [TWU Unit Template - ONLINE](https://docs.google.com/document/d/1XdNGUPgpYB_IKALdL7cEpwY5NH0z_ywqwxj4G-8rwYY/edit?usp=sharing) as you write your unit.
