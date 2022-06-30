@@ -14,15 +14,15 @@ Case studies, simulations, and role plays are a great methods to strengthen stud
 
 Consider having your students write and analyze case studies for an assignment.  Or better yet, contribute to [OPEN CASE STUDIES AT UBC](https://cases.open.ubc.ca/), an interdisciplinary, open educational resource with case studies that can be used by anyone.
 
+---
 
-#### Resources for Case Studies, Simulations & Role Plays
+### Resources for Case Studies, Simulations & Role Plays
 
-**Case Studies:**
-
+#### Case Studies:
 - Tips for Faculty & Students:[Cengage Learning: Case Studies ](http://college.cengage.com/business/resources/casestudies/students/index.html)  
 - [Using Case Studies to Teach](https://www.bu.edu/ctl/teaching-resources/using-case-studies-to-teach/)
 
-# Case Study Collection
+**Case Study Collection**
 - [Free cases from the Case Centre](https://www.thecasecentre.org/educators/casemethod/resources/freecasesoverview)  
 - [Case Depositories](https://aib.msu.edu/resources/casedepositories.asp)  
 - [MIT’s Learning Edge](https://mitsloan.mit.edu/LearningEdge/)  
@@ -35,9 +35,11 @@ Consider having your students write and analyze case studies for an assignment. 
 - [Leadership and Management Case Studies](https://www3.nd.edu/~jthomp19/AS300/2_Spring%20Semester/Leadership_and_Management_Case_Studies/Leadership_Management_Case_Studies_V2.pdf)  
 
 
-**Simulations & Role Plays:**
+#### Simulations & Role Plays:
 - [Role Playing Activities​](https://academictechnologies.it.miami.edu/faculty-engagement/narrative-techniques-study/role-playing-activities/index.html)
 - [​Role-Playing Scenarios](https://serc.carleton.edu/introgeo/roleplaying/scenario.html)
+
+---
 
 ## Sample Case Study Activities
 
