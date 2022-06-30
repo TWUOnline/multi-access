@@ -8,6 +8,8 @@ taxonomy:
 ---
 
 
+### Case Studies, Simulations & Role Plays
+
 Case studies, simulations, and role plays are a great methods to strengthen students' critical thinking skills, as they often need to analyze issues, solve problems, and make decisions. They can be especially effective as group assignments, perhaps allowing for some "disorienting dilemmas" that cause transformational learning.
 
 Consider having your students write and analyze case studies for an assignment.  Or better yet, contribute to [OPEN CASE STUDIES AT UBC](https://cases.open.ubc.ca/), an interdisciplinary, open educational resource with case studies that can be used by anyone.
@@ -16,10 +18,22 @@ Consider having your students write and analyze case studies for an assignment. 
 #### Resources for Case Studies, Simulations & Role Plays
 
 **Case Studies:**
-- [Free cases from the Case Centre](https://www.thecasecentre.org/educators/casemethod/resources/freecasesoverview)
 
-**Case Study Tips for Faculty & Students:**
-- [Cengage Learning: Case Studies ](http://college.cengage.com/business/resources/casestudies/students/index.html)
+- Tips for Faculty & Students:[Cengage Learning: Case Studies ](http://college.cengage.com/business/resources/casestudies/students/index.html)  
+- [Using Case Studies to Teach](https://www.bu.edu/ctl/teaching-resources/using-case-studies-to-teach/)
+
+# Case Study Collection
+- [Free cases from the Case Centre](https://www.thecasecentre.org/educators/casemethod/resources/freecasesoverview)  
+- [Case Depositories](https://aib.msu.edu/resources/casedepositories.asp)  
+- [MIT’s Learning Edge](https://mitsloan.mit.edu/LearningEdge/)  
+- [Personal Leadership Resources Case Studies](https://www.education-leadership-ontario.ca/application/files/9514/9446/0253/Case_Studies.pdf)  
+- [Leadership Theories and Case Studies](https://www.cambridgescholars.com/resources/pdfs/978-1-5275-0937-5-sample.pdf)  
+- [The Ethical Leadership Case Study Collection](https://www.ryerson.ca/tedrogersschool/trlc/resources/cases/)  
+- [Leadership case studies](http://www.ibscdc.org/leadership_case_studies.asp)  
+- [Leadership and Ethics Case Studies](https://mitsloan.mit.edu/teaching-resources-library/leadership-and-ethics-case-studies)  
+- [Leadership Development](https://hbswk.hbs.edu/Pages/browse.aspx?HBSTopic=Leadership%20Development)  
+- [Leadership and Management Case Studies](https://www3.nd.edu/~jthomp19/AS300/2_Spring%20Semester/Leadership_and_Management_Case_Studies/Leadership_Management_Case_Studies_V2.pdf)  
+
 
 **Simulations & Role Plays:**
 - [Role Playing Activities​](https://academictechnologies.it.miami.edu/faculty-engagement/narrative-techniques-study/role-playing-activities/index.html)
