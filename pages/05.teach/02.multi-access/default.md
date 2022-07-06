@@ -4,13 +4,9 @@ title: Multi-Access
 
 ## What is Multi-Access Learning?
 
-! "Multi-access learning is an opportunity to meet both student needs for access to learning experiences and faculty needs for graduate student recruitment (Irvine, 2009; Irvine & Code, 2011, 2012; Irvine & Richards, 2013). Irvine defines multi-access learning as *a framework for enabling students in both face-to-face and online contexts to personalize learning experiences while engaging as a part of the same course*. Multi-access learning is different than blended learning because it places the **student at the center** of the learning experience as opposed to the instructor or the institution.
+! Multi-access learning is "*a framework for enabling students in both face-to-face and online contexts to personalize learning experiences while engaging as a part of the same course*. Multi-access learning is different than blended learning because it places the **student at the center** of the learning experience as opposed to the instructor or the institution (Irvine, Code & Richards, 2013).
 
-! Further, "blended learning" is a problematic term due to its multiple interpretations in the literature and in daily practice, leaving one to ask, "Who controls the blend?" When and where the face-to-face sessions occur and when and how the online synchronous or asynchronous sessions occur are often controlled in blended learning settings. At the core, the institution or instructor is in control of the blend, no matter the configuration.
-
-! **Multi-access learning, however, has the learner at the center, with the ability to choose how he/she wants to access the course**. The core principle of the multi-access framework is one of enabling student choice in terms of the combination of course delivery methods through which the learning environment is accessed; that is, each individual learner decides how he/she wishes to take the course (e.g., face-to-face or online) and can then participate with other students and the instructor – each of whom have their own modality preferences – at the same time" (Irvine, Code & Richards, 2013).
-
-*Source: Tiers of the multi-access framework (Irvine, Code & Richards, 2013).*
+! "The core principle of the multi-access framework is one of enabling student choice in terms of the combination of course delivery methods through which the learning environment is accessed; that is, each individual learner decides how he/she wishes to take the course (e.g., face-to-face or online) and can then participate with other students and the instructor – each of whom have their own modality preferences – at the same time" (Irvine, Code & Richards, 2013).
 
 Multi-access learning brings more choice to students and promotes a learner-centred course design and best practices in teaching and learning.  
 
@@ -28,25 +24,20 @@ Read more about the 4 tiers of multi-access learning by clicking the following t
 
 [ui-accordion-item title="Tier 1"]
 
-##### Tier 1
-
 The first tier of multi-access learning is what most of you have experienced (as learners and faculty) as the predominant modality of higher education, face-to-face (f2f). F2f learning environments are often assumed to be the preferred modality of learning because a f2f classroom allows for rich, multi-modal interactions and robust community-building. This is true to an extent, but only if class sizes are very small; large, lecture-based classrooms present significant challenges to building the kind of critical and safe community for engaged interaction.
 
 [/ui-accordion-item]
 [ui-accordion-item title="Tier 2"]
-##### Tier 2
+
 The second tier of access allows learners who cannot travel to a central campus (like during a worldwide pandemic) to participate in a learning community syncronously via video conferencing. Remote and local learners may exchange items and artifacts and may share video feeds and use software such as Etherpad or screensharing through the web-conferencing tool to collaborate on documents for co-creation of content.
 
 [/ui-accordion-item]
 [ui-accordion-item title="Tier 3"]
-##### Tier 3
 
 The third tier provides asynchronous access for remote learners who cannot join the scheduled class session due to any number of constraints (employment, child/elder care, time-zone, or even network bandwidth). Irvine, et al. acknowledge that simply viewing a recording of a synchronous session, regardless of how collaborative and engaging that session may have been, is a much leaner experience for learners and may not be optimal. This highlights the need to provide learning materials in formats beyond video and audio, perhaps including text-based materials and asynchronous tools for co-creation of content such as GitHub.
 
 [/ui-accordion-item]
 [ui-accordion-item title="Tier 4"]
-
-##### Tier 4
 
 The outermost tier of the model is for open participation from non-credit learners who are choosing to participate for their own interest and edification. It may seem anathema to some faculty to consider opening their course to the world, but the benefits can be significant, particularly in times like the spring of 2020.
 
@@ -57,20 +48,13 @@ The outermost tier of the model is for open participation from non-credit learne
 ---
 
 ## Designing A Multi-Access Course
-So what does this look like in a course?  How do you deliver high quality and equitable lessons when there is a mix of students joining you face-to-face on campus, online through synchronous zoom sessions, and online asynchronously?
+So what does this look like in a course?  How do you deliver high quality and equitable lessons when there is a mix of students joining you face-to-face on campus, online through synchronous zoom sessions, and online asynchronously? As you think about your courses, consider designing learning activities for these different modalities / access points.  
 
 Here are some common activities and considerations for each:
 
-**Class Discussions**.  Students can participate in class discussions, synchronous zoom sessions, and asynchronous discussion forums - all while demonstrating their learning of the course learning outcomes and practicing skills of collaboration and critical thinking.
-As you think about your courses, consider designing learning activities for these different modalities / access points.  
-
-
 #### Class Discussions
-This may be one of the more challenging activities to conduct in a hybrid and socially distanced classroom. Why? It will likely be hard for the students participating virtually to hear contributions made by students participating in-person. The virtual students will presumably be able to hear the instructor through a microphone, but without extra microphones to pick up the voices of the students in the room, it’s not clear how the virtual students will hear the in-person students. Some rooms may have the audio equipment to pick up in-person students, but many classrooms won’t have that kind of gear and it’s not clear yet how well those extra mics will work for students who may be speaking through masks.
+If we consider the three audience group: face-to-face (F2F), ....
 
-Could students in the room use their laptops or phones to participate in the videoconference? Unlikely, given some preliminary testing done by the Pepperdine University Center for Teaching Excellence. They found that having multiple people in the same room on the same videoconference led to unpleasant audio feedback. Without some more advanced hardware or an organized way to have all participants except one mute their devices, this doesn’t look like a solid option.
-
-If you, dear reader, have ideas for conducting classwide discussions in the hybrid and socially distanced classroom, please share! In the meantime, let’s consider some other strategies.
 
 #### Live Polling
 One simple way to engage students in the room and on the Zoom call is to use a live polling tool to ask them questions about the course material. Back in the day, we used “clickers” for this type of live polling, but these days we have lots of options for classroom response systems. One option would be to use whatever polling feature your videoconferencing tool provides. Zoom polls, for instance, let you ask multiple-choice and multiple-mark questions pretty easily. This would mean your in-person students would need to be in the Zoom session, which has advantages. But if your Zoom screen is getting too busy, you could have your in-person students turn off their cameras; Zoom can hide participants who don’t have their cameras on.
