@@ -1,7 +1,6 @@
 ---
 title: 'Course Developers'
 body_classes: 'title-center title-h1h2'
-published: false
 ---
 
 # Designing a course with the Online Team
