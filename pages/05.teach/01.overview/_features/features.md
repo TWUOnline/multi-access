@@ -1,28 +1,27 @@
 ---
-title: 'What to Expect'
+title: 'Teach'
 body_classes: modular
 variation: vertical
 features:
     -
-        title: 'Infographic'
-        text: 'Assessment as Learning | Assessment for Learning | Assessment of Learning'
+        title: 'What to Expect'
+        text: 'Design Process | Timeline for Deliverables | Team Roles'
         icon: tabler/chart-bubble.svg
-        link: 'https://multi-access.twu.ca/design/overview#course-planning'
+        link: 'https://multi-access.twu.ca/sme/overview#expect'
     -
-        title: 'FAQ'
-        text: 'Assessment Design | Scoring and Use | Communication'
+        title: 'FAR Centres'
+        text: 'Facilitated Learning Model | Roles of Instructors and Facilitators'
         icon: tabler/question.svg
-        link: 'https://multi-access.twu.ca/design/overview#backward-design-1'
+        link: 'https://multi-access.twu.ca/sme/overview#far'
     -
         title: 'Testimonials'
-        text: 'Equal | Equitable | Differentiated'
+        text: 'What TWU faculty have to say about the course design process'
         icon: tabler/scale.svg
         link: 'https://multi-access.twu.ca/design/overview#course-blueprint-1'
     -
-        title: 'Glossary'
-        text: 'Validity | Reliability | Bias'
+        title: 'FAQ'
+        text: 'FAQ for Course Developers'
         icon: tabler/math-function.svg
-        link: 'https://multi-access.twu.ca/design/overview#assessment-2'
+        link: 'https://multi-access.twu.ca/sme/overview#faq'
 vertical_classes: 'md:grid-cols-4 '
 ---
-
