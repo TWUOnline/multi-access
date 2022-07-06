@@ -48,25 +48,54 @@ The outermost tier of the model is for open participation from non-credit learne
 ---
 
 ## Designing A Multi-Access Course
-So what does this look like in a course?  How do you deliver high quality and equitable lessons when there is a mix of students joining you face-to-face on campus, online through synchronous zoom sessions, and online asynchronously? As you think about your courses, consider designing learning activities for these different modalities / access points.  
+So what does this look like in a course?  How do you deliver high quality and equitable lessons when there is a mix of students joining you face-to-face on campus, online through synchronous zoom sessions, and online asynchronously?
+
+### Technical Set-up For a Multi-Access Class
+The next section will focus on design, but first we want to address the technical issues involved.  When asked to teach a multi-access course, a common question faculty have is "What equipment do I need?"
+
+1. Camera and Microphone
+For online students to see and hear you, you'll need a camera and a microphone.  You can use your computer that should have these features, but if your course is multi-access, you may want to consider an OSBOT camera and a Lewinner wireless microphone.
+
+Here's a demo with Scott Macklin showing how to use this equipment:
+
+<iframe src="https://player.vimeo.com/video/613908225?h=ec7404e57a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/613908225">Inclusive Classroom Demo</a> from <a href="https://vimeo.com/twuglobalonline">Trinity Western Online</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+### Activity Design For a Multi-Access Class
+As you think about your courses, consider designing learning activities for different modalities and access points.  
 
 Here are some common activities and considerations for each:
 
 #### Class Discussions
-If we consider the three audience group: face-to-face (F2F), ....
+If we consider the three audience group: face-to-face (F2F), online synchronous (e.g. through live Zoom session), and Online Asynchronous, we need to plan our class discussions carefully.  Here's how they might expect to participate:
 
+**F2F:** Discuss in small or large groups in the classroom.
+
+**Synchronous:** Discuss in Breakout groups in Zoom, or in the large Zoom session with all participants.
+
+**Asynchronous:** Watch the recorded class session and participate through discussion forums, posting responses and questions.  
+
+However...how do you conduct the live class session with the F2F and Zoom groups?  Do the groups talk to each other?  Will there be audio/video complications?  See the following key tips to help your lesson go smoothly.
+
+##### Key Tips:
+- Set up your classroom with the appropriate audio / video equipment. (see section above on technical considerations)
+- Ask students who are coming to campus to bring their laptop to class.  During discussions (large or small group), ask them to log into the Zoom session, turn their **camera on**, and their **sound off**.  This allows the online students to interact with the campus students, and allows for mixed small group discussions.
+- Use breakout rooms in Zoom, and small groups in the campus classroom.
+- If you're up for a challenge, try mixing the groups! The audio will be an issue, so you'll want to make sure all campus students have earphones to listen to their online peers.
+
+The next few activity tips are from [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/) by Derek Bruff at Vanderbilt University.
 
 #### Live Polling
-One simple way to engage students in the room and on the Zoom call is to use a live polling tool to ask them questions about the course material. Back in the day, we used “clickers” for this type of live polling, but these days we have lots of options for classroom response systems. One option would be to use whatever polling feature your videoconferencing tool provides. Zoom polls, for instance, let you ask multiple-choice and multiple-mark questions pretty easily. This would mean your in-person students would need to be in the Zoom session, which has advantages. But if your Zoom screen is getting too busy, you could have your in-person students turn off their cameras; Zoom can hide participants who don’t have their cameras on.
+One simple way to engage students in the room and on the Zoom call is to use a live polling tool to ask them questions about the course material. Zoom polls, for instance, let you ask multiple-choice and multiple-mark questions pretty easily. This would mean your in-person students would need to be in the Zoom session, which has advantages. But if your Zoom screen is getting too busy, you could have your in-person students turn off their cameras; Zoom can hide participants who don’t have their cameras on.
 
-If having your in-person students in the videoconference is hard, or if you’d like to ask more complex questions (free-response, clickable image questions, and so on), you could shift to a second platform like Poll Everywhere (free for a limited number of students) or Top Hat (free for all Vanderbilt faculty). This adds a little overhead for instructors and virtual students (now you have to manage, say, Zoom and Top Hat windows), but if you’re going to use polling regularly, that learning curve might be worth it.
+If having your in-person students in the videoconference is hard, or if you’d like to ask more complex questions (free-response, clickable image questions, and so on), you could shift to a second platform like Poll Everywhere (free for a limited number of students). This adds a little overhead for instructors and virtual students (now you have to manage, say, Zoom windows), but if you’re going to use polling regularly, that learning curve might be worth it.
 
-What kinds of questions might you ask? Well, gosh, I wrote a book on that. But if you’d like a primer, see my 2009 essay “Multiple-Choice Questions You Wouldn’t Put on a Test,” which discusses one-best-answer questions, student perspective questions, and misconception questions, or read through my blog posts about classroom response systems.
 
 #### Backchannel
 The text chat that likely comes with your videoconferencing tool can be used to host what is called a backchannel for class discussion. The spoken dialog between you and your in-person or online students forms the “frontchannel,” while the text chat provides a forum for supplemental discussions among students. A backchannel can be useful for fostering dialog and even a sense of community among your in-person and online students. It can also serve some universal design purposes by providing a written alternative to spoken discussions or an ad hoc text captioning of spoken conversations.
 
-Note that, as with live polling, if your videoconferencing tool’s built-in chat tool isn’t suitable, you could add a second platform like Slack, Discord, GroupMe, or Microsoft Teams. These platforms can also be useful outside of class time for less formal communication among students and instructors. Note also that for some videoconferencing platforms (e.g. Zoom), if a student drops the call and then re-enters the session, they lose the earlier text chat, which is another reason to use a second platform.
+Note that, as with live polling, if your videoconferencing tool’s built-in chat tool isn’t suitable, you could add a second platform like Slack, Discord, Microsoft Teams, or the chat function in Moodle. These platforms can also be useful outside of class time for less formal communication among students and instructors. Note also that for some videoconferencing platforms (e.g. Zoom), if a student drops the call and then re-enters the session, they lose the earlier text chat, which is another reason to use a second platform.
 
 Monitoring and responding to the backchannel can be a challenge for instructors, of course, whose attention can only be split so many ways. I recommend appointing someone to be the “voice of the chat.” This person could be a rotating student or a teaching assistant or a faculty colleague (maybe you can return the favor in their class). Their job is to monitor the backchannel and look for questions or comments that should be brought to the attention of the instructor. I like to plan “voice of the chat” moments in my lesson where I call on this person to speak up and share these questions and comments, and I’ll even signal these moments in my slides, using a graphic like the one seen here.
 
