@@ -189,15 +189,16 @@ From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft
 Here are a number of resources on multi-access learning.
 
 1. [Hybrid-Flexible Course Design: Implementing student-directed hybrid classes](https://edtechbooks.org/hyflex/teaching_hyflex) by Brian J. Beatty. See section 2.1: Teaching a Hybrid-Flexible Course.
+
 2. [HyFlex Course Design Examples](http://tiny.cc/HyFlex-examples) by Kevin Kelly from San Francisco State University
 
-
-- Watch the following video as Mark Halvorson discusses multi-access learning in his courses:
+3. Watch the following video as Mark Halvorson discusses multi-access learning in his courses:
 
 <iframe src="https://player.vimeo.com/video/416526075" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/416526075">Multi Access Conversation with Mark Halvorson</a> from <a href="https://vimeo.com/openhandreel">Scott Macklin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
+### Additional Resources
 - See the following example from Scott Macklin's MCOM 313 Social Media Theory & Practice: [Back Stage to a Course](https://spark.adobe.com/page/pwh3KC34s3cnE/).  
 
 - [Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning](https://jolt.merlot.org/vol9no2/irvine_0613.htm) by Irvine, Code and Richards (2013).  
