@@ -53,11 +53,11 @@ So what does this look like in a course?  How do you deliver high quality and eq
 ### Technical Set-up For a Multi-Access Class
 Before we get into the design considerations, we want to address the technical issues involved.  When asked to teach a multi-access course, a common question faculty have is "What equipment do I need?"
 
-☑️ Camera
-☑️ Microphone
-☑️ Internet
-☑️ Good lighting
-☑️ Zoom (or other video conferencing tool)
+☑️ Camera  
+☑️ Microphone  
+☑️ Internet  
+☑️ Good lighting  
+☑️ Zoom (or other video conferencing tool)  
 
 For online students to see and hear you, you'll need a camera and a microphone.  You can use your computer that should have these features, but if your course is multi-access, you may want to consider an OSBOT camera and a Lewinner wireless microphone.
 
@@ -66,15 +66,16 @@ Here's a demo with Scott Macklin showing how to use this equipment:
 <iframe src="https://player.vimeo.com/video/613908225?h=ec7404e57a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/613908225">Inclusive Classroom Demo</a> from <a href="https://vimeo.com/twuglobalonline">Trinity Western Online</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-On our help pages, we have all the technical requirements explained.  Please visit http://create.twu.ca/help/video/video
-for more information.
+On our help pages, we have all the technical requirements explained.  Please visit the [TWU Help Guide](http://create.twu.ca/help/video/video) for more information.
 
 ### Activity Design For a Multi-Access Class
 As you think about your courses, consider designing learning activities for different modalities and access points.  
 
 Here are some common activities and considerations for each:
 
-#### Class Discussions
+[ui-accordion independent=false open=none]
+
+[ui-accordion-item title="Class Discussions"]
 If we consider the three audience group: face-to-face (F2F), online synchronous (e.g. through live Zoom session), and Online Asynchronous, we need to plan our class discussions carefully.  Here's how they might expect to participate:
 
 **F2F:** Discuss in small or large groups in the classroom.
@@ -93,13 +94,19 @@ However...how do you conduct the live class session with the F2F and Zoom groups
 
 The next few activity tips are from [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/) by Derek Bruff at Vanderbilt University.
 
-#### Live Polling
+
+[/ui-accordion-item]
+[ui-accordion-item title="Live Polling"]
+
 One simple way to engage students in the room and on the Zoom call is to use a live polling tool to ask them questions about the course material. Zoom polls, for instance, let you ask multiple-choice and multiple-mark questions pretty easily. This would mean your in-person students would need to be in the Zoom session, which has advantages. But if your Zoom screen is getting too busy, you could have your in-person students turn off their cameras; Zoom can hide participants who don’t have their cameras on.
 
 If having your in-person students in the videoconference is hard, or if you’d like to ask more complex questions (free-response, clickable image questions, and so on), you could shift to a second platform like Poll Everywhere (free for a limited number of students). This adds a little overhead for instructors and virtual students (now you have to manage, say, Zoom windows), but if you’re going to use polling regularly, that learning curve might be worth it.
 
 
-#### Backchannel
+[/ui-accordion-item]
+[ui-accordion-item title="Backchannel"]
+
+
 The text chat that likely comes with your videoconferencing tool can be used to host what is called a backchannel for class discussion. The spoken dialog between you and your in-person or online students forms the “frontchannel,” while the text chat provides a forum for supplemental discussions among students. A backchannel can be useful for fostering dialog and even a sense of community among your in-person and online students. It can also serve some universal design purposes by providing a written alternative to spoken discussions or an ad hoc text captioning of spoken conversations.
 
 Note that, as with live polling, if your videoconferencing tool’s built-in chat tool isn’t suitable, you could add a second platform like Slack, Discord, Microsoft Teams, or the chat function in Moodle. These platforms can also be useful outside of class time for less formal communication among students and instructors. Note also that for some videoconferencing platforms (e.g. Zoom), if a student drops the call and then re-enters the session, they lose the earlier text chat, which is another reason to use a second platform.
@@ -110,12 +117,16 @@ It’s a good idea to talk with your students about how to use the backchannel p
 
 If audio is a challenge in your fall classroom, that is, if it is hard to hear students who are socially distanced and wearing masks, then the backchannel + voice of the chat combo might be particularly useful. If you have a microphone to share with your voice of the chat, you could invite all students to share their questions and comments on the backchannel, then rely on the voice of the chat to vocalize those questions with you and the entire class using the mic.
 
-#### Collaborative Notetaking
+[/ui-accordion-item]
+[ui-accordion-item title="Collaborative Notetaking"]
+
 A variation on the backchannel approach is collaborative notetaking. This typically involves setting up a Google Doc for students to use during class to take notes on the class discussion. Often, two or three students are appointed lead notetakers for a given class session, with that duty rotating among students over the semester, but all students are invited to read and contribute to the shared notes.
 
 This approach provides a structure for active listening during class–notetakers don’t participate in the discussion but try to capture all of it they can, while the rest of the students can focus on participating in discussion without having to worry about taking notes–and might be particularly valuable in a classroom where it is hard to hear some students, especially if the notetakers are scattered throughout the socially distanced classroom..
 
-#### Group Work
+
+[/ui-accordion-item]
+[ui-accordion-item title="Group Work"]
 Live polling, backchannel, and collaborative notetaking are useful activities that don’t require students to leave their physical or virtual seats. But what about group work in a hybrid classroom where the in-person students aren’t free to move around the classroom? Let’s consider a possible scenario:
 
 You have three discussion questions for your students to consider in small groups. Under normal circumstances, you might have posted these questions in a PowerPoint slide or included them in a printed handout. In your hybrid classroom, however, you’ve put your three questions at the top of a Google Sheet, one question per column. You ask your students to get into groups of two or three, with the in-person groups sitting six feet apart from each other at tables and your online students moving to breakout rooms in your videoconferencing platform. You give your students some time to discuss the questions in groups and report their answers using the Google Sheet, with each small group selecting an unused row of the spreadsheet to document their answers.
@@ -126,21 +137,25 @@ This approach has the advantage of engaging your in-person and online students i
 
 From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/) by Derek Bruff at Vanderbilt University
 
+[/ui-accordion-item]
+
+[/ui-accordion]
 
 ## Resources:
 Here are a number of resources on multi-access learning.
--[COVID-19 Planning for Fall 2020: A Closer Look at Hybrid-Flexible Course Design](https://philonedtech.com/covid-19-planning-for-fall-2020-a-closer-look-at-hybrid-flexible-course-design/?utm_source=rss&utm_medium=rss&utm_campaign=covid-19-planning-for-fall-2020-a-closer-look-at-hybrid-flexible-course-design).  It provides some examples of multi-access (called HyFlex in this model).
-
-- [Introducing a New(-ish) Learning Mode: Blendflex/Hyflex](https://www.insidehighered.com/digital-learning/article/2018/01/24/blendflex-lets-students-toggle-between-online-or-face-face)
-
-- See the following example from Scott Macklin's MCOM 313 Social Media Theory & Practice: [Back Stage to a Course](https://spark.adobe.com/page/pwh3KC34s3cnE/).
 
 - Watch the following video as Mark Halvorson discusses multi-access learning in his courses:
 
 <iframe src="https://player.vimeo.com/video/416526075" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/416526075">Multi Access Conversation with Mark Halvorson</a> from <a href="https://vimeo.com/openhandreel">Scott Macklin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-[Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning](https://jolt.merlot.org/vol9no2/irvine_0613.htm) by Irvine, Code and Richards (2013).  
+- [COVID-19 Planning for Fall 2020: A Closer Look at Hybrid-Flexible Course Design](https://philonedtech.com/covid-19-planning-for-fall-2020-a-closer-look-at-hybrid-flexible-course-design/?utm_source=rss&utm_medium=rss&utm_campaign=covid-19-planning-for-fall-2020-a-closer-look-at-hybrid-flexible-course-design).  It provides some examples of multi-access (called HyFlex in this model).  
+
+- [Introducing a New(-ish) Learning Mode: Blendflex/Hyflex](https://www.insidehighered.com/digital-learning/article/2018/01/24/blendflex-lets-students-toggle-between-online-or-face-face)  
+
+- See the following example from Scott Macklin's MCOM 313 Social Media Theory & Practice: [Back Stage to a Course](https://spark.adobe.com/page/pwh3KC34s3cnE/).  
+
+- [Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning](https://jolt.merlot.org/vol9no2/irvine_0613.htm) by Irvine, Code and Richards (2013).  
 
 
 
