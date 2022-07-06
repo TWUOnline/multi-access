@@ -90,8 +90,7 @@ However...how do you conduct the live class session with the F2F and Zoom groups
 - Use breakout rooms in Zoom, and small groups in the campus classroom.
 - If you're up for a challenge, try mixing the groups! The audio will be an issue, so you'll want to make sure all campus students have earphones to listen to their online peers.
 
-The next few activity tips are from [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/) by Derek Bruff at Vanderbilt University.
-
+For more tips on class discussions and multi-access lessons, see the next activities.
 
 [/ui-accordion-item]
 [ui-accordion-item title="Live Polling"]
@@ -99,7 +98,7 @@ The next few activity tips are from [Active Learning in Hybrid and Physically Di
 One simple way to engage students in the room and on the Zoom call is to use a live polling tool to ask them questions about the course material. Zoom polls, for instance, let you ask multiple-choice and multiple-mark questions pretty easily. This would mean your in-person students would need to be in the Zoom session, which has advantages. But if your Zoom screen is getting too busy, you could have your in-person students turn off their cameras; Zoom can hide participants who don’t have their cameras on.
 
 If having your in-person students in the videoconference is hard, or if you’d like to ask more complex questions (free-response, clickable image questions, and so on), you could shift to a second platform like Poll Everywhere (free for a limited number of students). This adds a little overhead for instructors and virtual students (now you have to manage, say, Zoom windows), but if you’re going to use polling regularly, that learning curve might be worth it.
-
+From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/)
 
 [/ui-accordion-item]
 [ui-accordion-item title="Backchannel"]
@@ -112,7 +111,8 @@ Monitoring and responding to the backchannel can be a challenge for instructors,
 
 It’s a good idea to talk with your students about how to use the backchannel productively during class sessions. You might want to establish some community norms about appropriate text chat use. You might also want to direct students’ contributions to the backchannel with some guiding questions.
 
-If audio is a challenge in your fall classroom, that is, if it is hard to hear students who are socially distanced and wearing masks, then the backchannel + voice of the chat combo might be particularly useful. If you have a microphone to share with your voice of the chat, you could invite all students to share their questions and comments on the backchannel, then rely on the voice of the chat to vocalize those questions with you and the entire class using the mic.
+If audio is a challenge in your classroom, that is, if it is hard to hear students who are socially distanced and wearing masks, then the backchannel + voice of the chat combo might be particularly useful. If you have a microphone to share with your voice of the chat, you could invite all students to share their questions and comments on the backchannel, then rely on the voice of the chat to vocalize those questions with you and the entire class using the mic.
+From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/)
 
 [/ui-accordion-item]
 [ui-accordion-item title="Collaborative Notetaking"]
@@ -120,6 +120,7 @@ If audio is a challenge in your fall classroom, that is, if it is hard to hear s
 A variation on the backchannel approach is collaborative notetaking. This typically involves setting up a Google Doc for students to use during class to take notes on the class discussion. Often, two or three students are appointed lead notetakers for a given class session, with that duty rotating among students over the semester, but all students are invited to read and contribute to the shared notes.
 
 This approach provides a structure for active listening during class–notetakers don’t participate in the discussion but try to capture all of it they can, while the rest of the students can focus on participating in discussion without having to worry about taking notes–and might be particularly valuable in a classroom where it is hard to hear some students, especially if the notetakers are scattered throughout the socially distanced classroom..
+From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/)
 
 Here's an example of a google doc: [HyFlex Course Design Examples](http://tiny.cc/HyFlex-examples) by Kevin Kelly from San Francisco State University.
 
@@ -140,11 +141,13 @@ Of course, Google Sheets is just one option for a way to organize and share stud
 Sometimes you might want rather structured responses from students, using something like Sheets with its columns and rows is useful, and other times you might ask more open-ended questions, asking each student group to construct its own slide in a Google Slide deck. Note that the more structure you build into the activity, the faster you’ll be able to parse and respond to student responses. In large classes, very structured options, like multiple-choice polling questions, are the most practical.
 
 Note that moving to groups (in-person and online) and getting started using a collaborative tool will take students a little time. This isn’t as simple as turning to your neighbor in a traditional classroom and discussing a question, but if you make the group tasks meaningful and use the same tools regularly, this approach to group work has the potential to be practical.
+From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/)
 
 [/ui-accordion-item]
 [ui-accordion-item title="Written Work"]
 
 One note for those teaching in disciplines (like mathematics) where group work involves students seeing each other’s written work: If you’re able to equip students with individual small portable whiteboards and markers, these might make it easier for students to show their work to group members across a six-foot gap. And for students participating in group work virtually, if they’re Zooming in using their phones, they can probably point their phones at their own handwritten work when they need to share with their groups.
+From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/)
 
 [/ui-accordion-item]
 [ui-accordion-item title="Hybrid Pair Work"]
@@ -156,6 +159,7 @@ Here’s another spin on group work: Ask your in-person students to pair up with
 Keep in mind general strategies for using group work, like the jigsaw approach. In a jigsaw, students participate in two rounds of small group activities. In the first round (sometimes called “focus groups”), each group of students is given a different reading or topic to discuss. In the second round (“task groups”), groups are reformed so that each new group has a representative from each of the first round groups. The tasks groups are then asked to bring to the conversation perspectives shared during the focus groups. In the hybrid classroom, each set of groups might be facilitated using the strategies mentioned above, and the second-round groups might be assigned intentionally so that in-person and virtual students interact.
 ![](Jigsaw.jpg)
 
+From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/)
 
 [/ui-accordion-item]
 [ui-accordion-item title="Fishbowl"]
@@ -180,6 +184,24 @@ It might be hard to require movement from your virtual students, but if you have
 
 
 From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/) by Derek Bruff at Vanderbilt University
+
+[/ui-accordion-item]
+[ui-accordion-item title="Mini-lecture"]
+
+| **Synchronous**                          | **Synchronous online**                    | **Asynchronous online**              |
+| **in person**                            |                                           |                                      |
+|------------------------------------------|-------------------------------------------|--------------------------------------|
+| Students watch mini-lecture in classroom | Students watch mini-lecture via videoconf | Students watch recorded mini-lecture |
+
+***Tips:***
+- Keep lectures short! Roughly 10 to 12 minutes
+- Option: pre-record all mini-lectures and assigning students to review them before joining the synchronous class
+meeting or participating in asynchronous activities.
+- Regardless of when students review the mini-lecture, break into 10-12 minute
+segments to address cognitive overload, to allow students to engage in an
+activity to encode/retain the information, etc.
+
+From [HyFlex Course Design Examples](http://tiny.cc/HyFlex-examples)
 
 [/ui-accordion-item]
 
