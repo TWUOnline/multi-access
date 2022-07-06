@@ -51,9 +51,14 @@ The outermost tier of the model is for open participation from non-credit learne
 So what does this look like in a course?  How do you deliver high quality and equitable lessons when there is a mix of students joining you face-to-face on campus, online through synchronous zoom sessions, and online asynchronously?
 
 ### Technical Set-up For a Multi-Access Class
-The next section will focus on design, but first we want to address the technical issues involved.  When asked to teach a multi-access course, a common question faculty have is "What equipment do I need?"
+Before we get into the design considerations, we want to address the technical issues involved.  When asked to teach a multi-access course, a common question faculty have is "What equipment do I need?"
 
-1. Camera and Microphone
+☑️ Camera
+☑️ Microphone
+☑️ Internet
+☑️ Good lighting
+☑️ Zoom (or other video conferencing tool)
+
 For online students to see and hear you, you'll need a camera and a microphone.  You can use your computer that should have these features, but if your course is multi-access, you may want to consider an OSBOT camera and a Lewinner wireless microphone.
 
 Here's a demo with Scott Macklin showing how to use this equipment:
@@ -61,6 +66,8 @@ Here's a demo with Scott Macklin showing how to use this equipment:
 <iframe src="https://player.vimeo.com/video/613908225?h=ec7404e57a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/613908225">Inclusive Classroom Demo</a> from <a href="https://vimeo.com/twuglobalonline">Trinity Western Online</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+On our help pages, we have all the technical requirements explained.  Please visit http://create.twu.ca/help/video/video
+for more information.
 
 ### Activity Design For a Multi-Access Class
 As you think about your courses, consider designing learning activities for different modalities and access points.  
