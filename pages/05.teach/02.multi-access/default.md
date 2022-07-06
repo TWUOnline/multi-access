@@ -121,6 +121,7 @@ A variation on the backchannel approach is collaborative notetaking. This typica
 
 This approach provides a structure for active listening during class–notetakers don’t participate in the discussion but try to capture all of it they can, while the rest of the students can focus on participating in discussion without having to worry about taking notes–and might be particularly valuable in a classroom where it is hard to hear some students, especially if the notetakers are scattered throughout the socially distanced classroom..
 
+Here's an example of a google doc: [HyFlex Course Design Examples](http://tiny.cc/HyFlex-examples) by Kevin Kelly from San Francisco State University.
 
 [/ui-accordion-item]
 [ui-accordion-item title="Group Work"]
@@ -187,14 +188,15 @@ From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft
 ## Resources:
 Here are a number of resources on multi-access learning.
 
+1. [Hybrid-Flexible Course Design: Implementing student-directed hybrid classes](https://edtechbooks.org/hyflex/teaching_hyflex) by Brian J. Beatty. See section 2.1: Teaching a Hybrid-Flexible Course.
+2. [HyFlex Course Design Examples](http://tiny.cc/HyFlex-examples) by Kevin Kelly from San Francisco State University
+
+
 - Watch the following video as Mark Halvorson discusses multi-access learning in his courses:
 
 <iframe src="https://player.vimeo.com/video/416526075" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/416526075">Multi Access Conversation with Mark Halvorson</a> from <a href="https://vimeo.com/openhandreel">Scott Macklin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-- [COVID-19 Planning for Fall 2020: A Closer Look at Hybrid-Flexible Course Design](https://philonedtech.com/covid-19-planning-for-fall-2020-a-closer-look-at-hybrid-flexible-course-design/?utm_source=rss&utm_medium=rss&utm_campaign=covid-19-planning-for-fall-2020-a-closer-look-at-hybrid-flexible-course-design).  It provides some examples of multi-access (called HyFlex in this model).  
-
-- [Introducing a New(-ish) Learning Mode: Blendflex/Hyflex](https://www.insidehighered.com/digital-learning/article/2018/01/24/blendflex-lets-students-toggle-between-online-or-face-face)  
 
 - See the following example from Scott Macklin's MCOM 313 Social Media Theory & Practice: [Back Stage to a Course](https://spark.adobe.com/page/pwh3KC34s3cnE/).  
 
