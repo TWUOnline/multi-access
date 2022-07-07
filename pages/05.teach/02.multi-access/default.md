@@ -188,10 +188,10 @@ From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft
 [/ui-accordion-item]
 [ui-accordion-item title="Mini-lecture"]
 
-| **In person (F2F)**                          | **Synchronous online**                    | **Asynchronous online**              |
-|                                       |                                      |
-|------------------------------------------|-------------------------------------------|
-| Students watch mini-lecture in classroom | Students watch mini-lecture via video conference | Students watch recorded mini-lecture |
+| **Synchronous in person**                | **Synchronous online**                    | **Asynchronous online**              |
+|------------------------------------------|-------------------------------------------|--------------------------------------|
+| Students watch mini-lecture in classroom | Students watch mini-lecture via videoconf | Students watch recorded mini-lecture |
+
 
 ***Tips:***
 - Keep lectures short! Roughly 10 to 12 minutes
