@@ -188,9 +188,9 @@ From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft
 [/ui-accordion-item]
 [ui-accordion-item title="Mini-lecture"]
 
-!| **Synchronous in person**                | **Synchronous online**                    | **Asynchronous online**              |
-!|------------------------------------------|-------------------------------------------|--------------------------------------|
-!| Students watch mini-lecture in classroom | Students watch mini-lecture via video conference | Students watch recorded mini-lecture |
+| **Synchronous in person**                | **Synchronous online**                    | **Asynchronous online**              |
+|------------------------------------------|-------------------------------------------|--------------------------------------|
+| Students watch mini-lecture in classroom | Students watch mini-lecture via video conference | Students watch recorded mini-lecture |
 
 
 ***Tips:***
