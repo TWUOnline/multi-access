@@ -28,7 +28,11 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 
 ---
 
+### Example: LDRS 611 - Organizational Behaviour
+
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=236" width="646" height="366" frameborder="0" allowfullscreen="allowfullscreen" title="Learning Lab - Self Assessment #1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
 
 ### Course Presentation
 [h5p id="162"]
