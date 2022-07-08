@@ -16,9 +16,11 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 ## H5P Samples
 
 ### Column
+
 [h5p id="195"]
 
 ### Dialog Cards
+
 [h5p id="107"]
 
 ### Drag and Drop
@@ -28,14 +30,15 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 
 ---
 
-### Example: LDRS 611 - Organizational Behaviour
+#### Example: LDRS 611 - Organizational Behaviour
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=236" width="646" height="366" frameborder="0" allowfullscreen="allowfullscreen" title="Learning Lab - Self Assessment #1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+[h5p id="236"]
 
 
 ### Course Presentation
+
 [h5p id="162"]
 
 ### Drag the Text
+
 [h5p id="13"]
