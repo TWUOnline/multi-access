@@ -30,6 +30,7 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 
 <p>This tool can be used to help students record their thoughts. Many instructors find it helpful for students as it allows them to ask guiding questions or rhetorical questions during a Learning Lab session. Students can then document their thoughts and export their responses for future reference in the course. The example below highlights an effective way this tool can be used:
 
+<br>
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=330" width="826" height="1086" frameborder="0" allowfullscreen="allowfullscreen" title="631 Reflective Journal 4.3"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
