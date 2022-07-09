@@ -40,5 +40,13 @@ The Interactive Video tool in H5P is helpful for instructors who like to integra
 <p>The Course Presentation tool in H5P can be used to create an interactive presentation that allows instructors to integrate some of the features explored above. In this example below, you can see how text and videos can be integrated into a presentation. Additionally, a formative assessment has been integrated (at the end of the presentation) that helps students assess how well they understood the content from the presentation.</p>
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=162" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
+
+<p>This is another example that provides some more ideas of what is possible with this resource:</p>
+
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=111" width="826" height="490" frameborder="0" allowfullscreen="allowfullscreen" title="RELS 100: Introduction to Christianity"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+
 ### Drag the Text
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=13" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
