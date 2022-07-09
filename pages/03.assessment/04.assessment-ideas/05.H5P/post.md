@@ -29,15 +29,15 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 
 ### Interactive Video
 
-The Interactive Video tool in H5P is helpful for instructors who like to integrate videos into their courses. This tool allows instructors to add multiple choice and fill in the blank questions, pop-up text and other types of interactions to their videos. This can be used with most video streaming sources such as Microsoft Stream, YouTube, TedTalks, Video, and more. The example below shows how this tool was used to create a formative assessment for students so that they could better gauge how well they learned the content in the video. 
+The Interactive Video tool in H5P is helpful for instructors who like to integrate videos into their courses. This tool allows instructors to add multiple choice and fill in the blank questions, pop-up text and other types of interactions to their videos. This can be used with most video streaming sources such as Microsoft Stream, YouTube, TedTalks, Video, and more. The example below shows how this tool was used to create a formative assessment for students so that they could better gauge how well they learned the content in the video.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=237" width="646" height="424" frameborder="0" allowfullscreen="allowfullscreen" title="Video Summary"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
----
+<hr/>
 
-### Course Presentation
+<h3>Course Presentation</h3>
 
-The Course Presentation tool in H5P can be used to create an interactive presentation that allows instructors to integrate some of the features explored above. In this example below, you can see how text and videos can be integrated into a presentation. Additionally, a formative assessment has been integrated (at the end of the presentation) that helps students assess how well they understood the content from the presentation.
+<p>The Course Presentation tool in H5P can be used to create an interactive presentation that allows instructors to integrate some of the features explored above. In this example below, you can see how text and videos can be integrated into a presentation. Additionally, a formative assessment has been integrated (at the end of the presentation) that helps students assess how well they understood the content from the presentation.</p>
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=162" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
 ### Drag the Text
