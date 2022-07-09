@@ -25,11 +25,19 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 #### Example: LDRS 611 - Organizational Behaviour
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=236" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
 
----
 
-### Interactive Video
+<h3>Documentation Tool</h3>
 
-The Interactive Video tool in H5P is helpful for instructors who like to integrate videos into their courses. This tool allows instructors to add multiple choice and fill in the blank questions, pop-up text and other types of interactions to their videos. This can be used with most video streaming sources such as Microsoft Stream, YouTube, TedTalks, Video, and more. The example below shows how this tool was used to create a formative assessment for students so that they could better gauge how well they learned the content in the video.
+<p>This tool can be used to help students record their thoughts. Many instructors find it helpful for students as it allows them to ask guiding questions or rhetorical questions during a Learning Lab session. Students can then document their thoughts and export their responses for future reference in the course. The example below highlights an effective way this tool can be used:
+
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=330" width="826" height="1086" frameborder="0" allowfullscreen="allowfullscreen" title="631 Reflective Journal 4.3"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<hr/>
+
+<h3>Interactive Video</h3>
+
+<p>The Interactive Video tool in H5P is helpful for instructors who like to integrate videos into their courses. This tool allows instructors to add multiple choice and fill in the blank questions, pop-up text and other types of interactions to their videos. This can be used with most video streaming sources such as <i>Microsoft Stream, YouTube, TedTalks, Vimeo,</i> and more. The example below shows how this tool was used to create a formative assessment for students so that they could better gauge how well they learned the content in the video.</p>
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=237" width="646" height="424" frameborder="0" allowfullscreen="allowfullscreen" title="Video Summary"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
