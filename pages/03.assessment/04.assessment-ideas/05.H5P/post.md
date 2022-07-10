@@ -25,6 +25,19 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 #### Example: LDRS 611 - Organizational Behaviour
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=236" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
 
+<hr/>
+
+<h3>Dialog Cards</h3>
+
+<p>This is a very robust resource that can be used in a variety of ways in a course to support student learning. Most commonly, instructors will use this to help students learn key terminology. This tool, however, can be modified to provide extensive support regardless of the subject matter. The examples below provide a sense of some of the modifications that can be integrated into a course:
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=107" width="841" height="651" frameborder="0" allowfullscreen="allowfullscreen" title="Action Research: Ethical Considerations"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<br>
+<p><i>This is another example that provides some more ideas of what is possible with this resource:</i></p>
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=207" width="826" height="1014" frameborder="0" allowfullscreen="allowfullscreen" title="320 U8 Flashcards"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <hr/>
 
