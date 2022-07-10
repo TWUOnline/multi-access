@@ -15,8 +15,16 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 
 ## H5P Samples
 
-### Column
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=195" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
+<hr/>
+
+<h3>Column</h3>
+
+<p>This feature allows instructors to add multiple choice, fill in the blanks, texts and other types of interactions and group them in a column layout. This tool allows for more creative structures and might be better suited for various subject matter.</p>
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=195" width="841" height="635" frameborder="0" allowfullscreen="allowfullscreen" title="Q-Sort Score Sheet"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<hr/>
+
 ### Dialog Cards
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=107" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
 ### Drag and Drop
@@ -56,6 +64,11 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 <p>The Interactive Video tool in H5P is helpful for instructors who like to integrate videos into their courses. This tool allows instructors to add multiple choice and fill in the blank questions, pop-up text and other types of interactions to their videos. This can be used with most video streaming sources such as <i>Microsoft Stream, YouTube, TedTalks, Vimeo,</i> and more. The example below shows how this tool was used to create a formative assessment for students so that they could better gauge how well they learned the content in the video.</p>
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=237" width="646" height="424" frameborder="0" allowfullscreen="allowfullscreen" title="Video Summary"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<br>
+<p><i>This is another example that provides some more ideas of what is possible with this resource:</i></p>
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=105" width="826" height="526" frameborder="0" allowfullscreen="allowfullscreen" title="How To Remember Everything You Learn"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr/>
 
