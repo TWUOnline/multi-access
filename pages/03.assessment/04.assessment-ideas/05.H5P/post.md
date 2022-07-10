@@ -15,30 +15,51 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 
 ## H5P Samples
 
+<h3>Drag and Drop</h3>
+
+<p>This tool is one of the most popular choices for instructors looking to create opportunities for students to interact with content. This H5P activity can be set up in a variety of ways which makes it helpful across a broad spectrum of subject matter. This is tool is also easy to use and can provide valuable feedback to help students learn. Below are some examples of different ways this resource can be used</p>
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=262" width="826" height="406" frameborder="0" allowfullscreen="allowfullscreen" title="MCOM 353 Activity 5.3"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<br>
+<p><i>This is another example that provides some more ideas of what is possible with this resource:</i></p>
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=125" width="841" height="668" frameborder="0" allowfullscreen="allowfullscreen" title="Key Ingredients Identification Game"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<br>
+<p><i>This is another example that provides some more ideas of what is possible with this resource:</i></p>
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=139" width="841" height="1557" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+<hr/>
+
+<h3>Drag Text</h3>
+
+<p>Another popular option for supporting student learning is the Drag Text tool. This tool allows instructors to create opportunities to "check-in" and see how well student's have learned a section of content. It is simple and easy to use, and works well across all subject matter.</p>
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=77" width="826" height="1222" frameborder="0" allowfullscreen="allowfullscreen" title="Key Terms and Modalities in Online Learning"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<br>
+<p><i>This is another example that provides some more ideas of what is possible with this resource:</i></p>
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=236" width="841" height="286" frameborder="0" allowfullscreen="allowfullscreen" title="Learning Lab - Self Assessment #1"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 <hr/>
 
 <h3>Quiz/Question Set</h3>
 
-If you are looking for a simple but effective way to create engaging, interactive questions that support student learning than this tool is for you. This tool helps instructors develop creative methods for formative assessments. Many question types are supported  with this resource such as multiple choice, fill in the blanks, drag the words, mark the words and regular drag and drop. The example below highlights how this tool can be integrated into a language course.
+<p>If you are looking for a simple but effective way to create engaging, interactive questions that support student learning than this tool is for you. This tool helps instructors develop creative methods for formative assessments. Many question types are supported  with this resource such as multiple choice, fill in the blanks, drag the words, mark the words and regular drag and drop. The example below highlights how this tool can be integrated into a language course.</p>
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=86" width="826" height="509" frameborder="0" allowfullscreen="allowfullscreen" title="Identify the figures of speech in the following statements:"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
+<hr/>
 
 <h3>Column</h3>
 
 <p>This feature allows instructors to add multiple choice, fill in the blanks, texts and other types of interactions and group them in a column layout. This tool allows for more creative structures and might be better suited for various subject matter.</p>
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=195" width="841" height="635" frameborder="0" allowfullscreen="allowfullscreen" title="Q-Sort Score Sheet"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<hr/>
-
-
-### Drag and Drop
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=125" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=139" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
-#### Example: LDRS 611 - Organizational Behaviour
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=236" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
 
 <hr/>
 
@@ -109,7 +130,3 @@ If you are looking for a simple but effective way to create engaging, interactiv
 <p>The Branching Scenario tool is a good option for those looking for a more complex activity to engage students. This tools allows users to create dilemmas, self paced learning scenarios, and other types of adaptive learning. The example below highlights just one of the many ways an instructor could leverage this resource:
 
 <iframe src="https://create.twu.ca/melanielaurie/wp-admin/admin-ajax.php?action=h5p_embed&id=3" width="826" height="725" frameborder="0" allowfullscreen="allowfullscreen" title="Building e-Pedagogy Efficacy in Higher Education"></iframe><script src="https://create.twu.ca/melanielaurie/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-
-### Drag the Text
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=13" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
