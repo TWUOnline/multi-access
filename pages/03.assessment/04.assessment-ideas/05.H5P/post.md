@@ -17,6 +17,14 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 
 <hr/>
 
+<h3>Quiz/Question Set</h3>
+
+If you are looking for a simple but effective way to create engaging, interactive questions that support student learning than this tool is for you. This tool helps instructors develop creative methods for formative assessments. Many question types are supported  with this resource such as multiple choice, fill in the blanks, drag the words, mark the words and regular drag and drop. The example below highlights how this tool can be integrated into a language course.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=86" width="826" height="509" frameborder="0" allowfullscreen="allowfullscreen" title="Identify the figures of speech in the following statements:"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+
 <h3>Column</h3>
 
 <p>This feature allows instructors to add multiple choice, fill in the blanks, texts and other types of interactions and group them in a column layout. This tool allows for more creative structures and might be better suited for various subject matter.</p>
