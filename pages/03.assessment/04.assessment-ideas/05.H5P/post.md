@@ -25,8 +25,7 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 
 <hr/>
 
-### Dialog Cards
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=107" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
+
 ### Drag and Drop
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=125" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=139" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
