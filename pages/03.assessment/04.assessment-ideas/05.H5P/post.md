@@ -46,6 +46,16 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 
 <hr/>
 
+<h3>Interactive Book</h3>
+
+<p>This tool provides a creative way to embed some of the other tools (introduced above) into content in the course to help support student learning. The example below demonstrates how this tool allows an instructor to utilize various assessments methods within each page of the "book" so that students can receive feedback about their learning. This is most effective in helping students prepare for a graded assignment.
+
+
+<iframe src="https://create.twu.ca/fndn101/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="826" height="976" frameborder="0" allowfullscreen="allowfullscreen" title="TWU Core Curriculum 2"></iframe><script src="https://create.twu.ca/fndn101/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+<hr/>
+
 <h3>Course Presentation</h3>
 
 <p>The Course Presentation tool in H5P can be used to create an interactive presentation that allows instructors to integrate some of the features explored above. In this example below, you can see how text and videos can be integrated into a presentation. Additionally, a formative assessment has been integrated (at the end of the presentation) that helps students assess how well they understood the content from the presentation.</p>
