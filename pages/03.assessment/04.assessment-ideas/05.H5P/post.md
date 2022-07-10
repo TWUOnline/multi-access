@@ -82,6 +82,14 @@ See what we’ve been up to and how we’ve helped our faculty expand their digi
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=111" width="826" height="490" frameborder="0" allowfullscreen="allowfullscreen" title="RELS 100: Introduction to Christianity"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
+<hr/>
+
+<h3>Branching Scenario</h3>
+
+<p>The Branching Scenario tool is a good option for those looking for a more complex activity to engage students. This tools allows users to create dilemmas, self paced learning scenarios, and other types of adaptive learning. The example below highlights just one of the many ways an instructor could leverage this resource:
+
+<iframe src="https://create.twu.ca/melanielaurie/wp-admin/admin-ajax.php?action=h5p_embed&id=3" width="826" height="725" frameborder="0" allowfullscreen="allowfullscreen" title="Building e-Pedagogy Efficacy in Higher Education"></iframe><script src="https://create.twu.ca/melanielaurie/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 ### Drag the Text
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=13" width="598" height="1150" frameborder="0" allowfullscreen="allowfullscreen" title="PSYC 215: Piaget&#039;s Model - Assimilation vs Accomodation"></iframe>
