@@ -1,8 +1,6 @@
 ---
 title: 'What is Assessment?'
-body_classes: modular
 published: true
-columns: 1
 ---
 
 Assessment is fundamentally a process of reasoning from evidence (Pellegrino et al., 2001). The evidence is produced by learners as they create artifacts that demonstrate some degree or another of alignment with an intended learning outcome. This can come in the form of an answer to a quiz question, administering a medication, creating a website, recording an interview, conducting an experiment, writing or performing a play, singing a song, painting a landscape, teaching a class, executing a physical skill, programming an app, or any number of other tasks that might be imagined. The end result of this process is an *inference* related to what the learner knows, believes, or can do.
@@ -99,7 +97,7 @@ In a parallel scenario, you might as a learner a series of questions. If they ca
 
 Biggs, J., & Collis, K. (1982). Evaluating the quality of learning: The SOLO taxonomy. Academic Press.
 
-Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001).[Knowing What Students Know: The Science and Design of Educational Assessment](https://doi.org/10.17226/10019). National Academies Press.
+Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). [Knowing What Students Know: The Science and Design of Educational Assessment](https://doi.org/10.17226/10019). National Academies Press.
 
 
 Stutzman, R. Y., & Race, K. H. (2004). [EMRF: Everyday Rubric Grading](http://www.jstor.org/stable/20871497). The Mathematics Teacher, 97(1), 34–39.  

@@ -13,7 +13,7 @@ Recall that [educational assessment is not a direct measurement](https://multi-a
 
 This does not mean that all exams are bad or that we should abandon examinations altogether. It does mean that we should express sufficient epistemic humility when considering what we can learn about what learners know. Many will be familiar with the ideas of *validity* and *reliability* in relation to research findings. Since educational assessment is a matter of reasoning based on evidence and thus an example of research, validity and reliability are relevant constructs.
 
-Reliability is a measurement of the *precision* of a given instrument for a given sample of examinees.  Reliability is most often expressed as `coefficient alpha`, or a measure of the instrument's internal consistency.An unreliable test cannot support valid inferences. Validity refers  to the evidence presented to support the meaning and interpretation of results from a measurement instrument. Validity does ***NOT*** refer to a quality of an instrument or a score, but rather whether the inference is supported by the data. 
+Reliability is a measurement of the *precision* of a given instrument for a given sample of examinees.  Reliability is most often expressed as `coefficient alpha`, or a measure of the instrument's internal consistency. An unreliable test cannot support valid inferences. Validity refers to the evidence presented to support the meaning and interpretation of results from a measurement instrument. Validity does ***NOT*** refer to a quality of an instrument or a score, but rather whether the ***inference is supported by the data***. 
 
 ![image showing the differences between validity, reliability, and fairness](valid-reliable-fair.png)
 
@@ -27,4 +27,11 @@ Examples:
 | essay | writing ability | count the number of words an examinee writes and make an inference about writing ability |
 
 
-# Psyhometrics
+# Psychometrics
+
+The fundamental equation in classical test theory is 
+- $X = T + E$
+  Where:
+- $X$ - observed or raw score
+- $T$ - unobserved true score
+- $E$ - Error
