@@ -21,11 +21,11 @@ Consider the various ways to assess (tests, papers, projects, presentations, gra
 
 Here is a quick snapshot:
 
-! A checklist is an assessment tool that is used to grade students based on the presence or absence of knowledge, behaviours, and skills. Checklists itemize the tasks you want students to do.
-! An analytic rubric is a way to break down specific parts of your assignment. It provides a scale of performance for you to measure your students’ achievement. This is a more detailed approach to grading and provides a clear picture of your expectations for an assignment.
-! A holistic rubric is simpler than an analytic rubric. Generally, it has 3 – 5 levels of performance (score) and a description that defines how students will achieve the grade for each level. Holistic rubrics look at the entire assignment and grades it on a single scale.
-! Audio feedback allows you to record your verbal comments on students work.
-! Video feedback can include screen capture so you can explain your comments visually.
+! A checklist is an assessment tool that is used to grade students based on the presence or absence of knowledge, behaviours, and skills. Checklists itemize the tasks you want students to do.  
+! An analytic rubric is a way to break down specific parts of your assignment. It provides a scale of performance for you to measure your students’ achievement. This is a more detailed approach to grading and provides a clear picture of your expectations for an assignment.  
+! A holistic rubric is simpler than an analytic rubric. Generally, it has 3 – 5 levels of performance (score) and a description that defines how students will achieve the grade for each level. Holistic rubrics look at the entire assignment and grades it on a single scale.  
+! Audio feedback allows you to record your verbal comments on students work.  
+! Video feedback can include screen capture so you can explain your comments visually.  
 
 
 ## Checklists
@@ -63,13 +63,16 @@ There are different opinions about using detailed, or standardized rubrics.  See
 !!! Rubrics are a popular tool to use in grading online assignments. Some think they are a great way to standardize the grading process, while others think they are a way to stifle individual thinking in learners. This difference in opinion probably stems from the fact that some courses may need a more standardized approach, while others may need a more open-ended approach. Standardized rubrics can be seen as a more fair approach to grading by some learners that gives them a specific road-map for every part of an assignment. On the other hand, more open rubrics can save time and headaches, while allowing your learners to have some freedom and flexibility in their learning.
 The most common way to design standardized rubrics is to have extensive details on each line of the rubric explaining what each point counts for, with several rows of criteria covering every aspect of each assignment:
 
-| **Introduction / Topic** | **10 points: **Student properly generates questions around a topic and introduces them fully. | **5 points:** Student generates questions and has a partial introduction. | **2 points:** Student is missing either introduction or topical questions. | **0 points:** Student has no questions or topical questions. |
-|--------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------|
+|                       | **Does Not Meet Expectations (1 mark)**                                                    | **Meets Expectations**  **(2 marks)**                                                                  | **Exceeds expectations**  **(3 marks)**                                           |
+|-----------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| **Comprehensiveness** | Provides incomplete responses for some questions                                           | Provides responses for all questions                                                                   | Provides detailed responses for all questions                                     |
+| **Understanding**     | Responses lack clarity, accuracy and/or precision                                          | Mostly clear, precise and accurate responses                                                           | Clear, precise and accurate responses                                             |
+| **Application**       | Fails to convincingly apply knowledge and theory to new contexts                           | Applies knowledge and theory to new contexts well                                                      | Applies knowledge and theory to new contexts with superior skill                  |
+| **Technical Merit**   | Several spelling or grammatical errors. Sentences and paragraphs are not well-constructed. | Minor and/or few spelling or grammatical errors. Sentences and paragraphs are mostly well-constructed. | Spelling and grammar are accurate. Sentences and paragraphs are well-constructed. |
 
 
-This method creates a strict roadmap that helps many learners. However, it also rarely allows learners to wrestle with what they want to do for an assignment. Additionally, there are many gaps that learners could fall into between point values or descriptions. These issues may not apply to all assignments, so you may find that a standardized rubric works best for your course design. Just keep in mind that these can be more time consuming to create and utilize from the instructor viewpoint.
-
-!!! From CHAPTER 9: ASSESSMENT AND GRADING ISSUES in [Creating Online Learning Experiences](https://uta.pressbooks.pub/onlinelearning/chapter/chapter-9-assessment-issues/) by Matt Crosslin
+!!! This method creates a strict roadmap that helps many learners. However, it also rarely allows learners to wrestle with what they want to do for an assignment. Additionally, there are many gaps that learners could fall into between point values or descriptions. These issues may not apply to all assignments, so you may find that a standardized rubric works best for your course design. Just keep in mind that these can be more time consuming to create and utilize from the instructor viewpoint.
+From CHAPTER 9: ASSESSMENT AND GRADING ISSUES in [Creating Online Learning Experiences](https://uta.pressbooks.pub/onlinelearning/chapter/chapter-9-assessment-issues/) by Matt Crosslin
 
 ### Holistic Rubrics
 A simpler approach to rubrics is to make it open-ended, or standardized.
