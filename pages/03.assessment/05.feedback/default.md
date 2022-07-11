@@ -21,11 +21,11 @@ Consider the various ways to assess (tests, papers, projects, presentations, gra
 
 Here is a quick snapshot:
 
-! A checklist is an assessment tool that is used to grade students based on the presence or absence of knowledge, behaviours, and skills. Checklists itemize the tasks you want students to do.  
-! An analytic rubric is a way to break down specific parts of your assignment. It provides a scale of performance for you to measure your students’ achievement. This is a more detailed approach to grading and provides a clear picture of your expectations for an assignment.  
-! A holistic rubric is simpler than an analytic rubric. Generally, it has 3 – 5 levels of performance (score) and a description that defines how students will achieve the grade for each level. Holistic rubrics look at the entire assignment and grades it on a single scale.  
-! Audio feedback allows you to record your verbal comments on students work.  
-! Video feedback can include screen capture so you can explain your comments visually.  
+! - A checklist is an assessment tool that is used to grade students based on the presence or absence of knowledge, behaviours, and skills. Checklists itemize the tasks you want students to do.  
+! - An analytic rubric is a way to break down specific parts of your assignment. It provides a scale of performance for you to measure your students’ achievement. This is a more detailed approach to grading and provides a clear picture of your expectations for an assignment.  
+! - A holistic rubric is simpler than an analytic rubric. Generally, it has 3 – 5 levels of performance (score) and a description that defines how students will achieve the grade for each level. Holistic rubrics look at the entire assignment and grades it on a single scale.  
+! - Audio feedback allows you to record your verbal comments on students work.  
+! - Video feedback can include screen capture so you can explain your comments visually.  
 
 
 ## Checklists
@@ -45,9 +45,7 @@ Checklist Sample: Discussion Criteria
 ### Analytic Rubrics
 An analytic rubric contains the list of criteria that highlights the what the learner is expected to do or demonstrate. Along with the criteria, a rubric provides examples of what is expected at each level of performance, from poor to excellent. Providing this criteria up front to learners allows them to assess their progress and compare to a performance level.
 
-Below are some examples of rubric use in our online courses.
-
-*Grading Criteria*
+*Sample Grading Criteria*
 
 | **Criteria**                              | 0–1 marks                                                                              | 2-3 marks                                                                                     | 4-5 marks                                                                                             |
 |-------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -60,8 +58,7 @@ Below are some examples of rubric use in our online courses.
 You'll notice the last two in particular have a detailed range of "Needs Improvement" to "Exceeds Expectations".  If possible, try to work out the details of what you're looking for at each level of mastery. This helps not only when you're grading students' work, but also when you need to explain the grade you gave.
 
 There are different opinions about using detailed, or standardized rubrics.  See the following comments:
-!!! Rubrics are a popular tool to use in grading online assignments. Some think they are a great way to standardize the grading process, while others think they are a way to stifle individual thinking in learners. This difference in opinion probably stems from the fact that some courses may need a more standardized approach, while others may need a more open-ended approach. Standardized rubrics can be seen as a more fair approach to grading by some learners that gives them a specific road-map for every part of an assignment. On the other hand, more open rubrics can save time and headaches, while allowing your learners to have some freedom and flexibility in their learning.
-The most common way to design standardized rubrics is to have extensive details on each line of the rubric explaining what each point counts for, with several rows of criteria covering every aspect of each assignment:
+!!! Rubrics are a popular tool to use in grading online assignments. Some think they are a great way to standardize the grading process, while others think they are a way to stifle individual thinking in learners. This difference in opinion probably stems from the fact that some courses may need a more standardized approach, while others may need a more open-ended approach. Standardized rubrics can be seen as a more fair approach to grading by some learners that gives them a specific road-map for every part of an assignment. On the other hand, more open rubrics can save time and headaches, while allowing your learners to have some freedom and flexibility in their learning. The most common way to design standardized rubrics is to have extensive details on each line of the rubric explaining what each point counts for, with several rows of criteria covering every aspect of each assignment:
 
 |                       | **Does Not Meet Expectations (1 mark)**                                                    | **Meets Expectations**  **(2 marks)**                                                                  | **Exceeds expectations**  **(3 marks)**                                           |
 |-----------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
@@ -71,20 +68,22 @@ The most common way to design standardized rubrics is to have extensive details 
 | **Technical Merit**   | Several spelling or grammatical errors. Sentences and paragraphs are not well-constructed. | Minor and/or few spelling or grammatical errors. Sentences and paragraphs are mostly well-constructed. | Spelling and grammar are accurate. Sentences and paragraphs are well-constructed. |
 
 
-!!! This method creates a strict roadmap that helps many learners. However, it also rarely allows learners to wrestle with what they want to do for an assignment. Additionally, there are many gaps that learners could fall into between point values or descriptions. These issues may not apply to all assignments, so you may find that a standardized rubric works best for your course design. Just keep in mind that these can be more time consuming to create and utilize from the instructor viewpoint.
-From CHAPTER 9: ASSESSMENT AND GRADING ISSUES in [Creating Online Learning Experiences](https://uta.pressbooks.pub/onlinelearning/chapter/chapter-9-assessment-issues/) by Matt Crosslin
+!!! This method creates a strict roadmap that helps many learners. However, it also rarely allows learners to wrestle with what they want to do for an assignment. Additionally, there are many gaps that learners could fall into between point values or descriptions. These issues may not apply to all assignments, so you may find that a standardized rubric works best for your course design. Just keep in mind that these can be more time consuming to create and utilize from the instructor viewpoint. From CHAPTER 9: ASSESSMENT AND GRADING ISSUES in [Creating Online Learning Experiences](https://uta.pressbooks.pub/onlinelearning/chapter/chapter-9-assessment-issues/) by Matt Crosslin
 
 ### Holistic Rubrics
-A simpler approach to rubrics is to make it open-ended, or standardized.
-Here's an explanation to compare:
-!!! Another way to approach grading issues is to take a more flexible, open-ended approach to creating rubrics. For example, try to have fewer rows that focus more on learners showing their knowledge than focusing on various assignment details like word count or assignment formats. Simply give the general area that will be graded, the parameters that you will look for, and a total number of points possible. Then leave an open slot for you to enter the points they earn in that area and a place for you to explain why you gave those points. For example:
+A simpler approach to rubrics is to make it open-ended, or holistic. There are fewer criteria that "focus more on learners showing their knowledge than focusing on various assignment details like word count or assignment formats. Simply give the general area that will be graded, the parameters that you will look for, and a total number of points possible. Then leave an open slot for you to enter the points they earn in that area and a place for you to explain why you gave those points." ([Creating Online Learning Experiences](https://uta.pressbooks.pub/onlinelearning/chapter/chapter-9-assessment-issues/)) For example:
 
-| **Subject Knowledge** | Subject knowledge is evident throughout the project. All information is clear, appropriate, and correct. | **20** | (comment) | (points earned) |
-|-----------------------|----------------------------------------------------------------------------------------------------------|--------|-----------|-----------------|
+| **Criteria**                                                                                                                                                       | **Points possible** | **Comments** |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------|
+| Evidence of having reviewed all readings and comprehensiveness of responses to questions                                                                           | /5                  |              |
+| Demonstration of your ability to use critical thinking and self-reflection in discussing thoughts and feelings about the course material and the course in general | /5                  |              |
+| Integration of your views of the readings with your own experiences, biases, and knowledge of social work practice                                                 | /5                  |              |
+| Demonstration of your ability to communicate your ideas in writing and to organize your responses clearly, thoroughly, and concisely                               | /5                  |              |
+| Learner has responded to others’ posts in the Discussions area. Responses are thoughtful and insightful and promote the learning of fellow students.               | /5                  |              |
 
 
-!!! This format can help you look at grading as more of a conversation than a final decree, especially if you allow learners to turn in early versions of assignments for formative feedback. However, keep in mind that learners may not be accustomed to this more open-ended approach, so you may cause anxiety if you do not scaffold them into this less structured approach.
-!!! From CHAPTER 9: ASSESSMENT AND GRADING ISSUES in [Creating Online Learning Experiences](https://uta.pressbooks.pub/onlinelearning/chapter/chapter-9-assessment-issues/) by Matt Crosslin
+
+!!! This format can help you look at grading as more of a conversation than a final decree, especially if you allow learners to turn in early versions of assignments for formative feedback. However, keep in mind that learners may not be accustomed to this more open-ended approach, so you may cause anxiety if you do not scaffold them into this less structured approach. From CHAPTER 9: ASSESSMENT AND GRADING ISSUES in [Creating Online Learning Experiences](https://uta.pressbooks.pub/onlinelearning/chapter/chapter-9-assessment-issues/) by Matt Crosslin
 
 ### Sample Holistic Grading Criteria
 
@@ -94,10 +93,24 @@ Here's an explanation to compare:
 
 
 
-### One Point Rubrics
+### Single Point Rubrics
+These rubrics are simple in that they have a single column of criteria, rather than a full menu of performance levels.
+
+**Example Single Point Online Discussion Rubric**
+
+| **Areas for improvement** | **Criteria Standards**                                                                                                                                       | **Evidence of exceeding standards** |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+|                           | *Critical Thinking Substantial information* Evidence of thought, insight, reflection, and analysis                                                           |                                     |
+|                           | *Connections Postings make some connections between previous units and current issue, readings, class discussions, and real examples*                        |                                     |
+|                           | *Uniqueness Postings have some:* · New approaches to an issue · Evidence of research · “I agree” postings relate personal experiences or cite other research |                                     |
+|                           | *Contributions to the learning*  *community Often:* · Attempts to motivate the group · Extends other postings · Posts concise comments                       |                                     |
+|                           | *Language Conventions: Few errors in language conventions that do not interfere with comprehension*                                                          |                                     |
 
 
+For more information, see the following resources:
+[Meet the Single Point Rubric](https://www.cultofpedagogy.com/single-point-rubric/) from Cult of Pedagogy.
 
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/BAOWxZBWMPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Peer Feedback
 One last important topic to cover in our assessment unit is about the value of peer feedback.
@@ -110,13 +123,30 @@ Peer assessment can:
 
 To this last point, consider as well asking students to self-evaluate their work, acknowledging feedback from peers and/or the instructor and setting goals for improvement.
 
+##### Resources:
+
+**Peer Feedback**
+- [Best Practices: Peer Assessment](https://www.ryerson.ca/content/dam/learning-teaching/teaching-resources/assessment/peer-assessment.pdf)
+- [Ideas and Strategies for Peer Assessments](https://isit.arts.ubc.ca/ideas-and-strategies-for-peer-assessments/)
+- [Peer Assessment](https://www.celt.iastate.edu/teaching/assessment-and-evaluation/peer-assessment/)
+- [Guide to Peer-Assessment](https://www.tcd.ie/CAPSL/assets/pdf/Academic%20Practice%20Resources/Guide%20to%20Student%20Peer%20Assessment.pdf)
+- [Peer Assessment Resource Document](https://www.mcgill.ca/tls/files/tls/pa-resource-doc-final.pdf)
+
 
 ### Student Self-Assessment
 
----
+*content coming!*
 
 ### Audio & Video Feedback
 
+*content coming!*
 
 
+### More Resources!
+**Grading Rubrics**
+- [Grading with Rubrics](https://teaching.uwo.ca/teaching/assessing/grading-rubrics.html)
+- [What is a rubric?](https://facultyinnovate.utexas.edu/sites/default/files/build-rubric.pdf)
+- [Best Practices for Designing Effective Rubrics](https://teachonline.asu.edu/2019/02/best-practices-for-designing-effective-rubrics/)
+- [Guidelines for Building Marking Rubrics](https://www.ulster.ac.uk/__data/assets/pdf_file/0017/315062/Guidelines-to-Building-Marking-Rubrics.pdf)
+- [Creating and Using Rubrics](https://www.cmu.edu/teaching/assessment/assesslearning/rubrics.html)
 ---
