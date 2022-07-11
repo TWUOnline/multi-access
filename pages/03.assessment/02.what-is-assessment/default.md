@@ -99,9 +99,9 @@ In a parallel scenario, you might as a learner a series of questions. If they ca
 
 Biggs, J., & Collis, K. (1982). Evaluating the quality of learning: The SOLO taxonomy. Academic Press.
 
-Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). Knowing What Students Know: The Science and Design of Educational Assessment. National Academies Press. https://doi.org/10.17226/10019
+Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001).[Knowing What Students Know: The Science and Design of Educational Assessment](https://doi.org/10.17226/10019). National Academies Press.
 
 
-Stutzman, R. Y., & Race, K. H. (2004).[EMRF: Everyday Rubric Grading](http://www.jstor.org/stable/20871497). The Mathematics Teacher, 97(1), 34–39.  
+Stutzman, R. Y., & Race, K. H. (2004). [EMRF: Everyday Rubric Grading](http://www.jstor.org/stable/20871497). The Mathematics Teacher, 97(1), 34–39.  
 
-Talbert, R. (2022, April 14). The EMRN Rubric. Robert Talbert, Ph.D. http://rtalbert.org/emrn/
+Talbert, R. (2022, April 14). [The EMRN Rubric](http://rtalbert.org/emrn/). Robert Talbert, Ph.D. 
