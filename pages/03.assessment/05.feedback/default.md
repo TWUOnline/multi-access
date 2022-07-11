@@ -21,11 +21,11 @@ Consider the various ways to assess (tests, papers, projects, presentations, gra
 
 Here is a quick snapshot:
 
-! A checklist is an assessment tool that is used to grade students based on the presence or absence of knowledge, behaviours, and skills. Checklists itemize the tasks you want students to do.  
-! An analytic rubric is a way to break down specific parts of your assignment. It provides a scale of performance for you to measure your students’ achievement. This is a more detailed approach to grading and provides a clear picture of your expectations for an assignment.  
-! A holistic rubric is simpler than an analytic rubric. Generally, it has 3 – 5 levels of performance (score) and a description that defines how students will achieve the grade for each level. Holistic rubrics look at the entire assignment and grades it on a single scale.  
-! Audio feedback allows you to record your verbal comments on students work.  
-! Video feedback can include screen capture so you can explain your comments visually.  
+! - A checklist is an assessment tool that is used to grade students based on the presence or absence of knowledge, behaviours, and skills. Checklists itemize the tasks you want students to do.  
+! - An analytic rubric is a way to break down specific parts of your assignment. It provides a scale of performance for you to measure your students’ achievement. This is a more detailed approach to grading and provides a clear picture of your expectations for an assignment.  
+! - A holistic rubric is simpler than an analytic rubric. Generally, it has 3 – 5 levels of performance (score) and a description that defines how students will achieve the grade for each level. Holistic rubrics look at the entire assignment and grades it on a single scale.  
+! - Audio feedback allows you to record your verbal comments on students work.  
+! - Video feedback can include screen capture so you can explain your comments visually.  
 
 
 ## Checklists
