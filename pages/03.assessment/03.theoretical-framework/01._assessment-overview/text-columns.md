@@ -9,7 +9,7 @@ Assessment is fundamentally a process of reasoning from evidence (Pellegrino et 
 
 Pellegrino et al. (2001) describe this process of assessment in terms of a triangle, with each side of the triangle representing a critical component of the process (see figure 1).
 
-<img src="/assessment-triangle.png" align="right" width="200px"/>
+<img src="assessment-triangle.png" align="right" width="400px"/>
 
 
 ![alt-text](assessment-triangle.png "Figure 1. Assessment Triangle")
