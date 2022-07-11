@@ -7,7 +7,7 @@ columns: 1
 
 Assessment is fundamentally a process of reasoning from evidence (Pellegrino et al., 2001). The evidence is produced by learners as they create artifacts that demonstrate some degree or another of alignment with an intended learning outcome. This can come in the form of an answer to a quiz question, administering a medication, creating a website, recording an interview, conducting an experiment, writing or performing a play, singing a song, painting a landscape, teaching a class, executing a physical skill, programming an app, or any number of other tasks that might be imagined. The end result of this process is an *inference* related to what the learner knows, believes, or can do.
 
-Pellegrino et al. (2001) describe this process of assessment in terms of a triangle, with each side of the triangle representing a critical component of the process (see figure 1). <img src="assessment-triangle.png" align="right" width="400px"/>
+Pellegrino et al. (2001) describe this process of assessment in terms of a triangle, with each side of the triangle representing a critical component of the process (see figure 1). <img src="pages/03.assessment/03.theoretical-framework/01._assessment-overview/assessment-triangle.png" align="right" width="400px"/>
 
 
 ![alt-text](assessment-triangle.png "Figure 1. Assessment Triangle")
