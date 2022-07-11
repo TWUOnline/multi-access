@@ -1,12 +1,11 @@
 ---
-title: 'Assessment Purpose'
+title: 'Assessment Purposes'
 media_order: 'course-assessment.png,formative-vs-summative.png,laptop-2559958_1920.jpg'
 hero:
     image: laptop-2559958_1920.jpg
 header_bar:
     background: auto
     text: auto
-columns: 2
 ---
 
 # Why Assess?

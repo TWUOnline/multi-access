@@ -1,12 +1,11 @@
 ---
-title: 'Assessment Process'
-columns: 2
+title: 'Assessment Processes'
 ---
 
 ## Selecting Assessments
 
 
-(Alternative Assessment](https://www.ryerson.ca/content/dam/learning-teaching/teaching-resources/assessment/alternative-assessments.pdf)
+[Alternative Assessment](https://www.ryerson.ca/content/dam/learning-teaching/teaching-resources/assessment/alternative-assessments.pdf)
 
 
 ## Grading Rubrics
