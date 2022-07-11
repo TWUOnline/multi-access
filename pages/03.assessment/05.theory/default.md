@@ -31,7 +31,9 @@ Examples:
 
 The fundamental equation in classical test theory is  
 
-$$X = T + E$$
+$$
+X = T + E
+$$
   
   Where:
 - $X$ - observed or raw score
