@@ -5,14 +5,6 @@ const dirname = process.env.PWD || process.cwd();
 const normalize = (paths) => {
   return paths.map((_path) => path.normalize(`${dirname}/${_path}`));
 }
-function withOpacityValue(variable) {
-  return ({ opacityValue }) => {
-    if (opacityValue === undefined) {
-      return `rgb(var(${variable}))`
-    }
-    return `rgb(var(${variable}) / ${opacityValue})`
-  }
-}
 module.exports = {
   content: normalize([
     '../../config/**/*.yaml',
@@ -99,9 +91,9 @@ module.exports = {
         transparent: 'transparent',
         inherit: 'inherit',
         primary: {
-          DEFAULT: withOpacityValue('--color-primary'),
-          'lighter': withOpacityValue('--color-primary__lighter'),
-          'darker': withOpacityValue('--color-primary__darker'),
+          DEFAULT: 'rgb(var(--color-primary) / <alpha-value>)',
+          'lighter': 'rgb(var(--color-primary__lighter) / <alpha-value>)',
+          'darker': 'rgb(var(color-primary__darker) / <alpha-value>)',
         },
       },
     },

@@ -1,3 +1,10 @@
+# v2.3.5
+## 06/14/2022
+
+2. [](#improved)
+   * Updated to latest Tailwind `v3.1.2`
+   * Use new color var functionality from latest Tailwind
+
 # v2.3.4
 ## 06/01/2022
 
