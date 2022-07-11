@@ -8,7 +8,9 @@ taxonomy:
 show_children_in_secondary_menu: true
 ---
 
-What is an Article Analysis? It is a short papers that provide an analysis of a scholarly article. This is used to check a student's skills, like their reading and writing. Articles can be argumentative, they can be empirical. They mostly focus on the main topic, the research questions, the predictors and the rationale, it can also describe methods, discuss results and provide evidence throughout.
+### Article Analysis
+
+An Article Analysis can be used to check a student's skills, like their reading and writing, and has a focus on critical thinking. Articles can be argumentative or empirical. They describe the main topic of the article, the research questions, the predictors and the rationale, and can also describe methods, discuss results and provide evidence throughout.
 
 &nbsp;
 

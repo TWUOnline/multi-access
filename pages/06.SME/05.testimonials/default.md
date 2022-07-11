@@ -26,14 +26,14 @@ specifically with Jessica David in developing WRTG 100, ENGL 103, and ENGL 102,
 and I learnt a lot about intentionality, student learning, and assessment. I am
 particularly grateful for having undergone this course design process for an
 on-line environment because it has also made my courses in the physical
-classroom better in structure, student engagement, and assessment. I have had
-very positive experiences of the course design process because of the
+classroom better in structure, student engagement, and assessment. My experiences 
+with the course design process have all been positive because of the
 instructional designers’ professionalism, open communication, and flexibility. I
 have also found that coming into this development process with a willingness to
-learn and to make changes even to courses that I have taught for many years
-resulted in having greater peace of mind especially in an ever changing learning
-environment where I could have confidence that the courses that have been
-developed collaboratively would help me pivot and adjust to whatever learning
+learn and make changes (even to courses that I have taught for many years),
+resulted in having greater peace of mind. This is especially the case in an ever 
+changing learning environment where I have confidence that the courses that have 
+been developed collaboratively will help me pivot and adjust to whatever learning
 challenges may come my way in a world of uncertainty where the classroom could
 be anywhere.
 
