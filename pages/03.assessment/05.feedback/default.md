@@ -11,10 +11,10 @@ header_bar:
 We often think of creating a feedback form or grading rubric simply to help with the marking process.  Remember that these can be great tools to share with students **before** they start working on the assignment.
 
 A detailed grading rubric, for example, can help students with the following:
-1. Understand the assignment: Rubrics can help explain an assessment by detailing exactly what you’re looking for and how you will assess their work.
-1. Understand the goals: Also key - explaining how the assessment should demonstrate their understanding of specific learning outcomes.
-1. Plan their time and effort: By seeing the weight of categories on the rubric, they can prioritize their presentation of their learning (e.g. reflection part of the paper is worth 20%, whereas analysis is worth 30%).
-1.
+1. *Understand the assignment:* Rubrics can help explain an assessment by detailing exactly what you’re looking for and how you will assess their work.
+1. *Focus on the goals:* Explain how the assessment in intended to demonstrate their understanding of specific learning outcomes.
+1. *Plan their time and effort:* By seeing the weight of categories on the rubric, they can prioritize their presentation of their learning (e.g. reflection part of the paper is worth 20%, whereas analysis is worth 30%).
+
 
 ## Types of Feedback
 Consider the various ways to assess (tests, papers, projects, presentations, graphics, etc.) and how the grading criteria and feedback may differ.  Below we'll highlight some common and effective ways to give students feedback.
