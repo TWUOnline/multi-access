@@ -110,11 +110,7 @@ When selecting an e-learning tool, it is important to evaluate its effectiveness
 
 The Rubric for E-Learning Tool Evaluation from Anstey and Watson offers educators a framework, with criteria and levels of achievement, to assess the suitability of an e-learning tool for their learners' needs and for their own learning outcomes and classroom context.
 
-See the following presentation that explains the rubric.
-
-<iframe src="https://h5pstudio.ecampusontario.ca/h5p/1089/embed" width="1300" height="756" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
-
-The following explanation is modified from [A Rubric for Evaluating E-Learning Tools in Higher Education](https://er.educause.edu/articles/2018/9/a-rubric-for-evaluating-e-learning-tools-in-higher-education) by Lauren M. Anstey and Gavan P. L. Watson from Western University.
+The following notes are modified from [A Rubric for Evaluating E-Learning Tools in Higher Education](https://er.educause.edu/articles/2018/9/a-rubric-for-evaluating-e-learning-tools-in-higher-education) by Lauren M. Anstey and Gavan P. L. Watson from Western University.
 
 1. **Functionality:** Does the tool serve its intended purpose well?   
 - **Scale:** Is the tool flexible in accommodating various class sizes and groups?  
@@ -180,6 +176,10 @@ through other means.
 - **Higher-Order Thinking.** Does the tool help learners integrate, rearrange, or extend new and existing information to achieve a purpose or find answers to a complex problem?  
 - **Metacognitive Engagement.** Does the tool prompt understanding, regulation, and reflection of students' own cognitive activities across the learning process?  
 
+
+See the following presentation that explains the rubric.
+
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/1089/embed" width="1300" height="756" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 Resources:
 - [A Rubric for Evaluating E-Learning Tools in Higher Education](https://er.educause.edu/articles/2018/9/a-rubric-for-evaluating-e-learning-tools-in-higher-education) by Lauren M. Anstey and Gavan P. L. Watson from Western University.
