@@ -140,18 +140,13 @@ servers, or make their content publicly available by default?
 - **Archiving, Saving, and Exporting Data.** Does the tool help guard against data loss through export and backup while also offering learners the flexibility to freely move their content between tools rather than being locked
 into or committed to one tool?  
 
-6. **Social Presence**
-The final three categories of the rubric stem from the [Communities of Inquiry (CoI) model](https://er.educause.edu/articles/2018/9/a-rubric-for-evaluating-e-learning-tools-in-higher-education#fn14) which
-considers, in part, how the design of online learning environments might best
-create and sustain a sense of community among learners.
+!!!! The final three categories of the rubric stem from the [Communities of Inquiry (CoI) model](https://er.educause.edu/articles/2018/9/a-rubric-for-evaluating-e-learning-tools-in-higher-education#fn14) which considers, in part, how the design of online learning environments might best create and sustain a sense of community among learners.
 
-This category focuses on establishing a safe, trusting environment that fosters
-collaboration, teamwork, and an overall sense of community.
-
+6. **Social Presence** Does the tool help establish a safe, trusting environment that fosters
+collaboration, teamwork, and an overall sense of community?
 - **Collaboration.** Does the tool provide students opportunities to interact with their peers and
-collaborate on activities to build a sense of community.
-- **User Accountability.** Does the tool provide a safe and trusted
-environment?  
+collaborate on activities to build a sense of community?
+- **User Accountability.** Does the tool provide a safe and trusted environment?  
 - **Diffusion.** Is it a commonly used tools, allowing students to feel comfortable
 with and positive about using it, thus contributing to regular use, endorsement,
 and sense of belonging.  
@@ -181,5 +176,4 @@ See the following presentation that explains the rubric.
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/1089/embed" width="1300" height="756" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Resources:
-- [A Rubric for Evaluating E-Learning Tools in Higher Education](https://er.educause.edu/articles/2018/9/a-rubric-for-evaluating-e-learning-tools-in-higher-education) by Lauren M. Anstey and Gavan P. L. Watson from Western University.
+Resource: A Rubric for Evaluating E-Learning Tools in Higher Education by Lauren M. Anstey and Gavan P. L. Watson from Western University. https://er.educause.edu/articles/2018/9/a-rubric-for-evaluating-e-learning-tools-in-higher-education
