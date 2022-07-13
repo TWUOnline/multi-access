@@ -28,7 +28,7 @@ It is important to recognize that *activities* themselves are not formative or s
 |   | **Summative Assessment**| **Formative Assessment**|
 |---|---|---|
 | When| Sometime *after* the learning takes place | *During* the learning |
-| Goal| To make a judgement about achievemnt | To improve learning |
+| Goal| To make a judgement about achievement | To improve learning |
 | Feedback| Communicating a final judgement| Identifying gaps between *expected* and *actual* achievement and how to close them |
 | Frame of Reference | Sometimes normative (comparing each student against all others); sometimes criterion | Always criterion (evaluating students according to the same criteria) |
 
@@ -37,10 +37,12 @@ It is important to recognize that *activities* themselves are not formative or s
 
 ---
 
-## Assessment *OF*,  *FOR* and *AS* Learning
+[columns="3"]
+## Assessment *OF*,  *FOR*, and *AS* Learning
 
 Earl (2013) further clarified the role assessment can play in learning by highlighting a distinction between assessment *of* learning (summative assessment) and assessment *for* learning (formative assessment by way of feedback) and also distinguishing both of those from assessment *as* learning (a subset of assessment *for* learning in which learners employ metacognitive skills to regulate their own learning tasks). Earl's delineation between types of assessment reflects the modern view that assessment and learning are, or ought to be, tightly integrated.
 
+[columns="3"]
 ### Assessment *of* Learning
 
 Assessment of learning is another term to describe *summative assessment*. The purpose in assessment *of* learning is to certify that a learner has achieved a particular level of ability in relation to the learning outcomes.
@@ -52,6 +54,8 @@ Assessment *for* learning is parallel to *formative assessment* where the purpos
 ### Assessment *as* Learning
 
 Assessment *as* learning is a subset of assessment *for* learning where the goal is to provide self-regulatory feedback to learners to encourage them to think about the strategies they engage in (metacognition) and how those strategies can be modified to support future learning.
+
+[/columns]
 
 ---
 
