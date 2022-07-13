@@ -2,7 +2,7 @@
 title: 'Assessment Processes'
 ---
 
-> “A grade can be regarded only as an *inadequate* report of an *inaccurate* judgment by a *biased* and *variable* judge of the extent to which a student has attained an *undefined* level of mastery of an *unknown* proportion of an *indefinite* material.” Paul Dressel (1957)
+> “A grade can be regarded only as an ***inadequate*** report of an ***inaccurate*** judgment by a ***biased*** and ***variable*** judge of the extent to which a student has attained an ***undefined*** level of mastery of an ***unknown*** proportion of an ***indefinite*** material.” Paul Dressel (1957)
 
 
 The processes of assessment has to do with the design of assessment in a course, the use and scoring of assessment data, and the interpretation and communication of results (DeLuca, 2016).
@@ -13,6 +13,7 @@ The processes of assessment has to do with the design of assessment in a course,
     - Focuses of the adjustment and use of scoring protocols and grading schemes to respond to assessment scenarios.  
   - Communication  
     - focuses on the interpretation of assessment results and feedback through communication to students and parents.  
+
 ## Designing Assessments
 
 A balanced assessment plan in any given course or program begins in the planning and design phase of a course development project. Recognizing that faculty workload is often prohibitive of a full-scale design process, we provide recommendations here for taking iterative steps towards an assessment strategy that reliably allows for valid inferences to be drawn about learner achievement in relation to learning outcomes.
