@@ -43,7 +43,7 @@ It is important to recognize that *activities* themselves are not formative or s
 Earl (2013) further clarified the role assessment can play in learning by highlighting a distinction between assessment *of* learning (summative assessment) and assessment *for* learning (formative assessment by way of feedback) and also distinguishing both of those from assessment *as* learning (a subset of assessment *for* learning in which learners employ metacognitive skills to regulate their own learning tasks). Earl's delineation between types of assessment reflects the modern view that assessment and learning are, or ought to be, tightly integrated.
 
 
-| ### Assessment *of* Learning |### Assessment *for* Learning | ### Assessment *as* Learning |
+|  Assessment *of* Learning  Assessment *for* Learning |  Assessment *as* Learning |
 |---|---|---|
 |Assessment of learning is another term to describe *summative assessment*. The purpose in assessment *of* learning is to certify that a learner has achieved a particular level of ability in relation to the learning outcomes. | Assessment *for* learning is parallel to *formative assessment* where the purpose is to provide feedback to learners and teachers to inform future teaching and learning strategies. Because assessment for learning informs teaching, it is considered to be a part of teaching, rather than an event sometime after the teaching has taken place. | Assessment *as* learning is a subset of assessment *for* learning where the goal is to provide self-regulatory feedback to learners to encourage them to think about the strategies they engage in (metacognition) and how those strategies can be modified to support future learning. |
 
