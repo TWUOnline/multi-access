@@ -56,4 +56,4 @@ The following storyboarding tools can help students “craft” their narrative.
 
 [Digital Storytelling Rubric](http://www.facultysupport.com/resources/Digital_Story_Telling_Sample_Rubric.pdf)
 
-[What is Storyboardthat and how does it work? Best Tips & Tricks](https://www.techlearning.com/how-to/what-is-storyboard-that-and-how-does-it-work-best-tips-and-tricks)
+[What is Storyboard and how does it work? Best Tips & Tricks](https://www.techlearning.com/how-to/what-is-storyboard-that-and-how-does-it-work-best-tips-and-tricks)
