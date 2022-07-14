@@ -114,17 +114,19 @@ It’s a good idea to talk with your students about how to use the backchannel p
 If audio is a challenge in your classroom, that is, if it is hard to hear students who are socially distanced and wearing masks, then the backchannel + voice of the chat combo might be particularly useful. If you have a microphone to share with your voice of the chat, you could invite all students to share their questions and comments on the backchannel, then rely on the voice of the chat to vocalize those questions with you and the entire class using the mic.
 (Modified from [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/))
 
-!! **Save the Chat!** Did you know that you can save the chat in Zoom?  Next time you're in a Zoom session, look at the 3 dots (more) at the bottom of the chat window.  Select Save and it will save a file to your computer.  You may want to share this tip with students so they can save any conversations and weblinks shared in the chat. 
+!! **Save the Chat!** Did you know that you can save the chat in Zoom?  Next time you're in a Zoom session, look at the 3 dots (more) at the bottom of the chat window.  Select Save and it will save a file to your computer.  You may want to share this tip with students so they can save any conversations and weblinks shared in the chat.
 
 [/ui-accordion-item]
 [ui-accordion-item title="Collaborative Notetaking"]
 
 A variation on the backchannel approach is collaborative notetaking. This typically involves setting up a Google Doc for students to use during class to take notes on the class discussion. Often, two or three students are appointed lead notetakers for a given class session, with that duty rotating among students over the semester, but all students are invited to read and contribute to the shared notes.
 
-This approach provides a structure for active listening during class–notetakers don’t participate in the discussion but try to capture all of it they can, while the rest of the students can focus on participating in discussion without having to worry about taking notes–and might be particularly valuable in a classroom where it is hard to hear some students, especially if the notetakers are scattered throughout the socially distanced classroom..
-From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/)
+This approach provides a structure for active listening during class–notetakers don’t participate in the discussion but try to capture all of it they can, while the rest of the students can focus on participating in discussion without having to worry about taking notes–and might be particularly valuable in a classroom where it is hard to hear some students, especially if the notetakers are scattered throughout the socially distanced classroom.
+(From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/))
 
 Here's an example of a google doc: [HyFlex Course Design Examples](http://tiny.cc/HyFlex-examples) by Kevin Kelly from San Francisco State University.
+
+!! **Template Alert!** Feel free to use this template to plan your Zoom sessions that involve collaborative notes: [Zoom Session Collaborative Notes - template](https://docs.google.com/document/d/1Uq3KFyjUHAjvto6pLspCqR2IFfLZrqjdGWCVOHQfsaw/edit?usp=sharing)
 
 [/ui-accordion-item]
 [ui-accordion-item title="Group Work"]
