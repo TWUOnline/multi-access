@@ -89,9 +89,58 @@ Some things to notice here...
 - The C and D ranges are both 15 points
 - The distance from an F to a B- is 31 points
 
-This second grading scale makes it more difficult for a slower learner to climb out of the hole of early low grades. Furthermore, when grades are calculated on a percentage scale, and then reported as a letter grade, any ability to compare a grade from the University Standard Scale to a grade from a learner in the second course is completely illusory. This makes it impossible to speak meaningfully about what an A grade means at TWU. This has very real implications for learners. A learner in the Modified Course who is assigned a 79, or C+ or 2.3 GPA, while a learner in a Standard course who is assigned a 79, is a solid B+ or 3.3 GPA. If each of these learners were to apply to a graduate program at TWU, the learner in a Standard course is far more likely to be admitted than a learner who, theoretically, performed identically well.
+This second grading scale makes it more difficult for a slower learner to climb out of the hole of early low grades. Furthermore, when grades are calculated on a percentage scale, and then reported as a letter grade, any ability to compare a grade from the University Standard Scale to a grade from a learner in the second course is completely illusory. This makes it impossible to speak meaningfully about what an A grade means at TWU. This has very real implications for learners. A learner in the Modified Course who is assigned a 79, a C+ or 2.3 GPA, while a learner in a Standard course who is assigned a 79, is a solid B+ or 3.3 GPA. If each of these learners were to apply to a graduate program at TWU or anywhere else, the learner in a Standard course is far more likely to be admitted than a learner who, theoretically, performed identically well. However, this fact is completely hidden due to the fact that grades are reported as letters. Learners in the Modified course are at a significant disadvantage in applying to grad school. 
+
+Therein lies a significant problem with letter grade scales. They hide too much context.
 
 The best way around these contradictions is to reduce the number of gradations of quality by abandoning the percentage or 0-100 points system. The letter grade scale does just that, with only 13 gradations of quality. With fewer grade categories, instructors are far more likely to accurately place a learner in the correct category, making this a *more* reliable scale than 0-100.
+
+Fortunately, TWU has published, on the same page as the letter grade/percentage equivalents, a series of [proficiency indicators to provide context to letter grades.](https://www.twu.ca/about/policies-guidelines/university-standard-grading-system)
+
+| Letter Grade | Quality Characteristics | 
+|:---: | --- |
+| A | **Outstanding, excellent work**; exceptional performance with strong evidence of original thinking, good organization, meticulous concern for documented evidence, and obvious capacity to analyze, synthesize, evaluate, discern, justify, and elaborate; frequent evidence of both verbal eloquence and perceptive insight in written expression; excellent problem-solving ability in scientific or mathematical contexts with virtually no computational errors; demonstrated masterful grasp of subject matter and its implications. Gives evidence of an extensive and detailed knowledge base. (Note: The A+ grade is reserved for very rare students of exceptional intellectual prowess and accomplishment, especially in lower level courses.) |
+| B | **Good, competent work**; laudable performance with evidence of some original thinking, careful organization; satisfactory critical and analytical capacity; reasonably error-free expository written expression, with clear, focused thesis and well-supported, documented, relevant arguments; good problem-solving ability, with few computational or conceptual errors in scientific subjects; reasonably good grasp of subject matter but an occasional lack of depth of discernment; evidence of reasonable familiarity with course subject matter, both concepts and key issues. Exhibits a serious, responsible engagement with the course content. |
+| C | **Adequate, reasonably satisfactory work**; fair performance but infrequent evidence of original thinking or the capacity to analyze, synthesize, or evaluate course material; undue reliance on rote memory; difficulty in applying knowledge in unfamiliar contexts; limited problem-solving ability in scientific subjects; fairly clear but quite uninspiring written expression with occasional problems in mechanics or syntax; weak in provision of documented, illustrative, or descriptive evidence; satisfactory grasp of basic elements of the course but frequent lapses in detailed understanding. Satisfies the minimum requirements of the course. |
+| D | **Minimally acceptable work**; relatively weak performance with little evidence of original thinking or ability to analyze or synthesize course material; nominal or weak problem-solving ability in scientific subjects; written expression frequently exhibits difficulty in articulating a central thesis or sustaining a coherent argument; ideas are trite or juvenile, without discernible development. Shows inadequate grasp of some basic elements of the course. |
+| F |  	**Inadequate work**; poor performance that indicates a lack of understanding or misunderstanding of essential subject matter; seems easily distracted by the irrelevant; written expression is poorly organized, often incoherent, and rife with mechanical and diction errors. Shows little evidence of even basic competency in the course content or skills. |
+
+## The Problem(s) with Averages
+
+A common method of coming to a conclusion about a final grade is to calculate an average of scores from throughout the semester and report that as a summative determination. There are a couple of problems with that approach. The first is that assessment data is ***ordinal*** data.
+
+<a class="embedly-card" href="https://www.chi2innovations.com/wp-content/uploads/2020/11/Ordinal-Data.png">Card</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+In the discussion above, we have established that assessment data is not measured, data points are not equidistant from each other, and there is no meaningful zero, but it is 'ordered'. We know that A is better than B, but we don't know how much better and we know that the relationship between A/B is not the same as the relationship between B/C, or C/D. This problem doesn't disappear if we rely on the 0-100 scale because we know that we are not actually 'measuring' anything. This means that you are limited in what you can do with assessment data, as below:
+
+<a class="embedly-card" href="https://www.chi2innovations.com/wp-content/uploads/2020/11/Ordinal-Data-Mathematical-Features-Wide-768x587.png.webp">Card</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Since you can't perform mathematical calculations with ordinal data, you can't calculate an average unless you make certain assumptions.
+
+Another problem with averages is that averaging learner achievement over a semester penalizes learners who learn the most. Consider the table below which shows assessment data on cumulative assignments as percentages for four learners which is then averaged for a final grade:
+
+| Learner | Item 1 | Item 2 | Item 3 | Item 4 | Final |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| A | 75% | 75% | 75% | 75% | 75% | 
+| B | 25% | 75% | 100% | 100% | 75% |
+| C | 100% | 100% | 75% | 25% | 75% |
+| D | 0% | 100% | 100% | 100% | 75% |
+
+It would seem that Learner A is accurately categorized at 75% due to the consistency with which they scored 75% on assessment tasks. Learner B, however started the semester with low scores, then finished very strongly. They made very rapid and stable improvement during the semester, yet couldn't score higher than 75% due to one poor grade. Learner C's performance was the opposite of that. They started very strong and their performance decreased drastically over the semester, seemingly indicating that they could not understand the integrated whole of the course. Finally, Learner D completely missed the first assessment, wasn't allowed to make it up, then scored perfectly for the rest of the semester, leaving them with 75%. This is a goo demonstration of how the mean of a data set is strongly influenced by outliers. If the instructor were to choose to use a different measure of central tendency (which ***can*** be determined with ordinal data),  or the learner's most recent grade, the calculations could be as follows:
+
+| Learner | Mean | Median | Mode | Most Recent|
+|:---:|:---:|:---:|:---:|:---:|
+| A | 75% | 75% | 75% | 75% |
+| B | 75% | 100% | 100% | 100% |
+| C | 75% | 100% | 100% | 25% | 
+| D | 75% | 100% | 100% | 100% |
+
+
+
+
+
 <!--
 - normal curves 
 - averages
