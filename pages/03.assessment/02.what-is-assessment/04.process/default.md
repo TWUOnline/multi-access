@@ -105,6 +105,8 @@ Fortunately, TWU has published, on the same page as the letter grade/percentage 
 | D | **Minimally acceptable work**; relatively weak performance with little evidence of original thinking or ability to analyze or synthesize course material; nominal or weak problem-solving ability in scientific subjects; written expression frequently exhibits difficulty in articulating a central thesis or sustaining a coherent argument; ideas are trite or juvenile, without discernible development. Shows inadequate grasp of some basic elements of the course. |
 | F |  	**Inadequate work**; poor performance that indicates a lack of understanding or misunderstanding of essential subject matter; seems easily distracted by the irrelevant; written expression is poorly organized, often incoherent, and rife with mechanical and diction errors. Shows little evidence of even basic competency in the course content or skills. |
 
+This categorization, with only five levels of proficiency, significantly increases the likelihood that you will be able to accurately characterize each learner's performance in your course. Notably, this is also the type of grade reporting universities will be getting from secondary schools in the coming years, so we would be wise to start thinking about how to incorporate these types of reports into our assessment vocabulary.
+
 ## The Problem(s) with Averages
 
 A common method of coming to a conclusion about a final grade is to calculate an average of scores from throughout the semester and report that as a summative determination. There are a couple of problems with that approach. The first is that assessment data is ***ordinal*** data.
@@ -137,7 +139,7 @@ It would seem that Learner A is accurately categorized at 75% due to the consist
 | C | 75% | 100% | 100% | 25% | 
 | D | 75% | 100% | 100% | 100% |
 
-
+In the end, we are left with no good way to determine what a learner knows or can do...unless, of course, we significantly reduce the number of proficiency categories and stop trying to do math with ordinal data.
 
 
 
@@ -146,6 +148,8 @@ It would seem that Learner A is accurately categorized at 75% due to the consist
 - averages
 - zeros
 - scales-->
+
+
 ### Grading Rubrics
 
 
