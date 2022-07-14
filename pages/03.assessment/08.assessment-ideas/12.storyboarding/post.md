@@ -28,13 +28,15 @@ The following storyboarding tools can help students “craft” their narrative.
 
 *   Don’t jampack your scenes with too many details OR leave out essential details so that no one knows what’s happening; Find a balance
 
-*   Don’t worry about “making it pretty”; use simple drawings or pictures with clear dialogue
+*   Don’t worry about “making it pretty”, especially for first drafts; Use simple drawings or pictures with clear dialogue
+
+*   “Is that a tree or giraffe?” If drawing isn’t one of your strengths, don’t be afraid to label your objects and characters for clarity
 
 *   Convey context and location in at least a few of your scenes (such as a streetlight, storefront, or office)
 
-*   “Is that a tree or giraffe?” If drawing isn’t one of your strengths, don’t be afraid to label your objects and characters so that it’s clear for the audience
+*   You may choose to show a different level of zoom in each scene to highlight an important point (i.e. if an object fills the frame, it’s going to be a close-up.)
 
-*   If your scene includes action, remember to include some form of direction (either through dialogue or by adding simple arrows)
+*   If your scene includes action, remember to include some form of direction (either through dialogue or by adding arrows)
 
 ![storyboard of a Star Wars pilot](Storyboarding_2.png "storyboard of a Star Wars pilot")
 
