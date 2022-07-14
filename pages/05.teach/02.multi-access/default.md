@@ -8,7 +8,10 @@ title: Multi-Access
 
 ! "The core principle of the multi-access framework is one of enabling student choice in terms of the combination of course delivery methods through which the learning environment is accessed; that is, each individual learner decides how he/she wishes to take the course (e.g., face-to-face or online) and can then participate with other students and the instructor – each of whom have their own modality preferences – at the same time" (Irvine, Code & Richards, 2013).
 
-Multi-access learning brings more choice to students and promotes a learner-centred course design and best practices in teaching and learning.  
+Multi-access learning brings more choice to students and promotes a learner-centred course design and best practices in teaching and learning. However, it is important to recognize that multi-access courses do not necessarily allow for learners to switch between modalities. There is often confusion in this regard due to the large amount of press and public conversation around what is called HyFlex learning which ***does*** allow for learners to pick their modality at any time throughout the course. HyFlex is a type of multi-access, but multi-access is not necessarily HyFlex. To read more about the differences between course structures that merge modalities, please see Irvine's article in EDUcause, below.
+
+<a class="embedly-card" href="https://er.educause.edu/articles/2020/10/the-landscape-of-merging-modalities">The Landscape of Merging Modalities</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 View the following video that explains multi-access learning:
 
