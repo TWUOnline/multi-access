@@ -76,11 +76,11 @@ Here are some common activities and considerations for each:
 [ui-accordion independent=false open=none]
 
 [ui-accordion-item title="Class Discussions"]
-If we consider the three audience group: face-to-face (F2F), online synchronous (e.g. through live Zoom session), and Online Asynchronous, we need to plan our class discussions carefully.  Here's how they might expect to participate:
+If we consider the three audience types: face-to-face (F2F), online synchronous (e.g. through live Zoom session), and online asynchronous, we need to plan our class discussions carefully.  Here's how they might expect to participate:
 
 **F2F:** Discuss in small or large groups in the classroom.  
-**Synchronous:** Discuss in Breakout groups in Zoom, or in the large Zoom session with all participants.  
-**Asynchronous:** Watch the recorded class session and participate through discussion forums, posting responses and questions.    
+**OL Synchronous:** Discuss in Breakout groups in Zoom, or in the large Zoom session with all participants.  
+**OL Asynchronous:** Watch the recorded class session and participate through discussion forums, posting responses and questions.    
 
 However...how do you conduct the live class session with the F2F and Zoom groups?  Do the groups talk to each other?  Will there be audio/video complications?  See the following key tips to help your lesson go smoothly.
 
@@ -98,21 +98,23 @@ For more tips on class discussions and multi-access lessons, see the next activi
 One simple way to engage students in the room and on the Zoom call is to use a live polling tool to ask them questions about the course material. Zoom polls, for instance, let you ask multiple-choice and multiple-mark questions pretty easily. This would mean your in-person students would need to be in the Zoom session, which has advantages. But if your Zoom screen is getting too busy, you could have your in-person students turn off their cameras; Zoom can hide participants who don’t have their cameras on.
 
 If having your in-person students in the videoconference is hard, or if you’d like to ask more complex questions (free-response, clickable image questions, and so on), you could shift to a second platform like Poll Everywhere (free for a limited number of students). This adds a little overhead for instructors and virtual students (now you have to manage, say, Zoom windows), but if you’re going to use polling regularly, that learning curve might be worth it.
-From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/)
+(From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/))
 
 [/ui-accordion-item]
 [ui-accordion-item title="Backchannel"]
 
-The text chat that likely comes with your videoconferencing tool can be used to host what is called a backchannel for class discussion. The spoken dialog between you and your in-person or online students forms the “frontchannel,” while the text chat provides a forum for supplemental discussions among students. A backchannel can be useful for fostering dialog and even a sense of community among your in-person and online students. It can also serve some universal design purposes by providing a written alternative to spoken discussions or an ad hoc text captioning of spoken conversations.
+The text chat in Zoom can be used to host what is called a backchannel for class discussion. The spoken dialog between you and your in-person or online students forms the “frontchannel,” while the text chat provides a forum for supplemental discussions among students. A backchannel can be useful for fostering dialog and even a sense of community among your in-person and online students. It can also serve some universal design purposes by providing a written alternative to spoken discussions or an ad hoc text captioning of spoken conversations.
 
-Note that, as with live polling, if your videoconferencing tool’s built-in chat tool isn’t suitable, you could add a second platform like Slack, Discord, Microsoft Teams, or the chat function in Moodle. These platforms can also be useful outside of class time for less formal communication among students and instructors. Note also that for some videoconferencing platforms (e.g. Zoom), if a student drops the call and then re-enters the session, they lose the earlier text chat, which is another reason to use a second platform.
+Note that, as with live polling, if Zoom’s bchat tool isn’t suitable, you could add a second platform like Slack, Discord, Microsoft Teams, or the chat function in Moodle. These platforms can also be useful outside of class time for less formal communication among students and instructors. Note also that for Zoom, if a student drops the call and then re-enters the session, they lose the earlier text chat, which is another reason to use a second platform.
 
 Monitoring and responding to the backchannel can be a challenge for instructors, of course, whose attention can only be split so many ways. I recommend appointing someone to be the “voice of the chat.” This person could be a rotating student or a teaching assistant or a faculty colleague (maybe you can return the favor in their class). Their job is to monitor the backchannel and look for questions or comments that should be brought to the attention of the instructor. I like to plan “voice of the chat” moments in my lesson where I call on this person to speak up and share these questions and comments, and I’ll even signal these moments in my slides, using a graphic like the one seen here.
 
 It’s a good idea to talk with your students about how to use the backchannel productively during class sessions. You might want to establish some community norms about appropriate text chat use. You might also want to direct students’ contributions to the backchannel with some guiding questions.
 
 If audio is a challenge in your classroom, that is, if it is hard to hear students who are socially distanced and wearing masks, then the backchannel + voice of the chat combo might be particularly useful. If you have a microphone to share with your voice of the chat, you could invite all students to share their questions and comments on the backchannel, then rely on the voice of the chat to vocalize those questions with you and the entire class using the mic.
-From [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/)
+(Modified from [Active Learning in Hybrid and Physically Distanced Classrooms](https://cft.vanderbilt.edu/2020/06/active-learning-in-hybrid-and-socially-distanced-classrooms/))
+
+!! **Save the Chat!** Did you know that you can save the chat in Zoom?  Next time you're in a Zoom session, look at the 3 dots (more) at the bottom of the chat window.  Select Save and it will save a file to your computer.  You may want to share this tip with students so they can save any conversations and weblinks shared in the chat. 
 
 [/ui-accordion-item]
 [ui-accordion-item title="Collaborative Notetaking"]
