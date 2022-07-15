@@ -27,7 +27,7 @@ So how does this translate to online teaching techniques?  In [Five High-Impact 
 Here are the key engagement strategies Fink suggests:
 
 1. Helping students become meta-learners
-   - Help students discover self-motivations for learning, teach students how learning works, develop effective learning practices (From [MetaLearning: Growing Self-Directed Learners](https://www.oakland.edu/Assets/upload/docs/CETL/ConferencePresentationMaterials2014/StephenCarroll/Metalearning-Slides.pdf)
+   - Help students discover self-motivations for learning, teach students how learning works, develop effective learning practices (From [MetaLearning: Growing Self-Directed Learners](https://www.oakland.edu/Assets/upload/docs/CETL/ConferencePresentationMaterials2014/StephenCarroll/Metalearning-Slides.pdf))
 2. Learning-centered course design
    - Use [Backward Design](https://multi-access.twu.ca/design/backward-design): First, identify Learning outcomes, next decide assessment, and finally select learning activities.
 3. Using small groups in a powerful way
@@ -41,13 +41,13 @@ Here are the key engagement strategies Fink suggests:
 
 The University of Waterloo suggests similar themes in [High Impact Practices (HIPs) or Engaged Learning Practices](https://uwaterloo.ca/centre-for-teaching-excellence/support/integrative-learning/high-impact-practices-hips-or-engaged-learning-practices):
 
-1. Set performance expectations at  appropriately high levels, and effectively communicate these expectations to students
-1. Encourage students to invest significant and meaningful time and effort on authentic, complex tasks over an extended period of time
-1. Add meaningful interactions amongst students and between faculty and students about substantive matters
-1. Challenge students’ ways of thinking, increase interactions with individuals with experiences and life experiences different from their own, Experiences with diversity
-1. Provide frequent, timely and constructive feedback
-1. Increase periodic, structured opportunities to reflect and integrate learning
-1. Provide opportunities to discover relevance of learning through real-world applications, or add a real-world/authentic experience
-1. Add a public demonstration of competence
+1. Set **performance expectations** at  appropriately high levels, and effectively communicate these expectations to students
+1. Encourage students to invest significant and meaningful time and effort on **authentic, complex tasks** over an extended period of time
+1. Add **meaningful interactions** amongst students and between faculty and students about substantive matters
+1. **Challenge students’ ways of thinking**, increase interactions with individuals with experiences and life experiences different from their own, Experiences with diversity
+1. Provide frequent, timely and constructive **feedback**
+1. Increase periodic, structured opportunities to **reflect and integrate learning**
+1. Provide opportunities to discover relevance of learning through **real-world applications**, or add a real-world/authentic experience
+1. Add a **public demonstration** of competence
 
 !!! What have you found that impacts learners success in your course?
