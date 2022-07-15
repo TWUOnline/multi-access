@@ -8,7 +8,6 @@ So how *should* we teach online?  What techniques make a difference for learners
 
 The Association of American Colleges and Universities (report on [High-Impact Educational Practices](https://carleton.ca/viceprovost/wp-content/uploads/kuh_2008_brief_overview.pdf); Kuh, 2008) has identified 10 activities or program components that have been shown to have high-impact on students.
 
-Eleven practices have been identified as high impact practices:
 1. First-Year Experiences
 1. Common Intellectual Experiences
 1. Learning Communities
@@ -19,7 +18,9 @@ Eleven practices have been identified as high impact practices:
 1. Service Learning, Community-Based Learning
 1. Internships
 1. Capstone Courses and Projects
-1. ePortfolios
+(ePortfolios included in some lists)
+
+!!! Does your program/teaching incorporate any of these strategies?
 
 So how does this translate to online teaching techniques?  In [Five High-Impact Teaching Practices](https://files.eric.ed.gov/fulltext/EJ1104478.pdf), L. Dee Fink discusses how these primarily institutional or curricular HIPs are can relate to a parallel set of high-impact teaching practices (HITPs)?  
 
@@ -30,6 +31,8 @@ Here are the key engagement strategies Fink suggests:
 3. Using small groups in a powerful way
 4. Service-learning/community engagement—with reflection
 5. Being a leader with your students
+
+!!! Yes! These are certainly strategies implemented at TWU. How have you used them in your class?  What strategy would you like to use more? 
 
 The University of Waterloo suggests similar themes in [High Impact Practices (HIPs) or Engaged Learning Practices](https://uwaterloo.ca/centre-for-teaching-excellence/support/integrative-learning/high-impact-practices-hips-or-engaged-learning-practices):
 
