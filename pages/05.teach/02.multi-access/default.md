@@ -62,7 +62,7 @@ Before we get into the design considerations, we want to address the technical i
 ☑️ Good lighting  
 ☑️ Zoom (or other video conferencing tool)  
 
-For online students to see and hear you, you'll need a camera and a microphone.  You can use your computer that should have these features, but if your course is multi-access, you may want to consider an OSBOT camera and a Lewinner wireless microphone.
+For online students to see and hear you, you'll need a camera and a microphone.  You can use your computer that should have these features, but if your course is multi-access, you may want to consider an [OBSBOT camera](https://www.obsbot.com/obsbot-tiny-4k) and a [Lewinner wireless microphone](https://www.lewinnertech.com/collections/lavalier-microphone).
 
 Here's a demo with Scott Macklin showing how to use this equipment:
 
