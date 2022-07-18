@@ -223,10 +223,7 @@ Here are a number of resources on multi-access learning.
 
 2. [HyFlex Course Design Examples](http://tiny.cc/HyFlex-examples) by Kevin Kelly from San Francisco State University
 
-3. Watch the following video as Mark Halvorson discusses multi-access learning in his courses:
-
-<iframe src="https://player.vimeo.com/video/416526075" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/416526075">Multi Access Conversation with Mark Halvorson</a> from <a href="https://vimeo.com/openhandreel">Scott Macklin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+3. [Multi Access Conversation with Mark Halvorson](https://vimeo.com/416526075?embedded=true&source=video_title&owner=656362) from Scott Macklin's podcast *Learning Matters*.
 
 
 ### Additional Resources
