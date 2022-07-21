@@ -235,3 +235,5 @@ Here are a number of resources on multi-access learning.
 
 
 !! Please feel free to book 1 on 1 sessions with our Online Team to help with technical support, as well as course design considerations for multi-access learning.
+
+[plugin:page-inject](../../design/overview/_features)
