@@ -71,6 +71,8 @@ Here's a demo with Scott Macklin showing how to use this equipment:
 
 On our help pages, we have all the technical requirements explained.  Please visit the [TWU Help Guide](http://create.twu.ca/help/video/video) for more information.
 
+See the [Hardware Recommendations List ](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144490) to find out where to purchase recommended hardware.
+
 ### Activity Design For a Multi-Access Class
 As you think about your courses, consider designing learning activities for different modalities and access points.  
 
@@ -235,4 +237,3 @@ Here are a number of resources on multi-access learning.
 
 
 !! Please feel free to book 1 on 1 sessions with our Online Team to help with technical support, as well as course design considerations for multi-access learning.
-
