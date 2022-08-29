@@ -71,7 +71,6 @@ Here's a demo with Scott Macklin showing how to use this equipment:
 
 On our help pages, we have all the technical requirements explained.  Please visit the [TWU Help Guide](http://create.twu.ca/help/video/video) for more information.
 
-See the [Hardware Recommendations List ](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144490) to find out where to purchase recommended hardware.
 
 ### Activity Design For a Multi-Access Class
 As you think about your courses, consider designing learning activities for different modalities and access points.  
@@ -231,8 +230,8 @@ Here are a number of resources on multi-access learning.
 ### Additional Resources
 - See the following example from Scott Macklin's MCOM 313 Social Media Theory & Practice: [Back Stage to a Course](https://spark.adobe.com/page/pwh3KC34s3cnE/).  
 
-- [Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning](https://jolt.merlot.org/vol9no2/irvine_0613.htm) by Irvine, Code and Richards (2013).  
-
+- [Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning](https://jolt.merlot.org/vol9no2/irvine_0613.htm) by Irvine, Code and Richards (2013).
+- [Hardware Recommendations List ](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144490)
 
 
 
