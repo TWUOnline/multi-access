@@ -18,6 +18,11 @@ View the following video that explains multi-access learning:
 <iframe src="https://player.vimeo.com/video/412934070" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/412934070">Multi Access</a> from <a href="https://vimeo.com/openhandreel">Scott Macklin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+---
+
+View the multi-access Training session (August 25, 2022):
+
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/1c58338f-f1d3-4068-be7f-70376f1aa979?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ---
 
