@@ -26,7 +26,7 @@ features:
         title: 'Technology'
         text: H5P, Moodle, Zoom & other cool gadgets!
         icon: tabler/tool.svg
-        link: 'https://multi-access.twu.ca/media/technology'
+        link: 'https://multi-access.twu.ca/media/edtech'
     -
         title: 'Resources'
         text: Selecting Accessible Texts & Finding OERs
