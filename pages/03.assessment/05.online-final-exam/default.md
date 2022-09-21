@@ -29,7 +29,7 @@ header_bar:
 *   Communicate as early as possible to your students that the online final exam will be open book/Internet (but not open neighbours!) Review any relevant academic honesty policies of your school with your students.
 *   Provide students with important reminders for the upcoming online final exam. Here are the important reminders I shared with my students:
 
-![alt_text](Delivering-a0.png "Important Final Exam Reminders")
+<img src="https://multi-access.twu.ca/user/pages/03.assessment/05.online-final-exam/Delivering-a0.png" alt="Important Final Exam Reminders" width="500">
 
 ## Delivery
 
@@ -38,11 +38,11 @@ header_bar:
 *   Have a “Plan B” ready for students you for some reason cannot submit their final exam answers online using Moodle. This again highlights the importance of asking students to create a local document of their answers - if need be they can simply email this to you directly by the online final exam deadline. Be accomodating with these deadlines.
 *   Just like a face-to-face final exam, students may need clarifications with online final exam questions. Create a single [Discussion forum](https://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-a-forum) in Moodle which you will monitor during the entire final exam and promptly answer any posted questions. Since this is a forum available to all students, once an inquiry has been answered other students can quickly also locate that information. Here is the discussion forum I created for my students (I actually got the sense of being more ‘present’ for my students using an online discussion board during the final exam, and quite enjoyed being more available to them throughout the exam): \
 
-![alt_text](Delivering-a1.png "Clarifications")
+<img src="https://multi-access.twu.ca/user/pages/03.assessment/05.online-final-exam/Delivering-a1.png" alt="Clarifications" width="500">
 
 *   Provide clear instructions for students on how they should proceed with the online final exam, such as creating a local word processing document to store all their answers and then copy/paste their answers onto the Moodle quiz itself. Here are the instructions I created for my students:
 
-![alt_text](Delivering-a2.png "Exam Instructions") <img src="Delivering-a2.png" width="500">
+<img src="https://multi-access.twu.ca/user/pages/03.assessment/05.online-final-exam/Delivering-a2.png" alt="Exam Instructions" width="500">
 
 ## Additional Resources
 
