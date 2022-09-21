@@ -42,7 +42,7 @@ header_bar:
 
 *   Provide clear instructions for students on how they should proceed with the online final exam, such as creating a local word processing document to store all their answers and then copy/paste their answers onto the Moodle quiz itself. Here are the instructions I created for my students:
 
-![alt_text](Delivering-a2.png "Exam Instructions" | width=500)
+![alt_text](Delivering-a2.png "Exam Instructions") <img src="Delivering-a2.png" width="500">
 
 ## Additional Resources
 
