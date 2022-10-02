@@ -25,8 +25,6 @@ An example of misalignment can be seen in the situation where a learning outcome
 Another priority in the design of an assessment plan is that there are adequate opportunities for learners to demonstrate their ability throughout the course. 
 
 
-[Alternative Assessment](https://www.ryerson.ca/content/dam/learning-teaching/teaching-resources/assessment/alternative-assessments.pdf)
-
 ## Use and Scoring
 
 The use and scoring of assessment data is not entirely as straightforward as it might seem. As we have identified, there are numerous factors involved in determining what a learner actually knows and can do in relation to a particular learning outcome. As such, we should take care with how we interpret assessment data and also how we report it to learners and the university.
