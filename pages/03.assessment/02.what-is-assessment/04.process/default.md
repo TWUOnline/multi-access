@@ -150,21 +150,6 @@ In the end, we are left with no good way to determine what a learner knows or ca
 - scales-->
 
 
-### Grading Rubrics
-
-
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/702950788?h=801b22cb5e" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
-<br>
-
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/702949944?h=d46428e2c1" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-<br>
-
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/702949118?h=c242a28cb5" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
 
 
 # References
