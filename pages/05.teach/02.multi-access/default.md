@@ -74,7 +74,7 @@ Here's a demo with Scott Macklin showing how to use this equipment:
 <iframe src="https://player.vimeo.com/video/613908225?h=ec7404e57a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/613908225">Inclusive Classroom Demo</a> from <a href="https://vimeo.com/twuglobalonline">Trinity Western Online</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-On our help pages, we have all the technical requirements explained.  Please visit the [TWU Help Guide](http://create.twu.ca/help/video/video) for more information.
+The TWU Knowledge Base has all the technical requirements explained.  Please visit [Setting up for Success](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144493) for more information.
 
 
 ### Activity Design For a Multi-Access Class
