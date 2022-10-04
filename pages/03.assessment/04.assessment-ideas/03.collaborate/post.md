@@ -11,9 +11,11 @@ Consider using collaborative tools for your course assignments, synchronous sess
 
 
 ## Padlet
-[Padlet](https://padlet.com/) is an online collaborative whiteboard, with a variety of templates to choose from.  Here are some examples from our courses:
+[Padlet](https://padlet.com/) is an online collaborative whiteboard, with a variety of templates to choose from.  
 
 <iframe src="https://player.vimeo.com/video/752743261?h=b847fd04bd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="600" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Padlet"></iframe>
+
+Here are some examples from our courses:
 
 ![](LDRS-627-KWL-padlet.png)
 
