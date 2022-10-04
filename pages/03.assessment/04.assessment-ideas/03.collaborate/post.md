@@ -28,6 +28,9 @@ Google docs is a favourite for many instructors and students. Consider using it 
 
 Here's an example from our [Leadership Spring Jam Collaborative Notes - May, 2022](https://docs.google.com/document/d/103df18ASQHJbcerH4N9MyXFieLc5qLEA94d3oSeY224/edit?usp=sharing)
 
-## Google Slides
-Another helpful tool for collaborative assignments is Google Slides.  Rather than a PowerPoint, you may want to suggest this option for students.
+## Slide Decks
+Another helpful tool for collaborative assignments is a slide deck. Watch the demo below to find out more.
+
+<iframe src="https://player.vimeo.com/video/752743129?h=2800e787ba&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="600" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Collaborative Slide Decks"></iframe>
+
 Here's an example presentation on [Flexible Course Design](https://docs.google.com/presentation/d/1cqSDiJBcXe7ImKCfe4VcQLj9u8FQTBL4bPDR_y7nsKA/edit?usp=sharing)
