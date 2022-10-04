@@ -81,8 +81,8 @@ Assemble the clips in Audacity to tell a story. Use multiple tracks so you can o
 Here is one such example done for a [school project](https://www.youtube.com/watch?v=7-7eekV9gPc)
 
 Upload your final audio (exported as MP3) to [SoundCloud](http://soundcloud.com/) and then you can embed the sounds just by pasting it's SoundCloud URL into a blank line of your editor in Moodle or WordPress (other blog platforms can use the SoundCloud HTML embed code).
----
 
+---
 #### Resources on Video & Audio Assignments:
 
 :fa-book: Select from the following resources:
