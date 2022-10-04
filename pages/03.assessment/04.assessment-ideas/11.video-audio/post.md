@@ -19,8 +19,38 @@ Check out the [Media Creation Section](https://trinitywestern.teamdynamix.com/TD
 
 ![alttext](audiovideo.jpg "project audio video")
 
-### Audio Assessments
 
+### Podcasts
+Podcasts can be another engaging alternative/addition to a typical essay, project, interview or presentation.
+
+What sets some podcasts apart from others is the degree of production that goes into the final product. For some insight into how high quality podcasts are produced, listen to [this episode](https://transom.org/2012/dissecting-joanne-rosser-papermaker/) from HowSound (16m 17s), a podcast about producing podcasts. With that information in mind, while you listen to audio content on the radio or in a podcast, pay attention to the techniques that the producers used to tell their story. Here is an example of how the absence of sound can provide a significant emotional cue in an audio recording. [Pay attention at around the 3-minute mark](https://create.twu.ca/orientation/ted-radio-hour-audio-demo/). For some of the best examples of audio storytelling, check out a few episodes of [The Truth podcast](http://www.thetruthpodcast.com/). The episodes are short (~20min or less) and are described as 'movies for your ears'. Listen in a quiet place where you will be able to become immersed in the soundscapes of the story. For best results, use headphones.
+
+See the following sample assignment from a TWU course, as well as the resources in the learning activity below.
+
+---
+
+### Learning Activity: Podcast
+
+In this learning activity, you will create an idea for an action research project based on one of the practical problems you have identified from your professional life. You will present this project idea in a podcast for your colleagues. Audio I and Audio II in the Digital Literacy section of the orientation will explain how to set up your podcast. You can find the link to the orientation [here.](https://create.twu.ca/orientation/#Digital_Literacy)
+
+If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video. This learning activity is intended to be informal, so do not spend too much time planning and researching your topic. Please note that if you are sharing confidential information from your place of employment that you should change the name of your employer or any people involved.
+
+#### Instructions:
+
+*   Using one of the practical problems you identified from learning activity 8.1, create an idea for an action research project following the steps described by Plano-Clark and Creswell (2015) on pp. 440-442.
+*   Record that idea in a podcast so that it can be presented to your colleagues for feedback.
+*   Your introduction should include your key problem and explain the structure of your presentation.
+*   Your project idea should relate to a practical leadership issue you are currently facing.
+*   Your project idea should be clear and well organized.
+*   Your project should fit within 3-5 minutes but no more than 6 minutes.
+*   Provide a conclusion that gives a call to action.
+*   Upload your podcast to [soundcloud.com](https://soundcloud.com), [anchor.fm](https://anchor.fm), or another suitable online service and embed it in a new post on the discussion forum.
+
+**Reminder:** Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on the discussion forum.
+
+*   Note this podcast is part of your assessment for this unit.  
+
+---
 ### Learning Activity: Sound Effect Story
 
 In this two-part activity you will try to create a short story out of just sound effects (no dialogue), the [DS106 Sound Effect Story assignment](http://assignments.ds106.us/assignments/sound-effects-story/). To prepare for this, you can start trying to find or record five or more sounds you can piece together for a story. What can you tell in five sounds?
@@ -51,37 +81,6 @@ Assemble the clips in Audacity to tell a story. Use multiple tracks so you can o
 Here is one such example done for a [school project](https://www.youtube.com/watch?v=7-7eekV9gPc)
 
 Upload your final audio (exported as MP3) to [SoundCloud](http://soundcloud.com/) and then you can embed the sounds just by pasting it's SoundCloud URL into a blank line of your editor in Moodle or WordPress (other blog platforms can use the SoundCloud HTML embed code).
-
-#### Podcasts
-Podcasts can be another engaging alternative/addition to a typical essay, project, interview or presentation.
-
-What sets some podcasts apart from others is the degree of production that goes into the final product. For some insight into how high quality podcasts are produced, listen to [this episode](https://transom.org/2012/dissecting-joanne-rosser-papermaker/) from HowSound (16m 17s), a podcast about producing podcasts. With that information in mind, while you listen to audio content on the radio or in a podcast, pay attention to the techniques that the producers used to tell their story. Here is an example of how the absence of sound can provide a significant emotional cue in an audio recording. [Pay attention at around the 3-minute mark](https://create.twu.ca/orientation/ted-radio-hour-audio-demo/). For some of the best examples of audio storytelling, check out a few episodes of [The Truth podcast](http://www.thetruthpodcast.com/). The episodes are short (~20min or less) and are described as 'movies for your ears'. Listen in a quiet place where you will be able to become immersed in the soundscapes of the story. For best results, use headphones.
-
-See the following sample assignment from a TWU course, as well as the resources in the learning activity below.
-
----
-
-### Learning Activity: Podcast
-
-In this learning activity, you will create an idea for an action research project based on one of the practical problems you have identified from your professional life. You will present this project idea in a podcast for your colleagues. Audio I and Audio II in the Digital Literacy section of the orientation will explain how to set up your podcast. You can find the link to the orientation [here.](https://create.twu.ca/orientation/#Digital_Literacy)
-
-If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video. This learning activity is intended to be informal, so do not spend too much time planning and researching your topic. Please note that if you are sharing confidential information from your place of employment that you should change the name of your employer or any people involved.
-
-#### Instructions:
-
-*   Using one of the practical problems you identified from learning activity 8.1, create an idea for an action research project following the steps described by Plano-Clark and Creswell (2015) on pp. 440-442.
-*   Record that idea in a podcast so that it can be presented to your colleagues for feedback.
-*   Your introduction should include your key problem and explain the structure of your presentation.
-*   Your project idea should relate to a practical leadership issue you are currently facing.
-*   Your project idea should be clear and well organized.
-*   Your project should fit within 3-5 minutes but no more than 6 minutes.
-*   Provide a conclusion that gives a call to action.
-*   Upload your podcast to [soundcloud.com](https://soundcloud.com), [anchor.fm](https://anchor.fm), or another suitable online service and embed it in a new post on the discussion forum.
-
-**Reminder:** Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on the discussion forum.
-
-*   Note this podcast is part of your assessment for this unit.  
-
 ---
 
 #### Resources on Video & Audio Assignments:
