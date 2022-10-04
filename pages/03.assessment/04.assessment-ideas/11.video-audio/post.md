@@ -50,6 +50,9 @@ If you know how to create video you are welcome to do that instead. It is your c
 :fa-book: Select from the following resources:
 
 **Video Assignments**
+- [Setting up for Success](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144493&SIDs=11366)
+- [Media Creation Tips](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=146721)
+- [Microsoft Stream Guides](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=23454)
 - [Best practices for video assignments](https://learninginnovation.duke.edu/blog/2010/03/2009-video-fellows-report/)
 - [An Online Video Assignment (that is Fun to Grade!)](https://www.thesociologicalcinema.com/blog/an-online-video-assignment-that-is-fun-to-grade): See the video analysis examples for this assignment.
 ​- Sample Video Assignment: [GEOL 109 | The Earth and Life Through Time](https://sites.usask.ca/geol109/)
