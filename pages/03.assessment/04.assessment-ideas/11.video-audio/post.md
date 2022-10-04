@@ -19,7 +19,7 @@ Check out the [Media Creation Section](https://trinitywestern.teamdynamix.com/TD
 
 ![alttext](audiovideo.jpg "project audio video")
 
-#### Audio Assessments
+### Audio Assessments
 
 ### Learning Activity: Sound Effect Story
 
