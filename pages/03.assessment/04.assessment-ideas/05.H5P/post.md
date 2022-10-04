@@ -6,6 +6,7 @@ taxonomy:
         - formative
         - peer
 ---
+<iframe src="https://player.vimeo.com/video/752743227?h=da908d702f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="600" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="H5P"></iframe>
 
 <p>H5P is a robust resource that creates interactive learning activities to help engage learners. Instructors often use H5P to help ensure important ideas in their course "pop" and "stick." Integrating H5P with your current teaching repertoire can help students solidify their learning because of its active nature.   
 
