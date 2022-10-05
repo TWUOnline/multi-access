@@ -35,4 +35,3 @@ features:
         link: 'https://multi-access.twu.ca/assessment/activities'
 vertical_classes: 'md:grid-cols-3 '
 ---
-
