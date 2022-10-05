@@ -18,7 +18,6 @@ features:
         text: 'Design | Blackboard Ally'
         icon: tabler/question.svg
         link: 'https://multi-access.twu.ca/teach/accessibility'
-        display: hidden
     -
         title: 'Course Formatting'
         text: 'Moodle | WordPress | Bookdown '
