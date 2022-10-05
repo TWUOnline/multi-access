@@ -17,18 +17,10 @@ You might consider making a welcome video to introduce yourself to your class. W
 - Try and imagine your students as you speak. Remember you aren’t talking to the camera, you’re talking to your class.
 
 ###Other Guides
-[On-Screen Presence](https://create.twu.ca/help/video/on-screen)
+[Setting Up for Success](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144493)
 
-[Recording Setup](https://create.twu.ca/help/video/video)
+[Zoom Guides](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17478)
 
-[Zoom](https://create.twu.ca/help/video/zoom)
+[MS Teams Guides](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17821&SIDs=11353)
 
-[Teams Overview](https://vimeo.com/705941984/987e47aa26)
-
-[Getting Started with Teams](https://create.twu.ca/help/video/teams/teams)
-
-[Advanced Screen Sharing with OBS](https://vimeo.com/665721887)
-
-[OBS Intro Series](https://vimeo.com/showcase/8313279)
-
-[Video Editing with Avidemux](https://vimeo.com/705941955/08aefe9073)
+[Media Creation Guides](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=6940)
