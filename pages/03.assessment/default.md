@@ -1,4 +1,0 @@
----
-child_type: default
----
-
