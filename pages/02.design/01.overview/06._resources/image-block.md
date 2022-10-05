@@ -11,4 +11,3 @@ After creating course learning outcomes and considering assessment techniques, a
 [Learn more...](https://multi-access.twu.ca/learning-design/resources?classes=btn,mt-4,w-content,block)
 
 > Photo by <a href="https://unsplash.com/@goumbik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lukas Blazek</a> on <a href="https://unsplash.com/s/photos/desk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
