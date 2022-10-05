@@ -27,11 +27,6 @@ features:
         title: 'Assessment Ideas'
         text: 'Inspire | Challenge | Communicate | Create '
         icon: tabler/bulb.svg
-        link: 'https://multi-access.twu.ca/assessment/assessment-ideas'
-    -
-        title: 'Learning Activities'
-        text: 'Active Learning | Engage | Practice'
-        icon: tabler/activity.svg
-        link: 'https://multi-access.twu.ca/assessment/activities'
+        link: 'https://multi-access.twu.ca/assessment/overview#assessment-ideas-2'
 vertical_classes: 'md:grid-cols-3 '
 ---
