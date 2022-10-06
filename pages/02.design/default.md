@@ -1,5 +1,5 @@
 ---
 title: 'Design'
 menu: 'Design'
-redirect: '/design/overview'
+redirect: 'https://multi-access.twu.ca/design/overview'
 ---
