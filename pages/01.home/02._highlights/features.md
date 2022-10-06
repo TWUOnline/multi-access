@@ -38,7 +38,7 @@ features:
         icon: tabler/bulb.svg
         link: 'https://www.twu.ca/online-learning'
     -
-        title: Help Guides
+        title: 'Help Guides'
         text: 'FAQ for Online Teaching'
         icon: tabler/zoom-question.svg
         link: 'http://create.twu.ca/help/'

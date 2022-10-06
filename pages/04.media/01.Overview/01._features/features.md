@@ -1,5 +1,5 @@
 ---
-title: 'Overview'
+title: 'Media'
 body_classes: modular
 variation: vertical
 features:
