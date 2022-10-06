@@ -1,5 +1,5 @@
 ---
-title: SME
-menu: SME
+title: 'SME'
+menu: 'SME'
 redirect: 'sme/overview'
 ---
