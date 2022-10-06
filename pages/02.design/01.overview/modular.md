@@ -1,6 +1,6 @@
 ---
-title: Overview
-menu: 'Learning Design'
+title: 'Learning Design'
+menu: 'Overview'
 onpage_menu: false
 content:
     items: self@.modular
@@ -12,4 +12,3 @@ header_bar:
     background: auto
     text: auto
 ---
-
