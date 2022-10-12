@@ -1,5 +1,6 @@
 ---
-title: 'Media'
-menu: 'Media'
-redirect: 'media/overview'
+title: Media
+menu: Media
+redirect: media/overview
 ---
+

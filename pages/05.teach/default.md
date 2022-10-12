@@ -1,5 +1,6 @@
 ---
-title: 'Teach'
-menu: 'Teach'
-redirect: 'teach/overview'
+title: Teach
+menu: Teach
+redirect: teach/overview
 ---
+
