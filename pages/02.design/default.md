@@ -1,6 +1,5 @@
 ---
 title: Design
 menu: Design
-redirect: design/overview
+redirect: design1/overview
 ---
-
