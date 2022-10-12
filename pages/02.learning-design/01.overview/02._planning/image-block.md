@@ -17,4 +17,4 @@ image_align: left
 Designing a course is like planning to build a house. There are a lot of details to think through, and you start with asking some key questions, such as who is the house for, what features are required, what support is needed, what will make it feel like a home?, etc.
 
 
-[Learn more...](https://multi-access.twu.ca/design/course-planning?classes=btn,mt-4,w-content,block)
+[Learn more...](https://multi-access.twu.ca/learning-design/course-planning?classes=btn,mt-4,w-content,block)
