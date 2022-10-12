@@ -1,3 +1,32 @@
+# v2.4.0
+## 09/15/2022
+
+1. [](#new)
+    * It is now possible to pick between Cookie or localStorage as appearance storage mechanism. Cookie is advised if you are experiencing FOUC [getgrav/grav-premium-issues#214](https://github.com/getgrav/grav-premium-issues/issues/214)
+
+# v2.3.7
+## 09/12/2022
+
+2. [](#improved)
+   * Updated to latest Tailwind `v3.1.8`, Typography plugin to `0.5.7` and forms to `0.5.3`
+3. [](#bugfix)
+   * Updated langswitcher logic to take into account the new translated logic available [getgrav/grav-premium-issues#306](https://github.com/getgrav/grav-premium-issues/issues/306)
+
+# v2.3.6
+## 07/26/2022
+
+2. [](#improved)
+   * Updated to latest Tailwind `v3.1.6`
+   * Added support for `.webp` for hero backgrounds [getgrav/grav-premium-issues#292](https://github.com/getgrav/grav-premium-issues/issues/292)
+   * Added support for customizable logo height [getgrav/grav-premium-issues#295](https://github.com/getgrav/grav-premium-issues/issues/295)
+   * Added optional `hero.image_alignment` select under **Hero** tab to allow for center/top/bottom alignment [getgrav/grav-premium-issues#294](https://github.com/getgrav/grav-premium-issues/issues/294)
+   * Added option to configure **open in new tab** for footer menu links and social links [getgrav/grav-premium-issues#294](https://github.com/getgrav/grav-premium-issues/issues/294)
+3. [](#bugfix)
+   * Fixed some dark typography issues [getgrav/grav-premium-issues#293](https://github.com/getgrav/grav-premium-issues/issues/293)
+   * Fixed missing padding when hero is not displayed [getgrav/grav-premium-issues#294](https://github.com/getgrav/grav-premium-issues/issues/294)
+   * Fixed light/dark active class in dropdown [getgrav/grav-premium-issues#294](https://github.com/getgrav/grav-premium-issues/issues/294)
+   * Removed old reference for **FontAwesome** icon post date [getgrav/grav-premium-issues#294](https://github.com/getgrav/grav-premium-issues/issues/294)
+
 # v2.3.5
 ## 06/14/2022
 

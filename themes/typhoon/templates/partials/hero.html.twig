@@ -8,6 +8,7 @@
 {% set hero_image = hero_image ?? ((page.header.hero.image|defined(hero_default))|hero_image) %}
 {% set hero_align_classes = 'flex' %}
 {% set hero_padding = theme_var('hero.padding', 'pt-32 md:pt-40 lg:pt-48 xl:pt-56 pb-16 md:pb-20 lg:pb-24 xl:pb-32')|e %}
+{% set hero_image_classes = theme_var('hero.image_alignment') ~ ' background-image absolute inset-0 object-cover h-full w-full'%}
 
 {% if hero_overlay == 'custom' %}
   {% set hero_overlay = theme_var('hero.custom')|e %}
@@ -46,7 +47,7 @@
 {% set subtitle = subtitle|defined(hero.subtitle) %}
 
 <section id="hero" class="relative {% if hero_animated %}animated{% endif %} overflow-hidden {{ hero_height }}">
-  {{ hero_image.sizes('80vw').classes('background-image absolute inset-0 object-cover h-full w-full').html(null, 'Hero Image')|raw }}
+  {{ hero_image.sizes('80vw').classes(hero_image_classes).html(null, 'Hero Image')|raw }}
   <div class="absolute inset-0 bg-cover bg-center bg-no-repeat"
        style="background-image: {{ hero_overlay_output }};"></div>
   <div class="{{ theme_var('wrapper_spacing')|e }} relative {{ hero_padding }}">

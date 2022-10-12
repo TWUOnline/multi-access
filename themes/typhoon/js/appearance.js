@@ -22,18 +22,38 @@
     }
   }
 
+  const typhoonStorage = {
+    set(value) {
+      const data = JSON.stringify(value);
+
+      if (DATA.type === 'cookie') {
+        Cookies.set('typhoon-appearance', data, { expires: 365 });
+      } else {
+        const STORAGE = DATA.store ? 'localStorage' : 'sessionStorage';
+        global[STORAGE].setItem('typhoon-appearance', data);
+      }
+    },
+    get() {
+      if (DATA.type === 'cookie') {
+        return JSON.parse(Cookies.get('typhoon-appearance') || 'null');
+      } else {
+        const STORAGE = DATA.store ? 'localStorage' : 'sessionStorage';
+        return JSON.parse(global[STORAGE].getItem('typhoon-appearance') || 'null');
+      }
+    },
+  }
+
   global.typhoonStore = function(data) {
-    const STORAGE = DATA.store ? 'localStorage' : 'sessionStorage';
     const theme = data.appearance === 'system' ? typhoonGetTheme() : data.appearance;
     const config = Object.assign({}, typhoonRetrieve(), data, { theme: theme });
-    global[STORAGE].setItem('typhoon-appearance', JSON.stringify(config));
+
+    typhoonStorage.set(config);
     typhoonSetTheme(theme, false);
   }
 
   global.typhoonRetrieve = function() {
-    const STORAGE = DATA.store ? 'localStorage' : 'sessionStorage';
     const systemTheme = typhoonGetTheme();
-    const storage = JSON.parse(global[STORAGE].getItem('typhoon-appearance') || 'null');
+    const storage = typhoonStorage.get();
 
     if (storage && storage.appearance === 'system') {
       storage.theme = systemTheme;
@@ -57,7 +77,16 @@
       typhoonStore({ theme: theme || typhoonGetTheme() });
     }
 
-    window.dispatchEvent(event);
+    if (DATA.type === 'cookie') {
+      window.dispatchEvent(event);
+
+      setTimeout(() => {
+        document.documentElement.classList.remove('light', 'dark');
+        document.documentElement.classList.add(theme);
+      }, 0);
+    } else {
+      window.dispatchEvent(event);
+    }
   }
 
   global.typhoonGetTheme = function() {

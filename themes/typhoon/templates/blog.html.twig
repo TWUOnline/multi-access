@@ -14,6 +14,7 @@
 {% endblock %}
 
 {% block content_wrapper %}
+  <div class="{{ hero_display ? 'pt-0' : 'pt-16' }}">
   {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
     {% include 'partials/breadcrumbs.html.twig' %}
   {% endif %}
@@ -41,5 +42,5 @@
     {% endblock %}
 
   {% endembed %}
-
+  </div>
 {% endblock %}

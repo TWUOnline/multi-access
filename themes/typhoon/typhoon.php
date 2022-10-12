@@ -152,8 +152,12 @@ class Typhoon extends Theme
                         'rawroute' => $page->rawroute(),
                     ]);
                 } else {
-                    $base_lang_url = Utils::url($language->getLanguageUrlPrefix($lang));
-                    $lang_url = $base_lang_url . $langswitcher->page_route . $page->urlExtension();
+                    if (isset($langswitcher->translated_routes[$lang])) {
+                        $lang_url = $langswitcher->translated_routes[$lang] . $page->urlExtension();
+                    } else {
+                        $base_lang_url = Utils::url($language->getLanguageUrlPrefix($lang));
+                        $lang_url = $base_lang_url . $langswitcher->page_route . $page->urlExtension();
+                    }
                     if ($untranslated_pages_behavior !== 'none') {
                         $translated_page = $langswitcher->translated_pages[$lang];
                         if (!$translated_page or !$translated_page->published()) {

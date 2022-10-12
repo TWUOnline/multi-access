@@ -1,5 +1,5 @@
 name: Typhoon
-version: 2.3.5
+version: 2.4.0
 type: theme
 slug: typhoon
 premium: true
@@ -70,6 +70,18 @@ form:
                   options:
                     1: PLUGIN_ADMIN.YES
                     0: PLUGIN_ADMIN.NO
+                  validate:
+                    type: bool
+
+                appearance.cookie:
+                  type: toggle
+                  label: THEME_TYPHOON.ADMIN.STORAGE_TYPE
+                  help: THEME_TYPHOON.ADMIN.STORAGE_TYPE_HELP
+                  highlight: 1
+                  default: 1
+                  options:
+                    1: Cookie
+                    0: localStorage
                   validate:
                     type: bool
 
@@ -283,6 +295,13 @@ form:
                   help: THEME_TYPHOON.ADMIN.HEADER_BAR_HEIGHT_HELP
                   default: 'h-16'
 
+                logo_height:
+                  type: text
+                  size: x-small
+                  label: THEME_TYPHOON.ADMIN.LOGO_HEIGHT
+                  help: THEME_TYPHOON.ADMIN.LOGO_HEIGHT_HELP
+                  default: 'h-8'
+
                 custom_logo:
                   type: file
                   label: THEME_TYPHOON.ADMIN.CUSTOM_LOGO
@@ -374,6 +393,16 @@ form:
                   label: THEME_TYPHOON.ADMIN.HERO_IMAGE
                   help: THEME_TYPHOON.ADMIN.HERO_IMAGE_HELP
 
+                hero.image_alignment:
+                  type: select
+                  label: THEME_TYPHOON.ADMIN.HERO_IMAGE_ALIGNMENT
+                  default: object-center
+                  size: small
+                  options:
+                    object-center: Centered
+                    object-top: Align Top
+                    object-bottom: Align Bottom
+
                 hero.padding:
                   type: text
                   label: THEME_TYPHOON.ADMIN.HERO_PADDING_CLASSES
@@ -463,11 +492,20 @@ form:
                       type: text
                       label: THEME_TYPHOON.ADMIN.FOOTER_MENU_LINK
                       placeholder: '/some/page or https://acme.com/path'
+                    .newtab:
+                      type: toggle
+                      label: THEME_TYPHOON.ADMIN.FOOTER_SOCIAL_NEWTAB
+                      highlight: 0
+                      default: 0
+                      options:
+                        1: PLUGIN_ADMIN.YES
+                        0: PLUGIN_ADMIN.NO
+                      validate:
+                        type: bool
 
                 footer.social_enabled:
                   type: toggle
                   label: THEME_TYPHOON.ADMIN.FOOTER_ENABLE_SOCIAL_LINKS
-                  help: THEME_TYPHOON.ADMIN.FOOTER_ENABLE_SOCIAL_LINKS_HELP
                   highlight: 1
                   default: 1
                   options:
@@ -498,6 +536,17 @@ form:
                       type: text
                       label: THEME_TYPHOON.ADMIN.FOOTER_SOCIAL_LINK
                       placeholder: 'https://socialnetwork.com/username'
+                    .newtab:
+                      type: toggle
+                      label: THEME_TYPHOON.ADMIN.FOOTER_SOCIAL_NEWTAB
+                      help: THEME_TYPHOON.ADMIN.FOOTER_SOCIAL_NEWTAB_HELP
+                      highlight: 0
+                      default: 0
+                      options:
+                        1: PLUGIN_ADMIN.YES
+                        0: PLUGIN_ADMIN.NO
+                      validate:
+                        type: bool
 
                 footer.copyright:
                   type: editor

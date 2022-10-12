@@ -1,14 +1,16 @@
 {% extends 'partials/theme-variables.html.twig' %}
 {% use 'blocks/base.html.twig' %}
 {% block render_body %}
+  {% set storage = (theme_config.appearance.cookie ? get_cookie('typhoon-appearance')|json_decode : null)|default({ theme: null, appearance: null }) %}
   <!DOCTYPE html>
 <html lang="{{ grav.language.getActive ?: grav.config.site.default_lang }}"
       data-appearance="{{ {
         appearance: theme_config.appearance.theme|default(''),
-        store: theme_config.appearance.storage ? 1 : 0
+        store: theme_config.appearance.storage ? 1 : 0,
+        type: theme_config.appearance.cookie ? 'cookie' : 'localStorage'
       }|json_encode|e }}"
-      x-data="{ show_mobile_nav: false, theme: typhoonRetrieve().theme, appearance: typhoonRetrieve().appearance, atTopOfPage: true, fixedHeader: false }"
-      :class="[ show_mobile_nav ? 'overflow-hidden' : '', theme ]" class="overflow-x-hidden">
+      x-data="{ show_mobile_nav: false, theme: '{{ storage.theme ?: null }}' || typhoonRetrieve().theme, appearance: '{{ storage.appearance ?: null }}' || typhoonRetrieve().appearance, atTopOfPage: true, fixedHeader: false }"
+      :class="[ show_mobile_nav ? 'overflow-hidden' : '', theme ]" class="overflow-x-hidden {{ theme_config.appearance.cookie ? storage.theme : '' }}">
 <head>
   {% block head %}
     <meta charset="utf-8"/>
@@ -35,6 +37,9 @@
   {% endblock %}
 
   {% block javascripts %}
+    {% if theme_config.appearance.cookie %}
+      {% do assets.addJs('theme://js/js-cookie.js', { loading: 'defer' }) %}
+    {% endif %}
     {% do assets.addJs('theme://js/alpine.js', {loading: 'defer'}) %}
     {% do assets.addJs('theme://js/appearance.js', {group: 'bottom'}) %}
     {% do assets.addJs('theme://js/site.js', { group: 'bottom' }) %}
@@ -47,9 +52,9 @@
 </head>
 
 <body
-        id="top"
-        class="flex flex-col items-stretch min-h-screen antialiased w-screen overflow-x-hidden relative bg-white dark:bg-gray-900  {{ base_text_style }} {% if debugger_enabled %}debug-screens {% endif %}{{ page.header.body_classes }}"
-        @typhoon-theme.window="theme = $event.detail.theme || ''; appearance = $event.detail.appearance || '';">
+  id="top"
+  class="flex flex-col items-stretch min-h-screen antialiased w-screen overflow-x-hidden relative bg-white dark:bg-gray-900  {{ base_text_style }} {% if debugger_enabled %}debug-screens {% endif %}{{ page.header.body_classes }}"
+  @typhoon-theme.window="theme = $event.detail.theme || ''; appearance = $event.detail.appearance || '';">
 {% include 'partials/notices.html.twig' %}
 <div class="flex-1 flex flex-col relative">
   {% block header %}

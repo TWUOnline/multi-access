@@ -113,6 +113,19 @@ form:
       accept:
         - .png
         - .jpg
+        - .jpeg
+        - .webp
+
+    header.hero.image_alignment:
+      toggleable: true
+      type: select
+      label: THEME_TYPHOON.ADMIN.HERO_IMAGE_ALIGNMENT
+      default: object-center
+      size: small
+      options:
+        object-center: Centered
+        object-top: Align Top
+        object-bottom: Align Bottom
 
     header.hero.padding:
       toggleable: true

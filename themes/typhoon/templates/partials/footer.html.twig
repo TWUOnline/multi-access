@@ -12,7 +12,7 @@
       {% if menu_enabled and menu %}
         <div class="flex font-medium space-x-6 md:space-x-8 items-center justify-center mb-6 md:mb-0 md:justify-start ">
           {% for item in menu %}
-            <a href="{{ url(item.link) }}" class="hover:text-primary transition duration-300">{{ item.label }}</a>
+            <a href="{{ url(item.link) }}" class="hover:text-primary transition duration-300" {% if item.newtab %}target="_blank"{% endif %}>{{ item.label }}</a>
           {% endfor %}
         </div>
       {% endif %}
@@ -32,7 +32,7 @@
             {% endif %}
             {% set extra = item.network == 'github' ? 'dark:text-gray-500' %}
             <a href="{{ url(item.link) }}" aria-label="{{ item.network }}"
-               class="{{ link_class }} {{ extra }} hover:filter hover:brightness-110 transition duration-300">
+               class="{{ link_class }} {{ extra }} hover:filter hover:brightness-110 transition duration-300" {% if item.newtab %}target="_blank"{% endif %}>
               {{ svg_icon(icon, icon_class)|raw }}
             </a>
           {% endfor %}

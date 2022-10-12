@@ -1,11 +1,13 @@
 {% set logo = theme_var('custom_logo')|e %}
 {% set strip_svg = theme_var('custom_logo_strip_svg_style')|e %}
-<div class="site-logo h-8">
+{% set logo_height = theme_var('logo_height') %}
+<div class="site-logo {{ logo_height }}">
   {% if logo %}
     {% set logo_file = (logo|first).name %}
     {% set logo_path = (logo|first).path %}
+
     {% if logo_file ends with '.svg' %}
-      {{ svg_image(logo_path, 'fill-current h-8 w-auto mr-2', strip_svg)|raw }}
+      {{ svg_image(logo_path, 'fill-current h-full w-auto mr-2', strip_svg)|raw }}
     {% else %}
       <img src="{{ url(logo_path) }}" alt="{{ site.title }}"/>
     {% endif %}

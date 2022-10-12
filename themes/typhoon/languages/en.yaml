@@ -52,6 +52,8 @@ THEME_TYPHOON:
     USER_SELECTOR_HELP: Allows the user to remember the selection persistently. When disabled the selection will only be remember within the current session.
     REMEMBER_SELECTION: Remember Selection
     REMEMBER_SELECTION_HELP: Allows the user to remember the selection persistently. When disabled the selection will only be remember within the current session.
+    STORAGE_TYPE: Storage Mechanism
+    STORAGE_TYPE_HELP: Whether to store the appearance as Cookie or localStorage. Cookie is advised to prevent FOUC (flashing of unstyled content).
     LAYOUT_DEFAULTS: Layout Defaults
     BODY_CLASSES: Body Classes
     BODY_CLASSES_HELP: Provide default tailwind classes for the HTML body tag
@@ -69,6 +71,8 @@ THEME_TYPHOON:
     DISPLAY_MOBILE_NAVIGATION: Display Mobile Navigation
     DISPLAY_MOBILE_NAVIGATION_HELP: Display the hambuger menu for mobile navigation on small devices
     HEADER_BAR_DEFAULTS: Header Bar Defaults
+    LOGO_HEIGHT: Logo Height
+    LOGO_HEIGHT_HELP: Tailwind CSS class to set the height of the logo
     CUSTOM_LOGO: Custom Logo
     CUSTOM_LOGO_DESC: Will be used instead of default Grav logo
     STRIP_LOGO_SVG_STYLE: Strip Logo SVG Style
@@ -118,6 +122,7 @@ THEME_TYPHOON:
     HERO_ALIGNMENT_RIGHT: Right
     HERO_IMAGE: Image
     HERO_IMAGE_HELP: Stream location of default hero image
+    HERO_IMAGE_ALIGNMENT: Image Alignment
     HERO_PADDING_CLASSES: Padding Classes
     HERO_OVERLAY: Overlay
     HERO_OVERLAY_HELP: Select custom and provide a custom color below for an exact color, else select the best choice for the image
@@ -155,6 +160,7 @@ THEME_TYPHOON:
     FOOTER_SOCIAL_LINKS: Social Links
     FOOTER_SOCIAL_NETWORK: Social Network
     FOOTER_SOCIAL_LINK: Link
+    FOOTER_SOCIAL_NEWTAB: Open in new tab
     FOOTER_COPYRIGHT: Footer Copyright
     NOTICES: Notices
     NOTICES_PAGE_ROUTE: Page Route for Notices data

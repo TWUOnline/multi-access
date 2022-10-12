@@ -29,17 +29,6 @@
   hr {
     @apply border-gray-700;
   }
-
-  table {
-    thead {
-      @apply text-gray-300 border-gray-700;
-    }
-    tbody {
-      tr, td {
-        @apply border-gray-700;
-      }
-    }
-  }
 }
 
 .dark .social svg.brands {
