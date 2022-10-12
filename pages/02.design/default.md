@@ -1,5 +1,6 @@
 ---
-title: 'Design'
-menu: 'Design'
-redirect: 'assessment/overview'
+title: Design
+menu: Design
+redirect: design/overview
 ---
+
