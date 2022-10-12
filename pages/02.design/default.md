@@ -1,5 +1,5 @@
 ---
 title: Design
 menu: Design
-redirect: learning-design/overview
+redirect: design/overview
 ---
