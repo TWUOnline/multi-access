@@ -60,7 +60,7 @@ flowchart TD
 #### Performance Indicators
 
 **E - Excellent/Exemplary**  
-- The work meets of exceeds the expectations of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are no nontrivial errors. This work could be used as a classroom example.  
+- The work meets or exceeds the expectations of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are no nontrivial errors. This work could be used as a classroom example.  
 
 **M - Meets Expectations**
 - Understanding of the concepts is evident through correct work and clear, audience-appropriate explantations. Some revision or expansion is needed, but no significant gaps or errors are present. No additional instruction on the concepts is needed.  
