@@ -56,6 +56,7 @@ flowchart TD
         E([Is there evidence of partial understanding?]) --NO--> G([N - Not Assessable])
 [/mermaid]
 
+![img](drawio.png)
 #### Performance Indicators
 
 **E - Excellent/Exemplary**  
