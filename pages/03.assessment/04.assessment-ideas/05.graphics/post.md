@@ -35,7 +35,6 @@ In the resources below you'll see several digital tools that may be useful for y
 
 **Timelines**
 - [H5P Timeline](https://h5p.org/timeline): Plug in for Moodle or WordPress.
-- [When in Time](http://ww7.whenintime.com/): Create, view, share interactive digital timelines.
 - [Time Toast](https://www.timetoast.com/): A bullet point centered timeline w/ text and pictures.
 - [Preceden](https://www.preceden.com/?utm_source=timerime&utm_campaign=homepage): A fun easy site to use to create interactive timelines.
 - [Office Timeline](https://www.officetimeline.com/): To integrate into PowerPoint.

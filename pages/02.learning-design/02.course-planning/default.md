@@ -29,4 +29,4 @@ Notice, we didn't start with these questions...
 📙 What topics will fit into my 16 weeks course?  
 
 
-Instead, we use what's called **[Backward Design](https://multi-access.twu.ca/design/backward-design)** to develop the course.
+Instead, we use what's called **[Backward Design](https://multi-access.twu.ca/learning-design/backward-design)** to develop the course.

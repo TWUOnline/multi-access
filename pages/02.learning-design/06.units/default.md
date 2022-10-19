@@ -76,7 +76,7 @@ When you have completed this unit, you should be able to:
 - Determine...
 - Create...
 
-!!!! ***Design Note:*** Be sure to write SMART learning outcomes!  See the Learning Outcomes section on the [Blueprint page](https://multi-access.twu.ca/design/blueprint), as it has helpful verb ideas, as well as learning outcome generators!
+!!!! ***Design Note:*** Be sure to write SMART learning outcomes!  See the Learning Outcomes section on the [Blueprint page](https://multi-access.twu.ca/learning-design/blueprint), as it has helpful verb ideas, as well as learning outcome generators!
 
 
 [/ui-accordion-item]

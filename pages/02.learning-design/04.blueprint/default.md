@@ -132,7 +132,7 @@ Below is one example of part of a blueprint document. Again, feel free to use/co
 
 A final section of the blueprint is dedicated to a resource list.  As a blueprint is simply a planning document - one that can and will change as you develop the course - feel free to add resources you are thinking of using.
 
-Our online team often encourages instructors to consider Open Educational Resources (OERs). If you're interested in exploring OERs and other course resources, please see the [Resources](https://multi-access.twu.ca/resources) section.
+Our online team often encourages instructors to consider Open Educational Resources (OERs). If you're interested in exploring OERs and other course resources, please see the [Resources](https://multi-access.twu.ca/learning-design/resources) section.
 
 [/ui-accordion-item]
 

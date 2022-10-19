@@ -113,7 +113,7 @@ When you choose one of these options from the your new site will come with a sim
 
 :fa-film: Watch the following video on restricting access to your website. You may not want your site to be made public or you may not be ready to make it public yet. This video will show you how to restrict access to your WordPress site:
 
-[plugin:youtube](https://youtu.be/ioTDqNM-WfQ)
+[How to Restrict WordPress Site Access by IP or Logged In Users](https://youtu.be/ioTDqNM-WfQ)
 
 Next, follow these steps. There are several options for privacy.
 
