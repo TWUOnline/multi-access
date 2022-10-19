@@ -29,7 +29,7 @@ Here are the key engagement strategies Fink suggests:
 1. Helping students become meta-learners
    - Help students discover self-motivations for learning, teach students how learning works, develop effective learning practices (From [MetaLearning: Growing Self-Directed Learners](https://www.oakland.edu/Assets/upload/docs/CETL/ConferencePresentationMaterials2014/StephenCarroll/Metalearning-Slides.pdf))
 2. Learning-centered course design
-   - Use [Backward Design](https://multi-access.twu.ca/design/backward-design): First, identify Learning outcomes, next decide assessment, and finally select learning activities.
+   - Use [Backward Design](https://multi-access.twu.ca/learning-design/backward-design): First, identify Learning outcomes, next decide assessment, and finally select learning activities.
 3. Using small groups in a powerful way
    - e.g. “Team-Based Learning” (TBL) procedures involve group formation, appropriate assignments for groups, creating individual and group accountability, and prompt feedback)
 4. Service-learning/community engagement—with reflection

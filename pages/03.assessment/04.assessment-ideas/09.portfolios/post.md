@@ -203,17 +203,17 @@ Media can also be an alternative to simply hyperlinking all your artifacts. Inst
 *Photos or Videos*
 
 You do not need to create everything from scratch.  There are many sources that provide professional-looking, royalty-free images and video.
-- Unsplash https://unsplash.com/
-- Pexels https://www.pexels.com/
-- Wikimedia Commons https://commons.wikimedia.org/wiki/Main_Page
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
 When it comes to creating videos, there is a lot you can do with your smartphone’s camera. If you need to record your screen, but don’t have screen capturing software, then consider using a web-conferencing tool (like Zoom), and record your screen share. As for screen capturing tools, there are many freemium web-based ones or Chrome extensions that are very user-friendly. Just do a Google search and find one that works for you.
 
 *Infographics*
 
 If you are looking to create something visual, but still informative, infographics can do just that. Here are a few free (or freemium) web-based graphic design tools that are very user-friendly:
-- Canva http://www.canva.com
-- Pikochart https://piktochart.com
+- [Canva](http://www.canva.com)
+- [Pikochart](https://piktochart.com)
 
 *Podcasts*
 

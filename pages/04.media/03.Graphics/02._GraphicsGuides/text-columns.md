@@ -37,11 +37,9 @@ When using visual data, charts, and statistics, infographics provide an easy way
 
 - **Do you want to create your own infographic?** There are many websites that provide a few free templates and even have editors that allow you to create an infographic. Here are some of these:
 
-[https://www.canva.com/](https://www.canva.com/)
-
-[https://piktochart.com/](https://piktochart.com/)
-
-[https://venngage.com/](https://venngage.com/)
+- [Canva](https://www.canva.com/)
+- [Piktochart](https://piktochart.com/)
+- [Venngage](https://venngage.com/)
 
 
 ## Do you need help! That’s what we are here for 😊
