@@ -51,5 +51,5 @@ Sample 3: **Journal Instructions**
 For more samples of journals used on TWU online courses, see the following [Google doc](https://docs.google.com/document/d/1M1NUHmYRY3jPIu0BWeVI5T7sFRasUmAkkYRsO_6DHik/edit?usp=sharing).
 
 ##### Reflective Journals
-[plugin:youtube](https://www.youtube.com/watch?v=APxkx46l6gc)
+[Watch: A Reflective Learning Cycle](https://www.youtube.com/watch?v=APxkx46l6gc)
 - [Assignment Type: Reflective Journals](https://onlineteaching.kent.edu/library/online_assignments/Journal_Handout.pdf)

@@ -8,7 +8,7 @@ taxonomy:
 ---
 
 
-test
+
 Journaling is often used in online courses to promote active and reflective learning.  This type of assignment can be structured with specific questions (related to the learning outcomes), or unstructured, allowing the learner to explore and reflect in their own way.  
 
 Take a look at the following resources:
