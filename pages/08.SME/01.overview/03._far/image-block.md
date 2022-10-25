@@ -2,9 +2,11 @@
 title: 'FAR Centre Courses'
 body_classes: modular
 image: laptop-2559958_1920.jpg
-media_order: laptop-2559958_1920.jpg
-image_align: left
+media_order: 2.jpg
+image_align: right
+
 ---
+<!-- Image source: https://unsplash.com/photos/KigTvXqetXA -->
 
 ## FAR Centre Courses
 

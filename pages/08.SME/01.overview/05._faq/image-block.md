@@ -1,10 +1,12 @@
 ---
 title: 'FAQ'
 body_classes: modular
-image: laptop-2559958_1920.jpg
-media_order: laptop-2559958_1920.jpg
-image_align: left
+image: 4.jpg
+media_order: 4.jpg
+image_align: right
+
 ---
+<!-- Image source: https://unsplash.com/photos/uGP_6CAD-14 -->
 
 ## FAQ on Course Development
 
