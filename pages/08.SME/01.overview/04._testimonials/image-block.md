@@ -1,10 +1,13 @@
 ---
 title: 'Testimonials'
 body_classes: modular
-image: laptop-2559958_1920.jpg
-media_order: laptop-2559958_1920.jpg
+image: 3.jpg
+media_order: 3.jpg
 image_align: left
+
 ---
+
+<!-- Image source: https://unsplash.com/photos/gcHFXsdcmJE -->
 
 ### What Faculty Have to Say
 

@@ -6,6 +6,7 @@ media_order: 4.jpg
 image_align: right
 
 ---
+
 <!-- Image source: https://unsplash.com/photos/uGP_6CAD-14 -->
 
 ## FAQ on Course Development
