@@ -14,14 +14,14 @@ features:
         icon: tabler/question.svg
         link: 'https://multi-access.twu.ca/sme/overview#far'
     -
+        title: 'Testimonials'
+        text: 'What TWU faculty have to say about the course design process'
+        icon: tabler/scale.svg
+        link: 'https://multi-access.twu.ca/sme/overview#testimonials-2'
+    -
         title: 'FAQ'
         text: 'FAQ for Course Developers'
         icon: tabler/math-function.svg
         link: 'https://multi-access.twu.ca/sme/overview#faq'
-    -
-        title: 'Testimonials'
-        text: 'What TWU faculty have to say about the course design process'
-        icon: tabler/scale.svg
-        link: 'https://multi-access.twu.ca/design/overview#course-blueprint-1'
 vertical_classes: 'md:grid-cols-4 '
 ---
