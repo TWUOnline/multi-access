@@ -16,7 +16,7 @@ The assessment of learning begins with a clearly defined construct or cognitive 
 
 ## Observation
 
-The second pillar of the assessment triangle is an observation of some sort. This requires a clear connection to the cognitive model of the construct through the identification of proficiency indicators. Instructors must understand what constitutes a competent demonstration of ability in relation to the construct. This is often operationalized as a rubric, which can take a number of forms. We recommend that rubrics be task neutral, allowing them to be reused in multiple contexts. 
+The second pillar of the assessment triangle is an observation of some sort. This requires a clear connection to the cognitive model of the construct through the identification of proficiency indicators. Instructors must understand what constitutes a competent demonstration of ability in relation to the construct. This is often operationalized as a rubric, which can take a number of forms. We recommend that rubrics be task neutral, allowing them to be reused in multiple contexts. [See the Feedback page for more information about rubrics.](https://multi-access.twu.ca/assessment/feedback)
 
 ### SOLO Taxonomy
 
