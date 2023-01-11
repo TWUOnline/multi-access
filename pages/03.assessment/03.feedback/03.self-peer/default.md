@@ -1,5 +1,5 @@
 ---
-title: 'What is Feedback?'
+title: 'Self and Peer Feedback'
 media_order: ''
 hero:
     image: 
