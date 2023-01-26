@@ -128,18 +128,40 @@ Another problem with averages is that averaging learner achievement over a semes
 | C | 100% | 100% | 75% | 25% | 75% |
 | D | 0% | 100% | 100% | 100% | 75% |
 
-It would seem that Learner A is accurately categorized at 75% due to the consistency with which they scored 75% on assessment tasks. Learner B, however started the semester with low scores, then finished very strongly. They made very rapid and stable improvement during the semester, yet couldn't score higher than 75% due to one poor grade. Learner C's performance was the opposite of that. They started very strong and their performance decreased drastically over the semester, seemingly indicating that they could not understand the integrated whole of the course. Finally, Learner D completely missed the first assessment, wasn't allowed to make it up, then scored perfectly for the rest of the semester, leaving them with 75%. This is a goo demonstration of how the mean of a data set is strongly influenced by outliers. If the instructor were to choose to use a different measure of central tendency (which ***can*** be determined with ordinal data),  or the learner's most recent grade, the calculations could be as follows:
+It would seem that Learner A is accurately categorized at 75% due to the consistency with which they scored 75% on assessment tasks. Learner B, however started the semester with low scores, then finished very strongly. They made very rapid and stable improvement during the semester, yet couldn't score higher than 75% due to one poor grade. Learner C's performance was the opposite of that. They started very strong and their performance decreased drastically over the semester, seemingly indicating that they could not understand the integrated whole of the course. Finally, Learner D completely missed the first assessment, wasn't allowed to make it up, then scored perfectly for the rest of the semester, leaving them with 75%.  Learner D also has a '0' recorded for Item 1. What does that mean? Did that learner complete the item and not demonstrate *any* knowledge of the content? Were they ill and couldn't afford a doctor's note to be excused? It is impossible to know, which means that 0 is a meaningless grade that provides no information.
 
-| Learner | Mean | Median | Mode | Most Recent|
+This is a good demonstration of how the mean of a data set is strongly influenced by outliers. If the instructor were to choose to use a different measure of central tendency (which ***can*** be determined with ordinal data),  or the learner's most recent grade, the calculations could be as follows:
+
+| Learner | Mean | Median | Mode | Most Recent*|
 |:---:|:---:|:---:|:---:|:---:|
 | A | 75% | 75% | 75% | 75% |
 | B | 75% | 100% | 100% | 100% |
 | C | 75% | 100% | 100% | 25% | 
 | D | 75% | 100% | 100% | 100% |
 
-In the end, we are left with no good way to determine what a learner knows or can do...unless, of course, we significantly reduce the number of proficiency categories and stop trying to do math with ordinal data.
+\*Not a measure of central tendency.
 
+Perhaps, like many instructors, you have decided to weight these scores differentially, as you might see in a typical higher ed course.
 
+| Learner | Item 1 - 10% | Item 2 - 20%| Item 3 - 20%| Item 4 - 50%| Final |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| A | 75% | 75% | 75% | 75% | 75% | 
+| B | 25% | 75% | 100% | 100% | 87.5% |
+| C | 100% | 100% | 75% | 25% | 57.5% |
+| D | 0% | 100% | 100% | 100% | 90% |
+
+Notice how that 0 for Learner D is almost negated? What about the trajectories of Learners B and C leading to wildly different final grades?
+
+Perhaps you add a 'Participation' grade, worth 20% and determined by how well you remember learners speaking in class.
+
+| Learner | Item 1 - 10% | Item 2 - 15%| Item 3 - 15%| Item 4 - 40%| Participation - 20% | Final |
+|:---:|:---:|:---:|:---:|:---:|:---:| :---:|
+| A | 75% | 75% | 75% | 75% | 75% | 75% | 
+| B | 25% | 75% | 100% | 100% | 100% | 88.75% |
+| C | 100% | 100% | 75% | 25% | 25% | 51.25% |
+| D | 0% | 100% | 100% | 100% | 75% |  85% |
+
+What do you notice? What do you wonder?
 
 <!--
 - normal curves 
