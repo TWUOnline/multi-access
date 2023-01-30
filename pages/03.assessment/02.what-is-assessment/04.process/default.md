@@ -163,6 +163,13 @@ Perhaps you add a 'Participation' grade, worth 20% and determined by how well yo
 
 What do you notice? What do you wonder?
 
+One key takeaway in all of this is that the numbers we often use to assign grades are not really numbers at all, they are categorical labels on ordinal data, another is that the percentage scale is not an objective scale that can tell someone how much they know. as can be seen in the few examples above, the very subjective decisions we make about how to weight items and categories in the gradebook have very large effects, and these decisions are subjective opinions.
+
+## Solutions
+
+- we know that grading is a very human, messy process with lots of subjectivity and bias at play, so approach it that way. Be open and honest with learners in your courses; have conversations with them; discuss their progress with them; listen to what they say.
+- reduce the number of categories you use to grade from 101 to somewhere between 5-10, or even 2 -> pass/no pass.
+- connect the grades you assign to outcomes in your course; program; department; and the university. Instead of saying a learner scored 59/84 on a test, say that a learner has demonstrated advanced proficiency in analyzing the historical context of Canadian hockey dominance. It is clear which of these statements provides meaningful information.
 <!--
 - normal curves 
 - averages
