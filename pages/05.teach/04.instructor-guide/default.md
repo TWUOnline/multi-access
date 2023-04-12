@@ -16,7 +16,8 @@ Intuitive course navigation and clear instructions are key factors of a well-des
 The Course Introduction page provides an overview of the course, including the following information:
 - *Overview*: Course description, learning outcomes, resources needed, and a list of graded assesments. 
 - *Syllabus*:  Be sure to add a pdf of your **updated syllabus**.  See instructions on [Adding Documents and Page Resources to Moodle](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=24318)
-- *Expectations*: You may wish to provide your expectations for student interaction, participation, 
+- *Expectations*: You may wish to provide your expectations for student interaction, participation in forums and live sessions, and policies (late, Academic honesty etc.).
+  - Consider adding a *Choice* activity where students acknowledge they have read Trinity's [Academic Misconduct & Fraud policy](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud). 
 - *Navigation*: There should be clear instructions on how to navigate the course, including where to find resources, the schedule, activities, and assignment dropboxes.
 - *Learner Support*: Please let students know where they can access support: 
   - [The Learning Commons](https://learningcommons.twu.ca/) webpage
