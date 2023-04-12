@@ -120,7 +120,16 @@ All TWU Online courses should meet accessibility standards. Please connect with 
 
 [ui-accordion-item title="Accessibility"]
 - The course provides accessible text, videos and images for diverse learners.
+  - Blackboard Ally is a tool that can help you identify areas of your course that could be improved to support accessibility for all learners.  Please see [What is Blackboard Ally?](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141400) for instructions.
+  - Another resource you may find useful is the [Accessibility Checklist](https://opentextbc.ca/accessibilitytoolkit/back-matter/appendix-checklist-for-accessibility-toolkit/) from BC Campus.
+
 - Instructions for accessing support (instructor, IT, library, student services), are clearly stated in the course overview and when appropriate, throughout the course.
+  - Please let students know where they can access support: 
+  - [The Learning Commons](https://learningcommons.twu.ca/) 
+  - [The Writing Centre](https://www.twu.ca/academics/academic-professional-support/learning-commons/writing-centre)
+  - [Online Learning Resources](https://www.twu.ca/academics/academic-support/online-learning-resources) (Tips for learning online) 
+  - [TWU Library](https://www.twu.ca/academics/library)
+  - [Student Services](https://www.twu.ca/life-twu/student-services)
 
 [/ui-accordion-item]
 
@@ -186,10 +195,10 @@ Moving Content Within Moodle
 - [Creating a Forum](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=23923)
 - [Creating an Assignment Dropbox](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=24622)
 - [EBSCO Curriculum Builder](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141525)
-- [Quizzes](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=22750)
-editing the Gradebook.
+- [Quizzes](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=22750)  
+- [Gradebook set-up](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=22747)
 - [Turnitin](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141526)
-!!! Please note that Turnitin.com cannot and does not detect plagiarism. If you use this company, please see this page and reconsider it's usefulness in detecting plagiarism in your course.
+!! Please note that Turnitin.com cannot and does not detect plagiarism. If you use this company, please see this page and reconsider it's usefulness in detecting plagiarism in your course.
 
 If you need support, please email [elearning@twu.ca](mailto:elearning@twu.ca).  
 
@@ -209,7 +218,7 @@ In particular, you may want to share the following links:
 - [Tips for Success](https://www.twu.ca/academics/academic-support/online-learning-resources/online-learning-environment/tips-success)
 - [Learning Online: Student Tips for Success](https://vimeo.com/493206161)
 - [Data & Privacy](https://www.twu.ca/academics/academic-support/online-learning-resources/online-learning-environment/data-privacy)
-!!! Please note that in this Data & Privacy section we caution students about Turnitin. If you use this company, please see this page and reconsider it's usefulness in detecting plagiarism in your course.
+!! Please note that in this Data & Privacy section, we caution students about Turnitin. If you use this company, please see this page and reconsider it's usefulness in detecting plagiarism in your course.
 
 [/ui-accordion-item]
 [/ui-accordion]
