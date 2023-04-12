@@ -4,18 +4,27 @@ title: Instructor's Guide for TWU-OL
 
 ## Instructor's Guide for TWU Online
 
-Whether you are new to teaching an online course at TWU, or you have taught online for 20 years, we hope this guide will provide support as you structure your content, plan for connections, and facilitate a welcome and inclusive learning experience for your learners.
+Whether you are new to teaching an online course at TWU, or you have taught online for 20 years, we hope this guide will provide support as you structure your content, plan for connections, and create a welcome and inclusive learning environment for your learners.
 
 ### Structure
 
-Intuitive course navigation and clear instructions are important in your online course design.  Below is a suggested way to organize your material in Moodle (or WordPress). 
+Intuitive course navigation and clear instructions are key factors of a well-designed online course.  Below is a suggested way to organize your material in Moodle (or WordPress). 
 
 [ui-accordion independent=false open=none]
 
 [ui-accordion-item title="1. Course Overview"]
-The Course Introduction page provides an overview of the course, including the **syllabus**, how to navigate the course, and tips for students for learning online.  
+The Course Introduction page provides an overview of the course, including the following information:
+- *Overview*: Course description, learning outcomes, resources needed, and a list of graded assesments. 
+- *Syllabus*:  Be sure to add a pdf of your **updated syllabus**.  See instructions on [Adding Documents and Page Resources to Moodle](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=24318)
+- *Expectations*: You may wish to provide your expectations for student interaction, participation, 
+- *Navigation*: There should be clear instructions on how to navigate the course, including where to find resources, the schedule, activities, and assignment dropboxes.
+- *Learner Support*: Please let students know where they can access support: 
+  - [The Learning Commons](https://learningcommons.twu.ca/) webpage
+  - [The Writing Centre](https://www.twu.ca/academics/academic-professional-support/learning-commons/writing-centre)
+  - [Online Learning Resources](https://www.twu.ca/academics/academic-support/online-learning-resources) webpage - tips for learning online. 
 
-!!! Consider adding a personal welcome message or video from the instructor to connect with learners and welcome them into the course.  
+- One final important element to add on your course home page is a welcome message! This could be the first connection point with your learners to welcome them to Trinity's online learning community. 
+!!! Consider adding a personal welcome video, or photo of yourself! It may go a long way to ease students' anxieties and motivate them to succeed in your course.   
 
 [/ui-accordion-item]
 
@@ -193,7 +202,7 @@ Our TWU Online team can help you with any changes you want to make to the course
 [/ui-accordion-item]
 [ui-accordion-item title="Online Learning Resources for Students"]
  
-If not already on your course Home Page, please direct your studnets to the [Online Learning Resources](https://www.twu.ca/academics/academic-support/online-learning-resources) webpage.
+If not already on your course Home Page, please direct your students to the [Online Learning Resources](https://www.twu.ca/academics/academic-support/online-learning-resources) webpage.
 
 In particular, you may want to share the following links:
 - [Tips for Success](https://www.twu.ca/academics/academic-support/online-learning-resources/online-learning-environment/tips-success)
