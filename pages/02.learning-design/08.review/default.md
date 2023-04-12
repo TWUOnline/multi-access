@@ -1,6 +1,7 @@
 ---
 title: 'Course Review'
 body_classes: 'title-center title-h1h2'
+published: false
 header_bar:
     background: auto
     text: auto
