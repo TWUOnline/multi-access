@@ -52,7 +52,7 @@ Intuitive course navigation and clear instructions are key factors of a well-des
 ### Connection
 Now that you have your basic structure set up for your online course, how do you design a quality online learning experience for your students?  Key to successful online learning is a connection - between learners, between the instructor and learners, and between the learner and the content.  See the graphic below as well as the [Community of Inquiry](https://coi.athabascau.ca/coi-model/) website for more details.
 ![](512px-Community_of_inquiry_model.svg.png)
-!!! Please note that our Instructional Design Team at TWU-OL is here to support you!  Whether you are developing a course for Global, or setting up your own online course, please reach out if you have questions about your course design.
+
 
 [ui-accordion independent=false open=none]
 
@@ -129,3 +129,6 @@ All TWU Online courses should meet accessibility standards. Please connect with 
 
 [/ui-accordion-item]
 [/ui-accordion]
+
+
+!!! Please note that our Instructional Design Team at TWU-OL is here to support you!  Whether you are developing a course for Global, or setting up your own online course, please reach out if you have questions about your course design.
