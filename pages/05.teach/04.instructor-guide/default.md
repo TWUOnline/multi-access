@@ -50,7 +50,8 @@ You may want to find out what tools your students prefer to communicate with eac
 [/ui-accordion]
 
 ### Connection
-Now that you have your basic structure set up for your online course, how do you design a quality online learning experience for your students?  Key to successful online learning is a connection - between learners, between the instructor and learners, and between the learner and the content.
+Now that you have your basic structure set up for your online course, how do you design a quality online learning experience for your students?  Key to successful online learning is a connection - between learners, between the instructor and learners, and between the learner and the content.  See the graphic below as well as the [Community of Inquiry](https://coi.athabascau.ca/coi-model/) website for more details.
+![](512px-Community_of_inquiry_model.svg)
 !!! Please note that our Instructional Design Team at TWU-OL is here to support you!  Whether you are developing a course for Global, or setting up your own online course, please reach out if you have questions about your course design.
 
 [ui-accordion independent=false open=none]
@@ -149,6 +150,53 @@ Embedding videos into Moodle See the following guide for details: Managing Video
 ✔️ Course Visibility: Your course is visible to you as the instructor, but it is hidden from students. When you are ready, follow these instructions to make your course visible to students. Your course will move from the 'Future' tab on your dashboard to the 'In progress' tab on the date indicated in the 'Start date' field of the course settings.
 
 See here for more info on setting up your course: [New Course Set Up](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141403)
+
+[/ui-accordion-item]
+[/ui-accordion]
+
+
+## Online Support
+TWU Online is here to support you and your learners! Please see the following resources to support you as you prepare for your course, as well as resources you can share with your students.
+
+[ui-accordion independent=false open=none]
+
+[ui-accordion-item title="Moodle Support"]
+The Support Services at TWU have built an extensive Knowledge base, with instructions on serveral issues, including: 
+-  [Creating a Course Announcement](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=147930) 
+-  [New Course Setup](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141403)
+- [Importing Content from a Previous Cohort](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=45140)
+Moving Content Within Moodle
+- [Showing or Hiding a Course](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141405)
+-  [Creating Groups and Groupings](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=26495)
+- [Sending Mass Messages](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141489)
+- [Adding Documents and Page Resources to Moodle](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=24318)
+- [Creating a Forum](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=23923)
+- [Creating an Assignment Dropbox](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=24622)
+- [EBSCO Curriculum Builder](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141525)
+- [Quizzes](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=22750)
+editing the Gradebook.
+- [Turnitin](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141526)
+!!! Please note that Turnitin.com cannot and does not detect plagiarism. If you use this company, please see this page and reconsider it's usefulness in detecting plagiarism in your course.
+
+If you need support, please email [elearning@twu.ca].  
+
+[/ui-accordion-item]
+[ui-accordion-item title="Git Support (aka - "I can't seem to edit my course content!")"]
+
+For some OL courses, you may have noticed that parts of your course are difficult to edit. This is because we use a different program (Git) to display your course content in Moodle. This allows for version control and course fidelity across your program.
+
+Our TWU Online team can help you with any changes you want to make to the course materials.  Please email elearning@twu.ca or click on the following link to [Send a Bug report](https://github.com/TWUOnline/bug-tracking/issues/new?assignees=cmadland%2C+kmarjanovic%2C+MeeksonHundoo&labels=bug&template=bug_report.md&title=) to our team.
+
+[/ui-accordion-item]
+[ui-accordion-item title="Online Learning Resources for Students"]
+ 
+If not already on your course Home Page, please direct your studnets to the [Online Learning Resources](https://www.twu.ca/academics/academic-support/online-learning-resources) webpage.
+
+In particular, you may want to share the following links:
+- [Tips for Success](https://www.twu.ca/academics/academic-support/online-learning-resources/online-learning-environment/tips-success)
+- [Learning Online: Student Tips for Success](https://vimeo.com/493206161)
+- [Data & Privacy](https://www.twu.ca/academics/academic-support/online-learning-resources/online-learning-environment/data-privacy)
+!!! Please note that in this Data & Privacy section we caution students about Turnitin. If you use this company, please see this page and reconsider it's usefulness in detecting plagiarism in your course.
 
 [/ui-accordion-item]
 [/ui-accordion]
