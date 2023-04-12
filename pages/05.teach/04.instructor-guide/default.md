@@ -1,5 +1,5 @@
 ---
-title: Instructor's Guide for TWU Online
+title: Instructor's Guide for TWU-OL
 ---
 
 ## Instructor's Guide for TWU Online
@@ -51,7 +51,7 @@ You may want to find out what tools your students prefer to communicate with eac
 
 ### Connection
 Now that you have your basic structure set up for your online course, how do you design a quality online learning experience for your students?  Key to successful online learning is a connection - between learners, between the instructor and learners, and between the learner and the content.  See the graphic below as well as the [Community of Inquiry](https://coi.athabascau.ca/coi-model/) website for more details.
-![](512px-Community_of_inquiry_model.svg)
+![](512px-Community_of_inquiry_model.svg.png)
 !!! Please note that our Instructional Design Team at TWU-OL is here to support you!  Whether you are developing a course for Global, or setting up your own online course, please reach out if you have questions about your course design.
 
 [ui-accordion independent=false open=none]
@@ -111,10 +111,13 @@ All TWU Online courses should meet accessibility standards. Please connect with 
 [ui-accordion-item title="Accessibility"]
 - The course provides accessible text, videos and images for diverse learners.
 - Instructions for accessing support (instructor, IT, library, student services), are clearly stated in the course overview and when appropriate, throughout the course.
-[ui-accordion-item title="Inclusion"]
 
-- Learners are able to participate in a peer support forum (e.g. Learning Café), for course-related questions or community-building activities.
-- The instructional materials are free of bias, culturally inclusive, and provide flexibility and choice.
+[/ui-accordion-item]
+
+[ui-accordion-item title="Inclusion"]
+- Learners are able to participate in a peer support forum (e.g. Learning Café), for course-related questions or community-building activities.  
+- The instructional materials are free of bias, culturally inclusive, and provide flexibility and choice.  
+  
 [/ui-accordion-item]
 [/ui-accordion]
 
@@ -178,7 +181,7 @@ editing the Gradebook.
 - [Turnitin](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141526)
 !!! Please note that Turnitin.com cannot and does not detect plagiarism. If you use this company, please see this page and reconsider it's usefulness in detecting plagiarism in your course.
 
-If you need support, please email [elearning@twu.ca].  
+If you need support, please email [elearning@twu.ca](mailto:elearning@twu.ca).  
 
 [/ui-accordion-item]
 [ui-accordion-item title="Git Support (aka - "I can't seem to edit my course content!")"]
