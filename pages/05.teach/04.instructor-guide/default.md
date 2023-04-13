@@ -10,7 +10,7 @@ Whether you are new to teaching an online course at TWU, or you have taught onli
 
 Intuitive course navigation and clear instructions are key factors of a well-designed online course.  Below is a suggested way to organize your material in Moodle (or WordPress). 
 
-[ui-accordion independent=false open=none]
+[ui-accordion independent=true open=none]
 
 [ui-accordion-item title="1. Course Overview"]
 The Course Introduction page provides an overview of the course, including the following information:
@@ -50,7 +50,7 @@ If you have several weeks or units in your course, you (& your students!) may fi
 - Please ensure that the assignments have the detailed instructions, including grading criteria you will use to assess the quality of the work.
 - Add the due dates in the Assignment Dropbox settings.
 - Check that the Gradebook is set up correctly.  Please see the Online Learning article on [Gradebook](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=22747) for instructions.
-
+[/ui-accordion-item]
 [ui-accordion-item title="5. Community"]
 
 How is Community promoted in TWU Online courses?  The Community tab is a section where you can keep announcements, ungraded discussion forums, and FAQ.  Please make this section work for you and your students!  The idea is to promote inclusion, connections between peers, and communication with the instructor.
