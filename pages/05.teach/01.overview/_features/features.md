@@ -13,5 +13,10 @@ features:
         text: 'Engagement | Impact'
         icon: tabler/question.svg
         link: 'https://multi-access.twu.ca/teach/hips'
-vertical_classes: 'md:grid-cols-4 '
+    -
+        title: 'Instructor's Guide'
+        text: 'Structure | Connections | Inclusion | Support'
+        icon: tabler/question.svg
+        link: 'https://multi-access.twu.ca/teach/instructor-guide'
+vertical_classes: 'md:grid-cols-3 '
 ---
