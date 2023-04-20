@@ -23,5 +23,5 @@ features:
         text: 'FAQ for Course Developers'
         icon: tabler/math-function.svg
         link: 'https://multi-access.twu.ca/sme/overview#faq'
-vertical_classes: 'md:grid-cols-3 '
+vertical_classes: 'md:grid-cols-3'
 ---
