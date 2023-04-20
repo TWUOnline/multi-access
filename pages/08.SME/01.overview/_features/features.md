@@ -1,7 +1,7 @@
 ---
 title: 'Developing an Online Course'
 body_classes: modular
-variation: horizontal
+variation: vertical
 features:
     -
         title: 'What to Expect'
@@ -23,5 +23,5 @@ features:
         text: 'FAQ for Course Developers'
         icon: tabler/math-function.svg
         link: 'https://multi-access.twu.ca/sme/overview#faq'
-vertical_classes: 'md:grid-cols-4 '
+vertical_classes: 'md:grid-cols-3 '
 ---
