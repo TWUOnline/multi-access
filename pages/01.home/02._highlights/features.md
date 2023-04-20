@@ -6,7 +6,7 @@ features:
         title: 'Learning Design'
         text: Plan & design your course
         icon: tabler/school.svg
-        link: 'https://multi-access.twu.ca/design/overview'
+        link: 'https://multi-access.twu.ca/learning-design/overview'
     -
         title: 'Assessment'
         text: Ideas for learning activities & assessment
