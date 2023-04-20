@@ -1,7 +1,7 @@
 ---
 title: 'Developing an Online Course'
 body_classes: modular
-variation: vertical
+variation: horizontal
 features:
     -
         title: 'What to Expect'
@@ -11,7 +11,7 @@ features:
     -
         title: 'FAR Centres'
         text: 'Facilitated Learning Model | Roles of Instructors and Facilitators'
-        icon: tabler/question.svg
+        icon: tabler/books.svg
         link: 'https://multi-access.twu.ca/sme/overview#far'
     -
         title: 'Testimonials'
