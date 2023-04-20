@@ -14,7 +14,7 @@ features:
         icon: tabler/question.svg
         link: 'https://multi-access.twu.ca/teach/hips'
     -
-        title: 'Instructor\'s Guide'
+        title: 'Instructors Guide'
         text: 'Structure | Connections | Inclusion | Support'
         icon: tabler/question.svg
         link: 'https://multi-access.twu.ca/teach/instructor-guide'
