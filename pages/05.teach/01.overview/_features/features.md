@@ -1,6 +1,5 @@
 ---
 title: 'Teach'
-published: false
 body_classes: modular
 variation: vertical
 features:
@@ -15,7 +14,7 @@ features:
         icon: tabler/question.svg
         link: 'https://multi-access.twu.ca/teach/hips'
     -
-        title: 'Instructor's Guide'
+        title: 'Instructor\'s Guide'
         text: 'Structure | Connections | Inclusion | Support'
         icon: tabler/question.svg
         link: 'https://multi-access.twu.ca/teach/instructor-guide'
