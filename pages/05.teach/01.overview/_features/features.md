@@ -11,12 +11,12 @@ features:
     -
         title: 'High Impact Practices'
         text: 'Engagement | Impact'
-        icon: tabler/question.svg
+        icon: tabler/world.svg
         link: 'https://multi-access.twu.ca/teach/hips'
     -
         title: 'Instructors Guide'
         text: 'Structure | Connections | Inclusion | Support'
         icon: tabler/question.svg
         link: 'https://multi-access.twu.ca/teach/instructor-guide'
-vertical_classes: 'md:grid-cols-3 '
+vertical_classes: 'md:grid-cols-3'
 ---
