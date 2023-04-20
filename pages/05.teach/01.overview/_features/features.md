@@ -16,7 +16,7 @@ features:
     -
         title: 'Instructors Guide'
         text: 'Structure | Connections | Inclusion | Support'
-        icon: tabler/question.svg
+        icon: tabler/arrow-guide.svg
         link: 'https://multi-access.twu.ca/teach/instructor-guide'
 vertical_classes: 'md:grid-cols-3'
 ---
