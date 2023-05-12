@@ -3,7 +3,7 @@ title: 'Course Resources'
 body_classes: modular
 image: lukas-blazek-GnvurwJsKaY-unsplash.jpg
 media_order: lukas-blazek-GnvurwJsKaY-unsplash.jpg
-image_align: left
+image_align: right
 ---
 
 After creating course learning outcomes and considering assessment techniques, another crucial piece to course design is choosing appropriate and effective resources, such as readings, video, audio, and other learning experiences .  Please click on the items below for more helpful ideas.
