@@ -7,11 +7,13 @@ header_bar:
 ---
 
 ## Planning Your Course
+
+
+Designing a course is like planning to build a house. There are a lot of details to think through, and you start with asking some key questions, such as who is the house for, what features are required, what support is needed, what will make it feel like a home?, etc.
 ### Key Planning Questions
 
 ![alt-text](courseplanning.jpg "Hand Writing")
 
-Designing a course is like planning to build a house. There are a lot of details to think through, and you start with asking some key questions, such as who is the house for, what features are required, what support is needed, what will make it feel like a home?, etc.
 
 Similarly, for course design, we ask:
 
@@ -65,7 +67,7 @@ Feel free to use/copy the [TWU Course Blueprint Template](https://docs.google.co
 Here are key steps in filling out a blueprint: (Click the title on the steps below)
 
 
-[ui-accordion independent=false open=none]
+[ui-accordion independent=true open=none]
 
 [ui-accordion-item title="STEP 1: Big Ideas and Essential Questions"]
 
