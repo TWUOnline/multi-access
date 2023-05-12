@@ -4,7 +4,7 @@ body_classes: modular
 variation: vertical
 features:
     -
-        title: 'Foundations Sample Course'
+        title: 'Community Building'
         text: 'Inquiry-based | Community-focused | WordPress design'
         icon: tabler/chart-bubble.svg
         link: 'https://multi-access.twu.ca/sme/overview#fndn'
