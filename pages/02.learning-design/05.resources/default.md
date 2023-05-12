@@ -113,7 +113,7 @@ Search for full courses, lessons, activities, assessments, resources...and reuse
 
 [ui-tab title="Graphics"]
 
-[presentation="multi-access/presentations/ldrs300-u1-1"]
+[presentation="presentations/graphics"]
 
 [/ui-tab]
 

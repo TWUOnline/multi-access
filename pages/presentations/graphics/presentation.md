@@ -1,5 +1,5 @@
 ---
-title: 'Spheres of Influence'
+title: 'Graphics in OL Courses'
 date: '17:33 15-08-2019'
 hide_title: false
 hide_git_sync_repo_link: true
