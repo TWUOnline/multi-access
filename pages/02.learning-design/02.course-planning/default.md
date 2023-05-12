@@ -212,6 +212,9 @@ Our online team often encourages instructors to consider Open Educational Resour
 
 
 
+[/ui-tab]
+[ui-tab title="Unit Writing"]
+
 ![](auditorium-572776_1920.jpg)
 Image by <a href="https://pixabay.com/users/isdiva-657557/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=572776">Bonnie Taylor, EdD</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=572776">Pixabay</a>
 
@@ -227,10 +230,6 @@ When describing what you'll go over in the lecture, what key points will you giv
 
 Now, imagine you had to do this online...asynchronously.
 
-
-
-[/ui-tab]
-[ui-tab title="Unit Writing"]
 ### Unit Writing
 
 When we write our units, we first consider our online learners. They may be sitting at a desk, after a long day of work/studies/  They have 2 hours to study tonight.  As they click on "Unit 1"...what do they see and read that will interest them in the topic?  How will they know what the unit is about and what activities they need to complete?

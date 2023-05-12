@@ -5,7 +5,7 @@ header_bar:
     background: auto
     text: auto
 visibility: true
-published: true
+published: false
 ---
 
 ![](auditorium-572776_1920.jpg)
