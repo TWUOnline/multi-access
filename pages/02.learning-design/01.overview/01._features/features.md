@@ -2,6 +2,7 @@
 title: 'Learning Design'
 body_classes: modular
 variation: vertical
+published: false
 features:
     -
         title: 'Planning'
