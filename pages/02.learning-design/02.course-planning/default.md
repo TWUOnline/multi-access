@@ -224,7 +224,7 @@ While the course design process is intended to be flexible and fluid, it is also
 [/ui-tab]
 [ui-tab title="Unit Writing"]
 
-![](auditorium-572776_1920.jpg)
+![](auditorium.jpg)
 Image by <a href="https://pixabay.com/users/isdiva-657557/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=572776">Bonnie Taylor, EdD</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=572776">Pixabay</a>
 
 ### Setting the Stage
