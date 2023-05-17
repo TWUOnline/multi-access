@@ -133,7 +133,7 @@ Search for full courses, lessons, activities, assessments, resources...and reuse
 In the tabs below are some links to help students and instructors **communicate, collaborate, share, engage and create.**
 Also, be sure to check out the tools available through Moodle (e.g. [H5P](https://h5p.org/) is a great one!).
 
-​[ui-accordion independent=false open=none]
+​[ui-accordion independent=true open=none]
 
 [ui-accordion-item title="Meet & Discuss"]
 
