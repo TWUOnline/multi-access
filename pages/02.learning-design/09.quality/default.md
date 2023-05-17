@@ -10,8 +10,7 @@ header_bar:
 
 
 [ui-tabs position="top-left" active="0" theme="lite"]
-[ui-tab title=Learning Environment"]
-
+[ui-tab title="Learning Environment"]
 
 
 <p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://ma-lead.github.io/ldrs664/learning-communities.html#learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
