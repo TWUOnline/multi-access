@@ -22,18 +22,15 @@ header_bar:
 
 
 [/ui-tab]
-[ui-tab title="Backward Design"]
+[ui-tab title="Course Connections"]
 
 
 [/ui-tab]
-[ui-tab title="Backward Design"]
+[ui-tab title="Inclusive"]
 
 
 [/ui-tab]
-[ui-tab title="Backward Design"]
-
-[/ui-tab]
-[ui-tab title="Backward Design"]
+[ui-tab title="Quality Framework"]
 
 
 ## Quality Framework
