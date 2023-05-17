@@ -1,5 +1,5 @@
 ---
-title: 'Quality Framework for TWU-OL'
+title: 'Online Courses at TWU'
 body_classes: 'title-center title-h1h2'
 header_bar:
     background: auto

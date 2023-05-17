@@ -135,7 +135,7 @@ We often use Bloom’s Taxonomy to help write learning outcomes. The graphics be
 
 See the following images that suggest key verbs related to learning activities.
 ![](Bloom’s_Taxonomy_Verbs.png)
-*"Bloom's Taxonomy" [flickr photo by Vandy CFT](https://flickr.com/photos/vandycft/29428436431) shared under a Creative Commons (BY) license*
+*"Bloom's Taxonomy Verbs" [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloom%E2%80%99s_Taxonomy_Verbs.png)*
 
 For more, see [Revised Bloom’s Taxonomy](https://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/) from Iowa State University.
 
