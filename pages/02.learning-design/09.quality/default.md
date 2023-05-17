@@ -9,6 +9,34 @@ header_bar:
 # What Makes a Quality Online Course at TWU?
 
 
+[ui-tabs position="top-left" active="0" theme="lite"]
+[ui-tab title=Learning Environment"]
+
+
+
+<p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://ma-lead.github.io/ldrs664/learning-communities.html#learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
+
+
+
+[/ui-tab]
+[ui-tab title=""]
+
+
+[/ui-tab]
+[ui-tab title="Backward Design"]
+
+
+[/ui-tab]
+[ui-tab title="Backward Design"]
+
+
+[/ui-tab]
+[ui-tab title="Backward Design"]
+
+[/ui-tab]
+[ui-tab title="Backward Design"]
+
+
 ## Quality Framework
 At TWU, we have a commitment to student success - on campus and online.  As a campus instructor, you may measure a successful term by hearing stories from your students, reviewing your SETL surveys, comparing the grades you give, or by other means.
 
@@ -135,4 +163,6 @@ All TWU Online courses should meet accessibility standards. Please connect with 
 
 
 
-<p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://ma-lead.github.io/ldrs664/learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
+[/ui-tab]
+
+[/ui-tabs]
