@@ -103,17 +103,6 @@ Search for full courses, lessons, activities, assessments, resources...and reuse
 [BC Campus SOL*R Repository](https://solr.bccampus.ca/wp/)  
 [Open University](https://www.open.edu/openlearn/)  
 
-[/ui-tab]
-
-[ui-tab title="Videos"]
-
-
-[/ui-tab]
-
-
-[ui-tab title="Graphics"]
-
-[presentation="presentations/graphics"]
 
 [/ui-tab]
 
