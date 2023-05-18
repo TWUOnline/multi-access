@@ -8,17 +8,16 @@ header_bar:
 
 # What Makes a Quality Online Course at TWU?
 
+Trinity Western University is known for its high quality of teaching and learning.  What does quality teaching and learning look like online?  In the sections below you will find examples of how we structure our courses (learning environment), how students connect in courses (to each other, instructors, and course content), how we support students in their online learning.
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Learning Environment"]
 
+At TWU, we primarily use Moodle as our Learning Management System (LMS).  We also support WordPress, as well as other ways to display course content (Bookdown, Pressbooks, etc.).  In this section we want to provide some examples of structured courses with clear and intuitive navigation.  Note that there is not one "Master Structure" at Trinity, as each instructor brings their own unique teaching presence into the online environment.  Rather, as you explore the course samples below, consider whether your course structure is easy to navigate and whether students can find what they are looking for.
+
+Sample course: LDRS 664 - Creating Authentic Learning Communities (made with Bookdown)
 
 <p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://ma-lead.github.io/ldrs664/learning-communities.html#learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
-
-
-
-[/ui-tab]
-[ui-tab title=""]
 
 
 [/ui-tab]
@@ -26,7 +25,7 @@ header_bar:
 
 
 [/ui-tab]
-[ui-tab title="Inclusive"]
+[ui-tab title="Supporting Students"]
 
 
 [/ui-tab]
