@@ -15,10 +15,21 @@ Trinity Western University is known for its high quality of teaching and learnin
 
 At TWU, we primarily use Moodle as our Learning Management System (LMS).  We also support WordPress, as well as other ways to display course content (Bookdown, Pressbooks, etc.).  In this section we want to provide some examples of structured courses with clear and intuitive navigation.  Note that there is not one "Master Structure" at Trinity, as each instructor brings their own unique teaching presence into the online environment.  Rather, as you explore the course samples below, consider whether your course structure is easy to navigate and whether students can find what they are looking for.
 
-Sample course: LDRS 664 - Creating Authentic Learning Communities (made with Bookdown)
+### Sample course: LDRS 500: Leadership Foundations (Moodle)
+
+![](ldrs500-homepage.png)
+
+### Sample course: LDRS 664: Creating Authentic Learning Communities (made with Bookdown)
 
 <p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://ma-lead.github.io/ldrs664/learning-communities.html#learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
 
+
+### Sample course: FNDN 101: The Liberal Arts Journey (designed in WordPress)
+
+<p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://create.twu.ca/fndn101gxp.html#learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
+
+
+<p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://create.twu.ca/fndn101gxp/units.html#learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
 
 [/ui-tab]
 [ui-tab title="Course Connections"]
