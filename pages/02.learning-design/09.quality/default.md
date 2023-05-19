@@ -35,10 +35,12 @@ At TWU, we primarily use Moodle as our Learning Management System (LMS).  We als
 Key to successful online learning is a connection - between learners, between the instructor and learners, and between the learner and the content.  See the graphic below as well as the [Community of Inquiry](https://coi.athabascau.ca/coi-model/) website for more details.
 ![](512px-Community_of_inquiry_model.svg.png)
 
-Below are some techniques 
+Below are some ways instructors can facilitate meaningful connections in online courses:
+
 [ui-accordion independent=true open=none]
 
 [ui-accordion-item title="Connecting to Instructors"]
+
 - Warmly welcome students to the course with a self-introduction (video or written form). Outline what they can expect and highlight key aspects of the course.
 - Stay connected with students by offering ongoing support throughout the course.
 - Utilize different channels such as emails, assessment feedback, welcome videos, weekly debriefing sessions, and regular updates to provide assistance and address any concerns.
@@ -47,6 +49,7 @@ Below are some techniques
 [/ui-accordion-item]
 
 [ui-accordion-item title="Connecting to Course Content"]
+
 - Establish a clear relationship between the course/unit learning outcomes, learning activities, and assessments.
 - Ensure that the learning outcomes are aligned with appropriate activities and assessments, creating a cohesive learning experience. This alignment helps students understand the purpose and relevance of their activities and assessments.
 - Develop assessments that effectively measure the achievement of the course learning outcomes and align with the course activities and resources.
@@ -57,14 +60,16 @@ Below are some techniques
 [/ui-accordion-item]
 
 [ui-accordion-item title="Connecting to Peers"]
+
 - Encourage learners to introduce themselves to the class. This helps foster a sense of connection and community among students.
 - Encourage student-instructor, student-student, and student-content interactions that reflect Trinity Western University core values.
 - Provide a peer support forum (announcements???) where learners can engage with each other for course-related questions or community-building activities.
 - This forum serves as a platform for students to seek assistance, share insights, and foster collaborative learning. Encouraging participation in such forums enhances peer support and strengthens the sense of community within the course.
 
-
 [/ui-accordion-item]
+
 [/ui-tab]
+
 [ui-tab title="Supporting Students"]
 
 
