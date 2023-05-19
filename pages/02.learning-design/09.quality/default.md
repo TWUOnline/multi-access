@@ -37,14 +37,18 @@ Key to successful online learning is a connection - between learners, between th
 
 Below are some ways instructors can facilitate meaningful connections in online courses:
 
-[ui-accordion independent=true open=none]
 
+[ui-accordion independent=true open=none]
 [ui-accordion-item title="Connecting to Instructors"]
 
 - Warmly welcome students to the course with a self-introduction (video or written form). Outline what they can expect and highlight key aspects of the course.
 - Stay connected with students by offering ongoing support throughout the course.
 - Utilize different channels such as emails, assessment feedback, welcome videos, weekly debriefing sessions, and regular updates to provide assistance and address any concerns.
 - Ensure students diverse opportunities for formative feedback. This helps them gauge their progress and make necessary improvements.
+
+Here's a sample welcoming students to a new term at TWU:
+<iframe src="https://player.vimeo.com/video/659409173?h=a2ea571efc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="600" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="H5P"></iframe>
+
 
 [/ui-accordion-item]
 
