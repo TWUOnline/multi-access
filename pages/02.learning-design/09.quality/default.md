@@ -26,12 +26,44 @@ At TWU, we primarily use Moodle as our Learning Management System (LMS).  We als
 
 ### Sample course: FNDN 101: The Liberal Arts Journey (designed in WordPress)
 
-[h5p id="547"]
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=547" width="841" height="668" frameborder="0" allowfullscreen="allowfullscreen" title="Key Ingredients Identification Game"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 [/ui-tab]
 [ui-tab title="Course Connections"]
 
+Key to successful online learning is a connection - between learners, between the instructor and learners, and between the learner and the content.  See the graphic below as well as the [Community of Inquiry](https://coi.athabascau.ca/coi-model/) website for more details.
+![](512px-Community_of_inquiry_model.svg.png)
 
+Below are some techniques 
+[ui-accordion independent=true open=none]
+
+[ui-accordion-item title="Connecting to Instructors"]
+- Warmly welcome students to the course with a self-introduction (video or written form). Outline what they can expect and highlight key aspects of the course.
+- Stay connected with students by offering ongoing support throughout the course.
+- Utilize different channels such as emails, assessment feedback, welcome videos, weekly debriefing sessions, and regular updates to provide assistance and address any concerns.
+- Ensure students diverse opportunities for formative feedback. This helps them gauge their progress and make necessary improvements.
+
+[/ui-accordion-item]
+
+[ui-accordion-item title="Connecting to Course Content"]
+- Establish a clear relationship between the course/unit learning outcomes, learning activities, and assessments.
+- Ensure that the learning outcomes are aligned with appropriate activities and assessments, creating a cohesive learning experience. This alignment helps students understand the purpose and relevance of their activities and assessments.
+- Develop assessments that effectively measure the achievement of the course learning outcomes and align with the course activities and resources.
+- Make sure that the assessments are consistent with the knowledge and skills students are expected to acquire through their engagement with the course.
+- Design learning activities that scaffold and support students in building foundational knowledge and skills within the course.
+- Provide opportunities for gradual progression and reinforcement of concepts and skills.
+
+[/ui-accordion-item]
+
+[ui-accordion-item title="Connecting to Peers"]
+- Encourage learners to introduce themselves to the class. This helps foster a sense of connection and community among students.
+- Encourage student-instructor, student-student, and student-content interactions that reflect Trinity Western University core values.
+- Provide a peer support forum (announcements???) where learners can engage with each other for course-related questions or community-building activities.
+- This forum serves as a platform for students to seek assistance, share insights, and foster collaborative learning. Encouraging participation in such forums enhances peer support and strengthens the sense of community within the course.
+
+
+[/ui-accordion-item]
 [/ui-tab]
 [ui-tab title="Supporting Students"]
 
@@ -62,7 +94,7 @@ Also see the [Checklist for Quality Online Courses at Trinity Western University
 ### Structure
 Intuitive course navigation and clear instructions are key factors of a well-designed online course.  Below is a suggested way to organize your material in Moodle (or WordPress). 
 
-[ui-accordion independent=false open=none]
+[ui-accordion independent=true open=none]
 [ui-accordion-item title="Navigation"]
 - Instructions are clear on how to navigate the course and how to get started.
 - The course navigation facilitates ease of use.
@@ -85,7 +117,7 @@ Now that you have your basic structure set up for your online course, how do you
 ![](512px-Community_of_inquiry_model.svg.png)
 
 
-[ui-accordion independent=false open=none]
+[ui-accordion independent=true open=none]
 
 [ui-accordion-item title="Connecting to Instructors"]
 - Provide support for students throughout the course (e.g. through emails, assessment feedback, welcome videos, weekly debriefing, and other updates).
@@ -137,7 +169,7 @@ Now that you have your basic structure set up for your online course, how do you
 
 All TWU Online courses should meet accessibility standards. Please connect with Trinity's [Accessibility Services](https://www.twu.ca/learning-commons/centre-accessible-learning/accessibility-services) and/or our [Online team](mailto:online@twu.ca) to help ensure all course materials are accessible and inclusive.
 
-[ui-accordion independent=false open=none]
+[ui-accordion independent=true open=none]
 
 [ui-accordion-item title="Accessibility"]
 - The course provides accessible text, videos and images for diverse learners.
