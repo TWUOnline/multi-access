@@ -27,8 +27,6 @@ At TWU, we primarily use Moodle as our Learning Management System (LMS).  We als
 ### Sample course: FNDN 101: The Liberal Arts Journey (designed in WordPress)
 
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=547" width="841" height="668" frameborder="0" allowfullscreen="allowfullscreen" title="Key Ingredients Identification Game"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
 [/ui-tab]
 [ui-tab title="Course Connections"]
 
