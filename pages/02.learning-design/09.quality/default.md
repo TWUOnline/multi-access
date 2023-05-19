@@ -71,6 +71,8 @@ Here's a sample welcoming students to a new term at TWU:
 
 [/ui-accordion-item]
 
+[/ui-accordion]
+
 [/ui-tab]
 
 [ui-tab title="Supporting Students"]
