@@ -8,7 +8,17 @@ header_bar:
 
 # What Makes a Quality Online Course at TWU?
 
-Trinity Western University is known for its high quality of teaching and learning.  What does quality teaching and learning look like online?  In the sections below you will find examples of how we structure our courses (learning environment), how students connect in courses (to each other, instructors, and course content), how we support students in their online learning.
+Trinity Western University is known for its high quality of teaching and learning.  What does quality teaching and learning look like online?  Our team at TWU Online is committed to helping instructors design high quality, inquiry-based transformational educational experience for all students.
+
+In order to support faculty facilitate an engaging online experience for students, we follow a quality framework focusing on structure, connection, and inclusion.
+
+- **STRUCTURE**: Courses are built in a structured learning environment that provides learners with clear instructions, expectations, and navigation.
+- **CONNECTION**: Learners are provided opportunities to connect to instructors, build community with their peers, and engage with the course content in meaningful ways. 
+- **INCLUSION:** Courses promote accessibility, culturally responsiveness, and relatedness.
+
+In the sections below you will find examples and suggestions for structuring your content, planning for connections, and creating a welcoming and inclusive learning environment for your learners.
+
+
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Learning Environment"]
@@ -32,7 +42,7 @@ At TWU, we primarily use Moodle as our Learning Management System (LMS).  We als
 [ui-tab title="Course Connections"]
 
 Key to successful online learning is a connection - between learners, between the instructor and learners, and between the learner and the content.  See the graphic below as well as the [Community of Inquiry](https://coi.athabascau.ca/coi-model/) website for more details.
-![](512px-Community_of_inquiry_model.svg.png)
+![](courseconnections.jpg)
 
 Below are some ways instructors can facilitate meaningful connections in online courses:
 
@@ -77,8 +87,42 @@ Here's a sample welcoming students to a new term at TWU:
 
 [ui-tab title="Supporting Students"]
 
+### Inclusion
+
+TWU Online courses promote accessibility, culturally responsiveness, and relatedness.  To check for accessibility, instructors are encourage to connect with Trinity's [Accessibility Services](https://www.twu.ca/learning-commons/centre-accessible-learning/accessibility-services) and/or our Online team to help ensure all course materials are accessible and inclusive.
+
+[ui-accordion independent=true open=none]
+
+[ui-accordion-item title="Accessibility"]
+- The course provides accessible text, videos and images for diverse learners.
+  - Blackboard Ally is a tool that can help you identify areas of your course that could be improved to support accessibility for all learners.  Please see [What is Blackboard Ally?](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141400) for instructions.
+  - Another resource you may find useful is the [Accessibility Checklist](https://opentextbc.ca/accessibilitytoolkit/back-matter/appendix-checklist-for-accessibility-toolkit/) from BC Campus.
+
+- Instructions for accessing support (instructor, IT, library, student services), are clearly stated in the course overview and when appropriate, throughout the course.
+  - Please let students know where they can access support: 
+  - [The Learning Commons](https://learningcommons.twu.ca/) 
+  - [The Writing Centre](https://www.twu.ca/academics/academic-professional-support/learning-commons/writing-centre)
+  - [Online Learning Resources](https://www.twu.ca/academics/academic-support/online-learning-resources) (Tips for learning online) 
+  - [TWU Library](https://www.twu.ca/academics/library)
+  - [Student Services](https://www.twu.ca/life-twu/student-services)
+
+[/ui-accordion-item]
+
+[ui-accordion-item title="Inclusion"]
+- Learners are able to participate in a peer support forum (e.g. Learning Café), for course-related questions or community-building activities.  
+- The instructional materials are free of bias, culturally inclusive, and provide flexibility and choice.  
+
+[/ui-accordion-item]
+[/ui-accordion]
+
+!!! Please note that our Instructional Design Team at TWU-OL is here to support you!  Whether you are developing a course for Global, or setting up your own online course, please reach out if you have questions about your course design.
+
 
 [/ui-tab]
+
+
+<!-->
+
 [ui-tab title="Quality Framework"]
 
 
@@ -203,11 +247,12 @@ All TWU Online courses should meet accessibility standards. Please connect with 
 [/ui-accordion-item]
 [/ui-accordion]
 
-
 !!! Please note that our Instructional Design Team at TWU-OL is here to support you!  Whether you are developing a course for Global, or setting up your own online course, please reach out if you have questions about your course design.
 
 
-
 [/ui-tab]
+-->
 
 [/ui-tabs]
+
+Key Resource: [Checklist for Quality Online Courses at Trinity Western University](https://docs.google.com/document/d/13TD6ZdTnCX3AQjxlHLoPZGCAGTZMRBzvGkKww1IcbpY/edit) or a simplified [Quick Checklist & Tips](https://docs.google.com/document/d/17Jvo3B5fRrKj3ymu72gqFfd2tZv7NqHcN89VTKV55Pc/edit?usp=sharing)
