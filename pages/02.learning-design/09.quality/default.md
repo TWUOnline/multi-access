@@ -28,8 +28,21 @@ We invite you to delve into the sections below to gain a comprehensive understan
 At TWU, we primarily use Moodle as our Learning Management System (LMS).  We also support WordPress, as well as other ways to display course content (Bookdown, Pressbooks, etc.).  In this section we want to provide some examples of structured courses with clear and intuitive navigation.  Note that there is not one "Master Structure" at Trinity, as each instructor brings their own unique teaching presence into the online environment.  Rather, as you explore the course samples below, consider whether your course structure is easy to navigate and whether students can find what they are looking for.
 
 ### Sample course: LDRS 500: Leadership Foundations 
-Our first example course 
-![](ldrs500-homepage.png)
+Welcome to LDRS 500, an online course designed to equip learners with the essential leadership skills needed in the dynamic landscape of the 21st century. In the slideshow presentation below, we will walk you through the structure of our online course at TWU, highlighting the key elements that make learning with us a seamless and enriching experience.
+
+*Course Highlights:*
+
+**Ease of Navigation**: We understand the importance of a user-friendly interface when it comes to online learning. Our course platform provides intuitive navigation, allowing learners to easily access course materials, units, and resources. With just a few clicks, learners can navigate through the course, find what they need, and focus on their learning journey.
+
+**Clarity for Students**: Clarity is paramount in our online courses. Each module is carefully structured to provide clear objectives, instructions, and learning outcomes. Within each module, you will find organized lessons, multimedia content, and interactive activities that guide you through the course material. Our goal is to ensure that learners have a clear understanding of what is expected and how to succeed in their learning.
+
+**Engaging Course Content**: Engagement is key to effective learning, and LDRS 500 is designed to keep learners captivated throughout the course. We incorporate diverse and interactive content, such as videos, case studies, quizzes, and real-world examples, to enhance understanding of leadership principles. Leaners are encouraged to actively participate, share insights, and engage in thought-provoking discussions with their peers.
+
+**Community**: At TWU, we believe that a strong community enhances the learning experience. Throughout LDRS 500, learners have the opportunity to connect with fellow students, instructors, and industry professionals. Discussion boards, group projects, and learning labs foster a sense of belonging and encourage collaborative learning. Learners are encourages to engage with their peers, learn from instructors' experiences, and build lasting connections.
+
+Please see the presentation below, highlighting the ease of navigation, clarity for students, engaging course content, and a strong sense of community. 
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=551" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 
 ---
 ### Sample course: FNDN 101: The Liberal Arts Journey 
