@@ -8,17 +8,19 @@ header_bar:
 
 # What Makes a Quality Online Course at TWU?
 
-Trinity Western University is known for its high quality of teaching and learning.  What does quality teaching and learning look like online?  Our team at TWU Online is committed to helping instructors design high quality, inquiry-based transformational educational experience for all students.
+Trinity Western University is recognized for its unwavering commitment to excellence in teaching and learning. As you navigate through this section of our website, we invite you to explore and gain valuable insights into the nature of TWU Online courses.
 
-In order to support faculty facilitate an engaging online experience for students, we follow a quality framework focusing on structure, connection, and inclusion.
+Built upon a robust quality framework, our online courses have been meticulously designed to provide an engaging and enriching educational experience. We focus on three essential pillars: structure, connection, and inclusion.
 
-- **STRUCTURE**: Courses are built in a structured learning environment that provides learners with clear instructions, expectations, and navigation.
-- **CONNECTION**: Learners are provided opportunities to connect to instructors, build community with their peers, and engage with the course content in meaningful ways. 
-- **INCLUSION:** Courses promote accessibility, culturally responsiveness, and relatedness.
+**STRUCTURE**: Our courses are thoughtfully crafted within a well-organized learning environment. Learners benefit from clear instructions, well-defined expectations, and intuitive navigation, ensuring a seamless and structured learning journey.
 
-In the sections below you will find examples and suggestions for structuring your content, planning for connections, and creating a welcoming and inclusive learning environment for your learners.
+**CONNECTION**: We prioritize meaningful connections within our online courses. Learners have opportunities to engage with instructors, foster a sense of community with fellow students, and actively interact with course content in ways that promote deep understanding and engagement.
 
+**INCLUSION**: Our commitment to inclusion is at the heart of our online courses. We strive to create an accessible and supportive learning environment that embraces diversity, promotes cultural responsiveness, and nurtures a sense of belonging for all learners.
 
+Throughout the following sections, you will discover examples and practical suggestions that demonstrate how our courses effectively integrate these principles. Whether you are an instructor seeking inspiration for course design or simply interested in gaining insights into the TWU Online experience, we are confident that you will find valuable information to suit your interests and needs.
+
+We invite you to delve into the sections below to gain a comprehensive understanding of how Trinity Western University approaches online course design, fosters connections, and cultivates an inclusive and welcoming learning environment for all participants.
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Learning Environment"]
