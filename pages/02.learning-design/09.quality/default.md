@@ -27,18 +27,36 @@ We invite you to delve into the sections below to gain a comprehensive understan
 
 At TWU, we primarily use Moodle as our Learning Management System (LMS).  We also support WordPress, as well as other ways to display course content (Bookdown, Pressbooks, etc.).  In this section we want to provide some examples of structured courses with clear and intuitive navigation.  Note that there is not one "Master Structure" at Trinity, as each instructor brings their own unique teaching presence into the online environment.  Rather, as you explore the course samples below, consider whether your course structure is easy to navigate and whether students can find what they are looking for.
 
-### Sample course: LDRS 500: Leadership Foundations (Moodle)
-
+### Sample course: LDRS 500: Leadership Foundations 
+Our first example course 
 ![](ldrs500-homepage.png)
 
-### Sample course: LDRS 664: Creating Authentic Learning Communities (made with Bookdown)
+---
+### Sample course: FNDN 101: The Liberal Arts Journey 
+Foundations 101 is an engaging course designed to instroduce students to a Christian Liberal Arts education as well as imparting knowledge, skills, and attitudes that will set up students for success in university study. This course is delivered through our user-friendly WordPress platform, offering an interactive and enriching learning experience. By leveraging the WordPress structure, we have created a seamless navigation system, fostering strong connections between students, instructors, peers, and the course content.
 
+*Course Highlights:*
+
+**Engaging Learning Experience**: Foundations 101 is designed to captivate students' interest from the start. Through interactive multimedia elements, thought-provoking discussions, and engaging activities, the course ensures a dynamic and enjoyable learning journey.
+
+**Personal Connections**: We believe in the power of building relationships in the learning process. Foundations 101 facilitates connections between students, instructors, and peers, encouraging collaboration, communication, and the exchange of ideas. The WordPress platform enables students to interact through various channels, including discussion forums, live chats, and student blogs.
+
+**Clear Navigation**: Navigating through the course materials should be intuitive and straightforward. Our WordPress structure ensures a user-friendly interface, allowing students to easily access and locate relevant content. Whether it's viewing course lectures, accessing learning resources, or submitting assignments, our navigation system simplifies the learning experience.
+
+**E-Portfolios**: As part of the course, students have the opportunity to create their own blogs and e-Portfolios within the WordPress platform. This feature promotes active reflection, knowledge sharing, and peer feedback. By expressing their thoughts and insights through blogging, students develop a deeper understanding of the subject matter and engage in meaningful discussions with their peers.
+
+**Learner Support Pages**: We understand that students may require additional assistance and guidance during their learning journey. Foundations 101 provides comprehensive learner support pages within WordPress, offering a wealth of resources, FAQs, and access to dedicated support channels. Our goal is to ensure that students receive the necessary assistance and thrive academically.
+
+See snapdhots of FNDN 101 below as an example of engaging content, meaningful connections, and seamless navigation. 
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=547" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
+
+---
+### Sample course: LDRS 664: Creating Authentic Learning Communities (made with Bookdown)
+Another 
 <p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://ma-lead.github.io/ldrs664/learning-communities.html#learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
 
 
-### Sample course: FNDN 101: The Liberal Arts Journey (designed in WordPress)
-
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=547" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 
 [/ui-tab]
 [ui-tab title="Course Connections"]
