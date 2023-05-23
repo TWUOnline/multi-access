@@ -34,13 +34,9 @@ Welcome to LDRS 500, an online course designed to equip learners with the essent
 
 **Clarity for Students**: Clarity is paramount in our online courses. Each unit is carefully structured to provide clear objectives, instructions, and learning outcomes. Within each unit, you will find organized lessons, multimedia content, and interactive activities that guide learners through the course material. Our goal is to ensure that learners have a clear understanding of what is expected and how to succeed in their learning.
 
-**Engaging Course Content**: Engagement is key to effective learning, and LDRS 500 is designed to keep learners captivated throughout the course. We incorporate diverse and interactive content, such as videos, case studies, quizzes, and real-world examples, to enhance understanding of leadership principles. Leaners are encouraged to actively participate, share insights, and engage in thought-provoking discussions with their peers. Each unit follows a similar structure, so students know what to expect and how to engage with the course content and with their peers.
+Please see the presentation below, highlighting the ease of navigation, structured content, and clarity for students. 
 
-**Community**: At TWU, we believe that a strong community enhances the learning experience. Throughout LDRS 500, learners have the opportunity to connect with fellow students, instructors, and industry professionals. Discussion boards, group projects, and learning labs foster a sense of belonging and encourage collaborative learning. Learners are encouraged to engage with their peers, learn from instructors' experiences, and build lasting connections. 
-
-Please see the presentation below, highlighting the ease of navigation, clarity for students, engaging course content, and a strong sense of community. 
-
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=551" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=551" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of LDRS 500: Leadership Foundations"></iframe>
 
 ---
 ### Sample course: FNDN 101: The Liberal Arts Journey 
@@ -49,12 +45,6 @@ Foundations 101 is an engaging course designed to introduce students to a Christ
 *Course Highlights:*
 
 **Clear Navigation**: Navigating through the course materials should be intuitive and straightforward. Our WordPress structure ensures a user-friendly interface, allowing students to easily access and locate relevant content. Whether it's viewing course lectures, accessing learning resources, or submitting assignments, our navigation system simplifies the learning experience.
-
-**Engaging Learning Experience**: Foundations 101 is designed to captivate students' interest from the start. Through interactive multimedia elements, thought-provoking discussions, and engaging activities, the course ensures a dynamic and enjoyable learning journey.
-
-**Personal Connections**: We believe in the power of building relationships in the learning process. Foundations 101 facilitates connections between students, instructors, and peers, encouraging collaboration, communication, and the exchange of ideas. The WordPress platform enables students to interact through various channels, including discussion forums, live chats, and student blogs.
-
-**E-Portfolios**: As part of the course, students have the opportunity to create their own blogs and e-Portfolios within the WordPress platform. This feature promotes active reflection, knowledge sharing, and peer feedback. By expressing their thoughts and insights through blogging, students develop a deeper understanding of the subject matter and engage in meaningful discussions with their peers.
 
 **Learner Support Pages**: We understand that students may require additional assistance and guidance during their learning journey. Foundations 101 provides comprehensive learner support pages within WordPress, offering a wealth of resources, FAQs, and access to dedicated support channels. Our goal is to ensure that students receive the necessary assistance and thrive academically.
 
@@ -90,9 +80,8 @@ Key to successful online learning is a connection - between learners, between th
 
 Below are some ways instructors can facilitate meaningful connections in online courses:
 
-
-[ui-accordion independent=true open=none]
-[ui-accordion-item title="Connecting to Instructors"]
+## Connecting to Instructors
+Here are some tips to consider to help you connect with learners in your online course:
 
 - Warmly welcome students to the course with a self-introduction (video or written form). Outline what they can expect and highlight key aspects of the course.
 - Stay connected with students by offering ongoing support throughout the course.
@@ -103,9 +92,18 @@ Here's a sample welcoming students to a new term at TWU:
 <iframe src="https://player.vimeo.com/video/659409173?h=a2ea571efc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="600" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="H5P"></iframe>
 
 
-[/ui-accordion-item]
 
-[ui-accordion-item title="Connecting to Course Content"]
+## Connecting to Course Content
+
+Engagement is key to effective learning.  Our online courses are designed to keep learners captivated throughout the learning journey. We incorporate diverse and interactive content, such as videos, case studies, quizzes, and real-world examples, to enhance understanding of course concepts. Leaners are encouraged to actively participate, share insights, and engage in thought-provoking discussions with their peers.
+
+<!--
+**Engaging Learning Experience**: Foundations 101 is designed to captivate students' interest from the start. Through interactive multimedia elements, thought-provoking discussions, and engaging activities, the course ensures a dynamic and enjoyable learning journey.
+
+**E-Portfolios**: As part of the course, students have the opportunity to create their own blogs and e-Portfolios within the WordPress platform. This feature promotes active reflection, knowledge sharing, and peer feedback. By expressing their thoughts and insights through blogging, students develop a deeper understanding of the subject matter and engage in meaningful discussions with their peers.
+--->
+
+Here are some ways we can help learners connect to content in an online course: 
 
 - Establish a clear relationship between the course/unit learning outcomes, learning activities, and assessments.
 - Ensure that the learning outcomes are aligned with appropriate activities and assessments, creating a cohesive learning experience. This alignment helps students understand the purpose and relevance of their activities and assessments.
@@ -114,18 +112,17 @@ Here's a sample welcoming students to a new term at TWU:
 - Design learning activities that scaffold and support students in building foundational knowledge and skills within the course.
 - Provide opportunities for gradual progression and reinforcement of concepts and skills.
 
-[/ui-accordion-item]
+## Connecting to Peers
 
-[ui-accordion-item title="Connecting to Peers"]
+At TWU, we believe that a strong community enhances the learning experience. Throughout TWU online courses, learners have the opportunity to connect with fellow students, instructors, and industry professionals. Discussion boards, group projects, and learning labs foster a sense of belonging and encourage collaborative learning. Learners are encouraged to engage with their peers, learn from instructors' experiences, and build lasting connections.
+
+Consider these tips as you design your course to promote online connections between peers:
 
 - Encourage learners to introduce themselves to the class. This helps foster a sense of connection and community among students.
 - Encourage student-instructor, student-student, and student-content interactions that reflect Trinity Western University core values.
 - Provide a peer support forum (announcements???) where learners can engage with each other for course-related questions or community-building activities.
 - This forum serves as a platform for students to seek assistance, share insights, and foster collaborative learning. Encouraging participation in such forums enhances peer support and strengthens the sense of community within the course.
 
-[/ui-accordion-item]
-
-[/ui-accordion]
 
 [/ui-tab]
 
