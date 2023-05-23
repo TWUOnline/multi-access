@@ -64,7 +64,20 @@ See snapshots of FNDN 101 below as an example of engaging content, meaningful co
 
 ---
 ### Sample course: LDRS 664: Creating Authentic Learning Communities (made with Bookdown)
-Another 
+
+Our next course sample utilizes Bookdown to present course content in an accessible format with effortless navigation. The course units are organized into a comprehensive Course Book embedded within a Moodle tab.
+
+Bookdown's mobile-friendly design ensures easy navigation across devices, benefiting students with diverse technological platforms and facilitating a seamless learning experience for all.
+
+The table of contents feature in Bookdown facilitates smooth navigation, allowing students to locate specific resources or activities through the integrated search function, maximizing their productivity.
+
+Additionally, Bookdown offers flexibility by generating ePub or PDF formats, accommodating students' preferences and learning styles.
+
+Furthermore, Bookdown embraces inclusivity with accessibility features such as adjustable font size and background settings, ensuring equal access for all students.
+
+Explore the potential of Bookdown in LDRS 664: Creating Authentic Learning Communities, where you'll experience the meticulously structured units and navigation features, providing an exceptional learning experience.
+
+
 <p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://ma-lead.github.io/ldrs664/learning-communities.html#learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
 
 
