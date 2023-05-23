@@ -154,6 +154,72 @@ TWU Online courses promote accessibility, culturally responsiveness, and related
 [/ui-tab]
 
 
+[ui-tab title="Course Review Checklist"]
+### Quality Checklist for Online Course Review 
+
+As an online course instructor, your dedication to providing a high-quality learning experience for your students is essential. Building upon the strengths of your course and enhancing its effectiveness can lead to a more engaging and enriching learning environment. By systematically evaluating various aspects of your course, you can identify areas for enhancement, make necessary adjustments, and ultimately create a more inclusive and impactful learning journey for your students.
+
+Below is a checklist we hope is a useful tool for reviewing your online course materials.
+
+#### Structuring your Online Learning Environment  
+**Course Navigation:**  
+- Does the course navigation facilitate ease of use for your students?  
+- Are your instructions clear on how to navigate the course and how to get started?  
+
+**Instructions:**  
+- Does the Course Overview provide a course description, learning outcomes, and a list of assessments?  
+- Are your instructions clear, including the rationale for activities and assessments, and do they provide seamless connections between the various elements in the course?  
+
+**Expectations:**  
+- Have you provided specific and descriptive criteria (rubrics, marking schemes) for the evaluation of your students' work and participation?  
+- Are the requirements for learner interaction clearly stated?  
+
+#### Providing Learners with Opportunities to Connect  
+**Connecting to You, the Instructor:**  
+- Have you introduced yourself, welcoming your students to the course and explaining key aspects of what to expect?  
+- Do you provide support for your students throughout the course (e.g. through emails, assessment feedback, welcome videos, weekly debriefing, and other updates)?  
+- Have you provided sufficient and varied opportunities for formative feedback?  
+  
+**Connecting to Course Content:**  
+- Do your course learning outcomes reflect the course description and level, and are they measurable?  
+- Is there a clear relationship between the course/unit learning outcomes, learning activities, and assessments?  
+    
+**Course Materials:**  
+- Do the instructional materials (written/oral content, videos, graphics, readings, etc.) support learners in achieving the learning outcomes?  
+- Have you utilized a variety of instructional materials in the course?  
+  
+**Assessment:**
+- Are the assessments sequenced, varied, flexible, and appropriate to the content being assessed?  
+- Do the assessments measure the achievement of the course learning outcomes and align with course activities and resources?  
+- Is the learner workload appropriate and reasonable for the level and number of credits for the course?  
+  
+**Learning Activities:**  
+- Do the learning activities support your learners in achieving the learning outcomes and completing assessments?  
+- Do the learning activities provide scaffolding opportunities for building foundational knowledge and skills within the course?  
+  
+**Educational Technology:**  
+- Does the technology used in the course support the learning outcomes, activities, and assessments?  
+- Do the tools you employ promote student engagement and active learning?  
+  
+**Connecting to Peers:**  
+- Have you asked your learners to introduce themselves to the class?  
+- Do the learning activities foster interactions between peers?  
+- Have you provided a peer support forum (e.g., Learning Café) for course-related questions or community-building activities?  
+- Does learner interaction (student-instructor, student-student, student-content) promote a sense of community aligned with Trinity Western University core values?  
+#### Ensuring Accessible and Inclusive Learning: Supporting All Students  
+**Accessibility:**  
+- Does your course provide accessible text, videos, and images for diverse learners?  
+- Have you clearly stated instructions for accessing support (instructor, IT, library, student services) in the course overview and when appropriate, throughout the course?  
+  
+**Inclusion:**  
+- Are your instructional materials free of bias, culturally inclusive, and do they provide flexibility and choice?  
+
+
+We hope that this checklist serves as a valuable resource for you as you design or revise your online course. By considering and addressing the questions posed, you can create engaging and effective online courses that meet the diverse needs of your students and provide an exceptional learning experience.
+
+[/ui-tab]
+
+
 [/ui-tabs]
 
 Key Resource: [Checklist for Quality Online Courses at Trinity Western University](https://docs.google.com/document/d/13TD6ZdTnCX3AQjxlHLoPZGCAGTZMRBzvGkKww1IcbpY/edit) or a simplified [Quick Checklist & Tips](https://docs.google.com/document/d/17Jvo3B5fRrKj3ymu72gqFfd2tZv7NqHcN89VTKV55Pc/edit?usp=sharing)
