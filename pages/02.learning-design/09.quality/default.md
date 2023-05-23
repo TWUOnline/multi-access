@@ -72,8 +72,8 @@ Another
 [/ui-tab]
 [ui-tab title="Course Connections"]
 
-Key to successful online learning is a connection - between learners, between the instructor and learners, and between the learner and the content.  See the graphic below as well as the [Community of Inquiry](https://coi.athabascau.ca/coi-model/) website for more details.
-![](courseconnections.jpg)
+Key to successful online learning is a connection between the instructor and learners, learners and the course content, and between learners and their peers.
+![](courseconnections.png)
 
 Below are some ways instructors can facilitate meaningful connections in online courses:
 
