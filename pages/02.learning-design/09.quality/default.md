@@ -91,7 +91,8 @@ Here are some tips to consider to help you connect with learners in your online 
 Here's a sample welcoming students to a new term at TWU:
 <iframe src="https://player.vimeo.com/video/659409173?h=a2ea571efc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="600" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="H5P"></iframe>
 
-
+Another way to connect with students each week is to post a weekly encouragement in an ungraded discussion forum.
+![](LDRS490-devotional.png)
 
 ## Connecting to Course Content
 
@@ -105,12 +106,15 @@ Engagement is key to effective learning.  Our online courses are designed to kee
 
 Here are some ways we can help learners connect to content in an online course: 
 
-- Establish a clear relationship between the course/unit learning outcomes, learning activities, and assessments.
+Creating Meaningful and Engaging Outcomes, Assessment & Activities:
 - Ensure that the learning outcomes are aligned with appropriate activities and assessments, creating a cohesive learning experience. This alignment helps students understand the purpose and relevance of their activities and assessments.
-- Develop assessments that effectively measure the achievement of the course learning outcomes and align with the course activities and resources.
-- Make sure that the assessments are consistent with the knowledge and skills students are expected to acquire through their engagement with the course.
 - Design learning activities that scaffold and support students in building foundational knowledge and skills within the course.
 - Provide opportunities for gradual progression and reinforcement of concepts and skills.
+
+
+- Are the assessments sequenced, varied, flexible, and appropriate to the content being assessed? 
+- - Do the instructional materials (written/oral content, videos, graphics, readings, etc.) support learners in achieving the learning outcomes?  
+
 
 ## Connecting to Peers
 
