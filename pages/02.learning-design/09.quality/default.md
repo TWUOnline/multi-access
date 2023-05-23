@@ -26,17 +26,17 @@ We invite you to delve into the sections below to gain a comprehensive understan
 At TWU, we primarily use Moodle as our Learning Management System (LMS).  We also support WordPress, as well as other ways to display course content (Bookdown, Pressbooks, etc.).  In this section we want to provide some examples of structured courses with clear and intuitive navigation.  Note that there is not one "Master Structure" at Trinity, as each instructor brings their own unique teaching presence into the online environment.  Rather, as you explore the course samples below, consider whether your course structure is easy to navigate and whether students can find what they are looking for.
 
 ### Sample course: LDRS 500: Leadership Foundations 
-Welcome to LDRS 500, an online course designed to equip learners with the essential leadership skills needed in the dynamic landscape of the 21st century. In the slideshow presentation below, we will walk you through the structure of our online course at TWU, highlighting the key elements that make learning with us a seamless and enriching experience.
+Welcome to LDRS 500, an online course designed to equip learners with the essential leadership skills needed in the dynamic landscape of the 21st century. In the slideshow presentation below, we will walk you through the structure this course, highlighting the key elements that make learning with us a seamless and enriching experience.
 
 *Course Highlights:*
 
 **Ease of Navigation**: We understand the importance of a user-friendly interface when it comes to online learning. Our course platform provides intuitive navigation, allowing learners to easily access course materials, units, and resources. With just a few clicks, learners can navigate through the course, find what they need, and focus on their learning journey.
 
-**Clarity for Students**: Clarity is paramount in our online courses. Each module is carefully structured to provide clear objectives, instructions, and learning outcomes. Within each module, you will find organized lessons, multimedia content, and interactive activities that guide you through the course material. Our goal is to ensure that learners have a clear understanding of what is expected and how to succeed in their learning.
+**Clarity for Students**: Clarity is paramount in our online courses. Each unit is carefully structured to provide clear objectives, instructions, and learning outcomes. Within each unit, you will find organized lessons, multimedia content, and interactive activities that guide learners through the course material. Our goal is to ensure that learners have a clear understanding of what is expected and how to succeed in their learning.
 
-**Engaging Course Content**: Engagement is key to effective learning, and LDRS 500 is designed to keep learners captivated throughout the course. We incorporate diverse and interactive content, such as videos, case studies, quizzes, and real-world examples, to enhance understanding of leadership principles. Leaners are encouraged to actively participate, share insights, and engage in thought-provoking discussions with their peers.
+**Engaging Course Content**: Engagement is key to effective learning, and LDRS 500 is designed to keep learners captivated throughout the course. We incorporate diverse and interactive content, such as videos, case studies, quizzes, and real-world examples, to enhance understanding of leadership principles. Leaners are encouraged to actively participate, share insights, and engage in thought-provoking discussions with their peers. Each unit follows a similar structure, so students know what to expect and how to engage with the course content and with their peers.
 
-**Community**: At TWU, we believe that a strong community enhances the learning experience. Throughout LDRS 500, learners have the opportunity to connect with fellow students, instructors, and industry professionals. Discussion boards, group projects, and learning labs foster a sense of belonging and encourage collaborative learning. Learners are encourages to engage with their peers, learn from instructors' experiences, and build lasting connections.
+**Community**: At TWU, we believe that a strong community enhances the learning experience. Throughout LDRS 500, learners have the opportunity to connect with fellow students, instructors, and industry professionals. Discussion boards, group projects, and learning labs foster a sense of belonging and encourage collaborative learning. Learners are encouraged to engage with their peers, learn from instructors' experiences, and build lasting connections. 
 
 Please see the presentation below, highlighting the ease of navigation, clarity for students, engaging course content, and a strong sense of community. 
 
@@ -44,21 +44,21 @@ Please see the presentation below, highlighting the ease of navigation, clarity 
 
 ---
 ### Sample course: FNDN 101: The Liberal Arts Journey 
-Foundations 101 is an engaging course designed to instroduce students to a Christian Liberal Arts education as well as imparting knowledge, skills, and attitudes that will set up students for success in university study. This course is delivered through our user-friendly WordPress platform, offering an interactive and enriching learning experience. By leveraging the WordPress structure, we have created a seamless navigation system, fostering strong connections between students, instructors, peers, and the course content.
+Foundations 101 is an engaging course designed to introduce students to a Christian Liberal Arts education as well as imparting knowledge, skills, and attitudes that will set up students for success at TWU. This course is delivered through our user-friendly WordPress platform, offering an interactive and enriching learning experience. By leveraging the WordPress structure, we have created a seamless navigation system, fostering strong connections between students, instructors, peers, and the course content.
 
 *Course Highlights:*
+
+**Clear Navigation**: Navigating through the course materials should be intuitive and straightforward. Our WordPress structure ensures a user-friendly interface, allowing students to easily access and locate relevant content. Whether it's viewing course lectures, accessing learning resources, or submitting assignments, our navigation system simplifies the learning experience.
 
 **Engaging Learning Experience**: Foundations 101 is designed to captivate students' interest from the start. Through interactive multimedia elements, thought-provoking discussions, and engaging activities, the course ensures a dynamic and enjoyable learning journey.
 
 **Personal Connections**: We believe in the power of building relationships in the learning process. Foundations 101 facilitates connections between students, instructors, and peers, encouraging collaboration, communication, and the exchange of ideas. The WordPress platform enables students to interact through various channels, including discussion forums, live chats, and student blogs.
 
-**Clear Navigation**: Navigating through the course materials should be intuitive and straightforward. Our WordPress structure ensures a user-friendly interface, allowing students to easily access and locate relevant content. Whether it's viewing course lectures, accessing learning resources, or submitting assignments, our navigation system simplifies the learning experience.
-
 **E-Portfolios**: As part of the course, students have the opportunity to create their own blogs and e-Portfolios within the WordPress platform. This feature promotes active reflection, knowledge sharing, and peer feedback. By expressing their thoughts and insights through blogging, students develop a deeper understanding of the subject matter and engage in meaningful discussions with their peers.
 
 **Learner Support Pages**: We understand that students may require additional assistance and guidance during their learning journey. Foundations 101 provides comprehensive learner support pages within WordPress, offering a wealth of resources, FAQs, and access to dedicated support channels. Our goal is to ensure that students receive the necessary assistance and thrive academically.
 
-See snapdhots of FNDN 101 below as an example of engaging content, meaningful connections, and seamless navigation. 
+See snapshots of FNDN 101 below as an example of engaging content, meaningful connections, and seamless navigation. 
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=547" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 
