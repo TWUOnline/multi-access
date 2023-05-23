@@ -75,12 +75,14 @@ Explore the potential of Bookdown in LDRS 664: Creating Authentic Learning Commu
 [/ui-tab]
 [ui-tab title="Course Connections"]
 
-Key to successful online learning is a connection - between learners, between the instructor and learners, and between the learner and the content.  See the graphic below as well as the [Community of Inquiry](https://coi.athabascau.ca/coi-model/) website for more details.
+Key to successful online learning is a connection - between learners, between the instructor and learners, and between the learner and the content.  
+<!--
+See the graphic below as well as the [Community of Inquiry](https://coi.athabascau.ca/coi-model/) website for more details.
 ![](courseconnections.jpg)
-
+--->
 Below are some ways instructors can facilitate meaningful connections in online courses:
 
-## Connecting to Instructors
+## Connecting Learners and Instructors
 Here are some tips to consider to help you connect with learners in your online course:
 
 - Warmly welcome students to the course with a self-introduction (video or written form). Outline what they can expect and highlight key aspects of the course.
@@ -94,7 +96,7 @@ Here's a sample welcoming students to a new term at TWU:
 Another way to connect with students each week is to post a weekly encouragement in an ungraded discussion forum.
 ![](LDRS490-devotional.png)
 
-## Connecting to Course Content
+## Connecting Learners to Course Content
 
 Engagement is key to effective learning.  Our online courses are designed to keep learners captivated throughout the learning journey. We incorporate diverse and interactive content, such as videos, case studies, quizzes, and real-world examples, to enhance understanding of course concepts. Leaners are encouraged to actively participate, share insights, and engage in thought-provoking discussions with their peers.
 
