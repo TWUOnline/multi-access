@@ -101,6 +101,10 @@ Here's a sample welcoming students to a new term at TWU:
 - Design learning activities that scaffold and support students in building foundational knowledge and skills within the course.
 - Provide opportunities for gradual progression and reinforcement of concepts and skills.
 
+ The following slideshow provides practical examples of how to establish clear connections between learning outcomes, activities, and assessments, ensuring a cohesive learning experience.
+
+ [h5p id="8"]
+
 [/ui-accordion-item]
 
 [ui-accordion-item title="Connecting to Peers"]
