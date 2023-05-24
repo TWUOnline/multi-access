@@ -175,7 +175,8 @@ As an online course instructor, your dedication to providing a high-quality lear
 Below is a checklist we hope is a useful tool for reviewing your online course materials.
 
 ---
-### Structuring your Online Learning Environment  
+## Structuring your Online Learning Environment  
+
 **Course Navigation:**  
 - Does the course navigation facilitate ease of use for your students?  
 - Are your instructions clear on how to navigate the course and how to get started?  
@@ -189,13 +190,14 @@ Below is a checklist we hope is a useful tool for reviewing your online course m
 - Are the requirements for learner interaction clearly stated?  
 
 ---
-### Providing Learners with Opportunities to Connect  
-**Connecting to You, the Instructor:**  
+## Providing Learners with Opportunities to Connect  
+
+### Connecting to You, the Instructor:  
 - Have you introduced yourself, welcoming your students to the course and explaining key aspects of what to expect?  
 - Do you provide support for your students throughout the course (e.g. through emails, assessment feedback, welcome videos, weekly debriefing, and other updates)?  
 - Have you provided sufficient and varied opportunities for formative feedback?  
   
-**Connecting to Course Content:**  
+### Connecting to Course Content:
 - Do your course learning outcomes reflect the course description and level, and are they measurable?  
 - Is there a clear relationship between the course/unit learning outcomes, learning activities, and assessments?  
     
@@ -216,14 +218,14 @@ Below is a checklist we hope is a useful tool for reviewing your online course m
 - Does the technology used in the course support the learning outcomes, activities, and assessments?  
 - Do the tools you employ promote student engagement and active learning?  
   
-**Connecting to Peers:**  
+###Connecting to Peers:  
 - Have you asked your learners to introduce themselves to the class?  
 - Do the learning activities foster interactions between peers?  
 - Have you provided a peer support forum (e.g., Learning Café) for course-related questions or community-building activities?  
 - Does learner interaction (student-instructor, student-student, student-content) promote a sense of community aligned with Trinity Western University core values?  
   
 ---
-### Ensuring Accessible and Inclusive Learning: Supporting All Students  
+## Ensuring Accessible and Inclusive Learning: Supporting All Students  
 
 **Accessibility:**  
 - Does your course provide accessible text, videos, and images for diverse learners?  
