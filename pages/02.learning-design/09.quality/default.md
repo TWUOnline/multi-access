@@ -92,7 +92,8 @@ Here are some tips to consider to help you connect with learners in your online 
 
 See the presentation below for examples of connections in online courses.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=559" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Learners and Instructors"></iframe>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=551" width="559" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of LDRS 500: Leadership Foundations"></iframe>
+
 
 ## Connecting Learners to Course Content
 
