@@ -75,11 +75,11 @@ Another
 Key to successful online learning is a connection between the instructor and learners, learners and the course content, and between learners and their peers.
 ![](courseconnections.png)
 
+Facilitating meaningful connections in online courses is crucial for several reasons. First and foremost, connecting with instructors allows students to establish a personal and supportive relationship with someone who can guide them through their learning journey. Instructors can provide valuable insights, clarify doubts, and offer individualized feedback, fostering a deeper understanding of the course material. Moreover, meaningful connections with the course content enable students to engage more actively and meaningfully with the subject matter, promoting a sense of relevance and applicability. Finally, connecting with peers in online courses creates a collaborative and inclusive learning environment. Peer interactions facilitate knowledge exchange, the sharing of diverse perspectives, and the development of critical thinking skills. Building connections with instructors, course content, and peers not only enhances the learning experience but also promotes motivation, engagement, and a sense of belonging, ultimately leading to improved academic outcomes.
+
 Below are some ways instructors can facilitate meaningful connections in online courses:
 
-
-[ui-accordion independent=true open=none]
-[ui-accordion-item title="Connecting to Instructors"]
+### Connecting to Instructors 
 
 - Warmly welcome students to the course with a self-introduction (video or written form). Outline what they can expect and highlight key aspects of the course.
 - Stay connected with students by offering ongoing support throughout the course.
@@ -89,10 +89,7 @@ Below are some ways instructors can facilitate meaningful connections in online 
 Here's a sample welcoming students to a new term at TWU:
 <iframe src="https://player.vimeo.com/video/659409173?h=a2ea571efc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="600" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="H5P"></iframe>
 
-
-[/ui-accordion-item]
-
-[ui-accordion-item title="Connecting to Course Content"]
+### Connecting to Course Content"]
 
 - Establish a clear relationship between the course/unit learning outcomes, learning activities, and assessments.
 - Ensure that the learning outcomes are aligned with appropriate activities and assessments, creating a cohesive learning experience. This alignment helps students understand the purpose and relevance of their activities and assessments.
@@ -100,23 +97,19 @@ Here's a sample welcoming students to a new term at TWU:
 - Make sure that the assessments are consistent with the knowledge and skills students are expected to acquire through their engagement with the course.
 - Design learning activities that scaffold and support students in building foundational knowledge and skills within the course.
 - Provide opportunities for gradual progression and reinforcement of concepts and skills.
-
+- 
  The following slideshow provides practical examples of how to establish clear connections between learning outcomes, activities, and assessments, ensuring a cohesive learning experience.
 
  [h5p id="8"]
 
-[/ui-accordion-item]
 
-[ui-accordion-item title="Connecting to Peers"]
+### Connecting to Peers
 
 - Encourage learners to introduce themselves to the class. This helps foster a sense of connection and community among students.
 - Encourage student-instructor, student-student, and student-content interactions that reflect Trinity Western University core values.
 - Provide a peer support forum (announcements???) where learners can engage with each other for course-related questions or community-building activities.
 - This forum serves as a platform for students to seek assistance, share insights, and foster collaborative learning. Encouraging participation in such forums enhances peer support and strengthens the sense of community within the course.
 
-[/ui-accordion-item]
-
-[/ui-accordion]
 
 [/ui-tab]
 
