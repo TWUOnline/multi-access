@@ -73,7 +73,11 @@ Another
 Key to successful online learning is a connection between the instructor and learners, learners and the course content, and between learners and their peers.
 ![](courseconnections.png)
 
+![learner connecting to instructors, peers, and content](courseconnections.png){: width="50%" height="50%"}
+
+<!--
 <img src="courseconnections.png" alt="learner connecting to instructors, peers, and content" width="50%" height="50%">
+-->
 
 Facilitating meaningful connections in online courses is crucial for several reasons. First and foremost, connecting with instructors allows students to establish a personal and supportive relationship with someone who can guide them through their learning journey. Instructors can provide valuable insights, clarify doubts, and offer individualized feedback, fostering a deeper understanding of the course material. Moreover, meaningful connections with the course content enable students to engage more actively and meaningfully with the subject matter, promoting a sense of relevance and applicability. Finally, connecting with peers in online courses creates a collaborative and inclusive learning environment. Peer interactions facilitate knowledge exchange, the sharing of diverse perspectives, and the development of critical thinking skills. Building connections with instructors, course content, and peers not only enhances the learning experience but also promotes motivation, engagement, and a sense of belonging, ultimately leading to improved academic outcomes.
 
