@@ -243,7 +243,12 @@ Now, imagine you had to do this online...asynchronously.
 
 When we write our units, we first consider our online learners. They may be sitting at a desk, after a long day of work/studies/  They have 2 hours to study tonight.  As they click on "Unit 1"...what do they see and read that will interest them in the topic?  How will they know what the unit is about and what activities they need to complete?
 
-Our units typically follow a structure that allows for students to engage with the lesson, plan their time, and prepare for assignments.
+Our units typically follow a structure that allows for students to engage with the lesson, plan their time, and prepare for assignments. We base our unit components on an instructional framework, Gagné’s Nine Events of Instruction, that outlines the necessary conditions for learning.  
+
+The following diagram describes Gagné’s Nine Events of Instruction. Click on the plus sign associated with each of the nine events to reveal the conditions for effective learning.
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=561" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
+Source: [High Quality Online Courses](https://ecampusontario.pressbooks.pub/hqoc/chapter/chapter-1/)
 
 See the details of the course unit template below, as well as [TWU Unit Template - ONLINE](https://docs.google.com/document/d/1XdNGUPgpYB_IKALdL7cEpwY5NH0z_ywqwxj4G-8rwYY/edit?usp=sharing) Google doc for you to copy.
 
