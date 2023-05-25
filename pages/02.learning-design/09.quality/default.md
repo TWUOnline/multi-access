@@ -12,11 +12,11 @@ Trinity Western University is recognized for its commitment to excellence in tea
 
 Built upon a robust quality framework, our online courses are designed to provide an engaging and enriching educational experience. We focus on three essential pillars: structure, connection, and inclusion.
 
-**STRUCTURE**: Our courses are thoughtfully crafted within a well-organized learning environment. Learners benefit from clear instructions, well-defined expectations, and intuitive navigation, ensuring a seamless and structured learning journey.
+> **STRUCTURE**: Our courses are thoughtfully crafted within a well-organized learning environment. Learners benefit from clear instructions, well-defined expectations, and intuitive navigation, ensuring a seamless and structured learning journey.
 
-**CONNECTION**: We prioritize meaningful connections within our online courses. Learners have opportunities to engage with instructors, foster a sense of community with fellow students, and actively interact with course content in ways that promote deep understanding and engagement.
+> **CONNECTION**: We prioritize meaningful connections within our online courses. Learners have opportunities to engage with instructors, foster a sense of community with fellow students, and actively interact with course content in ways that promote deep understanding and engagement.
 
-**INCLUSION**: Our commitment to inclusion is at the heart of our online courses. We strive to create an accessible and supportive learning environment that embraces diversity, promotes cultural responsiveness, and nurtures a sense of belonging for all learners.
+> **INCLUSION**: Our commitment to inclusion is at the heart of our online courses. We strive to create an accessible and supportive learning environment that embraces diversity, promotes cultural responsiveness, and nurtures a sense of belonging for all learners.
 
 We invite you to delve into the sections below to gain a comprehensive understanding of how Trinity Western University approaches online course design, fosters connections, and cultivates an inclusive and welcoming learning environment for all participants.
 
@@ -70,7 +70,8 @@ Another
 [/ui-tab]
 [ui-tab title="Course Connections"]
 
-Key to successful online learning is a connection between the instructor and learners, learners and the course content, and between learners and their peers.
+Online courses at Trinity Western University are designed so learners can make meaningful connections in their learning journey.  This  involves connections between the instructor and learners, learners and the course content, and between learners and their peers.
+
 ![](courseconnections.png)
 
 <!--
@@ -83,7 +84,14 @@ trying to resize.  Doesn't seem to work:
 <img src="courseconnections.png" alt="learner connecting to instructors, peers, and content" width="50%" height="50%">
 -->
 
-Facilitating meaningful connections in online courses is crucial for several reasons. First and foremost, connecting with instructors allows students to establish a personal and supportive relationship with someone who can guide them through their learning journey. Instructors can provide valuable insights, clarify doubts, and offer individualized feedback, fostering a deeper understanding of the course material. Moreover, meaningful connections with the course content enable students to engage more actively and meaningfully with the subject matter, promoting a sense of relevance and applicability. Finally, connecting with peers in online courses creates a collaborative and inclusive learning environment. Peer interactions facilitate knowledge exchange, the sharing of diverse perspectives, and the development of critical thinking skills. Building connections with instructors, course content, and peers not only enhances the learning experience but also promotes motivation, engagement, and a sense of belonging, ultimately leading to improved academic outcomes.
+
+Facilitating meaningful connections in online courses is crucial for several reasons:
+
+> 1. First and foremost, connecting with instructors allows students to establish a personal and supportive relationship with someone who can guide them through their learning journey. Instructors can provide valuable insights, clarify doubts, and offer individualized feedback, fostering a deeper understanding of the course material. 
+   
+> 2. Moreover, meaningful connections with the course content enable students to engage more actively and meaningfully with the subject matter, promoting a sense of relevance and applicability. 
+   
+> 3. Finally, connecting with peers in online courses creates a collaborative and inclusive learning environment. Peer interactions facilitate knowledge exchange, the sharing of diverse perspectives, and the development of critical thinking skills. Building connections with instructors, course content, and peers not only enhances the learning experience but also promotes motivation, engagement, and a sense of belonging, ultimately leading to improved academic outcomes.
 
 Below are some ways instructors can facilitate meaningful connections in online courses:
 
