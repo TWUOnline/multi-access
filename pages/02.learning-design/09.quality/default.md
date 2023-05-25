@@ -98,7 +98,7 @@ Here's a sample welcoming students to a new term at TWU:
   
 The following slideshow provides practical examples of how to establish clear connections between learning outcomes, activities, and assessments, ensuring a cohesive learning experience.
 
-<iframe src="https://create.twu.ca/wrsh-template/wp-admin/admin-ajax.php?action=h5p_embed&id=8" width="959" height="565" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to Content"></iframe><script src="https://create.twu.ca/wrsh-template/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://create.twu.ca/wrsh-template/wp-admin/admin-ajax.php?action=h5p_embed&id=8" width="959" height="565" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to Content"></iframe>
 
 ### Connecting to Peers
 
