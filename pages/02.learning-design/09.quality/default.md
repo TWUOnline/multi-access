@@ -73,9 +73,13 @@ Another
 Key to successful online learning is a connection between the instructor and learners, learners and the course content, and between learners and their peers.
 ![](courseconnections.png)
 
-![learner connecting to instructors, peers, and content](courseconnections.png){: width="50%" height="50%"}
+![learner connecting to instructors, peers, and content|50%](courseconnections.png)
+
 
 <!--
+![learner connecting to instructors, peers, and content](courseconnections.png){: width="50%" height="50%"}
+
+
 <img src="courseconnections.png" alt="learner connecting to instructors, peers, and content" width="50%" height="50%">
 -->
 
