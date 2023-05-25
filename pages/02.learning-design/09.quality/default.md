@@ -126,6 +126,7 @@ The following slideshow provides practical examples of how to establish clear co
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=8" width="959" height="560" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to Content"></iframe>
 
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=559" width="958" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Learners and Instructors"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 ---
 
 ### Learners Connecting to Peers
