@@ -105,7 +105,7 @@ Below are some ways instructors can facilitate meaningful connections in online 
 See examples in the following slideshow:
 
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=562" width="956" height="563" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Learners and Instructors (test)"></iframe>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=562" width="957" height="448" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Learners and Instructors (test)"></iframe>
 
 ---
 
