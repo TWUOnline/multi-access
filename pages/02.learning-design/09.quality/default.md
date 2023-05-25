@@ -107,7 +107,7 @@ See examples in the following slideshow:
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=559" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 
 ---
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=262" width="826" height="406" frameborder="0" allowfullscreen="allowfullscreen" title="MCOM 353 Activity 5.3"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 <!--
 Here's a sample welcoming students to a new term at TWU:
 <iframe src="https://player.vimeo.com/video/659409173?h=a2ea571efc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="600" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="H5P"></iframe>
