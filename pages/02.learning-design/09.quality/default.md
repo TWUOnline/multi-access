@@ -95,17 +95,23 @@ Facilitating meaningful connections in online courses is crucial for several rea
 
 Below are some ways instructors can facilitate meaningful connections in online courses:
 
-### Connecting to Instructors
+### Learners Connecting to Instructors
 
 - Warmly welcome students to the course with a self-introduction (video or written form). Outline what they can expect and highlight key aspects of the course.
 - Stay connected with students by offering ongoing support throughout the course.
 - Utilize different channels such as emails, assessment feedback, welcome videos, weekly debriefing sessions, and regular updates to provide assistance and address any concerns.
 - Ensure students diverse opportunities for formative feedback. This helps them gauge their progress and make necessary improvements.
 
+See examples in the following slideshow:
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=559" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
+<!--
 Here's a sample welcoming students to a new term at TWU:
 <iframe src="https://player.vimeo.com/video/659409173?h=a2ea571efc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="600" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="H5P"></iframe>
+-->
 
-### Connecting to Course Content
+
+### Learners Connecting to Course Content
 
 - Establish a clear relationship between the course/unit learning outcomes, learning activities, and assessments.
 - Ensure that the learning outcomes are aligned with appropriate activities and assessments, creating a cohesive learning experience. This alignment helps students understand the purpose and relevance of their activities and assessments.
@@ -118,12 +124,11 @@ The following slideshow provides practical examples of how to establish clear co
 
 <iframe src="https://create.twu.ca/wrsh-template/wp-admin/admin-ajax.php?action=h5p_embed&id=8" width="959" height="565" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to Content"></iframe>
 
-### Connecting to Peers
+### Learners Connecting to Peers
 
 - Encourage learners to introduce themselves to the class. This helps foster a sense of connection and community among students.
-- Encourage student-instructor, student-student, and student-content interactions that reflect Trinity Western University core values.
-- Provide a peer support forum (announcements???) where learners can engage with each other for course-related questions or community-building activities.
-- This forum serves as a platform for students to seek assistance, share insights, and foster collaborative learning. Encouraging participation in such forums enhances peer support and strengthens the sense of community within the course.
+- Provide a peer support forum where learners can engage with each other for course-related questions or community-building activities. This forum serves as a platform for students to seek assistance, share insights, and foster collaborative learning. Encouraging participation in such forums enhances peer support and strengthens the sense of community within the course.
+- Design learning activities and assessment to encourage student interactions.  E.g. group activities, team projects, peer assessment, interviews, presentation feedback, etc.
 
 [/ui-tab]
 
