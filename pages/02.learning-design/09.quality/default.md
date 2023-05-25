@@ -72,7 +72,7 @@ Another
 
 Online courses at Trinity Western University are designed so learners can make meaningful connections in their learning journey.  This  involves connections between the instructor and learners, learners and the course content, and between learners and their peers.
 
-![](courseconnections.png)
+![](courseconnections.jpg)
 
 <!--
 trying to resize.  Doesn't seem to work:
