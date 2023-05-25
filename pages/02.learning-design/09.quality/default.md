@@ -67,8 +67,6 @@ See snapshots of FNDN 101 below as an example of engaging content, meaningful co
 Another 
 <p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://ma-lead.github.io/ldrs664/learning-communities.html#learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
 
-
-
 [/ui-tab]
 [ui-tab title="Course Connections"]
 
@@ -79,7 +77,7 @@ Facilitating meaningful connections in online courses is crucial for several rea
 
 Below are some ways instructors can facilitate meaningful connections in online courses:
 
-### Connecting to Instructors 
+### Connecting to Instructors
 
 - Warmly welcome students to the course with a self-introduction (video or written form). Outline what they can expect and highlight key aspects of the course.
 - Stay connected with students by offering ongoing support throughout the course.
@@ -98,10 +96,9 @@ Here's a sample welcoming students to a new term at TWU:
 - Design learning activities that scaffold and support students in building foundational knowledge and skills within the course.
 - Provide opportunities for gradual progression and reinforcement of concepts and skills.
   
- The following slideshow provides practical examples of how to establish clear connections between learning outcomes, activities, and assessments, ensuring a cohesive learning experience.
+The following slideshow provides practical examples of how to establish clear connections between learning outcomes, activities, and assessments, ensuring a cohesive learning experience.
 
- <iframe src="https://create.twu.ca/wrsh-template/wp-admin/admin-ajax.php?action=h5p_embed&id=8" width="959" height="565" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to Content"allowfullscreen title="H5P"></iframe>
-
+<iframe src="https://create.twu.ca/wrsh-template/wp-admin/admin-ajax.php?action=h5p_embed&id=8" width="959" height="565" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to Content"></iframe><script src="https://create.twu.ca/wrsh-template/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Connecting to Peers
 
@@ -109,7 +106,6 @@ Here's a sample welcoming students to a new term at TWU:
 - Encourage student-instructor, student-student, and student-content interactions that reflect Trinity Western University core values.
 - Provide a peer support forum (announcements???) where learners can engage with each other for course-related questions or community-building activities.
 - This forum serves as a platform for students to seek assistance, share insights, and foster collaborative learning. Encouraging participation in such forums enhances peer support and strengthens the sense of community within the course.
-
 
 [/ui-tab]
 
@@ -122,9 +118,10 @@ TWU Online courses promote accessibility, culturally responsiveness, and related
 [ui-accordion independent=true open=none]
 
 [ui-accordion-item title="Accessibility"]
+
 - The course provides accessible text, videos and images for diverse learners.
-  - Blackboard Ally is a tool that can help you identify areas of your course that could be improved to support accessibility for all learners.  Please see [What is Blackboard Ally?](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141400) for instructions.
-  - Another resource you may find useful is the [Accessibility Checklist](https://opentextbc.ca/accessibilitytoolkit/back-matter/appendix-checklist-for-accessibility-toolkit/) from BC Campus.
+- Blackboard Ally is a tool that can help you identify areas of your course that could be improved to support accessibility for all learners.  Please see [What is Blackboard Ally?](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141400) for instructions.
+- Another resource you may find useful is the [Accessibility Checklist](https://opentextbc.ca/accessibilitytoolkit/back-matter/appendix-checklist-for-accessibility-toolkit/) from BC Campus.
 
 - Instructions for accessing support (instructor, IT, library, student services), are clearly stated in the course overview and when appropriate, throughout the course.
   - Please let students know where they can access support: 
@@ -137,7 +134,8 @@ TWU Online courses promote accessibility, culturally responsiveness, and related
 [/ui-accordion-item]
 
 [ui-accordion-item title="Inclusion"]
-- Learners are able to participate in a peer support forum (e.g. Learning Café), for course-related questions or community-building activities.  
+
+- Learners are able to participate in a peer support forum (e.g. Learning Café), for course-related questions or community-building activities.
 - The instructional materials are free of bias, culturally inclusive, and provide flexibility and choice.  
 
 [/ui-accordion-item]
