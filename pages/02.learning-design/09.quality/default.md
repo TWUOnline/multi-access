@@ -40,7 +40,7 @@ Welcome to LDRS 500, an online course designed to equip learners with the essent
 
 Please see the presentation below, highlighting the ease of navigation, clarity for students, engaging course content, and a strong sense of community. 
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=551" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=551" width="959" height="1000" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 
 ---
 ### Sample course: FNDN 101: The Liberal Arts Journey 
@@ -60,7 +60,7 @@ Foundations 101 is an engaging course designed to introduce students to a Christ
 
 See snapshots of FNDN 101 below as an example of engaging content, meaningful connections, and seamless navigation. 
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=547" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=547" width="959" height="1000" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 
 ---
 ### Sample course: LDRS 664: Creating Authentic Learning Communities (made with Bookdown)
@@ -104,7 +104,7 @@ Below are some ways instructors can facilitate meaningful connections in online 
 
 See examples in the following slideshow:
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=559" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=559" width="959" height="1000" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 
 ---
 
@@ -125,7 +125,7 @@ Here's a sample welcoming students to a new term at TWU:
   
 The following slideshow provides practical examples of how to establish clear connections between learning outcomes, activities, and assessments, ensuring a cohesive learning experience.
 
-<iframe src="https://create.twu.ca/wrsh-template/wp-admin/admin-ajax.php?action=h5p_embed&id=8" width="959" height="565" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to Content"></iframe>
+<iframe src="https://create.twu.ca/wrsh-template/wp-admin/admin-ajax.php?action=h5p_embed&id=8" width="959" height="1000" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to Content"></iframe>
 
 ---
 
