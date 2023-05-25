@@ -87,11 +87,11 @@ trying to resize.  Doesn't seem to work:
 
 Facilitating meaningful connections in online courses is crucial for several reasons:
 
-- Connecting with instructors allows students to establish a personal and supportive relationship with someone who can guide them through their learning journey. Instructors can provide valuable insights, clarify doubts, and offer individualized feedback, fostering a deeper understanding of the course material. 
+1. Connecting with instructors allows students to establish a personal and supportive relationship with someone who can guide them through their learning journey. Instructors can provide valuable insights, clarify doubts, and offer individualized feedback, fostering a deeper understanding of the course material. 
    
-- Connections with the course content enable students to engage more actively and meaningfully with the subject matter, promoting a sense of relevance and applicability. 
+2. Connections with the course content enable students to engage more actively and meaningfully with the subject matter, promoting a sense of relevance and applicability. 
    
-- Connecting with peers in online courses creates a collaborative and inclusive learning environment. Peer interactions facilitate knowledge exchange, the sharing of diverse perspectives, and the development of critical thinking skills. Building connections with instructors, course content, and peers not only enhances the learning experience but also promotes motivation, engagement, and a sense of belonging, ultimately leading to improved academic outcomes.
+3. Connecting with peers in online courses creates a collaborative and inclusive learning environment. Peer interactions facilitate knowledge exchange, the sharing of diverse perspectives, and the development of critical thinking skills. Building connections with instructors, course content, and peers not only enhances the learning experience but also promotes motivation, engagement, and a sense of belonging, ultimately leading to improved academic outcomes.
 
 Below are some ways instructors can facilitate meaningful connections in online courses:
 
