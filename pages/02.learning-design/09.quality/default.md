@@ -118,7 +118,7 @@ Here's a sample welcoming students to a new term at TWU:
 ### Learners Connecting to Course Content
 
 - Establish a clear relationship between the course/unit **learning outcomes**, **learning activities**, and **assessments**. This alignment creates a cohesive learning experience and helps students understand the purpose and relevance of their activities and assessments.
-- Develop authentic **assessments** that effectively measure the achievement of the course learning outcomes and align with the course activities and resources.
+- Develop authentic [**assessments**](https://multi-access.twu.ca/assessment/assessment-ideas) that effectively measure the achievement of the course learning outcomes and align with the course activities and resources.
 - Design **learning activities** that scaffold and support students in building foundational knowledge and skills within the course.
 - Create engaging **instructional materials** (written/oral content, videos, graphics, readings, etc.), to support learners in achieving the learning outcomes.
 - Use appropriate **educational technology** to promote student engagement and active learning. (e.g. [H5P](https://create.twu.ca/h5p/), e-portfolios, etc.)
