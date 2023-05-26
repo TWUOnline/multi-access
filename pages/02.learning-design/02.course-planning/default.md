@@ -247,7 +247,7 @@ Our units typically follow a structure that allows for students to engage with t
 
 The following diagram describes Gagné’s Nine Events of Instruction. Click on the plus sign associated with each of the nine events to reveal the conditions for effective learning.
 
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=561" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=561" width="959" height="900" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 Source: [High Quality Online Courses](https://ecampusontario.pressbooks.pub/hqoc/chapter/chapter-1/)
 
 See the details of the course unit template below, as well as [TWU Unit Template - ONLINE](https://docs.google.com/document/d/1XdNGUPgpYB_IKALdL7cEpwY5NH0z_ywqwxj4G-8rwYY/edit?usp=sharing) Google doc for you to copy.
