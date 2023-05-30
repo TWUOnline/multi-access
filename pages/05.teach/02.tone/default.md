@@ -1,6 +1,6 @@
 ---
 title: TOnE
 menu: TOnE
-redirect: teach/tone
+redirect: tone
 ---
 
