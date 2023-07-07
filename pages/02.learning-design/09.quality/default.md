@@ -256,9 +256,10 @@ Below is a checklist we hope is a useful tool for reviewing your online course m
 
 We hope that this checklist serves as a valuable resource for you as you design or revise your online course. By considering and addressing the questions posed, you can create engaging and effective online courses that meet the diverse needs of your students and provide an exceptional learning experience.
 
+Key Resource: [Checklist for Quality Online Courses at Trinity Western University](https://docs.google.com/document/d/13TD6ZdTnCX3AQjxlHLoPZGCAGTZMRBzvGkKww1IcbpY/edit) or a simplified [Quick Checklist & Tips](https://docs.google.com/document/d/17Jvo3B5fRrKj3ymu72gqFfd2tZv7NqHcN89VTKV55Pc/edit?usp=sharing)
+
 [/ui-tab]
 
 
 [/ui-tabs]
 
-Key Resource: [Checklist for Quality Online Courses at Trinity Western University](https://docs.google.com/document/d/13TD6ZdTnCX3AQjxlHLoPZGCAGTZMRBzvGkKww1IcbpY/edit) or a simplified [Quick Checklist & Tips](https://docs.google.com/document/d/17Jvo3B5fRrKj3ymu72gqFfd2tZv7NqHcN89VTKV55Pc/edit?usp=sharing)
