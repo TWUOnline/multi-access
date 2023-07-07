@@ -129,12 +129,14 @@ Here's a sample welcoming students to a new term at TWU:
 - Design **learning activities** that scaffold and support students in building foundational knowledge and skills within the course.
 - Create engaging **instructional materials** (written/oral content, videos, graphics, readings, etc.), to support learners in achieving the learning outcomes.
 - Use appropriate **educational technology** to promote student engagement and active learning. (e.g. [H5P](https://create.twu.ca/h5p/), e-portfolios, etc.)
-<!--
+
+
+
 The following slideshow provides practical examples of how to establish clear connections between learning outcomes, activities, and assessments, ensuring a cohesive learning experience.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=560" width="959" height="560" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to Content"></iframe>
 
--->
+
 
 ### Learners Connecting to Peers
 
