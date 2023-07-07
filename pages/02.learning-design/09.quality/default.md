@@ -59,13 +59,13 @@ Foundations 101 is an engaging course designed to introduce students to a Christ
 **E-Portfolios**: As part of the course, students have the opportunity to create their own blogs and e-Portfolios within the WordPress platform. This feature promotes active reflection, knowledge sharing, and peer feedback. By expressing their thoughts and insights through blogging, students develop a deeper understanding of the subject matter and engage in meaningful discussions with their peers.
 
 **Learner Support Pages**: We understand that students may require additional assistance and guidance during their learning journey. Foundations 101 provides comprehensive learner support pages within WordPress, offering a wealth of resources, FAQs, and access to dedicated support channels. Our goal is to ensure that students receive the necessary assistance and thrive academically.
-<!--
+
 
 See snapshots of FNDN 101 below as an example of engaging content, meaningful connections, and seamless navigation. 
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=547" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 
--->
+
 
 ---
 ### Sample course: LDRS 664: Creating Authentic Learning Communities (made with Bookdown)
