@@ -37,8 +37,8 @@ Welcome to LDRS 500, an online course designed to equip learners with the essent
 **Engaging Course Content**: Engagement is key to effective learning, and LDRS 500 is designed to keep learners captivated throughout the course. We incorporate diverse and interactive content, such as videos, case studies, quizzes, and real-world examples, to enhance understanding of leadership principles. Leaners are encouraged to actively participate, share insights, and engage in thought-provoking discussions with their peers. Each unit follows a similar structure, so students know what to expect and how to engage with the course content and with their peers.
 
 **Community**: At TWU, we believe that a strong community enhances the learning experience. Throughout LDRS 500, learners have the opportunity to connect with fellow students, instructors, and industry professionals. Discussion boards, group projects, and learning labs foster a sense of belonging and encourage collaborative learning. Learners are encouraged to engage with their peers, learn from instructors' experiences, and build lasting connections. 
-<!--
 
+<!--
 Please see the presentation below, highlighting the ease of navigation, clarity for students, engaging course content, and a strong sense of community. 
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=551" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
@@ -113,7 +113,6 @@ See examples in the following slideshow:
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=559" width="958" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Learners and Instructors (test)"></iframe>
 
 -->
----
 
 <!--
 Here's a sample welcoming students to a new term at TWU:
@@ -134,7 +133,6 @@ The following slideshow provides practical examples of how to establish clear co
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=560" width="959" height="560" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to Content"></iframe>
 
 -->
----
 
 ### Learners Connecting to Peers
 
