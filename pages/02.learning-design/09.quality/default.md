@@ -38,11 +38,11 @@ Welcome to LDRS 500, an online course designed to equip learners with the essent
 
 **Community**: At TWU, we believe that a strong community enhances the learning experience. Throughout LDRS 500, learners have the opportunity to connect with fellow students, instructors, and industry professionals. Discussion boards, group projects, and learning labs foster a sense of belonging and encourage collaborative learning. Learners are encouraged to engage with their peers, learn from instructors' experiences, and build lasting connections. 
 
-<!--
+
 Please see the presentation below, highlighting the ease of navigation, clarity for students, engaging course content, and a strong sense of community. 
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=551" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
--->
+
 
 ---
 ### Sample course: FNDN 101: The Liberal Arts Journey 
@@ -66,9 +66,11 @@ See snapshots of FNDN 101 below as an example of engaging content, meaningful co
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=547" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 
 -->
+
 ---
 ### Sample course: LDRS 664: Creating Authentic Learning Communities (made with Bookdown)
-Another 
+
+ 
 <p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://ma-lead.github.io/ldrs664/learning-communities.html#learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
 
 [/ui-tab]
