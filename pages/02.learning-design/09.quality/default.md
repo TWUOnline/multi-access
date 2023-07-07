@@ -116,10 +116,10 @@ See examples in the following slideshow:
 
 
 
-<!--
+
 Here's a sample welcoming students to a new term at TWU:
 <iframe src="https://player.vimeo.com/video/659409173?h=a2ea571efc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="600" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="H5P"></iframe>
--->
+
 
 
 ### Learners Connecting to Course Content
