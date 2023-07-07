@@ -136,6 +136,7 @@ The following slideshow provides practical examples of how to establish clear co
 
 
 
+
 ### Learners Connecting to Peers
 
 - Encourage learners to introduce themselves to the class. This helps foster a sense of connection and community among students.
@@ -143,9 +144,9 @@ The following slideshow provides practical examples of how to establish clear co
 - Design learning activities and assessment to encourage student interactions.  E.g. group activities, team projects, peer assessment, interviews, presentation feedback, etc.
 
 
-<!--
-<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=563" width="959" height="565" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to their peers">
--->
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=563" width="959" height="565" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to their peers"></iframe>
+
 
 ## Supporting Students
 
