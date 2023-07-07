@@ -43,7 +43,7 @@ Please see the presentation below, highlighting the ease of navigation, clarity 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=551" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 
 
----
+
 ### Sample course: FNDN 101: The Liberal Arts Journey 
 Foundations 101 is an engaging course designed to introduce students to a Christian Liberal Arts education as well as imparting knowledge, skills, and attitudes that will set up students for success at TWU. This course is delivered through our user-friendly WordPress platform, offering an interactive and enriching learning experience. By leveraging the WordPress structure, we have created a seamless navigation system, fostering strong connections between students, instructors, peers, and the course content.
 
@@ -66,7 +66,7 @@ See snapshots of FNDN 101 below as an example of engaging content, meaningful co
 
 
 
----
+
 ### Sample course: LDRS 664: Creating Authentic Learning Communities (made with Bookdown)
 
  
@@ -182,7 +182,7 @@ As an online course instructor, your dedication to providing a high-quality lear
 
 Below is a checklist we hope is a useful tool for reviewing your online course materials.
 
----
+
 ### Structuring your Online Learning Environment  
 
 #### Course Navigation 
@@ -199,7 +199,7 @@ Below is a checklist we hope is a useful tool for reviewing your online course m
 - Have you provided specific and descriptive criteria (rubrics, marking schemes) for the evaluation of your students' work and participation?  
 - Are the requirements for learner interaction clearly stated?  
 
----
+
 ### Providing Learners with Opportunities to Connect  
 
 #### Connecting to You, the Instructor
@@ -240,7 +240,7 @@ Below is a checklist we hope is a useful tool for reviewing your online course m
 - Have you provided a peer support forum (e.g., Learning Café) for course-related questions or community-building activities?  
 - Does learner interaction (student-instructor, student-student, student-content) promote a sense of community aligned with Trinity Western University core values?  
   
----
+
 ### Ensuring Accessible and Inclusive Learning: Supporting All Students  
 
 #### Accessibility
@@ -253,7 +253,7 @@ Below is a checklist we hope is a useful tool for reviewing your online course m
 - Are your instructional materials free of bias, culturally inclusive, and do they provide flexibility and choice?  
 
 
----
+
 
 We hope that this checklist serves as a valuable resource for you as you design or revise your online course. By considering and addressing the questions posed, you can create engaging and effective online courses that meet the diverse needs of your students and provide an exceptional learning experience.
 
