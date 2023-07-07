@@ -20,8 +20,7 @@ Built upon a robust quality framework, our online courses are designed to provid
 
 We invite you to delve into the sections below to gain a comprehensive understanding of how Trinity Western University approaches online course design, fosters connections, and cultivates an inclusive and welcoming learning environment for all participants.
 
-[ui-tabs position="top-left" active="0" theme="lite"]
-[ui-tab title="Learning Environment"]
+## Learning Environment
 
 At TWU, we primarily use Moodle as our Learning Management System (LMS).  We also support WordPress, as well as other ways to display course content (Bookdown, Pressbooks, etc.).  In this section we want to provide some examples of structured courses with clear and intuitive navigation.  Note that there is not one "Master Structure" at Trinity, as each instructor brings their own unique teaching presence into the online environment.  Rather, as you explore the course samples below, consider whether your course structure is easy to navigate and whether students can find what they are looking for.
 
@@ -73,8 +72,7 @@ See snapshots of FNDN 101 below as an example of engaging content, meaningful co
  
 <p><iframe scrolling="yes" style="border: 0px #ffffff none;" src="https://ma-lead.github.io/ldrs664/learning-communities.html#learning-communities/chromeless:true/hidepagetitle:true" allowfullscreen="allowfullscreen" width="100%" height="1000"></iframe></p>
 
-[/ui-tab]
-[ui-tab title="Course Connections"]
+## Course Connections
 
 Online courses at Trinity Western University are designed so learners can make meaningful connections in their learning journey.  This  involves connections between the instructor and learners, learners and the course content, and between learners and their peers.
 
@@ -147,8 +145,7 @@ The following slideshow provides practical examples of how to establish clear co
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=563" width="959" height="565" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to their peers">
 
-[/ui-tab]
-[ui-tab title="Supporting Students"]
+## Supporting Students
 
 ### Inclusion
 
@@ -182,11 +179,6 @@ TWU Online courses promote accessibility, culturally responsiveness, and related
 
 !!! Please note that our Instructional Design Team at TWU-OL is here to support you!  Whether you are developing a course for Global, or setting up your own online course, please reach out if you have questions about your course design.
 
-
-[/ui-tab]
-
-
-[ui-tab title="Course Review Checklist"]
 ## Quality Checklist for Online Course Review 
 
 As an online course instructor, your dedication to providing a high-quality learning experience for your students is essential. Building upon the strengths of your course and enhancing its effectiveness can lead to a more engaging and enriching learning environment. By systematically evaluating various aspects of your course, you can identify areas for enhancement, make necessary adjustments, and ultimately create a more inclusive and impactful learning journey for your students.
@@ -258,8 +250,5 @@ We hope that this checklist serves as a valuable resource for you as you design 
 
 Key Resource: [Checklist for Quality Online Courses at Trinity Western University](https://docs.google.com/document/d/13TD6ZdTnCX3AQjxlHLoPZGCAGTZMRBzvGkKww1IcbpY/edit) or a simplified [Quick Checklist & Tips](https://docs.google.com/document/d/17Jvo3B5fRrKj3ymu72gqFfd2tZv7NqHcN89VTKV55Pc/edit?usp=sharing)
 
-[/ui-tab]
 
-
-[/ui-tabs]
 
