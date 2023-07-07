@@ -149,7 +149,6 @@ The following slideshow provides practical examples of how to establish clear co
 
 
 [/ui-tab]
-
 [ui-tab title="Supporting Students"]
 
 ### Inclusion
