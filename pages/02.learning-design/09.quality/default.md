@@ -190,15 +190,18 @@ Below is a checklist we hope is a useful tool for reviewing your online course m
 
 ---
 ### Structuring your Online Learning Environment  
-**Course Navigation:**  
+
+#### Course Navigation 
 - Does the course navigation facilitate ease of use for your students?  
 - Are your instructions clear on how to navigate the course and how to get started?  
 
-**Instructions:**  
+#### Instructions
+
 - Does the Course Overview provide a course description, learning outcomes, and a list of assessments?  
 - Are your instructions clear, including the rationale for activities and assessments, and do they provide seamless connections between the various elements in the course?  
 
-**Expectations:**  
+#### Expectations
+
 - Have you provided specific and descriptive criteria (rubrics, marking schemes) for the evaluation of your students' work and participation?  
 - Are the requirements for learner interaction clearly stated?  
 
