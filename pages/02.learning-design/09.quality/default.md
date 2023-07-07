@@ -143,11 +143,11 @@ The following slideshow provides practical examples of how to establish clear co
 - Encourage learners to introduce themselves to the class. This helps foster a sense of connection and community among students.
 - Provide a peer support forum where learners can engage with each other for course-related questions or community-building activities. This forum serves as a platform for students to seek assistance, share insights, and foster collaborative learning. Encouraging participation in such forums enhances peer support and strengthens the sense of community within the course.
 - Design learning activities and assessment to encourage student interactions.  E.g. group activities, team projects, peer assessment, interviews, presentation feedback, etc.
-<!--
+
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=563" width="959" height="565" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to their peers">
 
--->
+
 [/ui-tab]
 
 [ui-tab title="Supporting Students"]
