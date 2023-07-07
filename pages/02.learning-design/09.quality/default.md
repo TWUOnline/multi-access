@@ -154,9 +154,7 @@ The following slideshow provides practical examples of how to establish clear co
 
 TWU Online courses promote accessibility, culturally responsiveness, and relatedness.  To check for accessibility, instructors are encourage to connect with Trinity's [Accessibility Services](https://www.twu.ca/learning-commons/centre-accessible-learning/accessibility-services) and/or our Online team to help ensure all course materials are accessible and inclusive.
 
-[ui-accordion independent=true open=none]
-
-[ui-accordion-item title="Accessibility"]
+#### Accessibility
 
 - The course provides accessible text, videos and images for diverse learners.
 - Blackboard Ally is a tool that can help you identify areas of your course that could be improved to support accessibility for all learners.  Please see [What is Blackboard Ally?](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=141400) for instructions.
@@ -170,17 +168,13 @@ TWU Online courses promote accessibility, culturally responsiveness, and related
   - [TWU Library](https://www.twu.ca/academics/library)
   - [Student Services](https://www.twu.ca/life-twu/student-services)
 
-[/ui-accordion-item]
-
-[ui-accordion-item title="Inclusion"]
+#### Inclusion
 
 - Learners are able to participate in a peer support forum (e.g. Learning Café), for course-related questions or community-building activities.
 - The instructional materials are free of bias, culturally inclusive, and provide flexibility and choice.  
 
-[/ui-accordion-item]
-[/ui-accordion]
 
-!!! Please note that our Instructional Design Team at TWU-OL is here to support you!  Whether you are developing a course for Global, or setting up your own online course, please reach out if you have questions about your course design.
+Please note that our Instructional Design Team at TWU-OL is here to support you!  Whether you are developing a course for Global, or setting up your own online course, please reach out if you have questions about your course design.
 
 ## Quality Checklist for Online Course Review 
 
