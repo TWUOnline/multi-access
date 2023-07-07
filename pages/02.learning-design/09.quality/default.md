@@ -108,13 +108,13 @@ Below are some ways instructors can facilitate meaningful connections in online 
 - Utilize different channels such as emails, assessment feedback, welcome videos, weekly debriefing sessions, and regular updates to provide assistance and address any concerns.
 - Ensure students diverse opportunities for formative feedback. This helps them gauge their progress and make necessary improvements.
 
-<!--
+
 
 See examples in the following slideshow:
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=559" width="958" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Learners and Instructors (test)"></iframe>
 
--->
+
 
 <!--
 Here's a sample welcoming students to a new term at TWU:
