@@ -37,10 +37,12 @@ Welcome to LDRS 500, an online course designed to equip learners with the essent
 **Engaging Course Content**: Engagement is key to effective learning, and LDRS 500 is designed to keep learners captivated throughout the course. We incorporate diverse and interactive content, such as videos, case studies, quizzes, and real-world examples, to enhance understanding of leadership principles. Leaners are encouraged to actively participate, share insights, and engage in thought-provoking discussions with their peers. Each unit follows a similar structure, so students know what to expect and how to engage with the course content and with their peers.
 
 **Community**: At TWU, we believe that a strong community enhances the learning experience. Throughout LDRS 500, learners have the opportunity to connect with fellow students, instructors, and industry professionals. Discussion boards, group projects, and learning labs foster a sense of belonging and encourage collaborative learning. Learners are encouraged to engage with their peers, learn from instructors' experiences, and build lasting connections. 
+<!--
 
 Please see the presentation below, highlighting the ease of navigation, clarity for students, engaging course content, and a strong sense of community. 
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=551" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
+-->
 
 ---
 ### Sample course: FNDN 101: The Liberal Arts Journey 
@@ -57,11 +59,13 @@ Foundations 101 is an engaging course designed to introduce students to a Christ
 **E-Portfolios**: As part of the course, students have the opportunity to create their own blogs and e-Portfolios within the WordPress platform. This feature promotes active reflection, knowledge sharing, and peer feedback. By expressing their thoughts and insights through blogging, students develop a deeper understanding of the subject matter and engage in meaningful discussions with their peers.
 
 **Learner Support Pages**: We understand that students may require additional assistance and guidance during their learning journey. Foundations 101 provides comprehensive learner support pages within WordPress, offering a wealth of resources, FAQs, and access to dedicated support channels. Our goal is to ensure that students receive the necessary assistance and thrive academically.
+<!--
 
 See snapshots of FNDN 101 below as an example of engaging content, meaningful connections, and seamless navigation. 
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=547" width="959" height="620" frameborder="0" allowfullscreen="allowfullscreen" title="Course Structure of FNDN 101: The Liberal Arts Journey"></iframe>
 
+-->
 ---
 ### Sample course: LDRS 664: Creating Authentic Learning Communities (made with Bookdown)
 Another 
@@ -102,11 +106,13 @@ Below are some ways instructors can facilitate meaningful connections in online 
 - Utilize different channels such as emails, assessment feedback, welcome videos, weekly debriefing sessions, and regular updates to provide assistance and address any concerns.
 - Ensure students diverse opportunities for formative feedback. This helps them gauge their progress and make necessary improvements.
 
+<!--
 
 See examples in the following slideshow:
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=559" width="958" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Learners and Instructors (test)"></iframe>
 
+-->
 ---
 
 <!--
@@ -122,11 +128,12 @@ Here's a sample welcoming students to a new term at TWU:
 - Design **learning activities** that scaffold and support students in building foundational knowledge and skills within the course.
 - Create engaging **instructional materials** (written/oral content, videos, graphics, readings, etc.), to support learners in achieving the learning outcomes.
 - Use appropriate **educational technology** to promote student engagement and active learning. (e.g. [H5P](https://create.twu.ca/h5p/), e-portfolios, etc.)
-  
+<!--
 The following slideshow provides practical examples of how to establish clear connections between learning outcomes, activities, and assessments, ensuring a cohesive learning experience.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=560" width="959" height="560" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to Content"></iframe>
 
+-->
 ---
 
 ### Learners Connecting to Peers
@@ -134,9 +141,11 @@ The following slideshow provides practical examples of how to establish clear co
 - Encourage learners to introduce themselves to the class. This helps foster a sense of connection and community among students.
 - Provide a peer support forum where learners can engage with each other for course-related questions or community-building activities. This forum serves as a platform for students to seek assistance, share insights, and foster collaborative learning. Encouraging participation in such forums enhances peer support and strengthens the sense of community within the course.
 - Design learning activities and assessment to encourage student interactions.  E.g. group activities, team projects, peer assessment, interviews, presentation feedback, etc.
+<!--
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=563" width="959" height="565" frameborder="0" allowfullscreen="allowfullscreen" title="Connecting Students to their peers">
 
+-->
 [/ui-tab]
 
 [ui-tab title="Supporting Students"]
