@@ -150,8 +150,6 @@ The following slideshow provides practical examples of how to establish clear co
 
 ## Supporting Students
 
-### Inclusion
-
 TWU Online courses promote accessibility, culturally responsiveness, and relatedness.  To check for accessibility, instructors are encourage to connect with Trinity's [Accessibility Services](https://www.twu.ca/learning-commons/centre-accessible-learning/accessibility-services) and/or our Online team to help ensure all course materials are accessible and inclusive.
 
 #### Accessibility
